@@ -5,6 +5,7 @@ import re
 import sys
 import normalise
 
+
 def is_greek(word):
     word = word.decode("utf-8")
     for ch in word:
@@ -19,7 +20,7 @@ def is_greek(word):
         else:
             return False
     return True
-    
+
 
 def chapter_milestone(word):
     if word[-1] != ".":
@@ -29,7 +30,7 @@ def chapter_milestone(word):
         return True
     except ValueError:
         return False
-    
+
 
 def convert_chapter_milestone(word):
     return int(word[:-1])
@@ -43,7 +44,7 @@ def verse_milestone(word):
         return True
     except ValueError:
         return False
-    
+
 
 def convert_verse_milestone(word):
     return int(word[1:-1])
