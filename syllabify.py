@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
 
 import re
 
@@ -83,5 +82,5 @@ pattern = "^" + SINGLE_SYLLABLE + "|" + MULTI_SYLLABLE + "$"
 for line in open("analysis/enchiridion.txt"):
     word = line.strip().split()[2].strip("@")
     if not re.match(pattern, word):
-        print word
+        print(word)
         break
