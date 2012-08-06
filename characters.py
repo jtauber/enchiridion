@@ -26,6 +26,8 @@ def breakdown(ch):
             b["subscript"] = "iota"
         elif ord(component) == 0x1FBD:  # apostrophe; should be U+2019?
             b["punctuation"] = "apostrophe"
+        elif ord(component) == 0x2019:  # apostrophe; should be U+2019?
+            b["punctuation"] = "apostrophe"
         else:
             print(ch, ":\t", component, hex(ord(component)))
             quit()
