@@ -4,7 +4,7 @@ import unicodedata
 
 
 def breakdown(ch):
-    b = {}
+    b = {"original": ch}
     for component in unicodedata.normalize("NFD", ch):
         if 0x391 <= ord(component) <= 0x3A9:
             b["base"] = component
