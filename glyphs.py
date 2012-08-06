@@ -30,8 +30,10 @@ def breakdown(ch):
             print(ch, ":\t", component, hex(ord(component)))
             quit()
     return b
-        
-for line in open("analysis/enchiridion.txt"):
-    word = line.strip().split()[2].strip("@")
-    for ch in word:
-        print(ch, breakdown(ch))
+
+
+if __name__ == "__main__":
+    for line in open("analysis/enchiridion.txt"):
+        word = line.strip().split()[2].strip("@")
+        for ch in word:
+            print(ch, breakdown(ch))
