@@ -89,6 +89,7 @@ def syllabify(word):
     return result
 
 
-for line in open("analysis/enchiridion.txt"):
-    word = line.strip().split()[2].strip("@")
-    print(word, display_word(syllabify(word)))
+if __name__ == "__main__":
+    for line in open("analysis/enchiridion.txt"):
+        word = line.strip().split()[2].strip("@")
+        print(word, display_word(syllabify(word)))
