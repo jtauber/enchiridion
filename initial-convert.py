@@ -53,7 +53,7 @@ def convert_verse_milestone(word):
 def strip_punctuation(x):
     y = x.decode("utf-8")
     y = re.sub(u"^[‘\[\(⸂⸄⸀⸁—⟦12]+", "", y)
-    y = re.sub(u"[\]\.,:;\)·⸃⸅;—⸂⟧’]+$", "", y)
+    y = re.sub(u"[\]\.,:;\)·⸃⸅;—⸂⟧]+’?$", "", y)
     return y.encode("utf-8")
 
 

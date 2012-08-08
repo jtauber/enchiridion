@@ -59,12 +59,12 @@ ELISION = [
 
 elision_dict = {}
 for word in ELISION:
-    elided = d(word[:-1]) + u" \u0313"
+    elided = d(word[:-1]) + u"\u2019"
     elision_dict[elided] = word
-    if elided[-3] == u"τ":
-        elision_dict[elided[:-3] + u"θ \u0313"] = word
-    elif elided[-3] == u"π":
-        elision_dict[elided[:-3] + u"φ \u0313"] = word
+    if elided[-2] == u"τ":
+        elision_dict[elided[:-2] + u"θ\u2019"] = word
+    elif elided[-2] == u"π":
+        elision_dict[elided[:-2] + u"φ\u2019"] = word
 
 # for k, v in elision_dict.items():
 #     print k, v
@@ -150,7 +150,7 @@ def convert(word):
         norm = u"οὕτω(ς)"
     
     # elision
-    if norm.endswith(u" \u0313"):
+    if norm.endswith(u"\u2019"):
         if d(norm) in elision_dict:
             norm = elision_dict[d(norm)]
     
