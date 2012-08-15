@@ -16,7 +16,7 @@ def d(s):
 
 
 def strip_accents(s):
-   return ''.join((c for c in d(s) if unicodedata.category(c) != "Mn"))
+    return ''.join((c for c in d(s) if unicodedata.category(c) != "Mn"))
 
 
 def count_accents(s):
@@ -24,6 +24,7 @@ def count_accents(s):
     for c in d(s):
         if c in ACCENTS:
             count += 1
+
 
 def n(x):
     return unicodedata.normalize("NFKC", x)
@@ -96,7 +97,7 @@ def convert(word):
     temp = u""
     for ch in d(norm):
         if ch == VARIA:
-            ch = OXIA # OXIA will be normalized to TONOS below if needed
+            ch = OXIA  # OXIA will be normalized to TONOS below if needed
         temp += ch
     norm = n(temp)
     
