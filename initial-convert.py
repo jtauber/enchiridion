@@ -13,7 +13,7 @@ def is_greek(word):
             pass
         elif 0x1F00 <= ord(ch) <= 0x1FF7:
             pass
-        elif ch in [".", ",", ":", "(", ")", ";", "\"", "[", "]"]:
+        elif ch in [".", ",", ":", "(", ")", ";", "\"", "[", "]", u"«", u"»"]:
             pass
         elif ord(ch) in [0x2019, 0x2018]:
             pass
@@ -52,8 +52,8 @@ def convert_verse_milestone(word):
 
 def strip_punctuation(x):
     y = x.decode("utf-8")
-    y = re.sub(u"^[‘\[\(⸂⸄⸀⸁—⟦12]+", "", y)
-    y = re.sub(u"[\]\.,:;\)·⸃⸅;—⸂⟧]+’?$", "", y)
+    y = re.sub(u"^[‘\[\(⸂⸄⸀⸁—⟦12«]+", "", y)
+    y = re.sub(u"[\]\.,:;\)·⸃⸅;—⸂⟧»]+$", "", y)
     return y.encode("utf-8")
 
 
