@@ -92,7 +92,7 @@ for word in CLITICS:
 def convert(word):
     # print "converting", word
     norm = word.decode("utf-8")
-    
+
     # change graves to acutes
     temp = u""
     for ch in d(norm):
@@ -100,21 +100,21 @@ def convert(word):
             ch = OXIA  # OXIA will be normalized to TONOS below if needed
         temp += ch
     norm = n(temp)
-    
+
     if count_accents(norm) == 2:
         norm = strip_last_accent(norm)
         assert count_accents(norm) == 1
-    
+
     # # normalize movable nu in 3rd person verb
     # if norm.endswith(u"εν"):
     #     norm = norm[:-1] + u"(ν)@"
     # if norm.endswith(u"ε"):
     #     norm = norm + u"(ν)@"
-    
+
     if count_accents(norm) == 0:
         if norm in clitics_dict:
             norm = clitics_dict[norm]
-    
+
     # if (
     #     norm.endswith(u"σιν") or
     #     norm.endswith(u"σίν") or
@@ -128,33 +128,33 @@ def convert(word):
     #     norm.endswith(u"ξί")
     # ):
     #     norm = norm + u"(ν)@"
-    
+
     # if norm in [u"ἐστιν", u"ἐστίν", u"ἐστι", u"ἐστί", u"ἔστιν", u"ἔστι"]: # @@@
     #     norm = u"ἐστί(ν)"
-    
+
     # if norm in [u"ἔξεστιν", u"ἔξεστι"]:
     #     norm = u"ἔξεστι(ν)"
-    
+
     # if norm == u"πάρεστιν":
     #     norm = u"πάρεστι(ν)"
-    
+
     if norm == u"ἐξ":
         norm = u"ἐκ@"
-    
+
     if norm in [u"οὐκ", u"οὐχ"]:
         norm = u"οὐ"
-    
+
     if norm in [u"μέχρι", u"μέχρις"]:
         norm = u"μέχρι(ς)"
-    
+
     if norm in [u"οὕτω", u"οὕτως"]:
         norm = u"οὕτω(ς)"
-    
+
     # elision
     if norm.endswith(u"\u2019"):
         if d(norm) in elision_dict:
             norm = elision_dict[d(norm)]
-    
+
     # proclitics
     if norm == u"εἴ":
         norm = u"εἰ@"
@@ -166,5 +166,5 @@ def convert(word):
         norm = u"ὁ@"
     elif norm == u"ὥς":
         norm = u"ὡς@"
-    
+
     return norm.encode("utf-8")
