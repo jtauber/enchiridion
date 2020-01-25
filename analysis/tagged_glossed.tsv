@@ -1,4 +1,5 @@
-00.01.001	-	Ἐγχειρίδιον	Ἐγχειρίδιον	Ἐγχειρίδιον	-	-	-	-
+ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
+00.01.001	-	Ἐγχειρίδιον	Ἐγχειρίδιον	ἐγχειρίδιον	ἐγχειρίδιον	noun	NPN	handbook
 01.01.001	001.01	τῶν	τῶν	τῶν	ὁ	article	GPX	of the
 01.01.002	001.02	ὄντων	ὄντων	ὄντων	εἰμί	verb	PAP.GPX	things being
 01.01.003	001.03	τὰ	τὰ	τά	ὁ	article	SPN	-
