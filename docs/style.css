@@ -19,7 +19,7 @@ a:hover {
   color: #F33;
   text-decoration: underline;
 }
-h1 {
+h1.title, h2.subtitle {
   text-align: center;
 }
 body.index h1 {

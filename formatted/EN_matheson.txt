@@ -91,16 +91,4 @@
 51.1 How long will you wait to think yourself worthy of the highest and transgress in nothing the clear pronouncement of reason? You have received the precepts which you ought to accept, and you have accepted them. Why then do you still wait for a master, that you may delay the amendment of yourself till he comes? You are a youth no longer, you are now a full-grown man. If now you are careless and indolent and are always putting off, fixing one day after another as the limit when you mean to begin attending to yourself, then, living or dying, you will make no progress but will continue unawares in ignorance. Therefore make up your mind before it is too late to live as one who is mature and proficient, and let all that seems best to you be a law that you cannot transgress. And if you encounter anything troublesome or pleasant or glorious or inglorious, remember that the hour of struggle is come, the Olympic contest is here and you may put off no longer, and that one day and one action determines whether the progress you have achieved is lost or maintained.
 51.2 This was how Socrates attained perfection, paying heed to nothing but reason, in all that he encountered. And if you are not yet Socrates, yet ought you to live as one who would wish to be a Socrates.
 51.3 The first and most necessary department of philosophy deals with the application of principles; for instance, 'not to lie'. The second deals with demonstrations; for instance, 'How comes it that one ought not to lie?' The third is concerned with establishing and analysing these processes; for instance, 'How comes it that this is a demonstration? What is demonstration, what is consequence, what is contradiction, what is true, what is false?' It follows then that the third department is necessary because of the second, and the second because of the first. The first is the most necessary part, and that in which we must rest. But we reverse the order: we occupy ourselves with the third, and make that our whole concern, and the first we completely neglect. Wherefore we lie, but are ready enough with the demonstration that lying is wrong.
-52.1 On every occasion we must have these thoughts at hand,
-52.2.1 'Lead me, O Zeus, and lead me, Destiny,
-52.2.2 Whither ordainèd is by your decree.
-52.2.3 I'll follow, doubting not, or if with will
-52.2.4 Recreant I falter, I shall follow still.'
-52.2.5                                             [Cleanthes]
-52.3.1 'Who rightly with necessity complies
-52.3.2 In things divine we count him skilled and wise.'
-52.3.3                             [Euripides, Fragment 965]
-52.4.1 'Well, Crito, if this be the gods’ will, so be it.'
-52.4.2 [Plato, Crito, 43d]
-52.5.1 'Anytus and Meletus have power to put me to death, but not to harm me,'
-52.5.2 [Plato, Apology, 30c]
+52.1 On every occasion we must have these thoughts at hand,<p>'Lead me, O Zeus, and lead me, Destiny,<br>Whither ordainèd is by your decree.<br>I'll follow, doubting not, or if with will<br>Recreant I falter, I shall follow still.'<br><cite>[Cleanthes]</cite><p>'Who rightly with necessity complies<br>In things divine we count him skilled and wise.'<br><cite>[Euripides, Fragment 965]</cite><p>'Well, Crito, if this be the gods’ will, so be it.'<br><cite>[Plato, Crito, 43d]</cite><p>'Anytus and Meletus have power to put me to death, but not to harm me,'<br><cite>[Plato, Apology, 30c]</cite>

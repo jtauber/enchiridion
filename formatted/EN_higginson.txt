@@ -90,17 +90,4 @@
 50.2 How long, then, will you delay to demand of yourself the noblest improvements, and in no instance to transgress the judgments of reason? You have received the philosophic principles with which you ought to be conversant; and you have been conversant with them. For what other master, then, do you wait as an excuse for this delay in self-reformation? You are no longer a boy, but a grown man. If, therefore, you will be negligent and slothful, and always add procrastination to procrastination, purpose to purpose, and fix day after day in which you will attend to yourself, you will insensibly continue to accomplish nothing, and, living and dying, remain of vulgar mind. This instant, then, think yourself worthy of living as a man grown up and a proficient. Let whatever appears to be the best, be to you an inviolable law. And if any instance of pain or pleasure, glory or disgrace, be set before you, remember that now is the combat, now the Olympiad comes on, nor can it be put off; and that by one failure and defeat honor may be lost - or won.
 50.3 Thus Socrates became perfect, improving himself by everything, following reason alone. And though you are not yet a Socrates, you ought, however, to live as one seeking to be a Socrates.
 51.1 The first and most necessary topic in philosophy is the practical application of principles, as, We ought not to lie; the second is that of demonstrations, as, Why it is that we ought not to lie; the third, that which gives strength and logical connection to the other two, as, Why this is a demonstration. For what is demonstration? What is a consequence; what a contradiction; what truth; what falsehood? The third point is then necessary on account of the second; and the second on account of the first. But the most necessary, and that whereon we ought to rest, is the first. But we do just the contrary. For we spend all our time on the third point, and employ all our diligence about that, and entirely neglect the first. Therefore, at the same time that we lie, we are very ready to show how it is demonstrated that lying is wrong.
-52.1 Upon all occasions we ought to have these maxims ready at hand:
-52.2.1 “Conduct me, Zeus, and thou, O Destiny,
-52.2.2 Wherever your decrees have fixed my lot.
-52.2.3 I follow cheerfully; and, did I not,
-52.2.4 Wicked and wretched, I must follow still.”
-52.2.5 Cleanthes, in Diogenes Laertius, quoted also by Seneca, Epistle 107.- H.
-52.3.1 “Whoe'er yields properly to Fate is deemed
-52.3.2 Wise among men, and knows the laws of Heaven.”
-52.3.3 Euripides, Fragments.- H.
-52.4 And this third:
-52.4.1 “O Crito, if it thus pleases the gods, thus let it be.”
-52.4.2 Plato, Crito,17-H.
-52.4.3 “Anytus and Melitus may kill me indeed; but hurt me they cannot.”
-52.4.4 Apology, 18. -H.
+52.1 Upon all occasions we ought to have these maxims ready at hand:<p>“Conduct me, Zeus, and thou, O Destiny,<br>Wherever your decrees have fixed my lot.<br>I follow cheerfully; and, did I not,<br>Wicked and wretched, I must follow still.”<br><cite>Cleanthes, in Diogenes Laertius, quoted also by Seneca, Epistle 107.- H.</cite><p>“Whoe'er yields properly to Fate is deemed<br>Wise among men, and knows the laws of Heaven.”<br><cite>Euripides, Fragments.- H.</cite><p>And this third:<p>“O Crito, if it thus pleases the gods, thus let it be.”<br><cite>Plato, Crito,17-H.</cite><p>“Anytus and Melitus may kill me indeed; but hurt me they cannot.”<br><cite>Apology, 18. -H.</cite>
