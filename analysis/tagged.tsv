@@ -1,3 +1,4 @@
+ref	sent.word	text	word	norm	lemma	pos	analysis
 00.01.001	-	Ἐγχειρίδιον	Ἐγχειρίδιον	Ἐγχειρίδιον	-	-	-
 01.01.001	001.01	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY
 01.01.002	001.02	ὄντων	ὄντων	ὄντων	εἰμί	verb	PAD.3P^PAP.GP-
