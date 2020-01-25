@@ -25,6 +25,7 @@ h1.title, h2.subtitle {
 body.index h1 {
   font-size: 3em;
   margin-bottom: 0;
+  text-align: center;
 }
 body.index h2 {
   font-size: 1.6em;
