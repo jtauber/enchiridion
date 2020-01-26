@@ -7,6 +7,10 @@ body {
   max-width: 800px;
   margin: 1em;
 }
+.wide-container {
+  max-width: 1200px;
+  margin: 1em;
+}
 nav {
   font-size: 120%;
   text-align: center;
@@ -76,4 +80,63 @@ li {
   position: relative;
   vertical-align: baseline;
   top: -0.5em;
+}
+
+.tokens {
+  margin: 20px 0;
+}
+.tokens .token {
+  display: inline-block;
+  padding: 2px 4px;
+  margin: 0 4px 20px;
+}
+.token .ref {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 10px;
+  color: #999;
+}
+.token .text {
+  font-size: 18px;
+  font-weight: 700;
+  color: #000;
+}
+.token .lemma {
+  font-size: 16px;
+  color: #333;
+}
+.token .pos {
+  font-size: 14px;
+  color: #999;
+}
+.token .analysis {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 12px;
+  color: #999;
+}
+.token .gloss {
+  font-size: 16px;
+  color: #333;
+  font-style: italic;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+}
+.translation {
+  clear: right;
+  margin: 2em 0;
+  font-size: 18px;
+}
+.translation cite {
+  color: #999;
+  font-size: 12px;
+  line-height: 30px;
+  float: right;
+  padding-left: 2em;
+}
+.issues {
+  margin: 2em 0;
+  color: #666;
+  font-size: 14px;
 }
