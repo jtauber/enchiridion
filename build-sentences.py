@@ -20,7 +20,7 @@ with open("glossing.txt") as f:
             sentence_ids.append(current_sentence)
         elif line[0].isdigit():
             ref, sent_word, text, word, norm, lemma, pos, analysis, gloss = line.split("\t")
-            assert sent_word.startswith(current_sentence)
+            assert sent_word.startswith(current_sentence.rstrip("b"))
             tokens[current_sentence].append((ref, text, lemma, pos, analysis, gloss))
         elif line[0] in "ABCD":
             if line.startswith("A. "):

@@ -236,122 +236,122 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 01.05.055	010.13	«οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	nothing
 01.05.056	010.14	πρὸς	πρὸς	πρός	πρός	preposition	-	to
 01.05.057	010.15	ἐμέ»	ἐμέ	ἐμέ	ἐγώ	pronoun	ASZ	me
-02.01.001	010.16	μέμνησο,	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S^YMI.2S	to remind
-02.01.002	010.17	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
-02.01.003	010.18	ὀρέξεως	ὀρέξεως	ὀρέξεως	ὄρεξις	noun	GSF	desire, appetite
-02.01.004	010.19	ἐπαγγελία	ἐπαγγελία	ἐπαγγελία	ἐπαγγελία	noun	SDF^NSF	a public denunciation
-02.01.005	010.20	ἐπιτυχία,	ἐπιτυχία	ἐπιτυχία	ἐπιτυχία	noun	SDF^NSF	luck, chance
-02.01.006	010.21	οὗ	οὗ	οὗ	ἕ	pronoun	GSZ	-
-02.01.007	010.22	ὀρέγῃ,	ὀρέγῃ	ὀρέγῃ	ὀρέγω	verb	PMS.2S^PMI.2S^PAS.3S	to reach, stretch, stretch out
-02.01.008	010.23	ἐκκλίσεως	ἐκκλίσεως	ἐκκλίσεως	ἔκκλισις	noun	GSF	turning out of one's course, deflexion
-02.01.009	010.24	ἐπαγγελία	ἐπαγγελία	ἐπαγγελία	ἐπαγγελία	noun	SDF^NSF	a public denunciation
-02.01.010	010.25	τὸ	τὸ	τό	ὁ	article	SSN	the
+02.01.001	010.16	μέμνησο,	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S	remember
+02.01.002	010.17	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+02.01.003	010.18	ὀρέξεως	ὀρέξεως	ὀρέξεως	ὄρεξις	noun	GSF	desire's
+02.01.004	010.19	ἐπαγγελία	ἐπαγγελία	ἐπαγγελία	ἐπαγγελία	noun	NSF	promise [is]
+02.01.005	010.20	ἐπιτυχία,	ἐπιτυχία	ἐπιτυχία	ἐπιτυχία	noun	NSF	attainment
+02.01.006	010.21	οὗ	οὗ	οὗ	ἕ	pronoun	GSZ	of what
+02.01.007	010.22	ὀρέγῃ,	ὀρέγῃ	ὀρέγῃ	ὀρέγω	verb	PAS.3S	you desire
+02.01.008	010.23	ἐκκλίσεως	ἐκκλίσεως	ἐκκλίσεως	ἔκκλισις	noun	GSF	aversion's
+02.01.009	010.24	ἐπαγγελία	ἐπαγγελία	ἐπαγγελία	ἐπαγγελία	noun	NSF	promise [is]
+02.01.010	010.25	τὸ	τὸ	τό	ὁ	article	SSN	-
 02.01.011	010.26	μὴ	μὴ	μή	μή	conjunction	-	not
-02.01.012	010.27	περιπεσεῖν	περιπεσεῖν	περιπεσεῖν	περιπίπτω	verb	AAN	to fall around, so as to embrace
-02.01.013	010.28	ἐκείνῳ,	ἐκείνῳ	ἐκείνῳ	ἐκεῖνος	pronoun	DSN^DSM	that over there, that
-02.01.014	010.29	ὃ	ὃ	ὁ@	ὅς	pronoun	SSN	who, that, which: relative pronoun
-02.01.015	010.30	ἐκκλίνεται,	ἐκκλίνεται	ἐκκλίνεται	ἐκκλίνω	verb	AMS.3S^PMI.3S	to bend out of the regular line
-02.01.016	010.31	καὶ	καὶ	καί	καί	conjunction	-	and, also
+02.01.012	010.27	περιπεσεῖν	περιπεσεῖν	περιπεσεῖν	περιπίπτω	verb	AAN	to embrace
+02.01.013	010.28	ἐκείνῳ,	ἐκείνῳ	ἐκείνῳ	ἐκεῖνος	pronoun	DSM	that
+02.01.014	010.29	ὃ	ὃ	ὅ	ὅς	pronoun	SSN	which
+02.01.015	010.30	ἐκκλίνεται,	ἐκκλίνεται	ἐκκλίνεται	ἐκκλίνω	verb	PMI.3S	is avoided
+02.01.016	010.31	καὶ	καὶ	καί	καί	conjunction	-	and
 02.01.017	010.32	ὁ	ὁ	ὁ	ὁ	article	NSM	the
-02.01.018	010.33	μὲν	μὲν	μέν	μέν	particle	-	on the one hand, on the other hand
-02.01.019	010.34	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
-02.01.020	010.35	ὀρέξει	ὀρέξει	ὀρέξει	ὄρεξις	noun	SDF^DSF^DSF	desire, appetite
-02.01.021	010.36	ἀποτυγχάνων	ἀποτυγχάνων	ἀποτυγχάνων	ἀποτυγχάνω	verb	PAP.NS-	to fail in hitting
-02.01.022	010.37	ἀτυχής,	ἀτυχής	ἀτυχής	ἀτυχής	adverb@case	NSZ	luckless, unfortunate
+02.01.018	010.33	μὲν	μὲν	μέν	μέν	particle	-	one
+02.01.019	010.34	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+02.01.020	010.35	ὀρέξει	ὀρέξει	ὀρέξει	ὄρεξις	noun	DSF	desire
+02.01.021	010.36	ἀποτυγχάνων	ἀποτυγχάνων	ἀποτυγχάνων	ἀποτυγχάνω	verb	PAP.NS-	failing
+02.01.022	010.37	ἀτυχής,	ἀτυχής	ἀτυχής	ἀτυχής	adjective	NSZ	[is] unfortunate
 02.01.023	010.38	ὁ	ὁ	ὁ	ὁ	article	NSM	the
-02.01.024	010.39	δὲ	δὲ	δέ	δέ	particle	-	but
-02.01.025	010.40	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
-02.01.026	010.41	ἐκκλίσει	ἐκκλίσει	ἐκκλίσει	ἔκκλισις	noun	SDF^DSF^DSF	turning out of one's course, deflexion
-02.01.027	010.42	περιπίπτων	περιπίπτων	περιπίπτων	περιπίπτω	verb	PAP.NS-	to fall around, so as to embrace
-02.01.028	010.43	δυστυχής.	δυστυχής	δυστυχής	δυστυχής	adverb@case	NSZ	unlucky, unfortunate
-02.01.029	011.01	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
-02.01.030	011.02	μὲν	μὲν	μέν	μέν	particle	-	on the one hand, on the other hand
-02.01.031	011.03	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
-02.01.032	011.04	μόνα	μόνα	μόνα	μόνος	adjective	SPN^SDF^NSF	alone, left alone, forsaken solitary
-02.01.033	011.05	ἐκκλίνῃς	ἐκκλίνῃς	ἐκκλίνῃς	ἐκκλίνω	verb	AAS.2S^PAS.2S	to bend out of the regular line
-02.01.034	011.06	τὰ	τὰ	τά	ὁ	article	APN^SPN^ADF^SDF	the
-02.01.035	011.07	παρὰ	παρὰ	παρά	παρά	preposition	-	from the side of, c. gen., beside, alongside of, c. dat., to the side of, motion alongside of, c. acc.
-02.01.036	011.08	φύσιν	φύσιν	φύσιν	φύσις	noun	ASF	the nature, natural qualities, powers, constitution, condition
-02.01.037	011.09	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
-02.01.038	011.10	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
-02.01.039	011.11	σοί,	σοί	σοί	σύ	pronoun	DS-2^DS-2	you (personal pronoun)
-02.01.040	011.12	οὐδενί,	οὐδενί	οὐδενί	οὐδείς	pronoun	DS-	not one, nobody
-02.01.041	011.13	ὧν	ὧν	ὧν	ὅς	pronoun	GPF^GPY	who, that, which: relative pronoun
-02.01.042	011.14	ἐκκλίνεις,	ἐκκλίνεις	ἐκκλίνεις	ἐκκλίνω	verb	AAS.2S^PAI.2S	to bend out of the regular line
-02.01.043	011.15	περιπεσῇ:	περιπεσῇ	περιπεσῇ	περιπίπτω	verb	FMI.2S	to fall around, so as to embrace
-02.01.044	012.01	νόσον	νόσον	νόσον	νόσος	noun	ASF	sickness, disease, malady
+02.01.024	010.39	δὲ	δὲ	δέ	δέ	particle	-	one
+02.01.025	010.40	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+02.01.026	010.41	ἐκκλίσει	ἐκκλίσει	ἐκκλίσει	ἔκκλισις	noun	DSF	aversion
+02.01.027	010.42	περιπίπτων	περιπίπτων	περιπίπτων	περιπίπτω	verb	PAP.NS-	embracing
+02.01.028	010.43	δυστυχής.	δυστυχής	δυστυχής	δυστυχής	adjective	NSZ	[is] miserable
+02.01.029	011.01	ἂν	ἂν	ἄν	ἐάν	conjunction	-	if
+02.01.030	011.02	μὲν	μὲν	μέν	μέν	particle	-	-
+02.01.031	011.03	οὖν	οὖν	οὖν	οὖν	particle	-	then
+02.01.032	011.04	μόνα	μόνα	μόνα	μόνος	adjective	SPN	only
+02.01.033	011.05	ἐκκλίνῃς	ἐκκλίνῃς	ἐκκλίνῃς	ἐκκλίνω	verb	PAS.2S	you avoid
+02.01.034	011.06	τὰ	τὰ	τά	ὁ	article	SPN	the things
+02.01.035	011.07	παρὰ	παρὰ	παρά	παρά	preposition	-	aside from
+02.01.036	011.08	φύσιν	φύσιν	φύσιν	φύσις	noun	ASF	nature
+02.01.037	011.09	τῶν	τῶν	τῶν	ὁ	article	GPX	that are
+02.01.038	011.10	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on
+02.01.039	011.11	σοί,	σοί	σοί	σύ	pronoun	DS-	you
+02.01.040	011.12	οὐδενί,	οὐδενί	οὐδενί	οὐδείς	pronoun	DS-	none [of those]
+02.01.041	011.13	ὧν	ὧν	ὧν	ὅς	pronoun	GPX	which
+02.01.042	011.14	ἐκκλίνεις,	ἐκκλίνεις	ἐκκλίνεις	ἐκκλίνω	verb	PAI.2S	you avoid
+02.01.043	011.15	περιπεσῇ:	περιπεσῇ	περιπεσῇ	περιπίπτω	verb	FMI.2S	you will embrace
+02.01.044	012.01	νόσον	νόσον	νόσον	νόσος	noun	ASF	sickness
 02.01.045	012.02	δ’	δ’	δέ	δέ	particle	-	but
-02.01.046	012.03	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
-02.01.047	012.04	ἐκκλίνῃς	ἐκκλίνῃς	ἐκκλίνῃς	ἐκκλίνω	verb	AAS.2S^PAS.2S	to bend out of the regular line
-02.01.048	012.05	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
+02.01.046	012.03	ἂν	ἂν	ἄν	ἐάν	conjunction	-	if
+02.01.047	012.04	ἐκκλίνῃς	ἐκκλίνῃς	ἐκκλίνῃς	ἐκκλίνω	verb	PAS.2S	you avoid
+02.01.048	012.05	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
 02.01.049	012.06	θάνατον	θάνατον	θάνατον	θάνατος	adjective	ASM	death
-02.01.050	012.07	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-02.01.051	012.08	πενίαν,	πενίαν	πενίαν	πενία	noun	ASF	poverty, need
-02.01.052	012.09	δυστυχήσεις.	δυστυχήσεις	δυστυχήσεις	δυστυχέω	verb	AAS.2S^FAI.2S	to be unlucky, unhappy, unfortunate
-02.02.001	013.01	ἆρον	ἆρον	ἆρον	ἀρόω	verb	IAI.3P^IAI.1S	to plough
-02.02.002	013.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
+02.01.050	012.07	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+02.01.051	012.08	πενίαν,	πενίαν	πενίαν	πενία	noun	ASF	poverty
+02.01.052	012.09	δυστυχήσεις.	δυστυχήσεις	δυστυχήσεις	δυστυχέω	verb	FAI.2S	you will be miserable
+02.02.001	013.01	ἆρον	ἆρον	ἆρον	αἴρω	verb	AAD.2S	remove
+02.02.002	013.02	οὖν	οὖν	οὖν	οὖν	particle	-	then
 02.02.003	013.03	τὴν	τὴν	τήν	ὁ	article	ASF	the
-02.02.004	013.04	ἔκκλισιν	ἔκκλισιν	ἔκκλισιν	ἔκκλισις	noun	ASF	turning out of one's course, deflexion
-02.02.005	013.05	ἀπὸ	ἀπὸ	ἀπό	ἀπό	preposition	-	from, away from. c. gen.
-02.02.006	013.06	πάντων	πάντων	πάντων	πᾶς	adjective	GPY	all, the whole
-02.02.007	013.07	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
+02.02.004	013.04	ἔκκλισιν	ἔκκλισιν	ἔκκλισιν	ἔκκλισις	noun	ASF	aversion
+02.02.005	013.05	ἀπὸ	ἀπὸ	ἀπό	ἀπό	preposition	-	from
+02.02.006	013.06	πάντων	πάντων	πάντων	πᾶς	adjective	GPY	all
+02.02.007	013.07	τῶν	τῶν	τῶν	ὁ	article	GPX	things
 02.02.008	013.08	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
-02.02.009	013.09	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
-02.02.010	013.10	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	I (first person pronoun)
+02.02.009	013.09	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on
+02.02.010	013.10	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ	you
 02.02.011	013.11	καὶ	καὶ	καί	καί	conjunction	-	and, also
-02.02.012	013.12	μετάθες	μετάθες	μετάθες	μετατίθημι	verb	AAD.2S^AAI.2S	to place among
-02.02.013	013.13	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
-02.02.014	013.14	τὰ	τὰ	τά	ὁ	article	APN^SPN^ADF^SDF	the
-02.02.015	013.15	παρὰ	παρὰ	παρά	παρά	preposition	-	from the side of, c. gen., beside, alongside of, c. dat., to the side of, motion alongside of, c. acc.
-02.02.016	013.16	φύσιν	φύσιν	φύσιν	φύσις	noun	ASF	the nature, natural qualities, powers, constitution, condition
-02.02.017	013.17	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
-02.02.018	013.18	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
-02.02.019	013.19	ἡμῖν.	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	I (first person pronoun)
+02.02.012	013.12	μετάθες	μετάθες	μετάθες	μετατίθημι	verb	AAD.2S	place it
+02.02.013	013.13	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on
+02.02.014	013.14	τὰ	τὰ	τά	ὁ	article	SPN	the things
+02.02.015	013.15	παρὰ	παρὰ	παρά	παρά	preposition	-	aside from
+02.02.016	013.16	φύσιν	φύσιν	φύσιν	φύσις	noun	ASF	nature
+02.02.017	013.17	τῶν	τῶν	τῶν	ὁ	article	GPX	those
+02.02.018	013.18	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on
+02.02.019	013.19	ἡμῖν.	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ	us
 02.02.020	014.01	τὴν	τὴν	τήν	ὁ	article	ASF	the
 02.02.021	014.02	ὄρεξιν	ὄρεξιν	ὄρεξιν	ὄρεξις	noun	ASF	desire, appetite
 02.02.022	014.03	δὲ	δὲ	δέ	δέ	particle	-	but
-02.02.023	014.04	παντελῶς	παντελῶς	παντελῶς	παντελής	adverb	-	all-complete, absolute, complete, entire
-02.02.024	014.05	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
+02.02.023	014.04	παντελῶς	παντελῶς	παντελῶς	παντελής	adverb	-	totally
+02.02.024	014.05	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	for
 02.02.025	014.06	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
-02.02.026	014.07	παρόντος	παρόντος	παρόντος	πάρειμι	verb	PAP.GS-	be present
-02.02.027	014.08	ἄνελε:	ἄνελε	ἄνελε	ἀναιρέω	verb	AAD.2S^AAI.3S^AAI.3S	to take up; to destroy
-02.02.028	015.01	ἄν	ἄν	ἄν	ἄν	particle	-	modal particle
-02.02.029	015.02	τε	τε	τε	τε	particle	-	and
+02.02.026	014.07	παρόντος	παρόντος	παρόντος	πάρειμι	verb	PAP.GS-	present
+02.02.027	014.08	ἄνελε:	ἄνελε	ἄνελε	ἀναιρέω	verb	AAD.2S	remove
+02.02.028	015.01	ἄν	ἄν	ἄν	ἐάν	conjunction	-	if
+02.02.029	015.02	τε	τε	τε	τε	particle	-	-
 02.02.030	015.03	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
-02.02.031	015.04	ὀρέγῃ	ὀρέγῃ	ὀρέγῃ	ὀρέγω	verb	PMS.2S^PMI.2S^PAS.3S	to reach, stretch, stretch out
-02.02.032	015.05	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
+02.02.031	015.04	ὀρέγῃ	ὀρέγῃ	ὀρέγῃ	ὀρέγω	verb	PAS.3S	you desire
+02.02.032	015.05	τῶν	τῶν	τῶν	ὁ	article	GPX	the
 02.02.033	015.06	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
-02.02.034	015.07	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
-02.02.035	015.08	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	I (first person pronoun)
-02.02.036	015.09	τινος,	τινος	τινος	τις	pronoun	GS-	any one, any thing, some one, some thing;
-02.02.037	015.10	ἀτυχεῖν	ἀτυχεῖν	ἀτυχεῖν	ἀτυχέω	verb	PAN	to be unlucky
-02.02.038	015.11	ἀνάγκη	ἀνάγκη	ἀνάγκη	ἀνάγκη	noun	NSF	force, constraint, necessity
-02.02.039	015.12	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
-02.02.040	015.13	τε	τε	τε	τε	particle	-	and
-02.02.041	015.14	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
-02.02.042	015.15	ἡμῖν,	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	I (first person pronoun)
-02.02.043	015.16	ὅσων	ὅσων	ὅσων	ὅσος	adjective	GPF^GPY	as much/many as
-02.02.044	015.17	ὀρέγεσθαι	ὀρέγεσθαι	ὀρέγεσθαι	ὀρέγω	verb	PMN	to reach, stretch, stretch out
-02.02.045	015.18	καλὸν	καλὸν	καλόν	καλός	noun	ASM^SSN	beautiful
-02.02.046	015.19	ἄν,	ἄν	ἄν	ἄν	particle	-	modal particle
-02.02.047	015.20	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	not one, nobody
-02.02.048	015.21	οὐδέπω	οὐδέπω	οὐδέπω	οὐδέπω	adverb	-	and not yet, not as yet
-02.02.049	015.22	σοι	σοι	σοι	σύ	pronoun	DS-2	you (personal pronoun)
-02.02.050	015.23	πάρεστι.	πάρεστι	πάρεστι	πάρειμι	verb	PAI.3S	be present
-02.02.051	016.01	μόνῳ	μόνῳ	μόνῳ	μόνος	adjective	DSY	alone, left alone, forsaken solitary
+02.02.034	015.07	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on
+02.02.035	015.08	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ	us
+02.02.036	015.09	τινος,	τινος	τινος	τις	pronoun	GS-	anything
+02.02.037	015.10	ἀτυχεῖν	ἀτυχεῖν	ἀτυχεῖν	ἀτυχέω	verb	PAN	to be disappointed
+02.02.038	015.11	ἀνάγκη	ἀνάγκη	ἀνάγκη	ἀνάγκη	noun	NSF	[is] necessary
+02.02.039	015.12	τῶν	τῶν	τῶν	ὁ	article	GPX	of the
+02.02.040	015.13	τε	τε	τε	τε	particle	-	-
+02.02.041	015.14	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on
+02.02.042	015.15	ἡμῖν,	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ	us
+02.02.043	015.16	ὅσων	ὅσων	ὅσων	ὅσος	adjective	GPX	things
+02.02.044	015.17	ὀρέγεσθαι	ὀρέγεσθαι	ὀρέγεσθαι	ὀρέγω	verb	PMN	to be desired
+02.02.045	015.18	καλὸν	καλὸν	καλόν	καλός	noun	SSN	good
+02.02.046	015.19	ἄν,	ἄν	ἄν	ἐάν	conjunction	-	if
+02.02.047	015.20	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	none
+02.02.048	015.21	οὐδέπω	οὐδέπω	οὐδέπω	οὐδέπω	adverb	-	yet
+02.02.049	015.22	σοι	σοι	σοι	σύ	pronoun	DS-	with you
+02.02.050	015.23	πάρεστι.	πάρεστι	πάρεστι	πάρειμι	verb	PAI.3S	it is present
+02.02.051	016.01	μόνῳ	μόνῳ	μόνῳ	μόνος	adjective	DSY	only
 02.02.052	016.02	δὲ	δὲ	δέ	δέ	particle	-	but
 02.02.053	016.03	τῷ	τῷ	τῷ	ὁ	article	DSY	the
-02.02.054	016.04	ὁρμᾶν	ὁρμᾶν	ὁρμᾶν	ὁρμή	noun	GPF	a violent movement onwards, an assault, attack, onset
-02.02.055	016.05	καὶ	καὶ	καί	καί	conjunction	-	and, also
-02.02.056	016.06	ἀφορμᾶν	ἀφορμᾶν	ἀφορμᾶν	ἀφορμή	noun	GPF	a starting-point
-02.02.057	016.07	χρῶ,	χρῶ	χρῶ	χράομαι	verb	PMD.2S^IMI.2S	use, experience
-02.02.058	016.08	κούφως	κούφως	κούφως	κοῦφος	adjective	---^APM	light, nimble
-02.02.059	016.09	μέντοι	μέντοι	μέντοι	μέντοι	particle	-	however, nevertheless; of course (answers)
-02.02.060	016.10	καὶ	καὶ	καί	καί	conjunction	-	and, also
-02.02.061	016.11	μεθ’	μεθ’	μετά	μετά	preposition	-	(w gen) with, among; (w acc) after
-02.02.062	016.12	ὑπεξαιρέσεως	ὑπεξαιρέσεως	ὑπεξαιρέσεως	ὑπεξαίρεσις	noun	GSF	removal
+02.02.054	016.04	ὁρμᾶν	ὁρμᾶν	ὁρμᾶν	ὁρμή	noun	GPF	pursuit
+02.02.055	016.05	καὶ	καὶ	καί	καί	conjunction	-	and
+02.02.056	016.06	ἀφορμᾶν	ἀφορμᾶν	ἀφορμᾶν	ἀφορμή	noun	GPF	avoidance
+02.02.057	016.07	χρῶ,	χρῶ	χρῶ	χράομαι	verb	PMD.2S	use
+02.02.058	016.08	κούφως	κούφως	κούφως	κοῦφος	adverb	-	lightly
+02.02.059	016.09	μέντοι	μέντοι	μέντοι	μέντοι	particle	-	even
+02.02.060	016.10	καὶ	καὶ	καί	καί	conjunction	-	and
+02.02.061	016.11	μεθ’	μεθ’	μετά	μετά	preposition	-	with
+02.02.062	016.12	ὑπεξαιρέσεως	ὑπεξαιρέσεως	ὑπεξαιρέσεως	ὑπεξαίρεσις	noun	GSF	reservation
 02.02.063	016.13	καὶ	καὶ	καί	καί	conjunction	-	and, also
-02.02.064	016.14	ἀνειμένως.	ἀνειμένως	ἀνειμένως	ἀνίημι	verb	XMP.AP-	to send up; let go, abate
+02.02.064	016.14	ἀνειμένως.	ἀνειμένως	ἀνειμένως	ἀνειμένως	adverb	-	freely
 03.01.001	017.01	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
 03.01.002	017.02	ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος	adjective	GSY	every, every one, each, each one
 03.01.003	017.03	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
