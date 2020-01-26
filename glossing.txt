@@ -485,3 +485,84 @@ A. Use only the appropriate actions of pursuit and avoidance; and even these lig
 B. Where it is practically necessary for you to pursue or avoid anything, do even this with discretion, and gentleness, and moderation.
 C. But employ only the power of moving towards an object and retiring from it; and these powers indeed only slightly and with exceptions and with remission.
 D. Impulse to act and not to act, these are your concern; yet exercise them gently and without strain, and provisionally.
+
+# 017
+
+03.01.001	017.01	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	for
+03.01.002	017.02	ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος	adjective	GSY	each
+03.01.003	017.03	τῶν	τῶν	τῶν	ὁ	article	GPX	of the
+03.01.004	017.04	ψυχαγωγούντων	ψυχαγωγούντων	ψυχαγωγούντων	ψυχαγωγέω	verb	PAP.GP-	[things] attracting your soul
+03.01.005	017.05	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+03.01.006	017.06	χρείαν	χρείαν	χρείαν	χρεία	noun	ASF	usefulness
+03.01.007	017.07	παρεχόντων	παρεχόντων	παρεχόντων	παρέχω	verb	PAP.GP-	providing
+03.01.008	017.08	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+03.01.009	017.09	στεργομένων	στεργομένων	στεργομένων	στέργω	verb	PMP.GP-	being loved
+03.01.010	017.10	μέμνησο	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S	remember
+03.01.011	017.11	ἐπιλέγειν,	ἐπιλέγειν	ἐπιλέγειν	ἐπιλέγω	verb	PAN	to say
+03.01.012	017.12	ὁποῖόν	ὁποῖόν	ὁποῖόν	ὁποῖος	adjective	SSN	of what sort
+03.01.013	017.13	ἐστιν,	ἐστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	is it
+03.01.014	017.14	ἀπὸ	ἀπὸ	ἀπό	ἀπό	preposition	-	from
+03.01.015	017.15	τῶν	τῶν	τῶν	ὁ	article	GPX	the
+03.01.016	017.16	σμικροτάτων	σμικροτάτων	σμικροτάτων	μικρός	adjective	GPX	smallest
+03.01.017	017.17	ἀρξάμενος:	ἀρξάμενος	ἀρξάμενος	ἄρχω	verb	AMP.NS-	starting
+
+A. With regard to whatever objects give you delight, are useful, or are deeply loved, remember to tell yourself of what general nature they are, beginning from the most insignificant things.
+B. With regard to whatever objects either delight the mind, or contribute to use, or are tenderly beloved, remind yourself of what nature they are, beginning with the merest trifles:
+C. In every thing which pleases the soul, or supplies a want, or is loved, remember to add this to the (description, notion); what is the nature of each thing, beginning from the smallest?
+D. When anything, from the meanest thing upwards, is attractive or serviceable or an object of affection, remember always to say to yourself, 'What is its nature?'
+
+# 018
+
+03.01.018	018.01	ἂν	ἂν	ἄν	ἐάν	conjunction	-	if
+03.01.019	018.02	χύτραν	χύτραν	χύτραν	χύτρα	noun	ASF	jug
+03.01.020	018.03	στέργῃς,	στέργῃς	στέργῃς	στέργω	verb	PAS.2S	you love
+03.01.021	018.04	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+03.01.022	018.05	«χύτραν	χύτραν	χύτραν	χύτρα	noun	ASF	jug
+03.01.023	018.06	στέργω.»	στέργω	στέργω	στέργω	verb	PAI.1S	I love
+
+A. If, for example, you are fond of a specific ceramic cup, remind yourself that it is only ceramic cups in general of which you are fond.
+B. if you have a favorite cup, that it is but a cup of which you are fond,
+C. If you love an earthen vessel, say it is an earthen vessel which you love;
+D. If you are fond of a jug, say you are fond of a jug;
+
+# 019
+
+03.01.024	019.01	κατεαγείσης	κατεαγείσης	κατεαγείσης	κατάγνυμι	verb	APP.GS-	shattering
+03.01.025	019.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+03.01.026	019.03	αὐτῆς	αὐτῆς	αὐτῆς	αὐτός	pronoun	GSF	it
+03.01.027	019.04	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+03.01.028	019.05	ταραχθήσῃ:	ταραχθήσῃ	ταραχθήσῃ	ταράσσω	verb	FPI.2S	you will be disturbed
+
+A. Then, if it breaks, you will not be disturbed.
+B. — for thus, if it is broken, you can bear it;
+C. for when it has been broken, you will not be disturbed.
+D. then you will not be disturbed if it be broken.
+
+# 020
+
+03.01.029	020.01	ἂν	ἂν	ἄν	ἐάν	conjunction	-	if
+03.01.030	020.02	παιδίον	παιδίον	παιδίον	παιδίον	noun	SSN	a child
+03.01.031	020.03	σαυτοῦ	σαυτοῦ	σαυτοῦ	σαυτοῦ	pronoun	GSX	of yours
+03.01.032	020.04	καταφιλῇς	καταφιλῇς	καταφιλῇς	καταφιλέω	verb	PAS.2S	you kiss
+03.01.033	020.05	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+03.01.034	020.06	γυναῖκα,	γυναῖκα	γυναῖκα	γυνή	noun	ASF	wife
+03.01.035	020.07	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+03.01.036	020.08	ἄνθρωπον	ἄνθρωπον	ἄνθρωπον	ἄνθρωπος	noun	ASM	human
+03.01.037	020.09	καταφιλεῖς:	καταφιλεῖς	καταφιλεῖς	καταφιλέω	verb	PAI.2S	I kiss
+
+A. If you kiss your child, or your wife, say that you only kiss things which are human,
+B. if you embrace your child, or your wife, that you embrace a mortal,
+C. If you are kissing your child or wife, say that it is a human being whom you are kissing,
+D. If you kiss your child or your wife, say to yourself that you are kissing a human being,
+
+# 021
+
+03.01.038	021.01	ἀποθανόντος	ἀποθανόντος	ἀποθανόντος	ἀποθνήσκω	verb	AAP.GS-	on [them] dying
+03.01.039	021.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+03.01.040	021.03	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+03.01.041	021.04	ταραχθήσῃ.	ταραχθήσῃ	ταραχθήσῃ	ταράσσω	verb	FPI.2S	you will be disturbed
+
+A. and thus you will not be disturbed if either of them dies.
+B. — and thus, if either of them dies, you can bear it.
+C. for when the wife or child dies, you will not be disturbed.
+D. for then if death strikes it you will not be disturbed.

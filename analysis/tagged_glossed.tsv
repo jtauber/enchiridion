@@ -352,47 +352,47 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 02.02.062	016.12	ὑπεξαιρέσεως	ὑπεξαιρέσεως	ὑπεξαιρέσεως	ὑπεξαίρεσις	noun	GSF	reservation
 02.02.063	016.13	καὶ	καὶ	καί	καί	conjunction	-	and, also
 02.02.064	016.14	ἀνειμένως.	ἀνειμένως	ἀνειμένως	ἀνειμένως	adverb	-	freely
-03.01.001	017.01	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
-03.01.002	017.02	ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος	adjective	GSY	every, every one, each, each one
-03.01.003	017.03	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
-03.01.004	017.04	ψυχαγωγούντων	ψυχαγωγούντων	ψυχαγωγούντων	ψυχαγωγέω	verb	PAP.GP-^PAD.3P	to lead departed souls to the nether world
-03.01.005	017.05	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-03.01.006	017.06	χρείαν	χρείαν	χρείαν	χρεία	noun	ASF	use, advantage, service
-03.01.007	017.07	παρεχόντων	παρεχόντων	παρεχόντων	παρέχω	verb	PAP.GP-^PAD.3P	to furnish, provide, supply
-03.01.008	017.08	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-03.01.009	017.09	στεργομένων	στεργομένων	στεργομένων	στέργω	verb	PMP.GP-^PMP.GP-	to love
-03.01.010	017.10	μέμνησο	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S^YMI.2S	to remind
-03.01.011	017.11	ἐπιλέγειν,	ἐπιλέγειν	ἐπιλέγειν	ἐπιλέγω	verb	PAN	say in connexion with; to choose; to think over
-03.01.012	017.12	ὁποῖόν	ὁποῖόν	ὁποῖόν	ὁποῖος	adjective	ASM^SSN	of what sort
-03.01.013	017.13	ἐστιν,	ἐστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	to be
-03.01.014	017.14	ἀπὸ	ἀπὸ	ἀπό	ἀπό	preposition	-	from, away from. c. gen.
-03.01.015	017.15	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
-03.01.016	017.16	σμικροτάτων	σμικροτάτων	σμικροτάτων	μικρός	adjective	GPFS^GPYS	small, little
-03.01.017	017.17	ἀρξάμενος:	ἀρξάμενος	ἀρξάμενος	ἄρχω	verb	AMP.NS-	(to be first) to rule, to begin
-03.01.018	018.01	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
-03.01.019	018.02	χύτραν	χύτραν	χύτραν	χύτρα	noun	ASF	an earthen pot, a pot for boiling, pipkin
-03.01.020	018.03	στέργῃς,	στέργῃς	στέργῃς	στέργω	verb	PAS.2S	to love
-03.01.021	018.04	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
-03.01.022	018.05	«χύτραν	χύτραν	χύτραν	χύτρα	noun	ASF	an earthen pot, a pot for boiling, pipkin
-03.01.023	018.06	στέργω.»	στέργω	στέργω	στέργω	verb	PAS.1S^PAI.1S	to love
-03.01.024	019.01	κατεαγείσης	κατεαγείσης	κατεαγείσης	κατάγνυμι	verb	APP.GS-	to break in pieces, shatter, shiver, crack
+03.01.001	017.01	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	for
+03.01.002	017.02	ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος	adjective	GSY	each
+03.01.003	017.03	τῶν	τῶν	τῶν	ὁ	article	GPX	of the
+03.01.004	017.04	ψυχαγωγούντων	ψυχαγωγούντων	ψυχαγωγούντων	ψυχαγωγέω	verb	PAP.GP-	[things] attracting your soul
+03.01.005	017.05	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+03.01.006	017.06	χρείαν	χρείαν	χρείαν	χρεία	noun	ASF	usefulness
+03.01.007	017.07	παρεχόντων	παρεχόντων	παρεχόντων	παρέχω	verb	PAP.GP-	providing
+03.01.008	017.08	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+03.01.009	017.09	στεργομένων	στεργομένων	στεργομένων	στέργω	verb	PMP.GP-	being loved
+03.01.010	017.10	μέμνησο	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S	remember
+03.01.011	017.11	ἐπιλέγειν,	ἐπιλέγειν	ἐπιλέγειν	ἐπιλέγω	verb	PAN	to say
+03.01.012	017.12	ὁποῖόν	ὁποῖόν	ὁποῖόν	ὁποῖος	adjective	SSN	of what sort
+03.01.013	017.13	ἐστιν,	ἐστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	is it
+03.01.014	017.14	ἀπὸ	ἀπὸ	ἀπό	ἀπό	preposition	-	from
+03.01.015	017.15	τῶν	τῶν	τῶν	ὁ	article	GPX	the
+03.01.016	017.16	σμικροτάτων	σμικροτάτων	σμικροτάτων	μικρός	adjective	GPX	smallest
+03.01.017	017.17	ἀρξάμενος:	ἀρξάμενος	ἀρξάμενος	ἄρχω	verb	AMP.NS-	starting
+03.01.018	018.01	ἂν	ἂν	ἄν	ἐάν	conjunction	-	if
+03.01.019	018.02	χύτραν	χύτραν	χύτραν	χύτρα	noun	ASF	jug
+03.01.020	018.03	στέργῃς,	στέργῃς	στέργῃς	στέργω	verb	PAS.2S	you love
+03.01.021	018.04	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+03.01.022	018.05	«χύτραν	χύτραν	χύτραν	χύτρα	noun	ASF	jug
+03.01.023	018.06	στέργω.»	στέργω	στέργω	στέργω	verb	PAI.1S	I love
+03.01.024	019.01	κατεαγείσης	κατεαγείσης	κατεαγείσης	κατάγνυμι	verb	APP.GS-	shattering
 03.01.025	019.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
-03.01.026	019.03	αὐτῆς	αὐτῆς	αὐτῆς	αὐτός	pronoun	GSF	unemph. 3rd pers.pronoun; -self; [the] same
+03.01.026	019.03	αὐτῆς	αὐτῆς	αὐτῆς	αὐτός	pronoun	GSF	it
 03.01.027	019.04	οὐ	οὐ	οὐ	οὐ	adverb	-	not
-03.01.028	019.05	ταραχθήσῃ:	ταραχθήσῃ	ταραχθήσῃ	ταράσσω	verb	FPI.2S	to stir, stir up, trouble
-03.01.029	020.01	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
+03.01.028	019.05	ταραχθήσῃ:	ταραχθήσῃ	ταραχθήσῃ	ταράσσω	verb	FPI.2S	you will be disturbed
+03.01.029	020.01	ἂν	ἂν	ἄν	ἐάν	conjunction	-	if
 03.01.030	020.02	παιδίον	παιδίον	παιδίον	παιδίον	noun	SSN	a child
-03.01.031	020.03	σαυτοῦ	σαυτοῦ	σαυτοῦ	σαυτοῦ	pronoun	GSY^GSN^GSM	-
-03.01.032	020.04	καταφιλῇς	καταφιλῇς	καταφιλῇς	καταφιλέω	verb	PAS.2S^PAS.2S	to kiss tenderly, to caress
-03.01.033	020.05	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-03.01.034	020.06	γυναῖκα,	γυναῖκα	γυναῖκα	γυνή	noun	ASF	a woman
-03.01.035	020.07	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
-03.01.036	020.08	ἄνθρωπον	ἄνθρωπον	ἄνθρωπον	ἄνθρωπος	noun	ASM	man, person, human
-03.01.037	020.09	καταφιλεῖς:	καταφιλεῖς	καταφιλεῖς	καταφιλέω	verb	PAI.2S^PAI.2S	to kiss tenderly, to caress
-03.01.038	021.01	ἀποθανόντος	ἀποθανόντος	ἀποθανόντος	ἀποθνήσκω	verb	AAP.GS-	-
+03.01.031	020.03	σαυτοῦ	σαυτοῦ	σαυτοῦ	σαυτοῦ	pronoun	GSX	of yours
+03.01.032	020.04	καταφιλῇς	καταφιλῇς	καταφιλῇς	καταφιλέω	verb	PAS.2S	you kiss
+03.01.033	020.05	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+03.01.034	020.06	γυναῖκα,	γυναῖκα	γυναῖκα	γυνή	noun	ASF	wife
+03.01.035	020.07	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+03.01.036	020.08	ἄνθρωπον	ἄνθρωπον	ἄνθρωπον	ἄνθρωπος	noun	ASM	human
+03.01.037	020.09	καταφιλεῖς:	καταφιλεῖς	καταφιλεῖς	καταφιλέω	verb	PAI.2S	I kiss
+03.01.038	021.01	ἀποθανόντος	ἀποθανόντος	ἀποθανόντος	ἀποθνήσκω	verb	AAP.GS-	on [them] dying
 03.01.039	021.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
 03.01.040	021.03	οὐ	οὐ	οὐ	οὐ	adverb	-	not
-03.01.041	021.04	ταραχθήσῃ.	ταραχθήσῃ	ταραχθήσῃ	ταράσσω	verb	FPI.2S	to stir, stir up, trouble
+03.01.041	021.04	ταραχθήσῃ.	ταραχθήσῃ	ταραχθήσῃ	ταράσσω	verb	FPI.2S	you will be disturbed
 04.01.001	022.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when, whenever
 04.01.002	022.02	ἅπτεσθαί	ἅπτεσθαί	ἅπτεσθαί	ἅπτω	verb	PMN	to fasten, bind fast; mid. touch
 04.01.003	022.03	τινος	τινος	τινος	τις	pronoun	GS-	any one, any thing, some one, some thing;
