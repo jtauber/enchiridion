@@ -203,22 +203,22 @@ D. Aiming then at these high matters, you must remember that to attain them requ
 01.04.029	007.07	ἄρχειν	ἄρχειν	ἄρχειν	ἄρχω	verb	PAN	to rule
 01.04.030	007.08	καὶ	καὶ	καί	καί	conjunction	-	and
 01.04.031	007.09	πλουτεῖν,	πλουτεῖν	πλουτεῖν	πλουτέω	verb	PAN	to be rich
-01.04.032	007.10	τυχὸν	τυχὸν	τυχόν	τυγχάνω	verb	AAP.VS-^AAP.SS-	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
-01.04.033	007.11	μὲν	μὲν	μέν	μέν	particle	-	on the one hand, on the other hand
-01.04.034	007.12	οὐδ’	οὐδ’	οὐδέ	οὐδέ	particle	-	and/but not; not even
-01.04.035	007.13	αὐτῶν	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPX	unemph. 3rd pers.pronoun; -self; [the] same
+01.04.032	007.10	τυχὸν	τυχὸν	τυχόν	τυγχάνω	verb	AAP.SS-	gaining
+01.04.033	007.11	μὲν	μὲν	μέν	μέν	particle	-	-
+01.04.034	007.12	οὐδ’	οὐδ’	οὐδέ	οὐδέ	particle	-	not even
+01.04.035	007.13	αὐτῶν	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPX	those
 01.04.036	007.14	τούτων	τούτων	τούτων	οὗτος	pronoun	GPX	this
-01.04.037	007.15	τεύξῃ	τεύξῃ	τεύξῃ	τεύχω	verb	AMS.2S^AAS.3S^FMI.2S	to make ready, make, build, work
-01.04.038	007.16	διὰ	διὰ	διά	διά	preposition	-	through c. gen.; because of c. acc.
+01.04.037	007.15	τεύξῃ	τεύξῃ	τεύξῃ	τεύχω	verb	AMS.2S^AAS.3S^FMI.2S	you build
+01.04.038	007.16	διὰ	διὰ	διά	διά	preposition	-	because
 01.04.039	007.17	τὸ	τὸ	τό	ὁ	article	SSN	the
 01.04.040	007.18	καὶ	καὶ	καί	καί	conjunction	-	and, also
 01.04.041	007.19	τῶν	τῶν	τῶν	ὁ	article	GPX	the
-01.04.042	007.20	προτέρων	προτέρων	προτέρων	πρότερος	adjective	GPX	before, earlier
-01.04.043	007.21	ἐφίεσθαι,	ἐφίεσθαι	ἐφίεσθαι	ἐφίημι	verb	PMN	to send to; (mid) to long for
+01.04.042	007.20	προτέρων	προτέρων	προτέρων	πρότερος	adjective	GPX	former
+01.04.043	007.21	ἐφίεσθαι,	ἐφίεσθαι	ἐφίεσθαι	ἐφίημι	verb	PMN	to aim for
 01.04.044	007.22	πάντως	πάντως	πάντως	πάντως	adverb	-	altogether;
 01.04.045	007.23	γε	γε	γέ	γε	particle	-	at least, at any rate
 01.04.046	007.24	μὴν	μὴν	μήν	μήν	particle	-	now verily, full surely
-01.04.047	007.25	ἐκείνων	ἐκείνων	ἐκείνων	ἐκεῖνος	pronoun	GPX	that over there, that
+01.04.047	007.25	ἐκείνων	ἐκείνων	ἐκείνων	ἐκεῖνος	pronoun	GPX	that
 01.04.048	007.26	ἀποτεύξη,	ἀποτεύξη	ἀποτεύξη	ἀπότευξις	noun	SDF	a failure
 01.04.049	007.27	δι’	δι’	διά	διά	preposition	-	by
 01.04.050	007.28	ὧν	ὧν	ὧν	ὅς	pronoun	GPX	which
