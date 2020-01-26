@@ -468,10 +468,10 @@ D. for if you will to get something not in man's power you are bound to be unfor
 
 02.02.051	016.01	μόνῳ	μόνῳ	μόνῳ	μόνος	adjective	DSY	only
 02.02.052	016.02	δὲ	δὲ	δέ	δέ	particle	-	but
-02.02.053	016.03	τῷ	τῷ	τῷ	ὁ	article	DSY	the
-02.02.054	016.04	ὁρμᾶν	ὁρμᾶν	ὁρμᾶν	ὁρμή	noun	GPF	pursuit
+02.02.053	016.03	τῷ	τῷ	τῷ	ὁ	article	DSY	-
+02.02.054	016.04	ὁρμᾶν	ὁρμᾶν	ὁρμᾶν	ὁρμάω	verb	PAN	pursuit
 02.02.055	016.05	καὶ	καὶ	καί	καί	conjunction	-	and
-02.02.056	016.06	ἀφορμᾶν	ἀφορμᾶν	ἀφορμᾶν	ἀφορμή	noun	GPF	avoidance
+02.02.056	016.06	ἀφορμᾶν	ἀφορμᾶν	ἀφορμᾶν	ἀφορμάω	verb	PAN	avoidance
 02.02.057	016.07	χρῶ,	χρῶ	χρῶ	χράομαι	verb	PMD.2S	use
 02.02.058	016.08	κούφως	κούφως	κούφως	κοῦφος	adverb	-	lightly
 02.02.059	016.09	μέντοι	μέντοι	μέντοι	μέντοι	particle	-	even
