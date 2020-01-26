@@ -420,7 +420,7 @@ D. Therefore let your will to avoid have no concern with what is not in man's po
 # 014
 
 02.02.020	014.01	τὴν	τὴν	τήν	ὁ	article	ASF	the
-02.02.021	014.02	ὄρεξιν	ὄρεξιν	ὄρεξιν	ὄρεξις	noun	ASF	desire, appetite
+02.02.021	014.02	ὄρεξιν	ὄρεξιν	ὄρεξιν	ὄρεξις	noun	ASF	desire
 02.02.022	014.03	δὲ	δὲ	δέ	δέ	particle	-	but
 02.02.023	014.04	παντελῶς	παντελῶς	παντελῶς	παντελής	adverb	-	totally
 02.02.024	014.05	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	for
