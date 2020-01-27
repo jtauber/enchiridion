@@ -480,78 +480,78 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 04.01.085	027.06	πρὸς	πρὸς	πρός	πρός	preposition	-	by
 04.01.086	027.07	τὰ	τὰ	τά	ὁ	article	SPN	the [things]
 04.01.087	027.08	γινόμενα.»	γινόμενα	γινόμενα	γίγνομαι	verb	PMP.SP-	happening
-05.01.001	028.01	ταράσσει	ταράσσει	ταράσσει	ταράσσω	verb	PMI.2S^PAI.3S	to stir, stir up, trouble
+05.01.001	028.01	ταράσσει	ταράσσει	ταράσσει	ταράσσω	verb	PAI.3S	is disturbed
 05.01.002	028.02	τοὺς	τοὺς	τούς	ὁ	article	APM	the
-05.01.003	028.03	ἀνθρώπους	ἀνθρώπους	ἀνθρώπους	ἄνθρωπος	noun	APM	man, person, human
+05.01.003	028.03	ἀνθρώπους	ἀνθρώπους	ἀνθρώπους	ἄνθρωπος	noun	APM	person
 05.01.004	028.04	οὐ	οὐ	οὐ	οὐ	adverb	-	not
-05.01.005	028.05	τὰ	τὰ	τά	ὁ	article	APN^SPN^ADF^SDF	the
-05.01.006	028.06	πράγματα,	πράγματα	πράγματα	πρᾶγμα	noun	SPN	that which has been done, a deed, act
-05.01.007	028.07	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	otherwise, but
-05.01.008	028.08	τὰ	τὰ	τά	ὁ	article	APN^SPN^ADF^SDF	the
-05.01.009	028.09	περὶ	περὶ	περί	περί	preposition	-	around, round about with gen., dat., and acc.
-05.01.010	028.10	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
-05.01.011	028.11	πραγμάτων	πραγμάτων	πραγμάτων	πρᾶγμα	noun	GPN	that which has been done, a deed, act
-05.01.012	028.12	δόγματα:	δόγματα	δόγματα	δόγμα	noun	SPN	that which seems to one, an opinion, dogma
-05.01.013	029.01	οἷον	οἷον	οἷον	οἷος	adjective	ASM^SSN	(such a kind) as; for οἷός τε see οἷος III.2
+05.01.005	028.05	τὰ	τὰ	τά	ὁ	article	SPN	the
+05.01.006	028.06	πράγματα,	πράγματα	πράγματα	πρᾶγμα	noun	SPN	things that happen
+05.01.007	028.07	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
+05.01.008	028.08	τὰ	τὰ	τά	ὁ	article	SPN	the
+05.01.009	028.09	περὶ	περὶ	περί	περί	preposition	-	about
+05.01.010	028.10	τῶν	τῶν	τῶν	ὁ	article	GPX	the
+05.01.011	028.11	πραγμάτων	πραγμάτων	πραγμάτων	πρᾶγμα	noun	GPN	things that happen
+05.01.012	028.12	δόγματα:	δόγματα	δόγματα	δόγμα	noun	SPN	opinions
+05.01.013	029.01	οἷον	οἷον	οἷον	οἷος	adjective	SSN	so as
 05.01.014	029.02	ὁ	ὁ	ὁ	ὁ	article	NSM	the
-05.01.015	029.03	θάνατος	θάνατος	θάνατος	θάνατος	adjective	NSM	death
-05.01.016	029.04	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	not one, nobody
-05.01.017	029.05	δεινόν	δεινόν	δεινόν	δεινός	adjective	ASM^SSN	fearful, terrible, dread, dire
-05.01.018	029.06	(ἐπεὶ	ἐπεὶ	ἐπεί	ἐπεί	conjunction	-	after, since, when
-05.01.019	029.07	καὶ	καὶ	καί	καί	conjunction	-	and, also
-05.01.020	029.08	Σωκράτει	Σωκράτει	Σωκράτει	Σωκρατέω	verb	IAI.3S^PAD.2S	to do like Socrates, to Socratize
-05.01.021	029.09	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
-05.01.022	029.10	ἐφαίνετο),	ἐφαίνετο	ἐφαίνετο	φαίνω	verb	IMI.3S	to bring to light, make to appear
-05.01.023	029.11	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	otherwise, but
+05.01.015	029.03	θάνατος	θάνατος	θάνατος	θάνατος	adjective	NSM	death [is]
+05.01.016	029.04	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	nothing
+05.01.017	029.05	δεινόν	δεινόν	δεινόν	δεινός	adjective	SSN	terrible
+05.01.018	029.06	(ἐπεὶ	ἐπεὶ	ἐπεί	ἐπεί	conjunction	-	else
+05.01.019	029.07	καὶ	καὶ	καί	καί	conjunction	-	also
+05.01.020	029.08	Σωκράτει	Σωκράτει	Σωκράτει	Σωκράτης	noun	DSM	to Socrates
+05.01.021	029.09	ἂν	ἂν	ἄν	ἄν	particle	-	would
+05.01.022	029.10	ἐφαίνετο),	ἐφαίνετο	ἐφαίνετο	φαίνω	verb	IMI.3S	it have appeared
+05.01.023	029.11	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
 05.01.024	029.12	τὸ	τὸ	τό	ὁ	article	SSN	the
-05.01.025	029.13	δόγμα	δόγμα	δόγμα	δόγμα	noun	SSN	that which seems to one, an opinion, dogma
+05.01.025	029.13	δόγμα	δόγμα	δόγμα	δόγμα	noun	SSN	opinion
 05.01.026	029.14	τὸ	τὸ	τό	ὁ	article	SSN	the
-05.01.027	029.15	περὶ	περὶ	περί	περί	preposition	-	around, round about with gen., dat., and acc.
+05.01.027	029.15	περὶ	περὶ	περί	περί	preposition	-	about
 05.01.028	029.16	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
 05.01.029	029.17	θανάτου,	θανάτου	θανάτου	θάνατος	adjective	GSM	death
-05.01.030	029.18	διότι	διότι	διότι	διότι	conjunction	-	for the reason that, since
-05.01.031	029.19	δεινόν,	δεινόν	δεινόν	δεινός	adjective	ASM^SSN	fearful, terrible, dread, dire
-05.01.032	029.20	ἐκεῖνο	ἐκεῖνο	ἐκεῖνο	ἐκεῖνος	pronoun	SSN	that over there, that
+05.01.030	029.18	διότι	διότι	διότι	διότι	conjunction	-	that [it is]
+05.01.031	029.19	δεινόν,	δεινόν	δεινόν	δεινός	adjective	SSN	terrible
+05.01.032	029.20	ἐκεῖνο	ἐκεῖνο	ἐκεῖνο	ἐκεῖνος	pronoun	SSN	that
 05.01.033	029.21	τὸ	τὸ	τό	ὁ	article	SSN	the
-05.01.034	029.22	δεινόν	δεινόν	δεινόν	δεινός	adjective	ASM^SSN	fearful, terrible, dread, dire
-05.01.035	029.23	ἐστιν.	ἐστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	to be
-05.01.036	030.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when, whenever
-05.01.037	030.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
-05.01.038	030.03	ἐμποδιζώμεθα	ἐμποδιζώμεθα	ἐμποδιζώμεθα	ἐμποδίζω	verb	PMS.1P^PMS.1P	to put the feet in bonds, to fetter
-05.01.039	030.04	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-05.01.040	030.05	ταρασσώμεθα	ταρασσώμεθα	ταρασσώμεθα	ταράσσω	verb	PMS.1P	to stir, stir up, trouble
-05.01.041	030.06	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-05.01.042	030.07	λυπώμεθα,	λυπώμεθα	λυπώμεθα	λυπέω	verb	PMS.1P	to give pain to, to pain, distress, grieve, vex, annoy
+05.01.034	029.22	δεινόν	δεινόν	δεινόν	δεινός	adjective	SSN	terrible [thing]
+05.01.035	029.23	ἐστιν.	ἐστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	is
+05.01.036	030.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when
+05.01.037	030.02	οὖν	οὖν	οὖν	οὖν	particle	-	therefore
+05.01.038	030.03	ἐμποδιζώμεθα	ἐμποδιζώμεθα	ἐμποδιζώμεθα	ἐμποδίζω	verb	PMS.1P	we are fettered
+05.01.039	030.04	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+05.01.040	030.05	ταρασσώμεθα	ταρασσώμεθα	ταρασσώμεθα	ταράσσω	verb	PMS.1P	are disturbed
+05.01.041	030.06	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+05.01.042	030.07	λυπώμεθα,	λυπώμεθα	λυπώμεθα	λυπέω	verb	PMS.1P	are grieved
 05.01.043	030.08	μηδέποτε	μηδέποτε	μηδέποτε	μηδέποτε	adverb	-	never
-05.01.044	030.09	ἄλλον	ἄλλον	ἄλλον	ἄλλος	adjective	ASM	other, another
-05.01.045	030.10	αἰτιώμεθα,	αἰτιώμεθα	αἰτιώμεθα	αἰτέω	verb	PMS.1P	to ask, beg; postulate
-05.01.046	030.11	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	otherwise, but
-05.01.047	030.12	ἑαυτούς,	ἑαυτούς	ἑαυτούς	ἑαυτοῦ	pronoun	APM	himself, herself, themselves
-05.01.048	030.13	τοῦτ’	τοῦτ’	τοῦτο	οὗτος	pronoun	SSN	this; that
-05.01.049	030.14	ἔστι	ἔστι	ἐστί(ν)	εἰμί	verb	PAI.3S	to be
-05.01.050	030.15	τὰ	τὰ	τά	ὁ	article	APN^SPN^ADF^SDF	the
-05.01.051	030.16	ἑαυτῶν	ἑαυτῶν	ἑαυτῶν	ἑαυτοῦ	pronoun	GPN^GPF^GPM	himself, herself, themselves
-05.01.052	030.17	δόγματα.	δόγματα	δόγματα	δόγμα	noun	SPN	that which seems to one, an opinion, dogma
-05.01.053	031.01	ἀπαιδεύτου	ἀπαιδεύτου	ἀπαιδεύτου	ἀπαίδευτος	adjective	GSX	uneducated
-05.01.054	031.02	ἔργον	ἔργον	ἔργον	ἔργον	noun	SSN	work
+05.01.044	030.09	ἄλλον	ἄλλον	ἄλλον	ἄλλος	adjective	ASM	another
+05.01.045	030.10	αἰτιώμεθα,	αἰτιώμεθα	αἰτιώμεθα	αἰτέω	verb	PMS.1P	let us blame
+05.01.046	030.11	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
+05.01.047	030.12	ἑαυτούς,	ἑαυτούς	ἑαυτούς	ἑαυτοῦ	pronoun	APM	themselves
+05.01.048	030.13	τοῦτ’	τοῦτ’	τοῦτο	οὗτος	pronoun	SSN	this
+05.01.049	030.14	ἔστι	ἔστι	ἐστί(ν)	εἰμί	verb	PAI.3S	is
+05.01.050	030.15	τὰ	τὰ	τά	ὁ	article	SPN	the
+05.01.051	030.16	ἑαυτῶν	ἑαυτῶν	ἑαυτῶν	ἑαυτοῦ	pronoun	GPX	of themselves
+05.01.052	030.17	δόγματα.	δόγματα	δόγματα	δόγμα	noun	SPN	an opinion
+05.01.053	031.01	ἀπαιδεύτου	ἀπαιδεύτου	ἀπαιδεύτου	ἀπαίδευτος	adjective	GSX	of uneducated
+05.01.054	031.02	ἔργον	ἔργον	ἔργον	ἔργον	noun	SSN	action
 05.01.055	031.03	τὸ	τὸ	τό	ὁ	article	SSN	the
-05.01.056	031.04	ἄλλοις	ἄλλοις	ἄλλοις	ἄλλος	adjective	DPN^DPM	other, another
-05.01.057	031.05	ἐγκαλεῖν,	ἐγκαλεῖν	ἐγκαλεῖν	ἐγκαλέω	verb	PAN^FAN^PAN	to call in; bring a charge or accusation
-05.01.058	031.06	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
-05.01.059	031.07	οἷς	οἷς	οἷς	ὅς	pronoun	DPY	who, that, which: relative pronoun
-05.01.060	031.08	αὐτὸς	αὐτὸς	αὐτός	αὐτός	pronoun	NSM	unemph. 3rd pers.pronoun; -self; [the] same
-05.01.061	031.09	πράσσει	πράσσει	πράσσει	πράσσω	verb	PMI.2S^PAI.3S	do, (w. adv) fare, (mid.) charge payment
-05.01.062	031.10	κακῶς:	κακῶς	κακῶς	κακός	adjective	---	bad
-05.01.063	032.01	ἠργμένου	ἠργμένου	ἠργμένου	ἄρχω	verb	XMP.GS-	(to be first) to rule, to begin
-05.01.064	032.02	παιδεύεσθαι	παιδεύεσθαι	παιδεύεσθαι	παιδεύω	verb	PMN	to bring up
+05.01.056	031.04	ἄλλοις	ἄλλοις	ἄλλοις	ἄλλος	adjective	DPY	others
+05.01.057	031.05	ἐγκαλεῖν,	ἐγκαλεῖν	ἐγκαλεῖν	ἐγκαλέω	verb	PAN	to accuse
+05.01.058	031.06	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	at
+05.01.059	031.07	οἷς	οἷς	οἷς	ὅς	pronoun	DPY	which [times]
+05.01.060	031.08	αὐτὸς	αὐτὸς	αὐτός	αὐτός	pronoun	NSM	he
+05.01.061	031.09	πράσσει	πράσσει	πράσσει	πράσσω	verb	PAI.3S	does
+05.01.062	031.10	κακῶς:	κακῶς	κακῶς	κακός	adverb	-	badly
+05.01.063	032.01	ἠργμένου	ἠργμένου	ἠργμένου	ἄρχω	verb	XMP.GS-	beginning
+05.01.064	032.02	παιδεύεσθαι	παιδεύεσθαι	παιδεύεσθαι	παιδεύω	verb	PMN	to be educated
 05.01.065	032.03	τὸ	τὸ	τό	ὁ	article	SSN	the
-05.01.066	032.04	ἑαυτῷ:	ἑαυτῷ	ἑαυτῷ	ἑαυτοῦ	pronoun	DSN^DSM	himself, herself, themselves
-05.01.067	033.01	πεπαιδευμένου	πεπαιδευμένου	πεπαιδευμένου	παιδεύω	verb	XMP.GS-	to bring up
-05.01.068	033.02	τὸ	τὸ	τό	ὁ	article	SSN	the
-05.01.069	033.03	μήτε	μήτε	μήτε	μήτε	particle	-	neither / nor
-05.01.070	033.04	ἄλλῳ	ἄλλῳ	ἄλλῳ	ἄλλος	adjective	DSN^DSM	other, another
-05.01.071	033.05	μήτε	μήτε	μήτε	μήτε	particle	-	neither / nor
-05.01.072	033.06	ἑαυτῷ.	ἑαυτῷ	ἑαυτῷ	ἑαυτοῦ	pronoun	DSN^DSM	himself, herself, themselves
+05.01.066	032.04	ἑαυτῷ:	ἑαυτῷ	ἑαυτῷ	ἑαυτοῦ	pronoun	DSY	himself [to accuse]
+05.01.067	033.01	πεπαιδευμένου	πεπαιδευμένου	πεπαιδευμένου	παιδεύω	verb	XMP.GS-	being educated
+05.01.068	033.02	τὸ	τὸ	τό	ὁ	article	SSN	[he accuses]
+05.01.069	033.03	μήτε	μήτε	μήτε	μήτε	particle	-	neither
+05.01.070	033.04	ἄλλῳ	ἄλλῳ	ἄλλῳ	ἄλλος	adjective	DSY	another
+05.01.071	033.05	μήτε	μήτε	μήτε	μήτε	particle	-	nor
+05.01.072	033.06	ἑαυτῷ.	ἑαυτῷ	ἑαυτῷ	ἑαυτοῦ	pronoun	DSY	himself
 06.01.001	034.01	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
 06.01.002	034.02	μηδενὶ	μηδενὶ	μηδενί	μηδείς	pronoun	DS-	(and not one); not one, no-one
 06.01.003	034.03	ἐπαρθῇς	ἐπαρθῇς	ἐπαρθῇς	ἐπαίρω	verb	APS.2S	to lift up and set on

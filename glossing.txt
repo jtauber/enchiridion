@@ -618,7 +618,7 @@ D. If you are going to bathe put before your mind what happens in the bath—wat
 04.01.031	024.03	ἀσφαλέστερον	ἀσφαλέστερον	ἀσφαλέστερον	ἀσφαλής	adverb	-	more safely
 04.01.032	024.04	ἅψῃ	ἅψῃ	ἅψῃ	ἅπτω	verb	FMI.2S	you will engage
 04.01.033	024.05	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	in the
-04.01.034	024.06	ἔργου,	ἔργου	ἔργου	ἔργον	noun	GSN	work
+04.01.034	024.06	ἔργου,	ἔργου	ἔργου	ἔργον	noun	GSN	action
 04.01.035	024.07	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
 04.01.036	024.08	ἐπιλέγῃς	ἐπιλέγῃς	ἐπιλέγῃς	ἐπιλέγω	verb	PAS.2S	you say
 04.01.037	024.09	εὐθὺς	εὐθὺς	εὐθύς	εὐθύς	adverb	-	immediately
@@ -701,3 +701,123 @@ A. and I will not keep it if I am bothered at things that happen.
 B. and I shall not keep it thus, if I am out of humor at things that happen."
 C. but I shall not maintain it so, if I am vexed at what happens.
 D. and I shall not so keep it, if I lose my temper at what happens'.
+
+# 028
+
+05.01.001	028.01	ταράσσει	ταράσσει	ταράσσει	ταράσσω	verb	PAI.3S	disturb
+05.01.002	028.02	τοὺς	τοὺς	τούς	ὁ	article	APM	the
+05.01.003	028.03	ἀνθρώπους	ἀνθρώπους	ἀνθρώπους	ἄνθρωπος	noun	APM	person
+05.01.004	028.04	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+05.01.005	028.05	τὰ	τὰ	τά	ὁ	article	SPN	the
+05.01.006	028.06	πράγματα,	πράγματα	πράγματα	πρᾶγμα	noun	SPN	things that happen
+05.01.007	028.07	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
+05.01.008	028.08	τὰ	τὰ	τά	ὁ	article	SPN	the
+05.01.009	028.09	περὶ	περὶ	περί	περί	preposition	-	about
+05.01.010	028.10	τῶν	τῶν	τῶν	ὁ	article	GPX	the
+05.01.011	028.11	πραγμάτων	πραγμάτων	πραγμάτων	πρᾶγμα	noun	GPN	things that happen
+05.01.012	028.12	δόγματα:	δόγματα	δόγματα	δόγμα	noun	SPN	opinions
+
+A. Men are disturbed, not by things, but by the principles and notions which they form concerning things.
+B. Men are disturbed not by things, but by the views which they take of things.
+C. Men are disturbed not by the things which happen, but by the opinions about the things:
+D. What disturbs men's minds is not events but their judgements on events:
+
+# 029
+
+05.01.013	029.01	οἷον	οἷον	οἷον	οἷος	adjective	SSN	so as
+05.01.014	029.02	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+05.01.015	029.03	θάνατος	θάνατος	θάνατος	θάνατος	adjective	NSM	death [is]
+05.01.016	029.04	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	nothing
+05.01.017	029.05	δεινόν	δεινόν	δεινόν	δεινός	adjective	SSN	terrible
+05.01.018	029.06	(ἐπεὶ	ἐπεὶ	ἐπεί	ἐπεί	conjunction	-	else
+05.01.019	029.07	καὶ	καὶ	καί	καί	conjunction	-	also
+05.01.020	029.08	Σωκράτει	Σωκράτει	Σωκράτει	Σωκράτης	noun	DSM	to Socrates
+05.01.021	029.09	ἂν	ἂν	ἄν	ἄν	particle	-	would
+05.01.022	029.10	ἐφαίνετο),	ἐφαίνετο	ἐφαίνετο	φαίνω	verb	IMI.3S	it have appeared
+05.01.023	029.11	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
+05.01.024	029.12	τὸ	τὸ	τό	ὁ	article	SSN	the
+05.01.025	029.13	δόγμα	δόγμα	δόγμα	δόγμα	noun	SSN	opinion
+05.01.026	029.14	τὸ	τὸ	τό	ὁ	article	SSN	the
+05.01.027	029.15	περὶ	περὶ	περί	περί	preposition	-	about
+05.01.028	029.16	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
+05.01.029	029.17	θανάτου,	θανάτου	θανάτου	θάνατος	adjective	GSM	death
+05.01.030	029.18	διότι	διότι	διότι	διότι	conjunction	-	that [it is]
+05.01.031	029.19	δεινόν,	δεινόν	δεινόν	δεινός	adjective	SSN	terrible
+05.01.032	029.20	ἐκεῖνο	ἐκεῖνο	ἐκεῖνο	ἐκεῖνος	pronoun	SSN	that
+05.01.033	029.21	τὸ	τὸ	τό	ὁ	article	SSN	the
+05.01.034	029.22	δεινόν	δεινόν	δεινόν	δεινός	adjective	SSN	terrible [thing]
+05.01.035	029.23	ἐστιν.	ἐστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	is
+
+A. Death, for instance, is not terrible, else it would have appeared so to Socrates. But the terror consists in our notion of death that it is terrible.
+B. Thus death is nothing terrible, else it would have appeared so to Socrates. But the terror consists in our notion of death, that it is terrible.
+C. for example, death is nothing terrible, for if it were, it would have seemed so to Socrates; for the opinion about death, that it is terrible, is the terrible thing.
+D. For instance, death is nothing dreadful, or else Socrates would have thought it so. No, the only dreadful thing about it is men's judgement that it is dreadful.
+
+# 030
+
+05.01.036	030.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when
+05.01.037	030.02	οὖν	οὖν	οὖν	οὖν	particle	-	therefore
+05.01.038	030.03	ἐμποδιζώμεθα	ἐμποδιζώμεθα	ἐμποδιζώμεθα	ἐμποδίζω	verb	PMS.1P	we are fettered
+05.01.039	030.04	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+05.01.040	030.05	ταρασσώμεθα	ταρασσώμεθα	ταρασσώμεθα	ταράσσω	verb	PMS.1P	are disturbed
+05.01.041	030.06	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+05.01.042	030.07	λυπώμεθα,	λυπώμεθα	λυπώμεθα	λυπέω	verb	PMS.1P	are grieved
+05.01.043	030.08	μηδέποτε	μηδέποτε	μηδέποτε	μηδέποτε	adverb	-	never
+05.01.044	030.09	ἄλλον	ἄλλον	ἄλλον	ἄλλος	adjective	ASM	another
+05.01.045	030.10	αἰτιώμεθα,	αἰτιώμεθα	αἰτιώμεθα	αἰτέω	verb	PMS.1P	let us blame
+05.01.046	030.11	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
+05.01.047	030.12	ἑαυτούς,	ἑαυτούς	ἑαυτούς	ἑαυτοῦ	pronoun	APM	themselves
+05.01.048	030.13	τοῦτ’	τοῦτ’	τοῦτο	οὗτος	pronoun	SSN	this
+05.01.049	030.14	ἔστι	ἔστι	ἐστί(ν)	εἰμί	verb	PAI.3S	is
+05.01.050	030.15	τὰ	τὰ	τά	ὁ	article	SPN	the
+05.01.051	030.16	ἑαυτῶν	ἑαυτῶν	ἑαυτῶν	ἑαυτοῦ	pronoun	GPX	of themselves
+05.01.052	030.17	δόγματα.	δόγματα	δόγματα	δόγμα	noun	SPN	an opinion
+
+A. When therefore we are hindered, or disturbed, or grieved, let us never attribute it to others, but to ourselves; that is, to our own principles.
+B. When, therefore, we are hindered, or disturbed, or grieved, let us never impute it to others, but to ourselves; that is, to our own views.
+C. When then we are impeded or disturbed or grieved, let us never blame others, but ourselves, that is, our opinions.
+D. And so when we are hindered, or disturbed, or distressed, let us never lay the blame on others, but on ourselves, that is, on our own judgements.
+
+# 031
+
+05.01.053	031.01	ἀπαιδεύτου	ἀπαιδεύτου	ἀπαιδεύτου	ἀπαίδευτος	adjective	GSX	of uneducated
+05.01.054	031.02	ἔργον	ἔργον	ἔργον	ἔργον	noun	SSN	action
+05.01.055	031.03	τὸ	τὸ	τό	ὁ	article	SSN	the
+05.01.056	031.04	ἄλλοις	ἄλλοις	ἄλλοις	ἄλλος	adjective	DPY	others
+05.01.057	031.05	ἐγκαλεῖν,	ἐγκαλεῖν	ἐγκαλεῖν	ἐγκαλέω	verb	PAN	to accuse
+05.01.058	031.06	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	at
+05.01.059	031.07	οἷς	οἷς	οἷς	ὅς	pronoun	DPY	which [times]
+05.01.060	031.08	αὐτὸς	αὐτὸς	αὐτός	αὐτός	pronoun	NSM	he
+05.01.061	031.09	πράσσει	πράσσει	πράσσει	πράσσω	verb	PAI.3S	does
+05.01.062	031.10	κακῶς:	κακῶς	κακῶς	κακός	adverb	-	badly
+
+A. An uninstructed person will lay the fault of his own bad condition upon others.
+B. It is the action of an uninstructed person to reproach others for his own misfortunes;
+C. It is the act of an ill- instructed man to blame others for his own bad condition;
+D. To accuse others for one's own misfortunes is a sign of want of education;
+
+# 032
+
+05.01.063	032.01	ἠργμένου	ἠργμένου	ἠργμένου	ἄρχω	verb	XMP.GS-	beginning
+05.01.064	032.02	παιδεύεσθαι	παιδεύεσθαι	παιδεύεσθαι	παιδεύω	verb	PMN	to be educated
+05.01.065	032.03	τὸ	τὸ	τό	ὁ	article	SSN	[he accuses]
+05.01.066	032.04	ἑαυτῷ:	ἑαυτῷ	ἑαυτῷ	ἑαυτοῦ	pronoun	DSY	himself
+
+A. Someone just starting instruction will lay the fault on himself.
+B. of one entering upon instruction, to reproach himself;
+C. it is the act of one who has begun to be instructed, to lay the blame on himself;
+D. to accuse oneself shows that one's education has begun;
+
+# 033
+
+05.01.067	033.01	πεπαιδευμένου	πεπαιδευμένου	πεπαιδευμένου	παιδεύω	verb	XMP.GS-	being educated
+05.01.068	033.02	τὸ	τὸ	τό	ὁ	article	SSN	[he accuses]
+05.01.069	033.03	μήτε	μήτε	μήτε	μήτε	particle	-	neither
+05.01.070	033.04	ἄλλῳ	ἄλλῳ	ἄλλῳ	ἄλλος	adjective	DSY	another
+05.01.071	033.05	μήτε	μήτε	μήτε	μήτε	particle	-	nor
+05.01.072	033.06	ἑαυτῷ.	ἑαυτῷ	ἑαυτῷ	ἑαυτοῦ	pronoun	DSY	himself
+
+A. Some who is perfectly instructed will place blame neither on others nor on himself.
+B. and of one perfectly instructed, to reproach neither others nor himself.
+C. and of one whose instruction is completed, neither to blame another, nor himself.
+D. to accuse neither oneself nor others shows that one's education is complete.
