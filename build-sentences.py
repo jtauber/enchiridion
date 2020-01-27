@@ -19,6 +19,8 @@ with open("glossing.txt") as f:
             current_sentence = line[2:]
             sentence_ids.append(current_sentence)
         elif line[0].isdigit():
+            if len(line.split("\t")) != 9:
+                print(line)
             ref, sent_word, text, word, norm, lemma, pos, analysis, gloss = line.split("\t")
             assert sent_word.startswith(current_sentence.rstrip("b"))
             tokens[current_sentence].append((ref, text, lemma, pos, analysis, gloss))

@@ -566,3 +566,138 @@ A. and thus you will not be disturbed if either of them dies.
 B. — and thus, if either of them dies, you can bear it.
 C. for when the wife or child dies, you will not be disturbed.
 D. for then if death strikes it you will not be disturbed.
+
+# 022
+
+04.01.001	022.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when
+04.01.002	022.02	ἅπτεσθαί	ἅπτεσθαί	ἅπτεσθαί	ἅπτω	verb	PMN	to engage
+04.01.003	022.03	τινος	τινος	τινος	τις	pronoun	GS-	in any
+04.01.004	022.04	ἔργου	ἔργου	ἔργου	ἔργον	noun	GSN	action
+04.01.005	022.05	μέλλῃς,	μέλλῃς	μέλλῃς	μέλλω	verb	PAS.2S	you intend
+04.01.006	022.06	ὑπομίμνῃσκε	ὑπομίμνῃσκε	ὑπομίμνῃσκε	ὑπομιμνήσκω	verb	PAD.2S	remind
+04.01.007	022.07	σεαυτόν,	σεαυτόν	σεαυτόν	σαυτοῦ	pronoun	ASY	yourself
+04.01.008	022.08	ὁποῖόν	ὁποῖόν	ὁποῖόν	ὁποῖος	adjective	SSN	of what sort
+04.01.009	022.09	ἐστι	ἐστι	ἐστί(ν)	εἰμί	verb	PAI.3S	is
+04.01.010	022.10	τὸ	τὸ	τό	ὁ	article	SSN	the
+04.01.011	022.11	ἔργον.	ἔργον	ἔργον	ἔργον	noun	SSN	action
+
+A. When you are going about any action, remind yourself what nature the action is.
+B. When you set about any action, remind yourself of what nature the action is.
+C. When you are going to take in hand any act, remind yourself what kind of an act it is.
+D. When you are about to take something in hand, remind yourself what manner of thing it is.
+
+# 023
+
+04.01.012	023.01	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+04.01.013	023.02	λουσόμενος	λουσόμενος	λουσόμενος	λούω	verb	FMP.NS-	washing
+04.01.014	023.03	ἀπίῃς,	ἀπίῃς	ἀπίῃς	ἄπειμι	verb	PAS.2S	you go
+04.01.015	023.04	πρόβαλλε	πρόβαλλε	πρόβαλλε	προβάλλω	verb	PAD.2S	picture
+04.01.016	023.05	σεαυτῷ	σεαυτῷ	σεαυτῷ	σαυτοῦ	pronoun	DSX	to yourself
+04.01.017	023.06	τὰ	τὰ	τά	ὁ	article	SPN	the
+04.01.018	023.07	γινόμενα	γινόμενα	γινόμενα	γίγνομαι	verb	PMP.SP-	[things] happening
+04.01.019	023.08	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+04.01.020	023.09	βαλανείῳ,	βαλανείῳ	βαλανείῳ	βαλανεῖον	noun	DSN	bathing-room
+04.01.021	023.10	τοὺς	τοὺς	τούς	ὁ	article	APM	the
+04.01.022	023.11	ἀπορραίνοντας,	ἀπορραίνοντας	ἀπορραίνοντας	ἀπορραίνω	verb	PAP.AP-	splashing
+04.01.023	023.12	τοὺς	τοὺς	τούς	ὁ	article	APM	the
+04.01.024	023.13	ἐγκρουομένους,	ἐγκρουομένους	ἐγκρουομένους	ἐγκρούω	verb	PMP.AP-	pushing
+04.01.025	023.14	τοὺς	τοὺς	τούς	ὁ	article	APM	the
+04.01.026	023.15	λοιδοροῦντας,	λοιδοροῦντας	λοιδοροῦντας	λοιδορέω	verb	PAP.AP-	abusing
+04.01.027	023.16	τοὺς	τοὺς	τούς	ὁ	article	APM	the
+04.01.028	023.17	κλέπτοντας.	κλέπτοντας	κλέπτοντας	κλέπτω	verb	PAP.AP-	stealing
+
+A. If you are going to bathe, picture to yourself the things which usually happen in the bath: some people splash the water, some push, some use abusive language, and others steal.
+B. If you are going to bathe, represent to yourself the incidents usual in the bath, - some persons pouring out, others pushing in, others scolding, others pilfering.
+C. If you are going to bathe, place before yourself what happens in the bath: some splashing the water, others pushing against one another, others abusing one another, and some stealing:
+D. If you are going to bathe put before your mind what happens in the bath—water pouring over some, others being jostled,. some reviling, others stealing;
+
+# 024
+
+04.01.029	024.01	καὶ	καὶ	καί	καί	conjunction	-	and
+04.01.030	024.02	οὕτως	οὕτως	οὕτω(ς)	οὕτως	adverb	-	so
+04.01.031	024.03	ἀσφαλέστερον	ἀσφαλέστερον	ἀσφαλέστερον	ἀσφαλής	adverb	-	more safely
+04.01.032	024.04	ἅψῃ	ἅψῃ	ἅψῃ	ἅπτω	verb	FMI.2S	you will engage
+04.01.033	024.05	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	in the
+04.01.034	024.06	ἔργου,	ἔργου	ἔργου	ἔργον	noun	GSN	work
+04.01.035	024.07	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+04.01.036	024.08	ἐπιλέγῃς	ἐπιλέγῃς	ἐπιλέγῃς	ἐπιλέγω	verb	PAS.2S	you say
+04.01.037	024.09	εὐθὺς	εὐθὺς	εὐθύς	εὐθύς	adverb	-	immediately
+04.01.038	024.10	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+04.01.039	024.11	«λούσασθαι	λούσασθαι	λούσασθαι	λούω	verb	AMN	to wash
+04.01.040	024.12	θέλω	θέλω	θέλω	ἐθέλω	verb	PAI.1S	I will
+04.01.041	024.13	καὶ	καὶ	καί	καί	conjunction	-	and
+04.01.042	024.14	τὴν	τὴν	τήν	ὁ	article	ASF	-
+04.01.043	024.15	ἐμαυτοῦ	ἐμαυτοῦ	ἐμαυτοῦ	ἐμαυτοῦ	pronoun	GSY	my own
+04.01.044	024.16	προαίρεσιν	προαίρεσιν	προαίρεσιν	προαίρεσις	noun	ASF	will
+04.01.045	024.17	κατὰ	κατὰ	κατά	κατά	preposition	-	according
+04.01.046	024.18	φύσιν	φύσιν	φύσιν	φύσις	noun	ASF	nature
+04.01.047	024.19	ἔχουσαν	ἔχουσαν	ἔχουσαν	ἔχω	verb	PAP.AS-	having
+04.01.048	024.20	τηρῆσαι.»	τηρῆσαι	τηρῆσαι	τηρέω	verb	AAN	to keep
+
+A. Thus you will more safely go about this action if you say to yourself, "I will now go bathe, and keep my own mind in a state conformable to nature."
+B. And thus you will more safely go about this action, if you say to yourself, " I will now go to bathe, and keep my own will in harmony with nature."
+C. and thus with more safety you will undertake the matter, if you say to yourself, I now intend to bathe, and to maintain my will in a manner conformable to nature.
+D. and you will set to work more securely if you say to yourself at once: 'I want to bathe, and I want to keep my will in harmony with nature,'
+
+# 025
+
+04.01.049	025.01	καὶ	καὶ	καί	καί	conjunction	-	and
+04.01.050	025.02	ὡσαύτως	ὡσαύτως	ὡσαύτως	ὡσαύτως	adverb	-	in like manner
+04.01.051	025.03	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	in
+04.01.052	025.04	ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος	adjective	GSY	every
+04.01.053	025.05	ἔργου.	ἔργου	ἔργου	ἔργον	noun	GSN	action
+
+A. And in the same manner with regard to every other action.
+B. And so with regard to every other action.
+C. And so you will do in every act:
+D. and so in each thing you do;
+
+# 026
+
+04.01.054	026.01	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	thus
+04.01.055	026.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+04.01.056	026.03	ἄν	ἄν	ἄν	ἐάν	conjunction	-	if
+04.01.057	026.04	τι	τι	τι	τις	pronoun	SSN	any
+04.01.058	026.05	πρὸς	πρὸς	πρός	πρός	preposition	-	to
+04.01.059	026.06	τὸ	τὸ	τό	ὁ	article	SSN	the
+04.01.060	026.07	λούσασθαι	λούσασθαι	λούσασθαι	λούω	verb	AMN	to wash
+04.01.061	026.08	γένηται	γένηται	γένηται	γίγνομαι	verb	AMS.3S	arises
+04.01.062	026.09	ἐμποδών,	ἐμποδών	ἐμποδών	ἐμπόδιος	adjective	GPX	hindrance
+04.01.063	026.10	πρόχειρον	πρόχειρον	πρόχειρον	πρόχειρος	adjective	SSN	ready
+04.01.064	026.11	ἔσται	ἔσται	ἔσται	εἰμί	verb	FMI.3S	will be
+04.01.065	026.12	διότι	διότι	διότι	διότι	conjunction	-	since
+04.01.066	026.13	«ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
+04.01.067	026.14	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+04.01.068	026.15	τοῦτο	τοῦτο	τοῦτο	οὗτος	pronoun	SSN	this
+04.01.069	026.16	ἤθελον	ἤθελον	ἤθελον	ἐθέλω	verb	IAI.1S	I wanted
+04.01.070	026.17	μόνον,	μόνον	μόνον	μόνος	adjective	ASM^SSN	only
+04.01.071	026.18	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
+04.01.072	026.19	καὶ	καὶ	καί	καί	conjunction	-	also
+04.01.073	026.20	τὴν	τὴν	τήν	ὁ	article	ASF	the
+04.01.074	026.21	ἐμαυτοῦ	ἐμαυτοῦ	ἐμαυτοῦ	ἐμαυτοῦ	pronoun	GSY	of me
+04.01.075	026.22	προαίρεσιν	προαίρεσιν	προαίρεσιν	προαίρεσις	noun	ASF	will
+04.01.076	026.23	κατὰ	κατὰ	κατά	κατά	preposition	-	according
+04.01.077	026.24	φύσιν	φύσιν	φύσιν	φύσις	noun	ASF	to nature
+04.01.078	026.25	ἔχουσαν	ἔχουσαν	ἔχουσαν	ἔχω	verb	PAP.AS-	having
+04.01.079	026.26	τηρῆσαι:	τηρῆσαι	τηρῆσαι	τηρέω	verb	AAN	to keep
+
+A. For thus, if any hindrance arises in bathing, you will have it ready to say, "It was not only to bathe that I desired, but to keep my mind in a state conformable to nature;
+B. For thus, if any impediment arises in bathing, you will be able to say, "It was not only to bathe that I desired, but to keep my will in harmony with nature;
+C. for thus if any hindrance to bathing shall happen, let this thought be ready: it was not this only that I intended, but I intended also to maintain my will in a way conformable to nature;
+D. for in this way, if anything turns up to hinder you in your bathing, you will be ready to say, 'I did not want only to bathe, but to keep my will in harmony with nature,
+
+# 027
+
+04.01.080	027.01	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+04.01.081	027.02	τηρήσω	τηρήσω	τηρήσω	τηρέω	verb	FAI.1S	I will keep
+04.01.082	027.03	δέ,	δέ	δέ	δέ	particle	-	-
+04.01.083	027.04	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+04.01.084	027.05	ἀγανακτῶ	ἀγανακτῶ	ἀγανακτῶ	ἀγανακτέω	verb	PAS.1S	I am bothered
+04.01.085	027.06	πρὸς	πρὸς	πρός	πρός	preposition	-	by
+04.01.086	027.07	τὰ	τὰ	τά	ὁ	article	SPN	the [things]
+04.01.087	027.08	γινόμενα.»	γινόμενα	γινόμενα	γίγνομαι	verb	PMP.SP-	happening
+
+A. and I will not keep it if I am bothered at things that happen.
+B. and I shall not keep it thus, if I am out of humor at things that happen."
+C. but I shall not maintain it so, if I am vexed at what happens.
+D. and I shall not so keep it, if I lose my temper at what happens'.
