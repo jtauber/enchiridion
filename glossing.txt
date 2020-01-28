@@ -821,3 +821,113 @@ A. Some who is perfectly instructed will place blame neither on others nor on hi
 B. and of one perfectly instructed, to reproach neither others nor himself.
 C. and of one whose instruction is completed, neither to blame another, nor himself.
 D. to accuse neither oneself nor others shows that one's education is complete.
+
+# 034
+
+06.01.001	034.01	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	in
+06.01.002	034.02	μηδενὶ	μηδενὶ	μηδενί	μηδείς	pronoun	DS-	no
+06.01.003	034.03	ἐπαρθῇς	ἐπαρθῇς	ἐπαρθῇς	ἐπαίρω	verb	APS.2S	be elated
+06.01.004	034.04	ἀλλοτρίῳ	ἀλλοτρίῳ	ἀλλοτρίῳ	ἀλλότριος	adjective	DSY	another's
+06.01.005	034.05	προτερήματι.	προτερήματι	προτερήματι	προτέρημα	noun	DSN	excellence
+
+A. Don't be prideful with any excellence that is not your own.
+B. Be not elated at any excellence not your own.
+C. Be not elated at any advantage (excellence), which belongs to another.
+D. Be not elated at an excellence which is not your own.
+
+# 035
+
+06.01.006	035.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+06.01.007	035.02	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+06.01.008	035.03	ἵππος	ἵππος	ἵππος	ἵππος	noun	NSZ	horse
+06.01.009	035.04	ἐπαιρόμενος	ἐπαιρόμενος	ἐπαιρόμενος	ἐπαίρω	verb	PMP.NS-	being elated
+06.01.010	035.05	ἔλεγεν	ἔλεγεν	ἔλεγεν	λέγω	verb	IAI.3S	says
+06.01.011	035.06	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+06.01.012	035.07	«καλός	καλός	καλός	καλός	noun	NSM	beautiful
+06.01.013	035.08	εἰμι,»	εἰμι	εἰμι	εἰμί	verb	PAI.1S	I am
+06.01.014	035.09	οἰστὸν	οἰστὸν	οἰστόν	ὀιστός	adjective	ASM	bearable
+06.01.015	035.10	ἂν	ἂν	ἄν	ἄν	particle	-	would
+06.01.016	035.11	ἦν:	ἦν	ἦν	εἰμί	verb	IAI.3S	it be
+
+A. If a horse should be prideful and say, " I am handsome," it would be supportable.
+B. If a horse should be elated, and say, " I am handsome," it might be endurable.
+C. If a horse when he is elated should say, I am beautiful, one might endure it.
+D. If the horse in his pride were to say, 'I am handsome', we could bear with it.
+
+# 036
+
+06.01.017	036.01	σὺ	σὺ	σύ	σύ	pronoun	NS-	you
+06.01.018	036.02	δέ,	δέ	δέ	δέ	particle	-	-
+06.01.019	036.03	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when
+06.01.020	036.04	λέγῃς	λέγῃς	λέγῃς	λέγω	verb	PAS.2S	says
+06.01.021	036.05	ἐπαιρόμενος	ἐπαιρόμενος	ἐπαιρόμενος	ἐπαίρω	verb	PMP.NS-	being elated
+06.01.022	036.06	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+06.01.023	036.07	«ἵππον	ἵππον	ἵππον	ἵππος	noun	ASM	a horse
+06.01.024	036.08	καλὸν	καλὸν	καλόν	καλός	noun	ASM	beautiful
+06.01.025	036.09	ἔχω,»	ἔχω	ἔχω	ἔχω	verb	PAI.1S	I have
+06.01.026	036.10	ἴσθι,	ἴσθι	ἴσθι	οἷδα	verb	PAD.2S	know
+06.01.027	036.11	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+06.01.028	036.12	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	in
+06.01.029	036.13	ἵππου	ἵππου	ἵππου	ἵππος	noun	GSM	horse's
+06.01.030	036.14	ἀγαθῷ	ἀγαθῷ	ἀγαθῷ	ἀγαθός	adjective	DSY	good
+06.01.031	036.15	ἐπαίρῃ.	ἐπαίρῃ	ἐπαίρῃ	ἐπαίρω	verb	PMI.2S	are you being elated
+
+A. But when you are prideful, and say, " I have a handsome horse," know that you are proud of what is, in fact, only the good of the horse.
+B. But when you are elated, and say, " I have a handsome horse," know that you are elated only on the merit of the horse.
+C. But when you are elated, and say, I have a beautiful horse, you must know that you are elated at having a good horse.
+D. But when you say with pride, 'I have a handsome horse', know that the good horse is the ground of your pride.
+
+# 037
+
+06.01.032	037.01	τί	τί	τί	τίς	pronoun	SSN	what
+06.01.033	037.02	οὖν	οὖν	οὖν	οὖν	particle	-	then
+06.01.034	037.03	ἐστι	ἐστι	ἐστί(ν)	εἰμί	verb	PAI.3S	is
+06.01.035	037.04	σόν;	σόν	σόν	σός	adjective	SSN	yours
+
+A. What, then, is your own?
+B. What then is your own?
+C. What then is your own?
+D. You ask then what you can call your own.
+
+# 038
+
+06.01.036	038.01	χρῆσις	χρῆσις	χρῆσις	χρῆσις	noun	NSF	use
+06.01.037	038.02	φαντασιῶν.	φαντασιῶν	φαντασιῶν	φαντασία	noun	GPF	of appearances
+
+A. Only your reaction to the appearances of things.
+B. The use of the phenomena of existence.
+C. The use of appearances.
+D. The answer is—the way you deal with your impressions.
+
+# 039
+
+06.01.038	039.01	ὥσθ’,	ὥσθ’	ὥστε	ὥστε	conjunction	-	thus
+06.01.039	039.02	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when
+06.01.040	039.03	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+06.01.041	039.04	χρήσει	χρήσει	χρήσει	χρῆσις	noun	DSF	use
+06.01.042	039.05	φαντασιῶν	φαντασιῶν	φαντασιῶν	φαντασία	noun	GPF	of appearances
+06.01.043	039.06	κατὰ	κατὰ	κατά	κατά	preposition	-	according to
+06.01.044	039.07	φύσιν	φύσιν	φύσιν	φύσις	noun	ASF	nature
+06.01.045	039.08	σχῇς,	σχῇς	σχῇς	ἔχω	verb	AAS.2S	you might have
+06.01.046	039.09	τηνικαῦτα	τηνικαῦτα	τηνικαῦτα	τηνικαῦτα	adverb	-	at that time
+06.01.047	039.10	ἐπάρθητι:	ἐπάρθητι	ἐπάρθητι	ἐπαίρω	verb	APD.2S	be elated
+
+A. Thus, when you behave conformably to nature in reaction to how things appear, you will be proud with reason;
+B. So that when you are in harmony with nature in this respect, you will be elated with some reason;
+C. Consequently when in the use of appearances you are conformable to nature, then be elated,
+D. Therefore when you deal with your impressions in accord with nature, then you may be proud indeed,
+
+# 040
+
+06.01.048	040.01	τότε	τότε	τότε	τότε	adverb	-	then
+06.01.049	040.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+06.01.050	040.03	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on
+06.01.051	040.04	σῷ	σῷ	σῷ	σός	adjective	DSY	your own
+06.01.052	040.05	τινι	τινι	τινι	τις	pronoun	DS-	something
+06.01.053	040.06	ἀγαθῷ	ἀγαθῷ	ἀγαθῷ	ἀγαθός	adjective	DSY	good
+06.01.054	040.07	ἐπαρθήσῃ.	ἐπαρθήσῃ	ἐπαρθήσῃ	ἐπαίρω	verb	FPI.2S	will be elated
+
+A. for you will take pride in some good of your own.
+B. for you will be elated at some good of your own.
+C. for then you will be elated at something good which is your own.
+D. for your pride will be in a good which is your own.
