@@ -1052,3 +1052,26 @@ A. But if you are old, never go far from the ship: lest, when you are called, yo
 B. But if you are old, never go far from the ship, lest you should be missing when called for.
 C. But if you are old, do not even go far from the ship, lest when you are called you make default.
 D. And if you are old, never go far from the ship, so that when you are called you may not fail to appear.
+
+# 045
+
+08.01.001	045.01	μὴ	μὴ	μή	μή	conjunction	-	do not
+08.01.002	045.02	ζήτει	ζήτει	ζήτει	ζητέω	verb	PAD.2S	seek
+08.01.003	045.03	τὰ	τὰ	τά	ὁ	article	SPN	the
+08.01.004	045.04	γινόμενα	γινόμενα	γινόμενα	γίγνομαι	verb	PMP.SP-	[things] happening
+08.01.005	045.05	γίνεσθαι	γίνεσθαι	γίνεσθαι	γίγνομαι	verb	PMN	happen
+08.01.006	045.06	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+08.01.007	045.07	θέλεις,	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	you wish
+08.01.008	045.08	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
+08.01.009	045.09	θέλε	θέλε	θέλε	ἐθέλω	verb	PAD.2S	wish
+08.01.010	045.10	τὰ	τὰ	τά	ὁ	article	SPN	the
+08.01.011	045.11	γινόμενα	γινόμενα	γινόμενα	γίγνομαι	verb	PMP.SP-	[things] happening
+08.01.012	045.12	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+08.01.013	045.13	γίνεται	γίνεται	γίνεται	γίγνομαι	verb	PMI.3S	they happen
+08.01.014	045.14	καὶ	καὶ	καί	καί	conjunction	-	and
+08.01.015	045.15	εὐροήσεις.	εὐροήσεις	εὐροήσεις	εὐροέω	verb	FAI.2S	you will flow well
+
+A. Don't demand that things happen as you wish, but wish that they happen as they do happen, and you will go on well.
+B. Demand not that events should happen as you wish; but wish them to happen as they do happen, and you will go on well.
+C. Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.
+D. Ask not that events should happen as you will, but let your will be that events should happen as they do, and you shall have peace.
