@@ -606,95 +606,95 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 06.01.052	040.05	τινι	τινι	τινι	τις	pronoun	DS-	something
 06.01.053	040.06	ἀγαθῷ	ἀγαθῷ	ἀγαθῷ	ἀγαθός	adjective	DSY	good
 06.01.054	040.07	ἐπαρθήσῃ.	ἐπαρθήσῃ	ἐπαρθήσῃ	ἐπαίρω	verb	FPI.2S	will be elated
-07.01.001	041.01	καθάπερ	καθάπερ	καθάπερ	καθά	adverb	-	according as, just as
-07.01.002	041.02	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
-07.01.003	041.03	πλῷ	πλῷ	πλῷ	πλόος	noun	DSM	a sailing, voyage
+07.01.001	041.01	καθάπερ	καθάπερ	καθάπερ	καθάπερ	adverb	-	just as
+07.01.002	041.02	ἐν	ἐν	ἐν	ἐν	preposition	-	on
+07.01.003	041.03	πλῷ	πλῷ	πλῷ	πλόος	noun	DSM	a sailing voyage
 07.01.004	041.04	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
-07.01.005	041.05	πλοίου	πλοίου	πλοίου	πλοῖον	noun	GSN	a floating vessel, a ship, vessel
-07.01.006	041.06	καθορμισθέντος	καθορμισθέντος	καθορμισθέντος	καθορμίζω	verb	APP.GS-^APP.GS-	to bring
-07.01.007	041.07	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
-07.01.008	041.08	ἐξέλθοις	ἐξέλθοις	ἐξέλθοις	ἐξέρχομαι	verb	AAO.2S	to go out, come out
-07.01.009	041.09	ὑδρεύσασθαι,	ὑδρεύσασθαι	ὑδρεύσασθαι	-	-	-	-
-07.01.010	041.10	ὁδοῦ	ὁδοῦ	ὁδοῦ	ὁδός	adjective	GSM	a way, path, track, journey
-07.01.011	041.11	μὲν	μὲν	μέν	μέν	particle	-	on the one hand, on the other hand
-07.01.012	041.12	πάρεργον	πάρεργον	πάρεργον	πάρεργος	adjective	ASZ^SSN	beside the main subject, subordinate, incidental
-07.01.013	041.13	καὶ	καὶ	καί	καί	conjunction	-	and, also
-07.01.014	041.14	κοχλίδιον	κοχλίδιον	κοχλίδιον	κοχλίδιον	noun	SSN	-
-07.01.015	041.15	ἀναλέξῃ	ἀναλέξῃ	ἀναλέξῃ	ἀναλέγω	verb	AMS.2S^FMI.2S	to pick up, gather up
-07.01.016	041.16	καὶ	καὶ	καί	καί	conjunction	-	and, also
-07.01.017	041.17	βολβάριον,	βολβάριον	βολβάριον	βολβάριον	noun	SSN	small cuttle-fish
+07.01.005	041.05	πλοίου	πλοίου	πλοίου	πλοῖον	noun	GSN	ship
+07.01.006	041.06	καθορμισθέντος	καθορμισθέντος	καθορμισθέντος	καθορμίζω	verb	APP.GS	being brought into harbour
+07.01.007	041.07	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+07.01.008	041.08	ἐξέλθοις	ἐξέλθοις	ἐξέλθοις	ἐξέρχομαι	verb	AAO.2S	you wish to go out
+07.01.009	041.09	ὑδρεύσασθαι,	ὑδρεύσασθαι	ὑδρεύσασθαι	ὑδρεύω	noun	AMN	to get water
+07.01.010	041.10	ὁδοῦ	ὁδοῦ	ὁδοῦ	ὁδός	adjective	GSM	of the journey
+07.01.011	041.11	μὲν	μὲν	μέν	μέν	particle	-	-
+07.01.012	041.12	πάρεργον	πάρεργον	πάρεργον	πάρεργος	adjective	SSN	side-action
+07.01.013	041.13	καὶ	καὶ	καί	καί	conjunction	-	both
+07.01.014	041.14	κοχλίδιον	κοχλίδιον	κοχλίδιον	κοχλίδιον	noun	SSN	shellfish
+07.01.015	041.15	ἀναλέξῃ	ἀναλέξῃ	ἀναλέξῃ	ἀναλέγω	verb	FMI.2S	to pick up
+07.01.016	041.16	καὶ	καὶ	καί	καί	conjunction	-	and
+07.01.017	041.17	βολβάριον,	βολβάριον	βολβάριον	βολβάριον	noun	SSN	bulb
 07.01.018	041.18	τετάσθαι	τετάσθαι	τετάσθαι	τείνω	verb	XMN	to stretch
 07.01.019	041.19	δὲ	δὲ	δέ	δέ	particle	-	but
-07.01.020	041.20	δεῖ	δεῖ	δεῖ	δέομαι	verb	PMI.2S	lack
+07.01.020	041.20	δεῖ	δεῖ	δεῖ	δεῖ	verb	PAI.3S	must
 07.01.021	041.21	τὴν	τὴν	τήν	ὁ	article	ASF	the
-07.01.022	041.22	διάνοιαν	διάνοιαν	διάνοιαν	διάνοια	noun	ASF	a thought, intention, purpose
-07.01.023	041.23	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
+07.01.022	041.22	διάνοιαν	διάνοιαν	διάνοιαν	διάνοια	noun	ASF	attention
+07.01.023	041.23	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on
 07.01.024	041.24	τὸ	τὸ	τό	ὁ	article	SSN	the
-07.01.025	041.25	πλοῖον	πλοῖον	πλοῖον	πλοῖον	noun	SSN	a floating vessel, a ship, vessel
-07.01.026	041.26	καὶ	καὶ	καί	καί	conjunction	-	and, also
-07.01.027	041.27	συνεχῶς	συνεχῶς	συνεχῶς	συνεχής	adverb	-	holding together
-07.01.028	041.28	ἐπιστρέφεσθαι,	ἐπιστρέφεσθαι	ἐπιστρέφεσθαι	ἐπιστρέφω	verb	PMN	to turn about, turn round
+07.01.025	041.25	πλοῖον	πλοῖον	πλοῖον	πλοῖον	noun	SSN	ship
+07.01.026	041.26	καὶ	καὶ	καί	καί	conjunction	-	and
+07.01.027	041.27	συνεχῶς	συνεχῶς	συνεχῶς	συνεχῶς	adverb	-	constantly
+07.01.028	041.28	ἐπιστρέφεσθαι,	ἐπιστρέφεσθαι	ἐπιστρέφεσθαι	ἐπιστρέφω	verb	PMN	to turn around
 07.01.029	041.29	μή	μή	μή	μή	conjunction	-	not
-07.01.030	041.30	ποτε	ποτε	ποτέ	ποτέ	particle	-	-
+07.01.030	041.30	ποτε	ποτε	ποτέ	ποτέ	particle	-	when
 07.01.031	041.31	ὁ	ὁ	ὁ	ὁ	article	NSM	the
-07.01.032	041.32	κυβερνήτης	κυβερνήτης	κυβερνήτης	κυβερνήτης	noun	NSM	a steersman, helmsman, pilot
-07.01.033	041.33	καλέσῃ,	καλέσῃ	καλέσῃ	καλέω	verb	AMS.2S^AAS.3S^FMI.2S	to call, summon
-07.01.034	041.34	κἂν	κἂν	κἄν	κἀν	conjunction	-	crasis of καὶ ἐν
-07.01.035	041.35	καλέσῃ,	καλέσῃ	καλέσῃ	καλέω	verb	AMS.2S^AAS.3S^FMI.2S	to call, summon
-07.01.036	041.36	πάντα	πάντα	πάντα	πᾶς	adjective	ASM^SPN	all, the whole
-07.01.037	041.37	ἐκεῖνα	ἐκεῖνα	ἐκεῖνα	ἐκεῖνος	pronoun	SPN	that over there, that
-07.01.038	041.38	ἀφιέναι,	ἀφιέναι	ἀφιέναι	ἀφίημι	verb	PAN	to send forth, discharge
-07.01.039	041.39	ἵνα	ἵνα	ἵνα	ἵνα	conjunction	-	in order that (conj.); where (rel. adv.)
+07.01.032	041.32	κυβερνήτης	κυβερνήτης	κυβερνήτης	κυβερνήτης	noun	NSM	helmsman
+07.01.033	041.33	καλέσῃ,	καλέσῃ	καλέσῃ	καλέω	verb	AAS.3S	calls
+07.01.034	041.34	κἂν	κἂν	κἄν	κἀν	conjunction	-	-
+07.01.035	041.35	καλέσῃ,	καλέσῃ	καλέσῃ	καλέω	verb	AAS.3S	calls
+07.01.036	041.36	πάντα	πάντα	πάντα	πᾶς	adjective	SPN	all
+07.01.037	041.37	ἐκεῖνα	ἐκεῖνα	ἐκεῖνα	ἐκεῖνος	pronoun	SPN	those
+07.01.038	041.38	ἀφιέναι,	ἀφιέναι	ἀφιέναι	ἀφίημι	verb	PAN	[must] leave
+07.01.039	041.39	ἵνα	ἵνα	ἵνα	ἵνα	conjunction	-	so as
 07.01.040	041.40	μὴ	μὴ	μή	μή	conjunction	-	not
-07.01.041	041.41	δεδεμένος	δεδεμένος	δεδεμένος	δέω	verb	XMP.NS-	to bind, tie, fetter
-07.01.042	041.42	ἐμβληθῇς	ἐμβληθῇς	ἐμβληθῇς	ἐμβάλλω	verb	APS.2S	to throw in, put in
-07.01.043	041.43	ὡς	ὡς	ὡς	ὡς	conjunction	-	as, how
-07.01.044	041.44	τὰ	τὰ	τά	ὁ	article	APN^SPN^ADF^SDF	the
-07.01.045	041.45	πρόβατα:	πρόβατα	πρόβατα	πρόβατον	noun	SPN	sheep; small cattle
-07.01.046	042.01	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	so, in this manner
-07.01.047	042.02	καὶ	καὶ	καί	καί	conjunction	-	and, also
-07.01.048	042.03	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
-07.01.049	042.04	τῷ	τῷ	τῷ	ὁ	article	DSY	the
+07.01.041	041.41	δεδεμένος	δεδεμένος	δεδεμένος	δέω	verb	XMP.NS-	being tied up
+07.01.042	041.42	ἐμβληθῇς	ἐμβληθῇς	ἐμβληθῇς	ἐμβάλλω	verb	APS.2S	you be thrown
+07.01.043	041.43	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+07.01.044	041.44	τὰ	τὰ	τά	ὁ	article	SPN	the
+07.01.045	041.45	πρόβατα:	πρόβατα	πρόβατα	πρόβατον	noun	SPN	sheep
+07.01.046	042.01	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	so
+07.01.047	042.02	καὶ	καὶ	καί	καί	conjunction	-	also
+07.01.048	042.03	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+07.01.049	042.04	τῷ	τῷ	τῷ	ὁ	article	DSY	-
 07.01.050	042.05	βίῳ,	βίῳ	βίῳ	βίος	adjective	DSM	life
 07.01.051	042.06	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
-07.01.052	042.07	διδῶται	διδῶται	διδῶται	δίδωμι	verb	PMS.3S	to give
-07.01.053	042.08	ἀντὶ	ἀντὶ	ἀντί	ἀντί	preposition	-	over against, opposite. c. gen.
-07.01.054	042.09	βολβαρίου	βολβαρίου	βολβαρίου	βολβάριον	noun	GSN	small cuttle-fish
-07.01.055	042.10	καὶ	καὶ	καί	καί	conjunction	-	and, also
-07.01.056	042.11	κοχλιδίου	κοχλιδίου	κοχλιδίου	κοχλίδιον	noun	GSN	-
-07.01.057	042.12	γυναικάριον	γυναικάριον	γυναικάριον	γυναικάριον	noun	SSN	-
-07.01.058	042.13	καὶ	καὶ	καί	καί	conjunction	-	and, also
+07.01.052	042.07	διδῶται	διδῶται	διδῶται	δίδωμι	verb	PMS.3S	you are given
+07.01.053	042.08	ἀντὶ	ἀντὶ	ἀντί	ἀντί	preposition	-	instead of
+07.01.054	042.09	βολβαρίου	βολβαρίου	βολβαρίου	βολβάριον	noun	GSN	a bulb
+07.01.055	042.10	καὶ	καὶ	καί	καί	conjunction	-	and
+07.01.056	042.11	κοχλιδίου	κοχλιδίου	κοχλιδίου	κοχλίδιον	noun	GSN	a shellfish
+07.01.057	042.12	γυναικάριον	γυναικάριον	γυναικάριον	γυναικάριον	noun	SSN	a wife
+07.01.058	042.13	καὶ	καὶ	καί	καί	conjunction	-	and
 07.01.059	042.14	παιδίον,	παιδίον	παιδίον	παιδίον	noun	SSN	a child
-07.01.060	042.15	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	not one, nobody
-07.01.061	042.16	κωλύσει:	κωλύσει	κωλύσει	κώλυσις	noun	SDF^DSF^SDF^DSF^DSF	prevention
+07.01.060	042.15	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	nothing
+07.01.061	042.16	κωλύσει:	κωλύσει	κωλύσει	κωλύω	verb	FAI.3S	will prevent
 07.01.062	043.01	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
 07.01.063	043.02	δὲ	δὲ	δέ	δέ	particle	-	but
 07.01.064	043.03	ὁ	ὁ	ὁ	ὁ	article	NSM	the
-07.01.065	043.04	κυβερνήτης	κυβερνήτης	κυβερνήτης	κυβερνήτης	noun	NSM	a steersman, helmsman, pilot
-07.01.066	043.05	καλέσῃ,	καλέσῃ	καλέσῃ	καλέω	verb	AMS.2S^AAS.3S^FMI.2S	to call, summon
-07.01.067	043.06	τρέχε	τρέχε	τρέχε	τρέχω	verb	PAD.2S^IAI.3S	to run
-07.01.068	043.07	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
+07.01.065	043.04	κυβερνήτης	κυβερνήτης	κυβερνήτης	κυβερνήτης	noun	NSM	helmsman
+07.01.066	043.05	καλέσῃ,	καλέσῃ	καλέσῃ	καλέω	verb	AAS.3S	calls
+07.01.067	043.06	τρέχε	τρέχε	τρέχε	τρέχω	verb	PAD.2S	run
+07.01.068	043.07	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on to
 07.01.069	043.08	τὸ	τὸ	τό	ὁ	article	SSN	the
-07.01.070	043.09	πλοῖον	πλοῖον	πλοῖον	πλοῖον	noun	SSN	a floating vessel, a ship, vessel
-07.01.071	043.10	ἀφεὶς	ἀφεὶς	ἀφείς	ἀφίημι	verb	AAP.NS-	to send forth, discharge
-07.01.072	043.11	ἐκεῖνα	ἐκεῖνα	ἐκεῖνα	ἐκεῖνος	pronoun	SPN	that over there, that
-07.01.073	043.12	ἅπαντα	ἅπαντα	ἅπαντα	ἅπας	adjective	SPN^ASM	quite all, the whole
-07.01.074	043.13	μηδὲ	μηδὲ	μηδέ	μηδέ	particle	-	but not
-07.01.075	043.14	ἐπιστρεφόμενος.	ἐπιστρεφόμενος	ἐπιστρεφόμενος	ἐπιστρέφω	verb	PMP.NS-	to turn about, turn round
+07.01.070	043.09	πλοῖον	πλοῖον	πλοῖον	πλοῖον	noun	SSN	ship
+07.01.071	043.10	ἀφεὶς	ἀφεὶς	ἀφείς	ἀφίημι	verb	AAP.NS-	leave
+07.01.072	043.11	ἐκεῖνα	ἐκεῖνα	ἐκεῖνα	ἐκεῖνος	pronoun	SPN	them
+07.01.073	043.12	ἅπαντα	ἅπαντα	ἅπαντα	ἅπας	adjective	SPN	all
+07.01.074	043.13	μηδὲ	μηδὲ	μηδέ	μηδέ	particle	-	not
+07.01.075	043.14	ἐπιστρεφόμενος.	ἐπιστρεφόμενος	ἐπιστρεφόμενος	ἐπιστρέφω	verb	PMP.NS-	turning around
 07.01.076	044.01	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
 07.01.077	044.02	δὲ	δὲ	δέ	δέ	particle	-	but
-07.01.078	044.03	γέρων	γέρων	γέρων	γέρων	noun	NSM	an old man (in apposition as adj., old)
-07.01.079	044.04	ᾖς,	ᾖς	ᾖς	εἰμί	verb	PAS.2S	to be
-07.01.080	044.05	μηδὲ	μηδὲ	μηδέ	μηδέ	particle	-	but not
-07.01.081	044.06	ἀπαλλαγῇς	ἀπαλλαγῇς	ἀπαλλαγῇς	ἀπαλλάσσω	verb	APS.2S^APS.2S	to set free, release, deliver
-07.01.082	044.07	ποτε	ποτε	ποτέ	ποτέ	particle	-	-
+07.01.078	044.03	γέρων	γέρων	γέρων	γέρων	noun	NSM	an old man
+07.01.079	044.04	ᾖς,	ᾖς	ᾖς	εἰμί	verb	PAS.2S	you are
+07.01.080	044.05	μηδὲ	μηδὲ	μηδέ	μηδέ	particle	-	don't
+07.01.081	044.06	ἀπαλλαγῇς	ἀπαλλαγῇς	ἀπαλλαγῇς	ἀπαλλάσσω	verb	APS.2S	leave
+07.01.082	044.07	ποτε	ποτε	ποτέ	ποτέ	particle	-	ever
 07.01.083	044.08	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
 07.01.084	044.09	πλοίου	πλοίου	πλοίου	πλοῖον	noun	GSN	a floating vessel, a ship, vessel
-07.01.085	044.10	μακράν,	μακράν	μακράν	μακρός	adjective	ASF	long
-07.01.086	044.11	μή	μή	μή	μή	conjunction	-	not
-07.01.087	044.12	ποτε	ποτε	ποτέ	ποτέ	particle	-	-
-07.01.088	044.13	καλοῦντος	καλοῦντος	καλοῦντος	καλέω	verb	FAP.GS-^PAP.GS-	to call, summon
-07.01.089	044.14	ἐλλίπῃς.	ἐλλίπῃς	ἐλλίπῃς	ἐλλείπω	verb	AAS.2S	to leave in, leave behind
+07.01.085	044.10	μακράν,	μακράν	μακράν	μακρός	adjective	ASF	far
+07.01.086	044.11	μή	μή	μή	μή	conjunction	-	lest
+07.01.087	044.12	ποτε	ποτε	ποτέ	ποτέ	particle	-	when
+07.01.088	044.13	καλοῦντος	καλοῦντος	καλοῦντος	καλέω	verb	PAP.GS-	[captain] calling
+07.01.089	044.14	ἐλλίπῃς.	ἐλλίπῃς	ἐλλίπῃς	ἐλλείπω	verb	AAS.2S	you fall behind
 08.01.001	045.01	μὴ	μὴ	μή	μή	conjunction	-	not
 08.01.002	045.02	ζήτει	ζήτει	ζήτει	ζητέω	verb	PAD.2S^IAI.3S	to seek, seek for
 08.01.003	045.03	τὰ	τὰ	τά	ὁ	article	APN^SPN^ADF^SDF	the
