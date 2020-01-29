@@ -1041,7 +1041,7 @@ D. Only, if the Helmsman call, run back to your ship, leave all else, and do not
 07.01.081	044.06	ἀπαλλαγῇς	ἀπαλλαγῇς	ἀπαλλαγῇς	ἀπαλλάσσω	verb	APS.2S	leave
 07.01.082	044.07	ποτε	ποτε	ποτέ	ποτέ	particle	-	ever
 07.01.083	044.08	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
-07.01.084	044.09	πλοίου	πλοίου	πλοίου	πλοῖον	noun	GSN	a floating vessel, a ship, vessel
+07.01.084	044.09	πλοίου	πλοίου	πλοίου	πλοῖον	noun	GSN	ship
 07.01.085	044.10	μακράν,	μακράν	μακράν	μακρός	adjective	ASF	far
 07.01.086	044.11	μή	μή	μή	μή	conjunction	-	lest
 07.01.087	044.12	ποτε	ποτε	ποτέ	ποτέ	particle	-	when
