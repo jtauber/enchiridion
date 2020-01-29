@@ -704,7 +704,7 @@ D. and I shall not so keep it, if I lose my temper at what happens'.
 
 # 028
 
-05.01.001	028.01	ταράσσει	ταράσσει	ταράσσει	ταράσσω	verb	PAI.3S	disturb
+05.01.001	028.01	ταράσσει	ταράσσει	ταράσσει	ταράσσω	verb	PAI.3S	disturbs
 05.01.002	028.02	τοὺς	τοὺς	τούς	ὁ	article	APM	the
 05.01.003	028.03	ἀνθρώπους	ἀνθρώπους	ἀνθρώπους	ἄνθρωπος	noun	APM	person
 05.01.004	028.04	οὐ	οὐ	οὐ	οὐ	adverb	-	not
