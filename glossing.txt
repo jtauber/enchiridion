@@ -1141,3 +1141,86 @@ A. then you will see such obstacles as hindrances to something else, but not to 
 B. For you will find it to be an impediment to something else, but not truly to yourself.
 C. for you will find it an impediment to something else, but not to yourself.
 D. for you shall find that though it hinders something else it will not hinder you.
+
+# 050
+
+10.01.001	050.01	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	upon
+10.01.002	050.02	ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος	adjective	GSY	each
+10.01.003	050.03	τῶν	τῶν	τῶν	ὁ	article	GPX	thing
+10.01.004	050.04	προσπιπτόντων	προσπιπτόντων	προσπιπτόντων	προσπίπτω	verb	PAP.GP-	happening
+10.01.005	050.05	μέμνησο	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S	remember
+10.01.006	050.06	ἐπιστρέφων	ἐπιστρέφων	ἐπιστρέφων	ἐπιστρέφω	verb	PAP.NS-	turning around
+10.01.007	050.07	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	upon
+10.01.008	050.08	σεαυτὸν	σεαυτὸν	σεαυτόν	σαυτοῦ	pronoun	ASY	youself
+10.01.009	050.09	ζητεῖν,	ζητεῖν	ζητεῖν	ζητέω	verb	PAN	to seek
+10.01.010	050.10	τίνα	τίνα	τίνα	τίς	pronoun	SPN	what
+10.01.011	050.11	δύναμιν	δύναμιν	δύναμιν	δύναμις	adjective	ASF	ability
+10.01.012	050.12	ἔχεις	ἔχεις	ἔχεις	ἔχω	verb	PAI.2S	you have
+10.01.013	050.13	πρὸς	πρὸς	πρός	πρός	preposition	-	regarding
+10.01.014	050.14	τὴν	τὴν	τήν	ὁ	article	ASF	the
+10.01.015	050.15	χρῆσιν	χρῆσιν	χρῆσιν	χρῆσις	noun	ASF	use
+10.01.016	050.16	αὐτοῦ.	αὐτοῦ	αὐτοῦ	αὐτός	pronoun	GSY	of it
+
+A. With every accident, ask yourself what abilities you have for making a proper use of it.
+B. Upon every accident, remember to turn towards yourself and inquire what faculty you have for its use.
+C. On the occasion of every accident (event) that befals you, remember to turn to yourself and inquire what power you have for turning it to use.
+D. When anything happens to you, always remember to turn to yourself and ask what faculty you have to deal with it.
+
+# 051
+
+10.01.017	051.01	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+10.01.018	051.02	καλὸν	καλὸν	καλόν	καλός	noun	ASM	beautiful man
+10.01.019	051.03	ἴδῃς	ἴδῃς	ἴδῃς	εἶδον	verb	AAS.2S	you see
+10.01.020	051.04	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+10.01.021	051.05	καλήν,	καλήν	καλήν	καλός	noun	ASF	beautiful woman
+10.01.022	051.06	εὑρήσεις	εὑρήσεις	εὑρήσεις	εὑρίσκω	verb	FAI.2S	you will find
+10.01.023	051.07	δύναμιν	δύναμιν	δύναμιν	δύναμις	adjective	ASF	ability
+10.01.024	051.08	πρὸς	πρὸς	πρός	πρός	preposition	-	regarding
+10.01.025	051.09	ταῦτα	ταῦτα	ταῦτα	οὗτος	pronoun	SPN	this
+10.01.026	051.10	ἐγκράτειαν:	ἐγκράτειαν	ἐγκράτειαν	ἐγκράτεια	adjective	ASF	[to be] self-restraint.
+
+A. If you see an attractive person, you will find that self-restraint is the ability you have against your desire.
+B. If you encounter a handsome person, you will find continence the faculty needed;
+C. If you see a fair man or a fair woman, you will find that the power to resist is temperance (continence).
+D. If you see a beautiful boy or a beautiful woman, you will find continence the faculty to exercise there;
+
+# 052
+
+10.01.027	052.01	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+10.01.028	052.02	πόνος	πόνος	πόνος	πόνος	noun	NSM	labour
+10.01.029	052.03	προσφέρηται,	προσφέρηται	προσφέρηται	προσφέρω	verb	PMS.3S	is presented
+10.01.030	052.04	εὑρήσεις	εὑρήσεις	εὑρήσεις	εὑρίσκω	verb	FAI.2S	you will find
+10.01.031	052.05	καρτερίαν:	καρτερίαν	καρτερίαν	καρτερία	noun	ASF	endurance
+
+A. If you are in pain, you will find fortitude.
+B. if pain, then fortitude;
+C. If labour (pain) be presented to you, you will find that it is endurance.
+D. if trouble is laid on you, you will find endurance;
+
+# 053
+
+10.01.032	053.01	ἂν	ἂν	ἄν	ἐάν	conjunction	-	if
+10.01.033	053.02	λοιδορία,	λοιδορία	λοιδορία	λοιδορία	noun	NSF	an abusive word
+10.01.034	053.03	εὑρήσεις	εὑρήσεις	εὑρήσεις	εὑρίσκω	verb	FAI.2S	you will find
+10.01.035	053.04	ἀνεξικακίαν.	ἀνεξικακίαν	ἀνεξικακίαν	ἀνεξικακία	noun	ASF	patience
+
+A. If you hear unpleasant language, you will find patience.
+B. if reviling, then patience.
+C. If it be abusive words, you will find it to be patience.
+D. if ribaldry, you will find patience.
+
+# 054
+
+10.01.036	054.01	καὶ	καὶ	καί	καί	conjunction	-	and
+10.01.037	054.02	οὕτως	οὕτως	οὕτω(ς)	οὕτως	adverb	-	so
+10.01.038	054.03	ἐθιζόμενόν	ἐθιζόμενόν	ἐθιζόμενόν	ἐθίζω	verb	PMP.AS-	[when] accustomed
+10.01.039	054.04	σε	σε	σε	σύ	pronoun	AS-	you
+10.01.040	054.05	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+10.01.041	054.06	συναρπάσουσιν	συναρπάσουσιν	συναρπάσουσιν	συναρπάζω	verb	FAI.3P	will carry away
+10.01.042	054.07	αἱ	αἱ	αἱ	ὁ	article	NPF	the
+10.01.043	054.08	φαντασίαι.	φαντασίαι	φαντασίαι	φαντασία	noun	NPF	appearances of things
+
+A. And thus habituated, the appearances of things will not hurry you away along with them.
+B. And when thus habituated, the phenomena of existence will not overwhelm you.
+C. And if you have been thus formed to the (proper) habit, the appearances will not carry you along with them.
+D. And if you train yourself in this habit your impressions will not carry you away.
