@@ -710,39 +710,39 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 08.01.013	045.13	γίνεται	γίνεται	γίνεται	γίγνομαι	verb	PMI.3S	they happen
 08.01.014	045.14	καὶ	καὶ	καί	καί	conjunction	-	and
 08.01.015	045.15	εὐροήσεις.	εὐροήσεις	εὐροήσεις	εὐροέω	verb	FAI.2S	you will flow well
-09.01.001	046.01	νόσος	νόσος	νόσος	νόσος	noun	NSF	sickness, disease, malady
-09.01.002	046.02	σώματός	σώματός	σώματός	σῶμα	adjective	GSN	the body
-09.01.003	046.03	ἐστιν	ἐστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	to be
-09.01.004	046.04	ἐμπόδιον,	ἐμπόδιον	ἐμπόδιον	ἐμπόδιος	adjective	ASZ^SSN	at one's feet, coming in the way, meeting
-09.01.005	046.05	προαιρέσεως	προαιρέσεως	προαιρέσεως	προαίρεσις	noun	GSF	a choosing
-09.01.006	046.06	δὲ	δὲ	δέ	δέ	particle	-	but
+09.01.001	046.01	νόσος	νόσος	νόσος	νόσος	noun	NSF	sickness
+09.01.002	046.02	σώματός	σώματός	σώματός	σῶμα	adjective	GSN	of body
+09.01.003	046.03	ἐστιν	ἐστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	is
+09.01.004	046.04	ἐμπόδιον,	ἐμπόδιον	ἐμπόδιον	ἐμπόδιος	adjective	SSN	an impediment
+09.01.005	046.05	προαιρέσεως	προαιρέσεως	προαιρέσεως	προαίρεσις	noun	GSF	of will
+09.01.006	046.06	δὲ	δὲ	δέ	δέ	particle	-	-
 09.01.007	046.07	οὔ,	οὔ	οὔ	οὐ	adverb	-	not
-09.01.008	046.08	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
-09.01.009	046.09	μὴ	μὴ	μή	μή	conjunction	-	not
-09.01.010	046.10	αὐτὴ	αὐτὴ	αὐτή	αὐτός	pronoun	NSF	unemph. 3rd pers.pronoun; -self; [the] same
-09.01.011	046.11	θέλῃ.	θέλῃ	θέλῃ	ἐθέλω	verb	PMS.2S^PMI.2S^PAS.3S	to will, wish, purpose
+09.01.008	046.08	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	unless
+09.01.009	046.09	μὴ	μὴ	μή	μή	conjunction	-	<
+09.01.010	046.10	αὐτὴ	αὐτὴ	αὐτή	αὐτός	pronoun	NSF	that
+09.01.011	046.11	θέλῃ.	θέλῃ	θέλῃ	ἐθέλω	verb	PAS.3S	he wishes
 09.01.012	047.01	χώλανσις	χώλανσις	χώλανσις	χώλανσις	noun	NSF	lameness
-09.01.013	047.02	σκέλους	σκέλους	σκέλους	σκέλος	noun	GSN	the leg
-09.01.014	047.03	ἐστὶν	ἐστὶν	ἐστί(ν)	εἰμί	verb	PAI.3S	to be
-09.01.015	047.04	ἐμπόδιον,	ἐμπόδιον	ἐμπόδιον	ἐμπόδιος	adjective	ASZ^SSN	at one's feet, coming in the way, meeting
-09.01.016	047.05	προαιρέσεως	προαιρέσεως	προαιρέσεως	προαίρεσις	noun	GSF	a choosing
-09.01.017	047.06	δὲ	δὲ	δέ	δέ	particle	-	but
+09.01.013	047.02	σκέλους	σκέλους	σκέλους	σκέλος	noun	GSN	of the leg
+09.01.014	047.03	ἐστὶν	ἐστὶν	ἐστί(ν)	εἰμί	verb	PAI.3S	is
+09.01.015	047.04	ἐμπόδιον,	ἐμπόδιον	ἐμπόδιον	ἐμπόδιος	adjective	SSN	an impediment
+09.01.016	047.05	προαιρέσεως	προαιρέσεως	προαιρέσεως	προαίρεσις	noun	GSF	of will
+09.01.017	047.06	δὲ	δὲ	δέ	δέ	particle	-	-
 09.01.018	047.07	οὔ.	οὔ	οὔ	οὐ	adverb	-	not
-09.01.019	048.01	καὶ	καὶ	καί	καί	conjunction	-	and, also
-09.01.020	048.02	τοῦτο	τοῦτο	τοῦτο	οὗτος	pronoun	SSN	this; that
-09.01.021	048.03	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
-09.01.022	048.04	ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος	adjective	GSY	every, every one, each, each one
-09.01.023	048.05	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
-09.01.024	048.06	ἐμπιπτόντων	ἐμπιπτόντων	ἐμπιπτόντων	ἐμπίτνω	verb	PAP.GP-^PAD.3P	fall upon
-09.01.025	048.07	ἐπίλεγε:	ἐπίλεγε	ἐπίλεγε	ἐπιλέγω	verb	PAD.2S^IAI.3S	say in connexion with; to choose; to think over
-09.01.026	049.01	εὑρήσεις	εὑρήσεις	εὑρήσεις	εὑρίσκω	verb	FAI.2S	to find
+09.01.019	048.01	καὶ	καὶ	καί	καί	conjunction	-	and
+09.01.020	048.02	τοῦτο	τοῦτο	τοῦτο	οὗτος	pronoun	SSN	this
+09.01.021	048.03	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on
+09.01.022	048.04	ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος	adjective	GSY	each
+09.01.023	048.05	τῶν	τῶν	τῶν	ὁ	article	GPX	of the
+09.01.024	048.06	ἐμπιπτόντων	ἐμπιπτόντων	ἐμπιπτόντων	ἐμπίπτω	verb	PAP.GP-	[things] happening
+09.01.025	048.07	ἐπίλεγε:	ἐπίλεγε	ἐπίλεγε	ἐπιλέγω	verb	PAD.2S	say
+09.01.026	049.01	εὑρήσεις	εὑρήσεις	εὑρήσεις	εὑρίσκω	verb	FAI.2S	you will find
 09.01.027	049.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
-09.01.028	049.03	αὐτὸ	αὐτὸ	αὐτό	αὐτός	pronoun	SSN	unemph. 3rd pers.pronoun; -self; [the] same
-09.01.029	049.04	ἄλλου	ἄλλου	ἄλλου	ἄλλος	adjective	GSN^GSM	other, another
-09.01.030	049.05	τινὸς	τινὸς	τινός	τις	pronoun	GS-	any one, any thing, some one, some thing;
-09.01.031	049.06	ἐμπόδιον,	ἐμπόδιον	ἐμπόδιον	ἐμπόδιος	adjective	ASZ^SSN	at one's feet, coming in the way, meeting
-09.01.032	049.07	σὸν	σὸν	σόν	σός	adjective	ASM^SSN	your
-09.01.033	049.08	δὲ	δὲ	δέ	δέ	particle	-	but
+09.01.028	049.03	αὐτὸ	αὐτὸ	αὐτό	αὐτός	pronoun	SSN	it
+09.01.029	049.04	ἄλλου	ἄλλου	ἄλλου	ἄλλος	adjective	GSY	other
+09.01.030	049.05	τινὸς	τινὸς	τινός	τις	pronoun	GS-	something
+09.01.031	049.06	ἐμπόδιον,	ἐμπόδιον	ἐμπόδιον	ἐμπόδιος	adjective	SSN	an impediment
+09.01.032	049.07	σὸν	σὸν	σόν	σός	adjective	ASM	to you
+09.01.033	049.08	δὲ	δὲ	δέ	δέ	particle	-	-
 09.01.034	049.09	οὔ.	οὔ	οὔ	οὐ	adverb	-	not
 10.01.001	050.01	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
 10.01.002	050.02	ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος	adjective	GSY	every, every one, each, each one

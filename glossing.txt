@@ -1075,3 +1075,69 @@ A. Don't demand that things happen as you wish, but wish that they happen as the
 B. Demand not that events should happen as you wish; but wish them to happen as they do happen, and you will go on well.
 C. Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.
 D. Ask not that events should happen as you will, but let your will be that events should happen as they do, and you shall have peace.
+
+# 046
+
+09.01.001	046.01	νόσος	νόσος	νόσος	νόσος	noun	NSF	sickness
+09.01.002	046.02	σώματός	σώματός	σώματός	σῶμα	adjective	GSN	of body
+09.01.003	046.03	ἐστιν	ἐστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	is
+09.01.004	046.04	ἐμπόδιον,	ἐμπόδιον	ἐμπόδιον	ἐμπόδιος	adjective	SSN	an impediment
+09.01.005	046.05	προαιρέσεως	προαιρέσεως	προαιρέσεως	προαίρεσις	noun	GSF	of will
+09.01.006	046.06	δὲ	δὲ	δέ	δέ	particle	-	-
+09.01.007	046.07	οὔ,	οὔ	οὔ	οὐ	adverb	-	not
+09.01.008	046.08	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	unless
+09.01.009	046.09	μὴ	μὴ	μή	μή	conjunction	-	<
+09.01.010	046.10	αὐτὴ	αὐτὴ	αὐτή	αὐτός	pronoun	NSF	that
+09.01.011	046.11	θέλῃ.	θέλῃ	θέλῃ	ἐθέλω	verb	PAS.3S	he wishes
+
+A. Sickness is a hindrance to the body, but not to your ability to choose, unless that is your choice.
+B. Sickness is an impediment to the body, but not to the will, unless itself pleases.
+C. Disease is an impediment to the body, but not to the will, unless the will itself chooses.
+D. Sickness is a hindrance to the body, but not to the will, unless the will consent.
+
+# 047
+
+09.01.012	047.01	χώλανσις	χώλανσις	χώλανσις	χώλανσις	noun	NSF	lameness
+09.01.013	047.02	σκέλους	σκέλους	σκέλους	σκέλος	noun	GSN	of the leg
+09.01.014	047.03	ἐστὶν	ἐστὶν	ἐστί(ν)	εἰμί	verb	PAI.3S	is
+09.01.015	047.04	ἐμπόδιον,	ἐμπόδιον	ἐμπόδιον	ἐμπόδιος	adjective	SSN	an impediment
+09.01.016	047.05	προαιρέσεως	προαιρέσεως	προαιρέσεως	προαίρεσις	noun	GSF	of will
+09.01.017	047.06	δὲ	δὲ	δέ	δέ	particle	-	-
+09.01.018	047.07	οὔ.	οὔ	οὔ	οὐ	adverb	-	not
+
+A. Lameness is a hindrance to the leg, but not to your ability to choose.
+B. Lameness is an impediment to the leg, but not to the will;
+C. Lameness is an impediment to the leg, but not to the will.
+D. Lameness is a hindrance to the leg, but not to the will.
+
+# 048
+
+09.01.019	048.01	καὶ	καὶ	καί	καί	conjunction	-	and
+09.01.020	048.02	τοῦτο	τοῦτο	τοῦτο	οὗτος	pronoun	SSN	this
+09.01.021	048.03	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on
+09.01.022	048.04	ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος	adjective	GSY	each
+09.01.023	048.05	τῶν	τῶν	τῶν	ὁ	article	GPX	of the
+09.01.024	048.06	ἐμπιπτόντων	ἐμπιπτόντων	ἐμπιπτόντων	ἐμπίπτω	verb	PAP.GP-	[things] happening
+09.01.025	048.07	ἐπίλεγε:	ἐπίλεγε	ἐπίλεγε	ἐπιλέγω	verb	PAD.2S	say
+
+A. Say this to yourself with regard to everything that happens,
+B. and say this to yourself with regard to everything that happens.
+C. And add this. reflection on the occasion of every thing that happens;
+D. Say this to yourself at each event that happens,
+
+# 049
+
+09.01.026	049.01	εὑρήσεις	εὑρήσεις	εὑρήσεις	εὑρίσκω	verb	FAI.2S	you will find
+09.01.027	049.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+09.01.028	049.03	αὐτὸ	αὐτὸ	αὐτό	αὐτός	pronoun	SSN	it
+09.01.029	049.04	ἄλλου	ἄλλου	ἄλλου	ἄλλος	adjective	GSY	other
+09.01.030	049.05	τινὸς	τινὸς	τινός	τις	pronoun	GS-	something
+09.01.031	049.06	ἐμπόδιον,	ἐμπόδιον	ἐμπόδιον	ἐμπόδιος	adjective	SSN	an impediment
+09.01.032	049.07	σὸν	σὸν	σόν	σός	adjective	ASM	to you
+09.01.033	049.08	δὲ	δὲ	δέ	δέ	particle	-	-
+09.01.034	049.09	οὔ.	οὔ	οὔ	οὐ	adverb	-	not
+
+A. then you will see such obstacles as hindrances to something else, but not to yourself.
+B. For you will find it to be an impediment to something else, but not truly to yourself.
+C. for you will find it an impediment to something else, but not to yourself.
+D. for you shall find that though it hinders something else it will not hinder you.
