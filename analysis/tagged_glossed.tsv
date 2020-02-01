@@ -839,49 +839,49 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 11.01.050	064.11	πανδοκείου	πανδοκείου	πανδοκείου	πανδοκεῖον	noun	GSN	inn
 11.01.051	064.12	οἱ	οἱ	οἱ	ὁ	article	NPM	the
 11.01.052	064.13	παριόντες.	παριόντες	παριόντες	πάρειμι	verb	PAP.NP-	passers-by
-12.01.001	065.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
-12.01.002	065.02	προκόψαι	προκόψαι	προκόψαι	προκόπτω	verb	AAN^AAO.3S	to advance
-12.01.003	065.03	θέλεις,	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	to will, wish, purpose
-12.01.004	065.04	ἄφες	ἄφες	ἄφες	ἀφίημι	verb	AAD.2S	to send forth, discharge
-12.01.005	065.05	τοὺς	τοὺς	τούς	ὁ	article	APM	the
-12.01.006	065.06	τοιούτους	τοιούτους	τοιούτους	τοιοῦτος	adjective	APM	such as this
-12.01.007	065.07	ἐπιλογισμούς.	ἐπιλογισμούς	ἐπιλογισμούς	ἐπιλογισμός	noun	APM	reckoning
+12.01.001	065.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+12.01.002	065.02	προκόψαι	προκόψαι	προκόψαι	προκόπτω	verb	AAN	to progress
+12.01.003	065.03	θέλεις,	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	you wish
+12.01.004	065.04	ἄφες	ἄφες	ἄφες	ἀφίημι	verb	AAD.2S	abandon
+12.01.005	065.05	τοὺς	τοὺς	τούς	ὁ	article	APM	-
+12.01.006	065.06	τοιούτους	τοιούτους	τοιούτους	τοιοῦτος	adjective	APM	such
+12.01.007	065.07	ἐπιλογισμούς.	ἐπιλογισμούς	ἐπιλογισμούς	ἐπιλογισμός	noun	APM	thoughts
 12.01.008	066.01	«ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
-12.01.009	066.02	ἀμελήσω	ἀμελήσω	ἀμελήσω	ἀμελέω	verb	AMI.2S^AAS.1S^FAI.1S^ZAI.1S^AMI.2S	to have no care for, be neglectful of
-12.01.010	066.03	τᾶν	τᾶν	τᾶν	τᾶν	adjective@indecl	-	sir, my good friend
-12.01.011	066.04	ἐμῶν,	ἐμῶν	ἐμῶν	ἐμός	adjective	GPF^GPY	mine
+12.01.009	066.02	ἀμελήσω	ἀμελήσω	ἀμελήσω	ἀμελέω	verb	AAS.1S	I neglect
+12.01.010	066.03	τῶν	τῶν	τῶν	ὁ	article	GPX	the
+12.01.011	066.04	ἐμῶν,	ἐμῶν	ἐμῶν	ἐμός	adjective	GPX	mine
 12.01.012	066.05	οὐχ	οὐχ	οὐ	οὐ	adverb	-	not
-12.01.013	066.06	ἕξω	ἕξω	ἕξω	ἔχω	verb	FAI.1S	to have
-12.01.014	066.07	διατροφάς:»	διατροφάς	διατροφάς	διατροφή	noun	APF	sustenance, support
+12.01.013	066.06	ἕξω	ἕξω	ἕξω	ἔχω	verb	FAI.1S	I will have
+12.01.014	066.07	διατροφάς:»	διατροφάς	διατροφάς	διατροφή	noun	APF	livelihood
 12.01.015	067.01	«ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
 12.01.016	067.02	μὴ	μὴ	μή	μή	conjunction	-	not
-12.01.017	067.03	κολάσω	κολάσω	κολάσω	κολάζω	verb	AAS.1S^FAI.1S^AMI.2S	to curtail, dock, prune
+12.01.017	067.03	κολάσω	κολάσω	κολάσω	κολάζω	verb	AAS.1S	I punish
 12.01.018	067.04	τὸν	τὸν	τόν	ὁ	article	ASM	the
-12.01.019	067.05	παῖδα,	παῖδα	παῖδα	παῖς	adjective	ASZ	a child
-12.01.020	067.06	πονηρὸς	πονηρὸς	πονηρός	πονηρός	adjective	NSM	toilsome, painful, grievous
-12.01.021	067.07	ἔσται.»	ἔσται	ἔσται	εἰμί	verb	FMI.3S	to be
-12.01.022	068.01	κρεῖσσον	κρεῖσσον	κρεῖσσον	κρείσσων	verb@adj	VSZC^SSNC	stronger, mightier, more powerful
+12.01.019	067.05	παῖδα,	παῖδα	παῖδα	παῖς	adjective	ASZ	child
+12.01.020	067.06	πονηρὸς	πονηρὸς	πονηρός	πονηρός	adjective	NSM	bad
+12.01.021	067.07	ἔσται.»	ἔσται	ἔσται	εἰμί	verb	FMI.3S	he will be
+12.01.022	068.01	κρεῖσσον	κρεῖσσον	κρεῖσσον	κρείσσων	adjective	SSNC	better
 12.01.023	068.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
-12.01.024	068.03	λιμῷ	λιμῷ	λιμῷ	λιμός	noun	DSZ	hunger, famine
-12.01.025	068.04	ἀποθανεῖν	ἀποθανεῖν	ἀποθανεῖν	ἀποθνήσκω	verb	AAN	-
-12.01.026	068.05	ἄλυπον	ἄλυπον	ἄλυπον	ἄλυπον	noun	SSN	herb terrible, globularia alypum
-12.01.027	068.06	καὶ	καὶ	καί	καί	conjunction	-	and, also
-12.01.028	068.07	ἄφοβον	ἄφοβον	ἄφοβον	ἄφοβος	adjective	ASZ^SSN	without fear
-12.01.029	068.08	γενόμενον	γενόμενον	γενόμενον	γίγνομαι	verb	AMP.AS-^AMP.SS-	become, be born
-12.01.030	068.09	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
+12.01.024	068.03	λιμῷ	λιμῷ	λιμῷ	λιμός	noun	DSZ	of hunger
+12.01.025	068.04	ἀποθανεῖν	ἀποθανεῖν	ἀποθανεῖν	ἀποθνήσκω	verb	AAN	to die
+12.01.026	068.05	ἄλυπον	ἄλυπον	ἄλυπον	ἄλυπος	adjective	SSN	without pain
+12.01.027	068.06	καὶ	καὶ	καί	καί	conjunction	-	and
+12.01.028	068.07	ἄφοβον	ἄφοβον	ἄφοβον	ἄφοβος	adjective	SSN	without fear
+12.01.029	068.08	γενόμενον	γενόμενον	γενόμενον	γίγνομαι	verb	AMP.SS-	being
+12.01.030	068.09	ἢ	ἢ	ἤ	ἤ	conjunction	-	than
 12.01.031	068.10	ζῆν	ζῆν	ζῆν	ζάω	verb	PAN	to live
-12.01.032	068.11	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
-12.01.033	068.12	ἀφθόνοις	ἀφθόνοις	ἀφθόνοις	ἄφθονος	adjective	DPX	without envy
-12.01.034	068.13	ταρασσόμενον.	ταρασσόμενον	ταρασσόμενον	ταράσσω	verb	PMP.AS-^PMP.SS-	to stir, stir up, trouble
-12.01.035	069.01	κρεῖττον	κρεῖττον	κρεῖττον	κρείσσων	verb@adj	VSZC^SSNC	stronger, mightier, more powerful
+12.01.032	068.11	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+12.01.033	068.12	ἀφθόνοις	ἀφθόνοις	ἀφθόνοις	ἄφθονος	adjective	DPX	abundance
+12.01.034	068.13	ταρασσόμενον.	ταρασσόμενον	ταρασσόμενον	ταράσσω	verb	PMP.SS-	being troubled
+12.01.035	069.01	κρεῖττον	κρεῖττον	κρεῖττον	κρείσσων	verb@adj	SSNC	better
 12.01.036	069.02	δὲ	δὲ	δέ	δέ	particle	-	but
 12.01.037	069.03	τὸν	τὸν	τόν	ὁ	article	ASM	the
 12.01.038	069.04	παῖδα	παῖδα	παῖδα	παῖς	adjective	ASZ	a child
-12.01.039	069.05	κακὸν	κακὸν	κακόν	κακός	adjective	ASM^SSN	bad
+12.01.039	069.05	κακὸν	κακὸν	κακόν	κακός	adjective	SSN	bad
 12.01.040	069.06	εἶναι	εἶναι	εἶναι	εἰμί	verb	PAN	to be
-12.01.041	069.07	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-12.01.042	069.08	σὲ	σὲ	σέ	σύ	pronoun	AS-2^AS-2	you (personal pronoun)
-12.01.043	069.09	κακοδαίμονα.	κακοδαίμονα	κακοδαίμονα	κακοδαίμων	adjective	SPN^ASZ	possessed by an evil genius, ill-fated, ill-starred, miserable
+12.01.041	069.07	ἢ	ἢ	ἤ	ἤ	conjunction	-	than
+12.01.042	069.08	σὲ	σὲ	σέ	σύ	pronoun	AS-	you
+12.01.043	069.09	κακοδαίμονα.	κακοδαίμονα	κακοδαίμονα	κακοδαίμων	adjective	ASZ	miserable
 12.02.001	070.01	ἄρξαι	ἄρξαι	ἄρξαι	ἄρχω	verb	XMI.2S^AMD.2S^AAN^AAO.3S	(to be first) to rule, to begin
 12.02.002	070.02	τοιγαροῦν	τοιγαροῦν	τοιγαροῦν	τοιγάρ	particle	-	so then, wherefore, therefore, accordingly
 12.02.003	070.03	ἀπὸ	ἀπὸ	ἀπό	ἀπό	preposition	-	from, away from. c. gen.

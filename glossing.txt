@@ -1356,3 +1356,86 @@ A. While he gives it to you to possess, take care of it; but don't view it as yo
 B. While he permits you to possess it, hold it as something not your own; as do travellers at an inn.
 C. So long as he may allow you, take care of it as a thing which belongs to another, as travellers do with their inn.
 D. As long as He gives it you, take care of it, but not as your own; treat it as passers-by treat an inn.
+
+# 065
+
+12.01.001	065.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+12.01.002	065.02	προκόψαι	προκόψαι	προκόψαι	προκόπτω	verb	AAN	to progress
+12.01.003	065.03	θέλεις,	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	you wish
+12.01.004	065.04	ἄφες	ἄφες	ἄφες	ἀφίημι	verb	AAD.2S	abandon
+12.01.005	065.05	τοὺς	τοὺς	τούς	ὁ	article	APM	-
+12.01.006	065.06	τοιούτους	τοιούτους	τοιούτους	τοιοῦτος	adjective	APM	such
+12.01.007	065.07	ἐπιλογισμούς.	ἐπιλογισμούς	ἐπιλογισμούς	ἐπιλογισμός	noun	APM	thoughts
+
+A. If you want to improve, reject such reasonings as these:
+B. If you would improve, lay aside such reasonings as these:
+C. If you intend to improve, throw away such thoughts as these:
+D. If you wish to make progress, abandon reasonings of this sort:
+
+# 066
+
+12.01.008	066.01	«ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+12.01.009	066.02	ἀμελήσω	ἀμελήσω	ἀμελήσω	ἀμελέω	verb	AAS.1S	I neglect
+12.01.010	066.03	τῶν	τῶν	τῶν	ὁ	article	GPX	the
+12.01.011	066.04	ἐμῶν,	ἐμῶν	ἐμῶν	ἐμός	adjective	GPX	mine
+12.01.012	066.05	οὐχ	οὐχ	οὐ	οὐ	adverb	-	not
+12.01.013	066.06	ἕξω	ἕξω	ἕξω	ἔχω	verb	FAI.1S	I will have
+12.01.014	066.07	διατροφάς:»	διατροφάς	διατροφάς	διατροφή	noun	APF	livelihood
+
+A. "If I neglect my affairs, I'll have no income;
+B. "If I neglect my affairs, I shall not have a maintenance;
+C. if I neglect my affairs, I shall not have the means of living:
+D. 'If I neglect my affairs I shall have nothing to live on';
+
+# 067
+
+12.01.015	067.01	«ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+12.01.016	067.02	μὴ	μὴ	μή	μή	conjunction	-	not
+12.01.017	067.03	κολάσω	κολάσω	κολάσω	κολάζω	verb	AAS.1S	I punish
+12.01.018	067.04	τὸν	τὸν	τόν	ὁ	article	ASM	the
+12.01.019	067.05	παῖδα,	παῖδα	παῖδα	παῖς	adjective	ASZ	child
+12.01.020	067.06	πονηρὸς	πονηρὸς	πονηρός	πονηρός	adjective	NSM	bad
+12.01.021	067.07	ἔσται.»	ἔσται	ἔσται	εἰμί	verb	FMI.3S	he will be
+
+A. if I don't correct my servant, he will be bad."
+B. if I do not punish my servant, he will be good for nothing."
+C. unless I chastise my slave, he will be bad.
+D. 'If I do not punish my son, he will be wicked.'
+
+# 068
+
+12.01.022	068.01	κρεῖσσον	κρεῖσσον	κρεῖσσον	κρείσσων	adjective	SSNC	better
+12.01.023	068.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+12.01.024	068.03	λιμῷ	λιμῷ	λιμῷ	λιμός	noun	DSZ	of hunger
+12.01.025	068.04	ἀποθανεῖν	ἀποθανεῖν	ἀποθανεῖν	ἀποθνήσκω	verb	AAN	to die
+12.01.026	068.05	ἄλυπον	ἄλυπον	ἄλυπον	ἄλυπος	adjective	SSN	without pain
+12.01.027	068.06	καὶ	καὶ	καί	καί	conjunction	-	and
+12.01.028	068.07	ἄφοβον	ἄφοβον	ἄφοβον	ἄφοβος	adjective	SSN	without fear
+12.01.029	068.08	γενόμενον	γενόμενον	γενόμενον	γίγνομαι	verb	AMP.SS-	being
+12.01.030	068.09	ἢ	ἢ	ἤ	ἤ	conjunction	-	than
+12.01.031	068.10	ζῆν	ζῆν	ζῆν	ζάω	verb	PAN	to live
+12.01.032	068.11	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+12.01.033	068.12	ἀφθόνοις	ἀφθόνοις	ἀφθόνοις	ἄφθονος	adjective	DPX	abundance
+12.01.034	068.13	ταρασσόμενον.	ταρασσόμενον	ταρασσόμενον	ταράσσω	verb	PMP.SS-	being troubled
+
+A. For it is better to die with hunger, exempt from grief and fear, than to live in affluence with perturbation;
+B. For it were better to die of hunger, exempt from grief and fear, than to live in affluence with perturbation;
+C. For it is better to die of hunger and so to be released from grief and fear than to live in abundance with perturbation;
+D. For it is better to die of hunger, so that you be free from pain and free from fear, than to live in plenty and be troubled in mind.
+
+# 069
+
+12.01.035	069.01	κρεῖττον	κρεῖττον	κρεῖττον	κρείσσων	verb@adj	SSNC	better
+12.01.036	069.02	δὲ	δὲ	δέ	δέ	particle	-	but
+12.01.037	069.03	τὸν	τὸν	τόν	ὁ	article	ASM	the
+12.01.038	069.04	παῖδα	παῖδα	παῖδα	παῖς	adjective	ASZ	a child
+12.01.039	069.05	κακὸν	κακὸν	κακόν	κακός	adjective	SSN	bad
+12.01.040	069.06	εἶναι	εἶναι	εἶναι	εἰμί	verb	PAN	to be
+12.01.041	069.07	ἢ	ἢ	ἤ	ἤ	conjunction	-	than
+12.01.042	069.08	σὲ	σὲ	σέ	σύ	pronoun	AS-	you
+12.01.043	069.09	κακοδαίμονα.	κακοδαίμονα	κακοδαίμονα	κακοδαίμων	adjective	ASZ	miserable
+
+A. and it is better your servant should be bad, than you unhappy.
+B. and it is better that your servant should be bad than you unhappy.
+C. and it is better for your slave to be bad than for you to be unhappy.
+D. It is better for your son to be wicked than for you to be miserable.
