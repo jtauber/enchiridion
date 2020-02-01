@@ -1224,3 +1224,135 @@ A. And thus habituated, the appearances of things will not hurry you away along 
 B. And when thus habituated, the phenomena of existence will not overwhelm you.
 C. And if you have been thus formed to the (proper) habit, the appearances will not carry you along with them.
 D. And if you train yourself in this habit your impressions will not carry you away.
+
+# 055
+
+11.01.001	055.01	μηδέποτε	μηδέποτε	μηδέποτε	μηδέποτε	adverb	-	never
+11.01.002	055.02	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	of
+11.01.003	055.03	μηδενὸς	μηδενὸς	μηδενός	μηδείς	pronoun	GSY	nothing
+11.01.004	055.04	εἴπῃς	εἴπῃς	εἴπῃς	εἶπον	verb	AAS.2S	say
+11.01.005	055.05	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+11.01.006	055.06	«ἀπώλεσα	ἀπώλεσα	ἀπώλεσα	ἀπόλλυμι	verb	AAI.1S	I lost
+11.01.007	055.07	αὐτό,»	αὐτό	αὐτό	αὐτός	pronoun	SSN	it
+11.01.008	055.08	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
+11.01.009	055.09	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+11.01.010	055.10	«ἀπέδωκα.»	ἀπέδωκα	ἀπέδωκα	ἀποδίδωμι	verb	AAI.1S	I gave [it] back
+
+A. Never say of anything, "I have lost it"; but, "I have returned it."
+B. Never say of anything, "I have lost it;" but, " I have restored it."
+C. Never say about any thing, I have lost it, but say I have restored it.
+D. Never say of anything, 'I lost it', but say, 'I gave it back'.
+
+# 056
+
+11.01.011	056.01	τὸ	τὸ	τό	ὁ	article	SSN	the
+11.01.012	056.02	παιδίον	παιδίον	παιδίον	παιδίον	noun	SSN	a child
+11.01.013	056.03	ἀπέθανεν;	ἀπέθανεν	ἀπέθανεν	ἀποθνήσκω	verb	AAI.3S	died
+
+A. Is your child dead?
+B. Has your child died?
+C. Is your child dead?
+D. Has your child died?
+
+# 057
+
+11.01.014	057.01	ἀπεδόθη.	ἀπεδόθη	ἀπεδόθη	ἀποδίδωμι	verb	API.3S	she was given back
+
+A. It is returned.
+B. It is restored.
+C. It has been restored.
+D. It was given back.
+
+# 058
+
+11.01.015	058.01	ἡ	ἡ	ἡ	ὁ	article	NSF	the
+11.01.016	058.02	γυνὴ	γυνὴ	γυνή	γυνή	noun	NSF	wife
+11.01.017	058.03	ἀπέθανεν;	ἀπέθανεν	ἀπέθανεν	ἀποθνήσκω	verb	AAI.3S	died
+
+A. Is your wife dead?
+B. Has your wife died?
+C. Is your wife dead?
+D. Has your wife died?
+
+# 059
+
+11.01.018	059.01	ἀπεδόθη.	ἀπεδόθη	ἀπεδόθη	ἀποδίδωμι	verb	API.3S	she was given back
+
+A. She is returned.
+B. She is restored.
+C. She has been restored.
+D. She was given back.
+
+# 060
+
+11.01.019	060.01	«τὸ	τὸ	τό	ὁ	article	SSN	the
+11.01.020	060.02	χωρίον	χωρίον	χωρίον	χωρίον	noun	SSN	estate
+11.01.021	060.03	ἀφῃρέθην.»	ἀφῃρέθην	ἀφῃρέθην	ἀφαιρέω	verb	API.3P	taken away
+
+A. Is your estate taken away?
+B. Has your estate been taken away?
+C. Has your estate been taken from you?
+D. Has your estate been taken from you?
+
+# 061
+
+11.01.022	061.01	οὐκοῦν	οὐκοῦν	οὐκοῦν	οὐκοῦν	adverb	-	then
+11.01.023	061.02	καὶ	καὶ	καί	καί	conjunction	-	also
+11.01.024	061.03	τοῦτο	τοῦτο	τοῦτο	οὗτος	pronoun	SSN	this
+11.01.025	061.04	ἀπεδόθη.	ἀπεδόθη	ἀπεδόθη	ἀποδίδωμι	verb	API.3S	was given back
+
+A. Well, and is not that likewise returned?
+B. That likewise is restored.
+C. Has not then this also been restored?
+D. Was not this also given back?
+
+# 062
+
+11.01.026	062.01	«ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
+11.01.027	062.02	κακὸς	κακὸς	κακός	κακός	adjective	NSM	[is] bad
+11.01.028	062.03	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+11.01.029	062.04	ἀφελόμενος.»	ἀφελόμενος	ἀφελόμενος	ἀφαιρέω	verb	AMP.NS-	taker
+
+A. "But he who took it away is a bad man."
+B. "But it was a bad man who took it."
+C. But he who has taken it from me is a bad man.
+D. But you say, 'He who took it from me is wicked'.
+
+# 063
+
+11.01.030	063.01	τί	τί	τί	τίς	pronoun	SSN	what
+11.01.031	063.02	δὲ	δὲ	δέ	δέ	particle	-	-
+11.01.032	063.03	σοὶ	σοὶ	σοί	σύ	pronoun	DS-	to you
+11.01.033	063.04	μέλει,	μέλει	μέλει	μέλω	verb	PAI.3S	it is cared for
+11.01.034	063.05	διὰ	διὰ	διά	διά	preposition	-	through
+11.01.035	063.06	τίνος	τίνος	τίνος	τίς	pronoun	GS-	whom
+11.01.036	063.07	σε	σε	σε	σύ	pronoun	AS-	from you
+11.01.037	063.08	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+11.01.038	063.09	δοὺς	δοὺς	δούς	δίδωμι	verb	AAP.NS-	Giver
+11.01.039	063.10	ἀπῄτησε;	ἀπῄτησε	ἀπῄτησε	ἀπαιτέω	verb	AAI.3S	demands [it] back
+
+A. What difference is it to you who the giver assigns to take it back?
+B. What is it to you by whose hands he who gave it has demanded it again?
+C. But what is it to you, by whose hands the giver demanded it back?
+D. What does it matter to you through whom the Giver asked it back?
+
+# 064
+
+11.01.040	064.01	μέχρι	μέχρι	μέχρι(ς)	μέχρι	preposition	-	as long as
+11.01.041	064.02	δ’	δ’	δέ	δέ	particle	-	-
+11.01.042	064.03	ἂν	ἂν	ἄν	ἄν	particle	-	-
+11.01.043	064.04	διδῷ,	διδῷ	διδῷ	δίδωμι	verb	PAS.3S	He gives
+11.01.044	064.05	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+11.01.045	064.06	ἀλλοτρίου	ἀλλοτρίου	ἀλλοτρίου	ἀλλότριος	adjective	GSY	belonging to another
+11.01.046	064.07	αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός	pronoun	GSY	of it
+11.01.047	064.08	ἐπιμελοῦ,	ἐπιμελοῦ	ἐπιμελοῦ	ἐπιμελέομαι	verb	PMD.2S	take care
+11.01.048	064.09	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+11.01.049	064.10	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	of the
+11.01.050	064.11	πανδοκείου	πανδοκείου	πανδοκείου	πανδοκεῖον	noun	GSN	inn
+11.01.051	064.12	οἱ	οἱ	οἱ	ὁ	article	NPM	the
+11.01.052	064.13	παριόντες.	παριόντες	παριόντες	πάρειμι	verb	PAP.NP-	passers-by
+
+A. While he gives it to you to possess, take care of it; but don't view it as your own, just as travelers view a hotel.
+B. While he permits you to possess it, hold it as something not your own; as do travellers at an inn.
+C. So long as he may allow you, take care of it as a thing which belongs to another, as travellers do with their inn.
+D. As long as He gives it you, take care of it, but not as your own; treat it as passers-by treat an inn.
