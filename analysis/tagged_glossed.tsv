@@ -882,58 +882,58 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 12.01.041	069.07	ἢ	ἢ	ἤ	ἤ	conjunction	-	than
 12.01.042	069.08	σὲ	σὲ	σέ	σύ	pronoun	AS-	you
 12.01.043	069.09	κακοδαίμονα.	κακοδαίμονα	κακοδαίμονα	κακοδαίμων	adjective	ASZ	miserable
-12.02.001	070.01	ἄρξαι	ἄρξαι	ἄρξαι	ἄρχω	verb	XMI.2S^AMD.2S^AAN^AAO.3S	(to be first) to rule, to begin
-12.02.002	070.02	τοιγαροῦν	τοιγαροῦν	τοιγαροῦν	τοιγάρ	particle	-	so then, wherefore, therefore, accordingly
-12.02.003	070.03	ἀπὸ	ἀπὸ	ἀπό	ἀπό	preposition	-	from, away from. c. gen.
+12.02.001	070.01	ἄρξαι	ἄρξαι	ἄρξαι	ἄρχω	verb	AMD.2S	begin
+12.02.002	070.02	τοιγαροῦν	τοιγαροῦν	τοιγαροῦν	τοιγαροῦν	particle	-	therefore
+12.02.003	070.03	ἀπὸ	ἀπὸ	ἀπό	ἀπό	preposition	-	from
 12.02.004	070.04	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
-12.02.005	070.05	σμικρῶν.	σμικρῶν	σμικρῶν	μικρός	adjective	GPF^GPY	small, little
-12.02.006	071.01	ἐκχεῖται	ἐκχεῖται	ἐκχεῖται	ἐκχέω	verb	PMI.3S^PMI.3S	to pour out
-12.02.007	071.02	τὸ	τὸ	τό	ὁ	article	SSN	the
-12.02.008	071.03	ἐλάδιον,	ἐλάδιον	ἐλάδιον	ἐλάδιον	noun	SSN	young olive-tree
-12.02.009	071.04	κλέπτεται	κλέπτεται	κλέπτεται	κλέπτω	verb	PMI.3S	to steal, filch, purloin
-12.02.010	071.05	τὸ	τὸ	τό	ὁ	article	SSN	the
-12.02.011	071.06	οἰνάριον:	οἰνάριον	οἰνάριον	οἰνάριον	noun	SSN	(dim.) weak, bad wine; a little wine
-12.02.012	072.01	ἐπίλεγε	ἐπίλεγε	ἐπίλεγε	ἐπιλέγω	verb	PAD.2S^IAI.3S	say in connexion with; to choose; to think over
-12.02.013	072.02	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
-12.02.014	072.03	«τοσούτου	τοσούτου	τοσούτου	τοσοῦτος	adjective	GSN^GSM	so large, so tall
-12.02.015	072.04	πωλεῖται	πωλεῖται	πωλεῖται	πωλέομαι	verb	PMI.3S	to go up and down, go to and fro
-12.02.016	072.05	ἀπάθεια,	ἀπάθεια	ἀπάθεια	ἀπάθεια	noun	NSF	want of sensation, insensibility
-12.02.017	072.06	τοσούτου	τοσούτου	τοσούτου	τοσοῦτος	adjective	GSN^GSM	so large, so tall
-12.02.018	072.07	ἀταραξία:»	ἀταραξία	ἀταραξία	ἀταραξία	noun	SDF^NSF	impassiveness, calmness
-12.02.019	073.01	προῖκα	προῖκα	προῖκα	προίξ	adjective	ASF	dowry, gift; adv. freely, unbribed
-12.02.020	073.02	δὲ	δὲ	δέ	δέ	particle	-	but
-12.02.021	073.03	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	not one, nobody
-12.02.022	073.04	περιγίνεται.	περιγίνεται	περιγίνεται	περιγίγνομαι	verb	PMI.3S	to be superior to; to survive
-12.02.023	074.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when, whenever
-12.02.024	074.02	δὲ	δὲ	δέ	δέ	particle	-	but
-12.02.025	074.03	καλῇς	καλῇς	καλῇς	καλέω	verb	PAS.2S	to call, summon
+12.02.005	070.05	σμικρῶν.	σμικρῶν	σμικρῶν	μικρός	adjective	GPX	small [things]
+12.02.006	071.01	ἐκχεῖται	ἐκχεῖται	ἐκχεῖται	ἐκχέω	verb	PMI.3S	is spilt
+12.02.007	071.02	τὸ	τὸ	τό	ὁ	article	SSN	-
+12.02.008	071.03	ἐλάδιον,	ἐλάδιον	ἐλάδιον	ἐλάδιον	noun	SSN	a little oil
+12.02.009	071.04	κλέπτεται	κλέπτεται	κλέπτεται	κλέπτω	verb	PMI.3S	is stolen
+12.02.010	071.05	τὸ	τὸ	τό	ὁ	article	SSN	-
+12.02.011	071.06	οἰνάριον:	οἰνάριον	οἰνάριον	οἰνάριον	noun	SSN	a little wine
+12.02.012	072.01	ἐπίλεγε	ἐπίλεγε	ἐπίλεγε	ἐπιλέγω	verb	PAD.2S	say
+12.02.013	072.02	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+12.02.014	072.03	«τοσούτου	τοσούτου	τοσούτου	τοσοῦτος	adjective	GSY	at such a price
+12.02.015	072.04	πωλεῖται	πωλεῖται	πωλεῖται	πωλέομαι	verb	PMI.3S	is sold
+12.02.016	072.05	ἀπάθεια,	ἀπάθεια	ἀπάθεια	ἀπάθεια	noun	NSF	apathy
+12.02.017	072.06	τοσούτου	τοσούτου	τοσούτου	τοσοῦτος	adjective	GSY	at such a price
+12.02.018	072.07	ἀταραξία:»	ἀταραξία	ἀταραξία	ἀταραξία	noun	NSF	tranquility
+12.02.019	073.01	προῖκα	προῖκα	προῖκα	προῖκα	adverb	-	freely
+12.02.020	073.02	δὲ	δὲ	δέ	δέ	particle	-	-
+12.02.021	073.03	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	nothing
+12.02.022	073.04	περιγίνεται.	περιγίνεται	περιγίνεται	περιγίγνομαι	verb	PMI.3S	results
+12.02.023	074.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when
+12.02.024	074.02	δὲ	δὲ	δέ	δέ	particle	-	-
+12.02.025	074.03	καλῇς	καλῇς	καλῇς	καλέω	verb	PAS.2S	you call
 12.02.026	074.04	τὸν	τὸν	τόν	ὁ	article	ASM	the
-12.02.027	074.05	παῖδα,	παῖδα	παῖδα	παῖς	adjective	ASZ	a child
-12.02.028	074.06	ἐνθυμοῦ,	ἐνθυμοῦ	ἐνθυμοῦ	ἐνθυμέομαι	verb	PMD.2S^PMD.2S	to lay to heart, consider well, reflect on, ponder
-12.02.029	074.07	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
-12.02.030	074.08	δύναται	δύναται	δύναται	δύναμαι	verb	PMI.3S	to be able, capable, strong enough
+12.02.027	074.05	παῖδα,	παῖδα	παῖδα	παῖς	adjective	ASZ	slave-boy
+12.02.028	074.06	ἐνθυμοῦ,	ἐνθυμοῦ	ἐνθυμοῦ	ἐνθυμέομαι	verb	PMD.2S	consider
+12.02.029	074.07	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+12.02.030	074.08	δύναται	δύναται	δύναται	δύναμαι	verb	PMI.3S	it is possible
 12.02.031	074.09	μὴ	μὴ	μή	μή	conjunction	-	not
-12.02.032	074.10	ὑπακοῦσαι	ὑπακοῦσαι	ὑπακοῦσαι	ὑπακούω	verb	AAN	to listen, hearken, give ear
-12.02.033	074.11	καὶ	καὶ	καί	καί	conjunction	-	and, also
-12.02.034	074.12	ὑπακούσας	ὑπακούσας	ὑπακούσας	ὑπακούω	verb	AAP.NS-	to listen, hearken, give ear
-12.02.035	074.13	μηδὲν	μηδὲν	μηδέν	μηδείς	pronoun	SSN	(and not one); not one, no-one
-12.02.036	074.14	ποιῆσαι	ποιῆσαι	ποιῆσαι	ποιέω	verb	AAN	to make, to do
-12.02.037	074.15	ὧν	ὧν	ὧν	ὅς	pronoun	GPF^GPY	who, that, which: relative pronoun
-12.02.038	074.16	θέλεις:	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	to will, wish, purpose
-12.02.039	075.01	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	otherwise, but
+12.02.032	074.10	ὑπακοῦσαι	ὑπακοῦσαι	ὑπακοῦσαι	ὑπακούω	verb	AAN	to listen
+12.02.033	074.11	καὶ	καὶ	καί	καί	conjunction	-	and
+12.02.034	074.12	ὑπακούσας	ὑπακούσας	ὑπακούσας	ὑπακούω	verb	AAP.NS-	listening
+12.02.035	074.13	μηδὲν	μηδὲν	μηδέν	μηδείς	pronoun	SSN	nothing
+12.02.036	074.14	ποιῆσαι	ποιῆσαι	ποιῆσαι	ποιέω	verb	AAN	to do
+12.02.037	074.15	ὧν	ὧν	ὧν	ὅς	pronoun	GPX	what
+12.02.038	074.16	θέλεις:	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	you wish
+12.02.039	075.01	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
 12.02.040	075.02	οὐχ	οὐχ	οὐ	οὐ	adverb	-	not
-12.02.041	075.03	οὕτως	οὕτως	οὕτω(ς)	οὕτως	adverb	-	so, in this manner
-12.02.042	075.04	ἐστὶν	ἐστὶν	ἐστί(ν)	εἰμί	verb	PAI.3S	to be
-12.02.043	075.05	αὐτῷ	αὐτῷ	αὐτῷ	αὐτός	pronoun	DSN^DSM	unemph. 3rd pers.pronoun; -self; [the] same
-12.02.044	075.06	καλῶς,	καλῶς	καλῶς	καλός	noun	---	beautiful
-12.02.045	075.07	ἵνα	ἵνα	ἵνα	ἵνα	conjunction	-	in order that (conj.); where (rel. adv.)
-12.02.046	075.08	ἐπ’	ἐπ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
-12.02.047	075.09	ἐκείνῳ	ἐκείνῳ	ἐκείνῳ	ἐκεῖνος	pronoun	DSN^DSM	that over there, that
-12.02.048	075.10	ᾖ	ᾖ	ᾖ	εἰμί	verb	PAS.3S	to be
+12.02.041	075.03	οὕτως	οὕτως	οὕτω(ς)	οὕτως	adverb	-	so
+12.02.042	075.04	ἐστὶν	ἐστὶν	ἐστί(ν)	εἰμί	verb	PAI.3S	it is
+12.02.043	075.05	αὐτῷ	αὐτῷ	αὐτῷ	αὐτός	pronoun	DSY	for him
+12.02.044	075.06	καλῶς,	καλῶς	καλῶς	καλῶς	adverb	-	well
+12.02.045	075.07	ἵνα	ἵνα	ἵνα	ἵνα	conjunction	-	so that
+12.02.046	075.08	ἐπ’	ἐπ’	ἐπί	ἐπί	preposition	-	on
+12.02.047	075.09	ἐκείνῳ	ἐκείνῳ	ἐκείνῳ	ἐκεῖνος	pronoun	DSY	that [one]
+12.02.048	075.10	ᾖ	ᾖ	ᾖ	εἰμί	verb	PAS.3S	should be
 12.02.049	075.11	τὸ	τὸ	τό	ὁ	article	SSN	the
-12.02.050	075.12	σὲ	σὲ	σέ	σύ	pronoun	AS-2^AS-2	you (personal pronoun)
+12.02.050	075.12	σὲ	σὲ	σέ	σύ	pronoun	AS-	you
 12.02.051	075.13	μὴ	μὴ	μή	μή	conjunction	-	not
-12.02.052	075.14	ταραχθῆναι.	ταραχθῆναι	ταραχθῆναι	ταράσσω	verb	APN	to stir, stir up, trouble
+12.02.052	075.14	ταραχθῆναι.	ταραχθῆναι	ταραχθῆναι	ταράσσω	verb	APN	to be disturbed
 13.01.001	076.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
 13.01.002	076.02	προκόψαι	προκόψαι	προκόψαι	προκόπτω	verb	AAN^AAO.3S	to advance
 13.01.003	076.03	θέλεις,	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	to will, wish, purpose

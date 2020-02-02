@@ -1439,3 +1439,103 @@ A. and it is better your servant should be bad, than you unhappy.
 B. and it is better that your servant should be bad than you unhappy.
 C. and it is better for your slave to be bad than for you to be unhappy.
 D. It is better for your son to be wicked than for you to be miserable.
+
+# 070
+
+12.02.001	070.01	ἄρξαι	ἄρξαι	ἄρξαι	ἄρχω	verb	AMD.2S	begin
+12.02.002	070.02	τοιγαροῦν	τοιγαροῦν	τοιγαροῦν	τοιγαροῦν	particle	-	therefore
+12.02.003	070.03	ἀπὸ	ἀπὸ	ἀπό	ἀπό	preposition	-	from
+12.02.004	070.04	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
+12.02.005	070.05	σμικρῶν.	σμικρῶν	σμικρῶν	μικρός	adjective	GPX	small [things]
+
+A. Begin therefore from little things.
+B. Begin therefore with little things.
+C. Begin then from little things.
+D. Wherefore begin with little things.
+
+# 071
+
+12.02.006	071.01	ἐκχεῖται	ἐκχεῖται	ἐκχεῖται	ἐκχέω	verb	PMI.3S	is spilt
+12.02.007	071.02	τὸ	τὸ	τό	ὁ	article	SSN	-
+12.02.008	071.03	ἐλάδιον,	ἐλάδιον	ἐλάδιον	ἐλάδιον	noun	SSN	a little oil
+12.02.009	071.04	κλέπτεται	κλέπτεται	κλέπτεται	κλέπτω	verb	PMI.3S	is stolen
+12.02.010	071.05	τὸ	τὸ	τό	ὁ	article	SSN	-
+12.02.011	071.06	οἰνάριον:	οἰνάριον	οἰνάριον	οἰνάριον	noun	SSN	a little wine
+
+A. Is a little oil spilt? A little wine stolen?
+B. Is a little oil spilt or a little wine stolen?
+C. Is the oil spilled? Is a little wine stolen?
+D. Is your drop of oil spilt? Is your sup of wine stolen?
+
+# 072
+
+12.02.012	072.01	ἐπίλεγε	ἐπίλεγε	ἐπίλεγε	ἐπιλέγω	verb	PAD.2S	say
+12.02.013	072.02	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+12.02.014	072.03	«τοσούτου	τοσούτου	τοσούτου	τοσοῦτος	adjective	GSY	at such a price
+12.02.015	072.04	πωλεῖται	πωλεῖται	πωλεῖται	πωλέομαι	verb	PMI.3S	is sold
+12.02.016	072.05	ἀπάθεια,	ἀπάθεια	ἀπάθεια	ἀπάθεια	noun	NSF	apathy
+12.02.017	072.06	τοσούτου	τοσούτου	τοσούτου	τοσοῦτος	adjective	GSY	at such a price
+12.02.018	072.07	ἀταραξία:»	ἀταραξία	ἀταραξία	ἀταραξία	noun	NSF	tranquility
+
+A. Say to yourself, "This is the price paid for apathy, for tranquillity,
+B. Say to yourself, "This is the price paid for peace and tranquillity;
+C. Say on the occasion, at such price is sold freedom from perturbation; at such price is sold tranquillity,
+D. Say to yourself, 'This is the price paid for freedom from passion, this is the price of a quiet mind.'
+
+# 073
+
+12.02.019	073.01	προῖκα	προῖκα	προῖκα	προῖκα	adverb	-	freely
+12.02.020	073.02	δὲ	δὲ	δέ	δέ	particle	-	-
+12.02.021	073.03	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	nothing
+12.02.022	073.04	περιγίνεται.	περιγίνεται	περιγίνεται	περιγίγνομαι	verb	PMI.3S	results
+
+A. and nothing is to be had for nothing."
+B. and nothing is to be had for nothing."
+C. but nothing is got for nothing.
+D. Nothing can be had without a price.
+
+# 074
+
+12.02.023	074.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when
+12.02.024	074.02	δὲ	δὲ	δέ	δέ	particle	-	-
+12.02.025	074.03	καλῇς	καλῇς	καλῇς	καλέω	verb	PAS.2S	you call
+12.02.026	074.04	τὸν	τὸν	τόν	ὁ	article	ASM	the
+12.02.027	074.05	παῖδα,	παῖδα	παῖδα	παῖς	adjective	ASZ	slave-boy
+12.02.028	074.06	ἐνθυμοῦ,	ἐνθυμοῦ	ἐνθυμοῦ	ἐνθυμέομαι	verb	PMD.2S	consider
+12.02.029	074.07	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+12.02.030	074.08	δύναται	δύναται	δύναται	δύναμαι	verb	PMI.3S	it is possible
+12.02.031	074.09	μὴ	μὴ	μή	μή	conjunction	-	not
+12.02.032	074.10	ὑπακοῦσαι	ὑπακοῦσαι	ὑπακοῦσαι	ὑπακούω	verb	AAN	to listen
+12.02.033	074.11	καὶ	καὶ	καί	καί	conjunction	-	and
+12.02.034	074.12	ὑπακούσας	ὑπακούσας	ὑπακούσας	ὑπακούω	verb	AAP.NS-	listening
+12.02.035	074.13	μηδὲν	μηδὲν	μηδέν	μηδείς	pronoun	SSN	nothing
+12.02.036	074.14	ποιῆσαι	ποιῆσαι	ποιῆσαι	ποιέω	verb	AAN	to do
+12.02.037	074.15	ὧν	ὧν	ὧν	ὅς	pronoun	GPX	what
+12.02.038	074.16	θέλεις:	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	you wish
+
+A. When you call your servant, it is possible that he may not come; or, if he does, he may not do what you want.
+B. And when you call your servant, consider that it is possible he may not come at your call; or, if he does, that he may not do what you wish.
+C. And when you call your slave, consider that it is possible that he does not hear; and if he does hear, that he will do nothing which you wish.
+D. When you call your slave-boy, reflect that he may not be able to hear you, and if he hears you, he may not be able to do anything you want.
+
+# 075
+
+12.02.039	075.01	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
+12.02.040	075.02	οὐχ	οὐχ	οὐ	οὐ	adverb	-	not
+12.02.041	075.03	οὕτως	οὕτως	οὕτω(ς)	οὕτως	adverb	-	so
+12.02.042	075.04	ἐστὶν	ἐστὶν	ἐστί(ν)	εἰμί	verb	PAI.3S	it is
+12.02.043	075.05	αὐτῷ	αὐτῷ	αὐτῷ	αὐτός	pronoun	DSY	for him
+12.02.044	075.06	καλῶς,	καλῶς	καλῶς	καλῶς	adverb	-	well
+12.02.045	075.07	ἵνα	ἵνα	ἵνα	ἵνα	conjunction	-	so that
+12.02.046	075.08	ἐπ’	ἐπ’	ἐπί	ἐπί	preposition	-	on
+12.02.047	075.09	ἐκείνῳ	ἐκείνῳ	ἐκείνῳ	ἐκεῖνος	pronoun	DSY	that [one]
+12.02.048	075.10	ᾖ	ᾖ	ᾖ	εἰμί	verb	PAS.3S	should be
+12.02.049	075.11	τὸ	τὸ	τό	ὁ	article	SSN	the
+12.02.050	075.12	σὲ	σὲ	σέ	σύ	pronoun	AS-	you
+12.02.051	075.13	μὴ	μὴ	μή	μή	conjunction	-	not
+12.02.052	075.14	ταραχθῆναι.	ταραχθῆναι	ταραχθῆναι	ταράσσω	verb	APN	to be disturbed
+
+A. But he is by no means of such importance that it should be in his power to give you any disturbance.
+B. But it is not at all desirable for him, and very undesirable for you, that it should be in his power to cause you any disturbance.
+C. But matters are not so well with him, but altogether well with you, that it should be in his power for you to be not disturbed.
+D. But he is not so well off that it rests with him to give you peace of mind.
