@@ -934,53 +934,53 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 12.02.050	075.12	σὲ	σὲ	σέ	σύ	pronoun	AS-	you
 12.02.051	075.13	μὴ	μὴ	μή	μή	conjunction	-	not
 12.02.052	075.14	ταραχθῆναι.	ταραχθῆναι	ταραχθῆναι	ταράσσω	verb	APN	to be disturbed
-13.01.001	076.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
-13.01.002	076.02	προκόψαι	προκόψαι	προκόψαι	προκόπτω	verb	AAN^AAO.3S	to advance
-13.01.003	076.03	θέλεις,	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	to will, wish, purpose
-13.01.004	076.04	ὑπόμεινον	ὑπόμεινον	ὑπόμεινον	ὑπομένω	verb	AAD.2S	to stay behind, survive
-13.01.005	076.05	ἕνεκα	ἕνεκα	ἕνεκα	ἕνεκα	preposition	-	on account of, for the sake of, because of, for
-13.01.006	076.06	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
+13.01.001	076.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+13.01.002	076.02	προκόψαι	προκόψαι	προκόψαι	προκόπτω	verb	AAN	to advance
+13.01.003	076.03	θέλεις,	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	you wish
+13.01.004	076.04	ὑπόμεινον	ὑπόμεινον	ὑπόμεινον	ὑπομένω	verb	AAD.2S	be content
+13.01.005	076.05	ἕνεκα	ἕνεκα	ἕνεκα	ἕνεκα	preposition	-	with respect to
+13.01.006	076.06	τῶν	τῶν	τῶν	ὁ	article	GPX	the
 13.01.007	076.07	ἐκτὸς	ἐκτὸς	ἐκτός	ἐκτός	adverb	-	outside
-13.01.008	076.08	ἀνόητος	ἀνόητος	ἀνόητος	ἀνόητος	adjective	NSZ	not thought on, unheard of; senseless, silly
-13.01.009	076.09	δόξας	δόξας	δόξας	δοκέω	verb	AAP.NS-^AAI.2S	seem, impers. it seems best..
-13.01.010	076.10	καὶ	καὶ	καί	καί	conjunction	-	and, also
-13.01.011	076.11	ἠλίθιος,	ἠλίθιος	ἠλίθιος	ἠλίθιος	adjective	NSM	idle, vain, random
-13.01.012	076.12	μηδὲν	μηδὲν	μηδέν	μηδείς	pronoun	SSN	(and not one); not one, no-one
-13.01.013	076.13	βούλου	βούλου	βούλου	βούλομαι	verb	PMD.2S^IMI.2S	to will, wish, be willing
-13.01.014	076.14	δοκεῖν	δοκεῖν	δοκεῖν	δοκέω	verb	PAN	seem, impers. it seems best..
-13.01.015	076.15	ἐπίστασθαι:	ἐπίστασθαι	ἐπίστασθαι	ἐφίστημι	verb	PMN	to set on, over; set in charge of
-13.01.016	077.01	κἂν	κἂν	κἄν	κἀν	conjunction	-	crasis of καὶ ἐν
-13.01.017	077.02	δόξῃς	δόξῃς	δόξῃς	δοκέω	verb	AAS.2S	seem, impers. it seems best..
-13.01.018	077.03	τις	τις	τις	τις	pronoun	NSZ	any one, any thing, some one, some thing;
+13.01.008	076.08	ἀνόητος	ἀνόητος	ἀνόητος	ἀνόητος	adjective	NSZ	unintelligent
+13.01.009	076.09	δόξας	δόξας	δόξας	δοκέω	verb	AAP.NS-	seeming
+13.01.010	076.10	καὶ	καὶ	καί	καί	conjunction	-	and
+13.01.011	076.11	ἠλίθιος,	ἠλίθιος	ἠλίθιος	ἠλίθιος	adjective	NSM	foolish
+13.01.012	076.12	μηδὲν	μηδὲν	μηδέν	μηδείς	pronoun	SSN	nothing
+13.01.013	076.13	βούλου	βούλου	βούλου	βούλομαι	verb	PMD.2S	wish
+13.01.014	076.14	δοκεῖν	δοκεῖν	δοκεῖν	δοκέω	verb	PAN	to seem
+13.01.015	076.15	ἐπίστασθαι:	ἐπίστασθαι	ἐπίστασθαι	ἐπίσταμαι	verb	PMN	to know
+13.01.016	077.01	κἂν	κἂν	κἄν	κἀν	conjunction	-	and if
+13.01.017	077.02	δόξῃς	δόξῃς	δόξῃς	δοκέω	verb	AAS.2S	you seem
+13.01.018	077.03	τις	τις	τις	τις	pronoun	NSZ	somebody
 13.01.019	077.04	εἶναί	εἶναί	εἶναι	εἰμί	verb	PAN	to be
-13.01.020	077.05	τισιν,	τισιν	τισιν	τις	pronoun	DP-	any one, any thing, some one, some thing;
-13.01.021	077.06	ἀπίστει	ἀπίστει	ἀπίστει	ἀπιστέω	verb	IAI.3S^PAD.2S^IAI.3S	to disbelieve, distrust; to disobey
-13.01.022	077.07	σεαυτῷ.	σεαυτῷ	σεαυτῷ	σαυτοῦ	pronoun	DSY^DSN^DSM	-
-13.01.023	078.01	ἴσθι	ἴσθι	ἴσθι	εἰμί	verb	PAD.2S	to be
+13.01.020	077.05	τισιν,	τισιν	τισιν	τις	pronoun	DP-	to someone
+13.01.021	077.06	ἀπίστει	ἀπίστει	ἀπίστει	ἀπιστέω	verb	PAD.2S	distrust
+13.01.022	077.07	σεαυτῷ.	σεαυτῷ	σεαυτῷ	σαυτοῦ	pronoun	DSY	yourself
+13.01.023	078.01	ἴσθι	ἴσθι	ἴσθι	οἶδα	verb	PAD.2S	know
 13.01.024	078.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
-13.01.025	078.03	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
+13.01.025	078.03	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
 13.01.026	078.04	οὐ	οὐ	οὐ	οὐ	adverb	-	not
-13.01.027	078.05	ῥᾴδιον	ῥᾴδιον	ῥᾴδιον	ῥᾴδιος	adjective	ASM^SSN^ASZ^SSN^VSZC^SSNC	easy, ready, easy to make
+13.01.027	078.05	ῥᾴδιον	ῥᾴδιον	ῥᾴδιον	ῥᾴδιος	adjective	ASZ	easy
 13.01.028	078.06	τὴν	τὴν	τήν	ὁ	article	ASF	the
-13.01.029	078.07	προαίρεσιν	προαίρεσιν	προαίρεσιν	προαίρεσις	noun	ASF	a choosing
+13.01.029	078.07	προαίρεσιν	προαίρεσιν	προαίρεσιν	προαίρεσις	noun	ASF	will
 13.01.030	078.08	τὴν	τὴν	τήν	ὁ	article	ASF	the
-13.01.031	078.09	σεαυτοῦ	σεαυτοῦ	σεαυτοῦ	σαυτοῦ	pronoun	GSY^GSN^GSM	-
-13.01.032	078.10	κατὰ	κατὰ	κατά	κατά	preposition	-	down, against with gen.; according to, throughout with acc.
-13.01.033	078.11	φύσιν	φύσιν	φύσιν	φύσις	noun	ASF	the nature, natural qualities, powers, constitution, condition
-13.01.034	078.12	ἔχουσαν	ἔχουσαν	ἔχουσαν	ἔχω	verb	PAP.AS-	to have
-13.01.035	078.13	φυλάξαι	φυλάξαι	φυλάξαι	φυλάσσω	verb	AAN^AAO.3S	to keep watch and ward, keep guard
-13.01.036	078.14	καὶ	καὶ	καί	καί	conjunction	-	and, also
-13.01.037	078.15	τὰ	τὰ	τά	ὁ	article	APN^SPN^ADF^SDF	the
+13.01.031	078.09	σεαυτοῦ	σεαυτοῦ	σεαυτοῦ	σαυτοῦ	pronoun	GSX	of yourself
+13.01.032	078.10	κατὰ	κατὰ	κατά	κατά	preposition	-	according to
+13.01.033	078.11	φύσιν	φύσιν	φύσιν	φύσις	noun	ASF	nature
+13.01.034	078.12	ἔχουσαν	ἔχουσαν	ἔχουσαν	ἔχω	verb	PAP.AS-	having
+13.01.035	078.13	φυλάξαι	φυλάξαι	φυλάξαι	φυλάσσω	verb	AAN	to keep guard
+13.01.036	078.14	καὶ	καὶ	καί	καί	conjunction	-	and
+13.01.037	078.15	τὰ	τὰ	τά	ὁ	article	SPN	the
 13.01.038	078.16	ἐκτός,	ἐκτός	ἐκτός	ἐκτός	adverb	-	outside
-13.01.039	078.17	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	otherwise, but
+13.01.039	078.17	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
 13.01.040	078.18	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
-13.01.041	078.19	ἑτέρου	ἑτέρου	ἑτέρου	ἕτερος	adjective	GSY	the one; the other (of two)
-13.01.042	078.20	ἐπιμελούμενον	ἐπιμελούμενον	ἐπιμελούμενον	ἐπιμελέομαι	verb	PMP.AS-^PMP.SS-	to take care of, have charge of, have the management of
+13.01.041	078.19	ἑτέρου	ἑτέρου	ἑτέρου	ἕτερος	adjective	GSY	the one
+13.01.042	078.20	ἐπιμελούμενον	ἐπιμελούμενον	ἐπιμελούμενον	ἐπιμελέομαι	verb	PMP.SS-	taking care of
 13.01.043	078.21	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
-13.01.044	078.22	ἑτέρου	ἑτέρου	ἑτέρου	ἕτερος	adjective	GSY	the one; the other (of two)
-13.01.045	078.23	ἀμελῆσαι	ἀμελῆσαι	ἀμελῆσαι	ἀμελέω	verb	AAN	to have no care for, be neglectful of
-13.01.046	078.24	πᾶσα	πᾶσα	πᾶσα	πᾶς	adjective	NSF	all, the whole
-13.01.047	078.25	ἀνάγκη.	ἀνάγκη	ἀνάγκη	ἀνάγκη	noun	NSF	force, constraint, necessity
+13.01.044	078.22	ἑτέρου	ἑτέρου	ἑτέρου	ἕτερος	adjective	GSY	the other
+13.01.045	078.23	ἀμελῆσαι	ἀμελῆσαι	ἀμελῆσαι	ἀμελέω	verb	AAN	to neglect
+13.01.046	078.24	πᾶσα	πᾶσα	πᾶσα	πᾶς	adjective	NSF	all
+13.01.047	078.25	ἀνάγκη.	ἀνάγκη	ἀνάγκη	ἀνάγκη	noun	NSF	necessity
 14.01.001	079.01	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
 14.01.002	079.02	θέλῃς	θέλῃς	θέλῃς	ἐθέλω	verb	PAS.2S	to will, wish, purpose
 14.01.003	079.03	τὰ	τὰ	τά	ὁ	article	APN^SPN^ADF^SDF	the

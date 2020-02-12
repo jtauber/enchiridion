@@ -1539,3 +1539,74 @@ A. But he is by no means of such importance that it should be in his power to gi
 B. But it is not at all desirable for him, and very undesirable for you, that it should be in his power to cause you any disturbance.
 C. But matters are not so well with him, but altogether well with you, that it should be in his power for you to be not disturbed.
 D. But he is not so well off that it rests with him to give you peace of mind.
+
+# 076
+
+13.01.001	076.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+13.01.002	076.02	προκόψαι	προκόψαι	προκόψαι	προκόπτω	verb	AAN	to advance
+13.01.003	076.03	θέλεις,	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	you wish
+13.01.004	076.04	ὑπόμεινον	ὑπόμεινον	ὑπόμεινον	ὑπομένω	verb	AAD.2S	be content
+13.01.005	076.05	ἕνεκα	ἕνεκα	ἕνεκα	ἕνεκα	preposition	-	with respect to
+13.01.006	076.06	τῶν	τῶν	τῶν	ὁ	article	GPX	the
+13.01.007	076.07	ἐκτὸς	ἐκτὸς	ἐκτός	ἐκτός	adverb	-	outside
+13.01.008	076.08	ἀνόητος	ἀνόητος	ἀνόητος	ἀνόητος	adjective	NSZ	unintelligent
+13.01.009	076.09	δόξας	δόξας	δόξας	δοκέω	verb	AAP.NS-	seeming
+13.01.010	076.10	καὶ	καὶ	καί	καί	conjunction	-	and
+13.01.011	076.11	ἠλίθιος,	ἠλίθιος	ἠλίθιος	ἠλίθιος	adjective	NSM	foolish
+13.01.012	076.12	μηδὲν	μηδὲν	μηδέν	μηδείς	pronoun	SSN	nothing
+13.01.013	076.13	βούλου	βούλου	βούλου	βούλομαι	verb	PMD.2S	wish
+13.01.014	076.14	δοκεῖν	δοκεῖν	δοκεῖν	δοκέω	verb	PAN	to seem
+13.01.015	076.15	ἐπίστασθαι:	ἐπίστασθαι	ἐπίστασθαι	ἐπίσταμαι	verb	PMN	to know
+
+A. If you want to improve, be content to be thought foolish and stupid with regard to external things. Don't wish to be thought to know anything;
+B. If you would improve, be content to be thought foolish and dull with regard to externals. Do not desire to be thought to know anything;
+C. If you would improve, submit to be considered without sense and foolish with respect to externals. Wish to be considered to know nothing:
+D. If you wish to make progress, you must be content in external matters to seem a fool and a simpleton; do not wish men to think you know anything,
+
+# 077
+
+13.01.016	077.01	κἂν	κἂν	κἄν	κἀν	conjunction	-	and if
+13.01.017	077.02	δόξῃς	δόξῃς	δόξῃς	δοκέω	verb	AAS.2S	you seem
+13.01.018	077.03	τις	τις	τις	τις	pronoun	NSZ	somebody
+13.01.019	077.04	εἶναί	εἶναί	εἶναι	εἰμί	verb	PAN	to be
+13.01.020	077.05	τισιν,	τισιν	τισιν	τις	pronoun	DP-	to someone
+13.01.021	077.06	ἀπίστει	ἀπίστει	ἀπίστει	ἀπιστέω	verb	PAD.2S	distrust
+13.01.022	077.07	σεαυτῷ.	σεαυτῷ	σεαυτῷ	σαυτοῦ	pronoun	DSY	yourself
+
+A. and even if you appear to be somebody important to others, distrust yourself.
+B. and though you should appear to others to be somebody, distrust yourself.
+C. and if you shall seem to some to be a person of importance, distrust yourself.
+D. and if any should think you to be somebody, distrust yourself.
+
+# 078
+
+13.01.023	078.01	ἴσθι	ἴσθι	ἴσθι	οἶδα	verb	PAD.2S	know
+13.01.024	078.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+13.01.025	078.03	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+13.01.026	078.04	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+13.01.027	078.05	ῥᾴδιον	ῥᾴδιον	ῥᾴδιον	ῥᾴδιος	adjective	ASZ	easy
+13.01.028	078.06	τὴν	τὴν	τήν	ὁ	article	ASF	the
+13.01.029	078.07	προαίρεσιν	προαίρεσιν	προαίρεσιν	προαίρεσις	noun	ASF	will
+13.01.030	078.08	τὴν	τὴν	τήν	ὁ	article	ASF	the
+13.01.031	078.09	σεαυτοῦ	σεαυτοῦ	σεαυτοῦ	σαυτοῦ	pronoun	GSX	of yourself
+13.01.032	078.10	κατὰ	κατὰ	κατά	κατά	preposition	-	according to
+13.01.033	078.11	φύσιν	φύσιν	φύσιν	φύσις	noun	ASF	nature
+13.01.034	078.12	ἔχουσαν	ἔχουσαν	ἔχουσαν	ἔχω	verb	PAP.AS-	having
+13.01.035	078.13	φυλάξαι	φυλάξαι	φυλάξαι	φυλάσσω	verb	AAN	to keep guard
+13.01.036	078.14	καὶ	καὶ	καί	καί	conjunction	-	and
+13.01.037	078.15	τὰ	τὰ	τά	ὁ	article	SPN	the
+13.01.038	078.16	ἐκτός,	ἐκτός	ἐκτός	ἐκτός	adverb	-	outside
+13.01.039	078.17	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
+13.01.040	078.18	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
+13.01.041	078.19	ἑτέρου	ἑτέρου	ἑτέρου	ἕτερος	adjective	GSY	the one
+13.01.042	078.20	ἐπιμελούμενον	ἐπιμελούμενον	ἐπιμελούμενον	ἐπιμελέομαι	verb	PMP.SS-	taking care of
+13.01.043	078.21	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
+13.01.044	078.22	ἑτέρου	ἑτέρου	ἑτέρου	ἕτερος	adjective	GSY	the other
+13.01.045	078.23	ἀμελῆσαι	ἀμελῆσαι	ἀμελῆσαι	ἀμελέω	verb	AAN	to neglect
+13.01.046	078.24	πᾶσα	πᾶσα	πᾶσα	πᾶς	adjective	NSF	all
+13.01.047	078.25	ἀνάγκη.	ἀνάγκη	ἀνάγκη	ἀνάγκη	noun	NSF	necessity
+
+A. For, it is difficult to both keep your faculty of choice in a state conformable to nature, and at the same time acquire external things. But while you are careful about the one, you must of necessity neglect the other.
+B. For be assured, it is not easy at once to keep your will in harmony with nature, and to secure externals; but while you are absorbed in the one, you must of necessity neglect the other.
+C. For you should know that it is not easy both to keep your will in a condition conformable to nature and (to secure) external things: but if a man is careful about the one, it is an absolute necessity that he will neglect the other.
+D. For know that it is not easy to keep your will in accord with nature and at the same time keep outward things; if you attend to one you must needs neglect the other.
