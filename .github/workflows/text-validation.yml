@@ -16,4 +16,4 @@ jobs:
     - name: Run text
       run: |
         pip install text-validator
-        validate-text text-validator.toml enchiridion.txt 
+        validate-text text-validator.toml text/enchiridion.txt 
