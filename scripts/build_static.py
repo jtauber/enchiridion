@@ -60,8 +60,8 @@ def output(src, dest, title, subtitle, lang):
             print(FOOTER, file=g)
 
 
-output("enchiridion.txt", "docs/GK_schenkl.html", "The Enchiridion of Epictetus", "Greek Edition of Schenkl", "grc")
-output("formatted/EN_carter.txt", "docs/EN_carter.html", "The Enchiridion of Epictetus", "English Translation by Carter", "en")
-output("formatted/EN_higginson.txt", "docs/EN_higginson.html", "The Enchiridion of Epictetus", "English Translation by Higginson", "en")
-output("formatted/EN_long.txt", "docs/EN_long.html", "The Enchiridion of Epictetus", "English Translation by Long", "en")
-output("formatted/EN_matheson.txt", "docs/EN_matheson.html", "The Enchiridion of Epictetus", "English Translation by Matheson", "en")
+output("text/enchiridion.txt", "docs/GK_schenkl.html", "The Enchiridion of Epictetus", "Greek Edition of Schenkl", "grc")
+output("text/EN_carter.txt", "docs/EN_carter.html", "The Enchiridion of Epictetus", "English Translation by Carter", "en")
+output("text/EN_higginson.txt", "docs/EN_higginson.html", "The Enchiridion of Epictetus", "English Translation by Higginson", "en")
+output("text/EN_long.txt", "docs/EN_long.html", "The Enchiridion of Epictetus", "English Translation by Long", "en")
+output("text/EN_matheson.txt", "docs/EN_matheson.html", "The Enchiridion of Epictetus", "English Translation by Matheson", "en")
