@@ -3,16 +3,16 @@ Enchiridion
 
 Epictetus's Enchiridion text and analysis
 
-`text/` directory contains various English and Greek versions of the text.
+`orig/` directory contains various English and Greek versions of the text.
 
-`analysis/enchiridion.txt` was produced by running `initial-convert.py` on
-`text/GK_schenkl.txt`.
+`analysis/enchiridion.txt` was produced by running `scripts/initial-convert.py` on
+`orig/GK_schenkl.txt`.
 
-`tokens-to-parts.py` converts the text in `analysis/enchiridion.txt` to a line-per-verse format which can be found in `enchiridion.txt`.
+`scripts/tokens-to-parts.py` converts the text in `analysis/enchiridion.txt` to a line-per-verse format which can be found in `text/enchiridion.txt`.
 
-`formatted/` contains the English translations manually formatted in the same format as the top level `enchiridion.txt` file.
+`text/` also contains the English translations manually formatted in the same format as the top level `enchiridion.txt` file.
 
-`analysis/tagged.tsv` contains a tagged Enchiridion text initially achieved by aligning `enchiridion.txt` with the analysis in the Diorisis corpus (with some corrections to the text). It is now being manually corrected and disambiguated.
+`analysis/tagged.tsv` contains a tagged Enchiridion text initially achieved by aligning `text/enchiridion.txt` with the analysis in the Diorisis corpus (with some corrections to the text). It is now being manually corrected and disambiguated in `analysis/glossing.txt`.
 
 `analysis/tagged_glossed.tsv` contains the same tagging but with glosses as well (initially from Perseus/Logeion shortdefs). It is also being manually corrected and disambiguated.
 
