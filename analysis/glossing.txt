@@ -1610,3 +1610,175 @@ A. For, it is difficult to both keep your faculty of choice in a state conformab
 B. For be assured, it is not easy at once to keep your will in harmony with nature, and to secure externals; but while you are absorbed in the one, you must of necessity neglect the other.
 C. For you should know that it is not easy both to keep your will in a condition conformable to nature and (to secure) external things: but if a man is careful about the one, it is an absolute necessity that he will neglect the other.
 D. For know that it is not easy to keep your will in accord with nature and at the same time keep outward things; if you attend to one you must needs neglect the other.
+
+# 079
+
+14.01.001	079.01	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+14.01.002	079.02	θέλῃς	θέλῃς	θέλῃς	ἐθέλω	verb	PAS.2S	you wish
+14.01.003	079.03	τὰ	τὰ	τά	ὁ	article	SPN	the
+14.01.004	079.04	τέκνα	τέκνα	τέκνα	τέκνον	noun	SPN	child
+14.01.005	079.05	σου	σου	σου	σύ	pronoun	GS-2	of you
+14.01.006	079.06	καὶ	καὶ	καί	καί	conjunction	-	and
+14.01.007	079.07	τὴν	τὴν	τήν	ὁ	article	ASF	the
+14.01.008	079.08	γυναῖκα	γυναῖκα	γυναῖκα	γυνή	noun	ASF	wife
+14.01.009	079.09	καὶ	καὶ	καί	καί	conjunction	-	and
+14.01.010	079.10	τοὺς	τοὺς	τούς	ὁ	article	APM	the
+14.01.011	079.11	φίλους	φίλους	φίλους	φῖλος	noun	GSN	friends
+14.01.012	079.12	σου	σου	σου	σύ	pronoun	GS-2	of you
+14.01.013	079.13	πάντοτε	πάντοτε	πάντοτε	πάντοτε	adverb	-	always
+14.01.014	079.14	ζῆν,	ζῆν	ζῆν	ζάω	verb	PAN	to live
+14.01.015	079.15	ἠλίθιος	ἠλίθιος	ἠλίθιος	ἠλίθιος	adjective	NSM	foolish
+14.01.016	079.16	εἶ:	εἶ	εἶ	εἰμί	verb	PAI.2S	you are
+
+A. If you wish your children, and your wife, and your friends to live for ever, you are stupid;
+B. If you wish your children and your wife and your friends to live forever, you are foolish;
+C. If you would have your children and your wife and your friends to live for ever, you are silly;
+D. It is silly to want your children and your wife and your friends to live for ever,
+
+# 080
+
+14.01.017	080.01	τὰ	τὰ	τά	ὁ	article	SPN	the [things]
+14.01.018	080.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+14.01.019	080.03	μὴ	μὴ	μή	μή	conjunction	-	not
+14.01.020	080.04	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on
+14.01.021	080.05	σοὶ	σοὶ	σοί	σύ	pronoun	DS-2	you
+14.01.022	080.06	θέλεις	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	you wish
+14.01.023	080.07	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on
+14.01.024	080.08	σοὶ	σοὶ	σοί	σύ	pronoun	DS-22	you
+14.01.025	080.09	εἶναι	εἶναι	εἶναι	εἰμί	verb	PAN	to be
+14.01.026	080.10	καὶ	καὶ	καί	καί	conjunction	-	and
+14.01.027	080.11	τὰ	τὰ	τά	ὁ	article	SPN	the [things]
+14.01.028	080.12	ἀλλότρια	ἀλλότρια	ἀλλότρια	ἀλλότριος	adjective	SPN	belonging to another
+14.01.029	080.13	σὰ	σὰ	σά	σός	adjective	SPN	yours
+14.01.030	080.14	εἶναι.	εἶναι	εἶναι	εἰμί	verb	PAN	to be
+
+A. for you wish to be in control of things which you cannot, you wish for things that belong to others to be your own.
+B. for you wish things to be in your power which are not so; and what belongs to others to be your own.
+C. for you would have the things which are not in your power to be in your power, and the things which belong to others to be yours.
+D. for that means that you want what is not in your control to be in your control, and what is not your own to be yours.
+
+# 081
+
+14.01.031	081.01	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	so
+14.01.032	081.02	κἂν	κἂν	κἄν	κἀν	conjunction	-	if also
+14.01.033	081.03	τὸν	τὸν	τόν	ὁ	article	ASM	the
+14.01.034	081.04	παῖδα	παῖδα	παῖδα	παῖς	adjective	ASZ	slave
+14.01.035	081.05	θέλῃς	θέλῃς	θέλῃς	ἐθέλω	verb	PAS.2S	you wish
+14.01.036	081.06	μὴ	μὴ	μή	μή	conjunction	-	not
+14.01.037	081.07	ἁμαρτάνειν,	ἁμαρτάνειν	ἁμαρτάνειν	ἁμαρτάνω	verb	PAN	to fault
+14.01.038	081.08	μωρὸς	μωρὸς	μωρός	μωρός	adjective	NSM	stupid
+14.01.039	081.09	εἶ:	εἶ	εἶ	εἰμί	verb	PAI.2S	you are
+
+A. So likewise, if you wish your servant to be without fault, you are a fool;
+B. So likewise, if you wish your servant to be without fault, you are foolish;
+C. So if you would have your slave to be free from faults, you are a fool;
+D. In the same way if you want your servant to make no mistakes, you are a fool,
+
+# 082
+
+14.01.040	082.01	θέλεις	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	you wish
+14.01.041	082.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+14.01.042	082.03	τὴν	τὴν	τήν	ὁ	article	ASF	the
+14.01.043	082.04	κακίαν	κακίαν	κακίαν	κακία	noun	ASF	bad
+14.01.044	082.05	μὴ	μὴ	μή	μή	conjunction	-	not
+14.01.045	082.06	εἶναι	εἶναι	εἶναι	εἰμί	verb	PAN	to be
+14.01.046	082.07	κακίαν,	κακίαν	κακίαν	κακία	noun	ASF	bad
+14.01.047	082.08	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
+14.01.048	082.09	ἄλλο	ἄλλο	ἄλλο	ἄλλος	adjective	SSN	another
+14.01.049	082.10	τι.	τι	τι	τις	pronoun	SSN	something
+
+A. for you wish vice not to be vice," but something else.
+B. for you wish vice not to be vice, but something else.
+C. for you would have badness not to be badness, but something else.
+D. for you want vice not to be vice but something different.
+
+# 083
+
+14.01.050	083.01	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+14.01.051	083.02	δὲ	δὲ	δέ	δέ	particle	-	but
+14.01.052	083.03	θέλῃς	θέλῃς	θέλῃς	ἐθέλω	verb	PAS.2S	you wish
+14.01.053	083.04	ὀρεγόμενος	ὀρεγόμενος	ὀρεγόμενος	ὀρέγω	verb	PMP.NS-	desiring
+14.01.054	083.05	μὴ	μὴ	μή	μή	conjunction	-	not
+14.01.055	083.06	ἀποτυγχάνειν,	ἀποτυγχάνειν	ἀποτυγχάνειν	ἀποτυγχάνω	verb	PAN	to fail
+14.01.056	083.07	τοῦτο	τοῦτο	τοῦτο	οὗτος	pronoun	SSN	this
+14.01.057	083.08	δύνασαι.	δύνασαι	δύνασαι	δύναμαι	verb	PMI.2S	you are able
+
+A. But, if you wish to have your desires undisappointed, this is in your own control.
+B. But if you wish not to be disappointed in your desires, that is in your own power.
+C. But if you wish not to fail in your desires, you are able to do that.
+D. But if you want not to be disappointed in your will to get, you can attain to that.
+
+# 084
+
+14.01.058	084.01	τοῦτο	τοῦτο	τοῦτο	οὗτος	pronoun	SSN	this
+14.01.059	084.02	οὖν	οὖν	οὖν	οὖν	particle	-	therefore
+14.01.060	084.03	ἄσκει,	ἄσκει	ἄσκει	ἀσκέω	verb	PAD.2S	practice
+14.01.061	084.04	ὃ	ὃ	ὅ	ὅς	pronoun	SSN	that which
+14.01.062	084.05	δύνασαι.	δύνασαι	δύνασαι	δύναμαι	verb	PMI.2S	you are able
+
+A. {14.2} Exercise, therefore, what is in your control.
+B. {14.2} Exercise, therefore, what is in your power.
+C. {14.2} Practise then this which you are able to do.
+D. {14.2} Exercise yourself then in what lies in your power.
+
+# 085
+
+14.02.001	085.01	κύριος	κύριος	κύριος	κύριος	noun	NSM	master
+14.02.002	085.02	ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος	adjective	GSY	of all
+14.02.003	085.03	ἐστὶν	ἐστὶν	ἐστί(ν)	εἰμί	verb	PAI.3S	is he
+14.02.004	085.04	ὁ	ὁ	ὁ	ὁ	article	NSM	the [things]
+14.02.005	085.05	τῶν	τῶν	τῶν	ὁ	article	GPX	-
+14.02.006	085.06	ὑπ’	ὑπ’	ὑπό	ὑπό	preposition	-	by
+14.02.007	085.07	ἐκείνου	ἐκείνου	ἐκείνου	ἐκεῖνος	pronoun	GSY	that person
+14.02.008	085.08	θελομένων	θελομένων	θελομένων	ἐθέλω	verb	PMP.GPX	wished for
+14.02.009	085.09	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+14.02.010	085.10	μὴ	μὴ	μή	μή	conjunction	-	not
+14.02.011	085.11	θελομένων	θελομένων	θελομένων	ἐθέλω	verb	PMP.GPX	wished for
+14.02.012	085.12	ἔχων	ἔχων	ἔχων	ἔχω	verb	PAP.NS-	having
+14.02.013	085.13	τὴν	τὴν	τήν	ὁ	article	ASF	the
+14.02.014	085.14	ἐξουσίαν	ἐξουσίαν	ἐξουσίαν	ἐξουσία	noun	ASF	authority
+14.02.015	085.15	εἰς	εἰς	εἰς	εἰς	preposition	-	-
+14.02.016	085.16	τὸ	τὸ	τό	ὁ	article	SSN	the
+14.02.017	085.17	περιποιῆσαι	περιποιῆσαι	περιποιῆσαι	περιποιέω	verb	AAN	to secure
+14.02.018	085.18	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+14.02.019	085.19	ἀφελέσθαι.	ἀφελέσθαι	ἀφελέσθαι	ἀφαιρέω	verb	AMN	to remove
+
+A. He is the master of every other person who is able to confer or remove whatever that person wishes either to have or to avoid.
+B. A man's master is he who is able to confer or remove whatever that man seeks or shuns.
+C. He is the master of every man who has the power over the things, which another person wishes or does not wish, the power to confer them on him or to take them away.
+D. Each man's master is the man who has authority over what he wishes or does not wish, to secure the one or to take away the other.
+
+# 086
+
+14.02.020	086.01	ὅστις	ὅστις	ὅστις	ὅστις	pronoun	NSM	whoever
+14.02.021	086.02	οὖν	οὖν	οὖν	οὖν	particle	-	therefore
+14.02.022	086.03	ἐλεύθερος	ἐλεύθερος	ἐλεύθερος	ἐλεύθερος	adjective	NSZ	free
+14.02.023	086.04	εἶναι	εἶναι	εἶναι	εἰμί	verb	PAN	to be
+14.02.024	086.05	βούλεται,	βούλεται	βούλεται	βούλομαι	verb	PMI.3S	wishes
+14.02.025	086.06	μήτε	μήτε	μήτε	μήτε	particle	-	neither
+14.02.026	086.07	θελέτω	θελέτω	θελέτω	ἐθέλω	verb	PAD.3S	wish
+14.02.027	086.08	τι	τι	τι	τις	pronoun	SSN	anything
+14.02.028	086.09	μήτε	μήτε	μήτε	μήτε	particle	-	nor
+14.02.029	086.10	φευγέτω	φευγέτω	φευγέτω	φεύγω	verb	PAD.3S	flee from
+14.02.030	086.11	τι	τι	τι	τις	pronoun	SSN	anything
+14.02.031	086.12	τῶν	τῶν	τῶν	ὁ	article	GPX	of [those]
+14.02.032	086.13	ἐπ’	ἐπ’	ἐπί	ἐπί	preposition	-	on
+14.02.033	086.14	ἄλλοις:	ἄλλοις	ἄλλοις	ἄλλος	adjective	DPY	others
+
+A. Whoever, then, would be free, let him wish nothing, let him decline nothing, which depends on others
+B. Whoever then would be free, let him wish nothing, let him decline nothing, which depends on others;
+C. Whoever then wishes to be free, let him neither wish for any thing nor avoid anything which depends on others:
+D. Let him then who wishes to be free not wish for anything or avoid anything that depends on others;
+
+# 087
+
+14.02.034	087.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	else
+14.02.035	087.02	δὲ	δὲ	δέ	δέ	particle	-	-
+14.02.036	087.03	μή,	μή	μή	μή	conjunction	-	-
+14.02.037	087.04	δουλεύειν	δουλεύειν	δουλεύειν	δουλεύω	verb	PAN	to be a slave
+14.02.038	087.05	ἀνάγκη.	ἀνάγκη	ἀνάγκη	ἀνάγκη	noun	NSF	[is] necessity
+
+A. else he must necessarily be a slave.
+B. else he must necessarily be a slave.
+C. if he does not observe this rule, he must be a slave.
+D. or else he is bound to be a slave.
