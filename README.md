@@ -11,7 +11,7 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 
 `scripts/tokens-to-parts.py` converts the text in `analysis/enchiridion.txt` to a line-per-verse format which can be found in `text/enchiridion.txt`.
 
-`text/` also contains the English translations manually formatted in the same format as the top level `enchiridion.txt` file.
+`text/` also contains the English translations manually formatted in the same format as the `enchiridion.txt` file.
 
 `analysis/tagged.tsv` contains a tagged Enchiridion text initially achieved by aligning `text/enchiridion.txt` with the analysis in the Diorisis corpus (with some corrections to the text). It is now being manually corrected and disambiguated in `analysis/glossing.txt`.
 
