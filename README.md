@@ -35,7 +35,7 @@ A static website is being generated in `docs/` and served up at <https://jtauber
 
 The text preparation is complete.
 
-Translation alignment, glossing, and lemma correction has been done up to chapter 13.
+Translation alignment, glossing, and lemma correction has been done up to chapter 15.
 
 ## License
 

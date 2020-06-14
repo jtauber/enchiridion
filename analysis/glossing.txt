@@ -670,7 +670,7 @@ D. and so in each thing you do;
 04.01.067	026.14	οὐ	οὐ	οὐ	οὐ	adverb	-	not
 04.01.068	026.15	τοῦτο	τοῦτο	τοῦτο	οὗτος	pronoun	SSN	this
 04.01.069	026.16	ἤθελον	ἤθελον	ἤθελον	ἐθέλω	verb	IAI.1S	I wanted
-04.01.070	026.17	μόνον,	μόνον	μόνον	μόνος	adjective	ASM^SSN	only
+04.01.070	026.17	μόνον,	μόνον	μόνον	μόνος	adjective	SSN	only
 04.01.071	026.18	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
 04.01.072	026.19	καὶ	καὶ	καί	καί	conjunction	-	also
 04.01.073	026.20	τὴν	τὴν	τήν	ὁ	article	ASF	the
@@ -1782,3 +1782,179 @@ A. else he must necessarily be a slave.
 B. else he must necessarily be a slave.
 C. if he does not observe this rule, he must be a slave.
 D. or else he is bound to be a slave.
+
+# 088
+
+15.01.001	088.01	μέμνησο,	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S	remember
+15.01.002	088.02	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+15.01.003	088.03	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+15.01.004	088.04	ἐν	ἐν	ἐν	ἐν	preposition	-	at
+15.01.005	088.05	συμποσίῳ	συμποσίῳ	συμποσίῳ	συμπόσιον	noun	DSN	a drinking-party
+15.01.006	088.06	σε	σε	σε	σύ	pronoun	AS-2	you
+15.01.007	088.07	δεῖ	δεῖ	δεῖ	δεῖ	verb	PAI.3S	must
+15.01.008	088.08	ἀναστρέφεσθαι.	ἀναστρέφεσθαι	ἀναστρέφεσθαι	ἀναστρέφω	verb	PMN	behave
+
+A. Remember that you must behave in life as at a dinner party.
+B. Remember that you must behave as at a banquet.
+C. Remember that in life you ought to behave as at a banquet.
+D. Remember that you must behave in life as you would at a banquet.
+
+# 089
+
+15.01.009	089.01	περιφερόμενον	περιφερόμενον	περιφερόμενον	περιφέρω	verb	PMP.AS-	being brought around
+15.01.010	089.02	γέγονέ	γέγονέ	γέγονέ	γίγνομαι	verb	XAI.3S	has come
+15.01.011	089.03	τι	τι	τι	τις	pronoun	SSN	anything
+15.01.012	089.04	κατὰ	κατὰ	κατά	κατά	preposition	-	down to
+15.01.013	089.05	σέ:	σέ	σέ	σύ	pronoun	AS-2	you?
+
+A. Is anything brought around to you?
+B. Is anything brought round to you?
+C. Suppose that something is carried round and is opposite to you.
+D. A dish is handed round and comes to you;
+
+# 090
+
+15.01.014	090.01	ἐκτείνας	ἐκτείνας	ἐκτείνας	ἐκτείνω	verb	AAP.NS-	stretching out
+15.01.015	090.02	τὴν	τὴν	τήν	ὁ	article	ASF	the
+15.01.016	090.03	χεῖρα	χεῖρα	χεῖρα	χείρ	noun	ASF	hand
+15.01.017	090.04	κοσμίως	κοσμίως	κοσμίως	κοσμίως	adverb	-	moderately
+15.01.018	090.05	μετάλαβε.	μετάλαβε	μετάλαβε	μεταλαμβάνω	verb	AAD.2S	take a share
+
+A. Put out your hand and take your share with moderation.
+B. Put out your hand, and take a moderate share.
+C. Stretch out your hand and take a portion with decency.
+D. put out your hand and take it politely.
+
+# 091
+
+15.01.019	091.01	παρέρχεται:	παρέρχεται	παρέρχεται	παρέρχομαι	verb	PMI.3S	it goes by
+
+A. Does it pass by you?
+B. Does it pass by you?
+C. Suppose that it passes by you.
+D. It passes you;
+
+# 092
+
+15.01.020	092.01	μὴ	μὴ	μή	μή	conjunction	-	do not
+15.01.021	092.02	κάτεχε.	κάτεχε	κάτεχε	κατέχω	verb	PAD.2S	stop [it]
+
+A. Don't stop it.
+B. Do not stop it.
+C. Do not detain it.
+D. do not stop it.
+
+# 093
+
+15.01.022	093.01	οὔπω	οὔπω	οὔπω	οὔπω	adverb	-	not yet
+15.01.023	093.02	ἥκει:	ἥκει	ἥκει	ἥκω	verb	PAI.3S	it comes
+
+A. Is it not yet come?
+B. Is it not yet come?
+C. Suppose that it is not yet come to you.
+D. It has not reached you;
+
+# 094
+
+15.01.024	094.01	μὴ	μὴ	μή	μή	conjunction	-	do not
+15.01.025	094.02	ἐπίβαλλε	ἐπίβαλλε	ἐπίβαλλε	ἐπιβάλλω	verb	PAD.2S	throw
+15.01.026	094.03	πόρρω	πόρρω	πόρρω	πρόσω	adverb	-	forward
+15.01.027	094.04	τὴν	τὴν	τήν	ὁ	article	ASF	the
+15.01.028	094.05	ὄρεξιν,	ὄρεξιν	ὄρεξιν	ὄρεξις	noun	ASF	desire
+15.01.029	094.06	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
+15.01.030	094.07	περίμενε,	περίμενε	περίμενε	περιμένω	verb	PAD.2S	wait
+15.01.031	094.08	μέχρις	μέχρις	μέχρι(ς)	μέχρι	preposition	-	until
+15.01.032	094.09	ἂν	ἂν	ἄν	ἄν	particle	-	might
+15.01.033	094.10	γένηται	γένηται	γένηται	γίγνομαι	verb	AMS.3S	it come to be
+15.01.034	094.11	κατὰ	κατὰ	κατά	κατά	preposition	-	down to
+15.01.035	094.12	σέ.	σέ	σέ	σύ	pronoun	AS-2	you
+
+A. Don't stretch your desire towards it, but wait till it reaches you.
+B. Do not yearn in desire towards it, but wait till it reaches you.
+C. Do not send your desire forward to it, but wait till it is opposite to you.
+D. do not be impatient to get it, but wait till your turn comes.
+
+# 095
+
+15.01.036	095.01	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	so thus
+15.01.037	095.02	πρὸς	πρὸς	πρός	πρός	preposition	-	regarding
+15.01.038	095.03	τέκνα,	τέκνα	τέκνα	τέκνον	noun	SPN	a child
+15.01.039	095.04	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	so thus
+15.01.040	095.05	πρὸς	πρὸς	πρός	πρός	preposition	-	regarding
+15.01.041	095.06	γυναῖκα,	γυναῖκα	γυναῖκα	γυνή	noun	ASF	a wife
+15.01.042	095.07	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	so thus
+15.01.043	095.08	πρὸς	πρὸς	πρός	πρός	preposition	-	regarding
+15.01.044	095.09	ἀρχάς,	ἀρχάς	ἀρχάς	ἀρχή	noun	APF	rule
+15.01.045	095.10	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	so thus
+15.01.046	095.11	πρὸς	πρὸς	πρός	πρός	preposition	-	regarding
+15.01.047	095.12	πλοῦτον:	πλοῦτον	πλοῦτον	πλοῦτος	noun	ASM	wealth
+
+A. Do this with regard to children, to a wife, to public posts, to riches,
+B. So with regard to children, wife, office, riches;
+C. Do so with respect to children, so with respect to a wife, so with respect to magisterial offices, so with respect to wealth,
+D. Bear yourself thus towards children, wife, office, wealth,
+
+# 096
+
+15.01.048	096.01	καὶ	καὶ	καί	καί	conjunction	-	and
+15.01.049	096.02	ἔσῃ	ἔσῃ	ἔσῃ	εἰμί	verb	FMI.2S	you will be
+15.01.050	096.03	ποτὲ	ποτὲ	ποτέ	ποτέ	particle	-	then
+15.01.051	096.04	ἄξιος	ἄξιος	ἄξιος	ἄξιος	adjective	NSM	worthy
+15.01.052	096.05	τῶν	τῶν	τῶν	ὁ	article	GPX	of the
+15.01.053	096.06	θεῶν	θεῶν	θεῶν	θέος	noun	GPX	gods
+15.01.054	096.07	συμπότης.	συμπότης	συμπότης	συμπότης	adjective	NSM	a fellow-drinker
+
+A. and you will eventually be a worthy partner of the feasts of the gods.
+B. and you will some time or other be worthy to feast with the gods.
+C. and you will be some time a worthy partner of the banquets of the gods.
+D. and one day you will be worthy to banquet with the gods.
+
+# 097
+
+15.01.055	097.01	ἂν	ἂν	ἄν	ἄν	particle	-	if
+15.01.056	097.02	δὲ	δὲ	δέ	δέ	particle	-	-
+15.01.057	097.03	καὶ	καὶ	καί	καί	conjunction	-	even
+15.01.058	097.04	παρατεθέντων	παρατεθέντων	παρατεθέντων	παρατίθημι	verb	APP.GPX	being placed beside you
+15.01.059	097.05	σοι	σοι	σοι	σύ	pronoun	DS-2	you
+15.01.060	097.06	μὴ	μὴ	μή	μή	conjunction	-	do not
+15.01.061	097.07	λάβῃς,	λάβῃς	λάβῃς	λαμβάνω	verb	AAS.2S	take
+15.01.062	097.08	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	conjunction	-	but
+15.01.063	097.09	ὑπερίδῃς,	ὑπερίδῃς	ὑπερίδῃς	ὑπερεῖδον	verb	AAS.2S	overlook
+15.01.064	097.10	τότε	τότε	τότε	τότε	adverb	-	then
+15.01.065	097.11	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+15.01.066	097.12	μόνον	μόνον	μόνον	μόνος	adjective	SSN	only
+15.01.067	097.13	συμπότης	συμπότης	συμπότης	συμπότης	adjective	NSM	a fellow-drinker
+15.01.068	097.14	τῶν	τῶν	τῶν	ὁ	article	GPX	of the
+15.01.069	097.15	θεῶν	θεῶν	θεῶν	θέος	noun	GPX	gods
+15.01.070	097.16	ἔσῃ,	ἔσῃ	ἔσῃ	εἰμί	verb	FMI.2S	you will be
+15.01.071	097.17	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	conjunction	-	but
+15.01.072	097.18	καὶ	καὶ	καί	καί	adverb	-	also
+15.01.073	097.19	συνάρχων.	συνάρχων	συνάρχων	συνάρχω	verb	PAP.NS-	jointly ruling
+
+A. And if you don't even take the things which are set before you, but are able even to reject them, then you will not only be a partner at the feasts of the gods, but also of their empire.
+B. And if you do not so much as take the things which are set before you, but are able even to forego them, then you will not only be worthy to feast with the gods, but to rule with them also.
+C. But if you take none of the things which are set before you, and even despise them, then you will be not only a fellow banqueter with the gods, but also a partner with them in power.
+D. But if when they are set before you, you do not take them but despise them, then you shall not only share the gods’ banquet, but shall share their rule.
+
+# 098
+
+15.01.074	098.01	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	in this manner
+15.01.075	098.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+15.01.076	098.03	ποιῶν	ποιῶν	ποιῶν	ποιέω	verb	PAP.NS-	doing [this]
+15.01.077	098.04	Διογένης	Διογένης	Διογένης	Διογένης	proper	NSM	Diogenes
+15.01.078	098.05	καὶ	καὶ	καί	καί	conjunction	-	and
+15.01.079	098.06	Ἡράκλειτος	Ἡράκλειτος	Ἡράκλειτος	Ἡράκλειτος	proper	NSM	Heraclitus
+15.01.080	098.07	καὶ	καὶ	καί	καί	conjunction	-	and
+15.01.081	098.08	οἱ	οἱ	οἱ	ὁ	article	NPM	the
+15.01.082	098.09	ὅμοιοι	ὅμοιοι	ὅμοιοι	ὅμοιος	adjective	NPM	like
+15.01.083	098.10	ἀξίως	ἀξίως	ἀξίως	ἀξίως	adverb	-	worthily
+15.01.084	098.11	θεῖοί	θεῖοί	θεῖοί	θεῖος	adjective	NPM	divine
+15.01.085	098.12	τε	τε	τε	τε	particle	-	both
+15.01.086	098.13	ἦσαν	ἦσαν	ἦσαν	εἰμί	verb	IAI.3P	they were
+15.01.087	098.14	καὶ	καὶ	καί	καί	conjunction	-	and
+15.01.088	098.15	ἐλέγοντο.	ἐλέγοντο	ἐλέγοντο	λέγω	verb	IMI.3P	it was said of them
+
+A. For, by doing this, Diogenes, Heraclitus and others like them, deservedly became, and were called, divine.
+B. For, by thus doing, Diogenes and Heraclitus, and others like them, deservedly became divine, and were so recognized.
+C. For by acting thus Diogenes and Heracleitus and those like them were deservedly divine, and were so. called.
+D. For by so doing Diogenes and Heraclitus and men like them were called divine and deserved the name.
