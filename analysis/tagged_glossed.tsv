@@ -455,7 +455,7 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 04.01.060	026.07	λούσασθαι	λούσασθαι	λούσασθαι	λούω	verb	AMN	to wash
 04.01.061	026.08	γένηται	γένηται	γένηται	γίγνομαι	verb	AMS.3S	arises
 04.01.062	026.09	ἐμποδών,	ἐμποδών	ἐμποδών	ἐμπόδιος	adjective	GPX	hindrance
-04.01.063	026.10	πρόχειρον	πρόχειρον	πρόχειρον	πρόχειρος	adjective	SSN	ready
+04.01.063	026.10	πρόχειρον	πρόχειρον	πρόχειρον	πρόχειρος	adjective	SSN	prepared
 04.01.064	026.11	ἔσται	ἔσται	ἔσται	εἰμί	verb	FMI.3S	will be
 04.01.065	026.12	διότι	διότι	διότι	διότι	conjunction	-	since
 04.01.066	026.13	«ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
@@ -744,49 +744,49 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 09.01.032	049.07	σὸν	σὸν	σόν	σός	adjective	ASM	to you
 09.01.033	049.08	δὲ	δὲ	δέ	δέ	particle	-	-
 09.01.034	049.09	οὔ.	οὔ	οὔ	οὐ	adverb	-	not
-10.01.001	050.01	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
-10.01.002	050.02	ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος	adjective	GSY	every, every one, each, each one
-10.01.003	050.03	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
-10.01.004	050.04	προσπιπτόντων	προσπιπτόντων	προσπιπτόντων	προσπίτνω	verb	PAP.GP-^PAD.3P	to fall upon
-10.01.005	050.05	μέμνησο	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S^YMI.2S	to remind
-10.01.006	050.06	ἐπιστρέφων	ἐπιστρέφων	ἐπιστρέφων	ἐπιστρέφω	verb	PAP.NS-	to turn about, turn round
-10.01.007	050.07	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
-10.01.008	050.08	σεαυτὸν	σεαυτὸν	σεαυτόν	σαυτοῦ	pronoun	ASM^ASN^ASM	-
-10.01.009	050.09	ζητεῖν,	ζητεῖν	ζητεῖν	ζητέω	verb	PAN	to seek, seek for
-10.01.010	050.10	τίνα	τίνα	τίνα	τίς	pronoun	ASZ^SPN	who? which?
-10.01.011	050.11	δύναμιν	δύναμιν	δύναμιν	δύναμις	adjective	ASF	power, might, strength
-10.01.012	050.12	ἔχεις	ἔχεις	ἔχεις	ἔχω	verb	PAI.2S	to have
-10.01.013	050.13	πρὸς	πρὸς	πρός	πρός	preposition	-	(w. gen.) from; (w. dat.) at, near, in addition to; (w. acc.) to, toward, regarding
+10.01.001	050.01	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	upon
+10.01.002	050.02	ἑκάστου	ἑκάστου	ἑκάστου	ἕκαστος	adjective	GSY	each
+10.01.003	050.03	τῶν	τῶν	τῶν	ὁ	article	GPX	thing
+10.01.004	050.04	προσπιπτόντων	προσπιπτόντων	προσπιπτόντων	προσπίπτω	verb	PAP.GP-	happening
+10.01.005	050.05	μέμνησο	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S	remember
+10.01.006	050.06	ἐπιστρέφων	ἐπιστρέφων	ἐπιστρέφων	ἐπιστρέφω	verb	PAP.NS-	turning around
+10.01.007	050.07	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	upon
+10.01.008	050.08	σεαυτὸν	σεαυτὸν	σεαυτόν	σαυτοῦ	pronoun	ASY	youself
+10.01.009	050.09	ζητεῖν,	ζητεῖν	ζητεῖν	ζητέω	verb	PAN	to seek
+10.01.010	050.10	τίνα	τίνα	τίνα	τίς	pronoun	SPN	what
+10.01.011	050.11	δύναμιν	δύναμιν	δύναμιν	δύναμις	adjective	ASF	ability
+10.01.012	050.12	ἔχεις	ἔχεις	ἔχεις	ἔχω	verb	PAI.2S	you have
+10.01.013	050.13	πρὸς	πρὸς	πρός	πρός	preposition	-	regarding
 10.01.014	050.14	τὴν	τὴν	τήν	ὁ	article	ASF	the
-10.01.015	050.15	χρῆσιν	χρῆσιν	χρῆσιν	χρῆσις	noun	ASF	a using, employment, use
-10.01.016	050.16	αὐτοῦ.	αὐτοῦ	αὐτοῦ	αὐτός	pronoun	GSN^GSM	unemph. 3rd pers.pronoun; -self; [the] same
+10.01.015	050.15	χρῆσιν	χρῆσιν	χρῆσιν	χρῆσις	noun	ASF	use
+10.01.016	050.16	αὐτοῦ.	αὐτοῦ	αὐτοῦ	αὐτός	pronoun	GSY	of it
 10.01.017	051.01	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
-10.01.018	051.02	καλὸν	καλὸν	καλόν	καλός	noun	ASM^SSN	beautiful
-10.01.019	051.03	ἴδῃς	ἴδῃς	ἴδῃς	εἶδον	verb	AAS.2S	to see
-10.01.020	051.04	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-10.01.021	051.05	καλήν,	καλήν	καλήν	καλός	noun	ASF	beautiful
-10.01.022	051.06	εὑρήσεις	εὑρήσεις	εὑρήσεις	εὑρίσκω	verb	FAI.2S	to find
-10.01.023	051.07	δύναμιν	δύναμιν	δύναμιν	δύναμις	adjective	ASF	power, might, strength
-10.01.024	051.08	πρὸς	πρὸς	πρός	πρός	preposition	-	(w. gen.) from; (w. dat.) at, near, in addition to; (w. acc.) to, toward, regarding
-10.01.025	051.09	ταῦτα	ταῦτα	ταῦτα	οὗτος	pronoun	SPN	this; that
-10.01.026	051.10	ἐγκράτειαν:	ἐγκράτειαν	ἐγκράτειαν	ἐγκράτεια	adjective	ASF	mastery over
+10.01.018	051.02	καλὸν	καλὸν	καλόν	καλός	noun	ASM	beautiful man
+10.01.019	051.03	ἴδῃς	ἴδῃς	ἴδῃς	εἶδον	verb	AAS.2S	you see
+10.01.020	051.04	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+10.01.021	051.05	καλήν,	καλήν	καλήν	καλός	noun	ASF	beautiful woman
+10.01.022	051.06	εὑρήσεις	εὑρήσεις	εὑρήσεις	εὑρίσκω	verb	FAI.2S	you will find
+10.01.023	051.07	δύναμιν	δύναμιν	δύναμιν	δύναμις	adjective	ASF	ability
+10.01.024	051.08	πρὸς	πρὸς	πρός	πρός	preposition	-	regarding
+10.01.025	051.09	ταῦτα	ταῦτα	ταῦτα	οὗτος	pronoun	SPN	this
+10.01.026	051.10	ἐγκράτειαν:	ἐγκράτειαν	ἐγκράτειαν	ἐγκράτεια	adjective	ASF	[to be] self-restraint.
 10.01.027	052.01	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
-10.01.028	052.02	πόνος	πόνος	πόνος	πόνος	noun	NSM	work
-10.01.029	052.03	προσφέρηται,	προσφέρηται	προσφέρηται	προσφέρω	verb	PMS.3S	to bring to
-10.01.030	052.04	εὑρήσεις	εὑρήσεις	εὑρήσεις	εὑρίσκω	verb	FAI.2S	to find
-10.01.031	052.05	καρτερίαν:	καρτερίαν	καρτερίαν	καρτερία	noun	ASF	patient endurance, patience
-10.01.032	053.01	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
-10.01.033	053.02	λοιδορία,	λοιδορία	λοιδορία	λοιδορία	noun	SDF^NSF	railing, abuse
-10.01.034	053.03	εὑρήσεις	εὑρήσεις	εὑρήσεις	εὑρίσκω	verb	FAI.2S	to find
-10.01.035	053.04	ἀνεξικακίαν.	ἀνεξικακίαν	ἀνεξικακίαν	ἀνεξικακία	noun	ASF	forbearance
-10.01.036	054.01	καὶ	καὶ	καί	καί	conjunction	-	and, also
-10.01.037	054.02	οὕτως	οὕτως	οὕτω(ς)	οὕτως	adverb	-	so, in this manner
-10.01.038	054.03	ἐθιζόμενόν	ἐθιζόμενόν	ἐθιζόμενόν	ἐθίζω	verb	PMP.AS-^PMP.SS-	to accustom, use
-10.01.039	054.04	σε	σε	σε	σύ	pronoun	AS-2	you (personal pronoun)
+10.01.028	052.02	πόνος	πόνος	πόνος	πόνος	noun	NSM	labour
+10.01.029	052.03	προσφέρηται,	προσφέρηται	προσφέρηται	προσφέρω	verb	PMS.3S	is presented
+10.01.030	052.04	εὑρήσεις	εὑρήσεις	εὑρήσεις	εὑρίσκω	verb	FAI.2S	you will find
+10.01.031	052.05	καρτερίαν:	καρτερίαν	καρτερίαν	καρτερία	noun	ASF	endurance
+10.01.032	053.01	ἂν	ἂν	ἄν	ἐάν	conjunction	-	if
+10.01.033	053.02	λοιδορία,	λοιδορία	λοιδορία	λοιδορία	noun	NSF	an abusive word
+10.01.034	053.03	εὑρήσεις	εὑρήσεις	εὑρήσεις	εὑρίσκω	verb	FAI.2S	you will find
+10.01.035	053.04	ἀνεξικακίαν.	ἀνεξικακίαν	ἀνεξικακίαν	ἀνεξικακία	noun	ASF	patience
+10.01.036	054.01	καὶ	καὶ	καί	καί	conjunction	-	and
+10.01.037	054.02	οὕτως	οὕτως	οὕτω(ς)	οὕτως	adverb	-	so
+10.01.038	054.03	ἐθιζόμενόν	ἐθιζόμενόν	ἐθιζόμενόν	ἐθίζω	verb	PMP.AS-	[when] accustomed
+10.01.039	054.04	σε	σε	σε	σύ	pronoun	AS-	you
 10.01.040	054.05	οὐ	οὐ	οὐ	οὐ	adverb	-	not
-10.01.041	054.06	συναρπάσουσιν	συναρπάσουσιν	συναρπάσουσιν	συναρπάζω	verb	AAS.3P^FAP.DP-^FAI.3P^AAS.3P^FAP.DP-^FAI.3P	to seize and carry clean away
+10.01.041	054.06	συναρπάσουσιν	συναρπάσουσιν	συναρπάσουσιν	συναρπάζω	verb	FAI.3P	will carry away
 10.01.042	054.07	αἱ	αἱ	αἱ	ὁ	article	NPF	the
-10.01.043	054.08	φαντασίαι.	φαντασίαι	φαντασίαι	φαντασία	noun	NPF^DSF	imagination, the power by which an object is presented
+10.01.043	054.08	φαντασίαι.	φαντασίαι	φαντασίαι	φαντασία	noun	NPF	appearances of things
 11.01.001	055.01	μηδέποτε	μηδέποτε	μηδέποτε	μηδέποτε	adverb	-	never
 11.01.002	055.02	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	of
 11.01.003	055.03	μηδενὸς	μηδενὸς	μηδενός	μηδείς	pronoun	GSY	nothing
@@ -1169,70 +1169,70 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 15.01.086	098.13	ἦσαν	ἦσαν	ἦσαν	εἰμί	verb	IAI.3P	they were
 15.01.087	098.14	καὶ	καὶ	καί	καί	conjunction	-	and
 15.01.088	098.15	ἐλέγοντο.	ἐλέγοντο	ἐλέγοντο	λέγω	verb	IMI.3P	it was said of them
-16.01.001	099.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when, whenever
-16.01.002	099.02	κλαίοντα	κλαίοντα	κλαίοντα	κλαίω	verb	PAP.SP-^PAP.AS-	to weep, lament, wail
-16.01.003	099.03	ἴδῃς	ἴδῃς	ἴδῃς	εἶδον	verb	AAS.2S	to see
-16.01.004	099.04	τινὰ	τινὰ	τινά	τις	pronoun	ASZ^SPN	any one, any thing, some one, some thing;
-16.01.005	099.05	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
-16.01.006	099.06	πένθει	πένθει	πένθει	πένθος	noun	SDN^DSN^DSN	grief, sadness, sorrow
-16.01.007	099.07	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-16.01.008	099.08	ἀποδημοῦντος	ἀποδημοῦντος	ἀποδημοῦντος	ἀποδημέω	verb	PAP.GS-^PAP.GS-	to be away from home, be abroad
-16.01.009	099.09	τέκνου	τέκνου	τέκνου	τέκνον	noun	GSN	a child
-16.01.010	099.10	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-16.01.011	099.11	ἀπολωλεκότα	ἀπολωλεκότα	ἀπολωλεκότα	ἀπόλλυμι	verb	XAP.SP-^XAP.AS-	to destroy, kill; to lose
-16.01.012	099.12	τὰ	τὰ	τά	ὁ	article	APN^SPN^ADF^SDF	the
-16.01.013	099.13	ἑαυτοῦ,	ἑαυτοῦ	ἑαυτοῦ	ἑαυτοῦ	pronoun	GSN^GSM	himself, herself, themselves
-16.01.014	099.14	πρόσεχε	πρόσεχε	πρόσεχε	προσέχω	verb	PAD.2S^IAI.3S	to hold to, offer
+16.01.001	099.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	whenever
+16.01.002	099.02	κλαίοντα	κλαίοντα	κλαίοντα	κλαίω	verb	PAP.AS-	weeping
+16.01.003	099.03	ἴδῃς	ἴδῃς	ἴδῃς	εἶδον	verb	AAS.2S	you might see
+16.01.004	099.04	τινὰ	τινὰ	τινά	τις	pronoun	ASZ	someone
+16.01.005	099.05	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+16.01.006	099.06	πένθει	πένθει	πένθει	πένθος	noun	DSN	grief
+16.01.007	099.07	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+16.01.008	099.08	ἀποδημοῦντος	ἀποδημοῦντος	ἀποδημοῦντος	ἀποδημέω	verb	PAP.GS-	being away form home
+16.01.009	099.09	τέκνου	τέκνου	τέκνου	τέκνον	noun	GSN	of a child
+16.01.010	099.10	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+16.01.011	099.11	ἀπολωλεκότα	ἀπολωλεκότα	ἀπολωλεκότα	ἀπόλλυμι	verb	XAP.ASZ	[him] losing
+16.01.012	099.12	τὰ	τὰ	τά	ὁ	article	SPN	the [things]
+16.01.013	099.13	ἑαυτοῦ,	ἑαυτοῦ	ἑαυτοῦ	ἑαυτοῦ	pronoun	GSY	of himself
+16.01.014	099.14	πρόσεχε	πρόσεχε	πρόσεχε	προσέχω	verb	PAD.2S	hold to
 16.01.015	099.15	μή	μή	μή	μή	conjunction	-	not
-16.01.016	099.16	σε	σε	σε	σύ	pronoun	AS-2	you (personal pronoun)
+16.01.016	099.16	σε	σε	σε	σύ	pronoun	AS-2	you
 16.01.017	099.17	ἡ	ἡ	ἡ	ὁ	article	NSF	the
-16.01.018	099.18	φαντασία	φαντασία	φαντασία	φαντασία	noun	SDF^NSF	imagination, the power by which an object is presented
-16.01.019	099.19	συναρπάσῃ	συναρπάσῃ	συναρπάσῃ	συναρπάζω	verb	AMS.2S^AAS.3S^FMI.2S^AMS.2S^AAS.3S^FMI.2S	to seize and carry clean away
-16.01.020	099.20	ὡς	ὡς	ὡς	ὡς	conjunction	-	as, how
-16.01.021	099.21	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
+16.01.018	099.18	φαντασία	φαντασία	φαντασία	φαντασία	noun	NSF	appearance
+16.01.019	099.19	συναρπάσῃ	συναρπάσῃ	συναρπάσῃ	συναρπάζω	verb	AAS.3S	might carry away
+16.01.020	099.20	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+16.01.021	099.21	ἐν	ἐν	ἐν	ἐν	preposition	-	in
 16.01.022	099.22	κακοῖς	κακοῖς	κακοῖς	κακός	adjective	DPY	bad
-16.01.023	099.23	ὄντος	ὄντος	ὄντος	εἰμί	verb	PAP.GS-	to be
-16.01.024	099.24	αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός	pronoun	GSN^GSM	unemph. 3rd pers.pronoun; -self; [the] same
+16.01.023	099.23	ὄντος	ὄντος	ὄντος	εἰμί	verb	PAP.GS-	being
+16.01.024	099.24	αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός	pronoun	GSY	it
 16.01.025	099.25	τοῖς	τοῖς	τοῖς	ὁ	article	DPY	the
 16.01.026	099.26	ἐκτός,	ἐκτός	ἐκτός	ἐκτός	adverb	-	outside
-16.01.027	099.27	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	otherwise, but
-16.01.028	099.28	εὐθὺς	εὐθὺς	εὐθύς	εὐθύς	adverb	-	straight, direct
-16.01.029	099.29	ἔστω	ἔστω	ἔστω	εἰμί	verb	PAD.3S	to be
-16.01.030	099.30	πρόχειρον	πρόχειρον	πρόχειρον	πρόχειρος	adjective	ASZ^SSN	at hand, ready
-16.01.031	099.31	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
-16.01.032	099.32	«τοῦτον	τοῦτον	τοῦτον	οὗτος	pronoun	ASM	this; that
-16.01.033	099.33	θλίβει	θλίβει	θλίβει	θλίβω	verb	PMI.2S^PAI.3S	to press, squeeze, pinch
+16.01.027	099.27	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
+16.01.028	099.28	εὐθὺς	εὐθὺς	εὐθύς	εὐθύς	adverb	-	straight
+16.01.029	099.29	ἔστω	ἔστω	ἔστω	εἰμί	verb	PAD.3S	be
+16.01.030	099.30	πρόχειρον	πρόχειρον	πρόχειρον	πρόχειρος	adjective	ASZ	prepared
+16.01.031	099.31	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
+16.01.032	099.32	«τοῦτον	τοῦτον	τοῦτον	οὗτος	pronoun	ASM	this one
+16.01.033	099.33	θλίβει	θλίβει	θλίβει	θλίβω	verb	PAI.3S	it afflicts
 16.01.034	099.34	οὐ	οὐ	οὐ	οὐ	adverb	-	not
-16.01.035	099.35	τὸ	τὸ	τό	ὁ	article	SSN	the
-16.01.036	099.36	συμβεβηκός	συμβεβηκός	συμβεβηκός	συμβαίνω	verb	XAP.SS-	meet, agree, happen
-16.01.037	099.37	(ἄλλον	ἄλλον	ἄλλον	ἄλλος	adjective	ASM	other, another
+16.01.035	099.35	τὸ	τὸ	τό	ὁ	article	SSN	the [thing which]
+16.01.036	099.36	συμβεβηκός	συμβεβηκός	συμβεβηκός	συμβαίνω	verb	XAP.SSN	has happened
+16.01.037	099.37	(ἄλλον	ἄλλον	ἄλλον	ἄλλος	adjective	ASM	another
 16.01.038	099.38	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
 16.01.039	099.39	οὐ	οὐ	οὐ	οὐ	adverb	-	not
-16.01.040	099.40	θλίβει),	θλίβει	θλίβει	θλίβω	verb	PMI.2S^PAI.3S	to press, squeeze, pinch
-16.01.041	099.41	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	otherwise, but
+16.01.040	099.40	θλίβει),	θλίβει	θλίβει	θλίβω	verb	PAI.3S	it afflicts
+16.01.041	099.41	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
 16.01.042	099.42	τὸ	τὸ	τό	ὁ	article	SSN	the
-16.01.043	099.43	δόγμα	δόγμα	δόγμα	δόγμα	noun	SSN	that which seems to one, an opinion, dogma
-16.01.044	099.44	τὸ	τὸ	τό	ὁ	article	SSN	the
-16.01.045	099.45	περὶ	περὶ	περί	περί	preposition	-	around, round about with gen., dat., and acc.
-16.01.046	099.46	τούτου.»	τούτου	τούτου	οὗτος	pronoun	GSY	this; that
-16.01.047	100.01	μέχρι	μέχρι	μέχρι(ς)	μέχρι	preposition	-	until (prep. and conj. w. aor.), as long as (conj. w. pres.)
-16.01.048	100.02	μέντοι	μέντοι	μέντοι	μέντοι	particle	-	however, nevertheless; of course (answers)
+16.01.043	099.43	δόγμα	δόγμα	δόγμα	δόγμα	noun	SSN	opinion
+16.01.044	099.44	τὸ	τὸ	τό	ὁ	article	SSN	-
+16.01.045	099.45	περὶ	περὶ	περί	περί	preposition	-	about
+16.01.046	099.46	τούτου.»	τούτου	τούτου	οὗτος	pronoun	GSY	this
+16.01.047	100.01	μέχρι	μέχρι	μέχρι(ς)	μέχρι	preposition	-	as far as
+16.01.048	100.02	μέντοι	μέντοι	μέντοι	μέντοι	particle	-	however
 16.01.049	100.03	λόγου	λόγου	λόγου	λόγος	noun	GSM	the word
-16.01.050	100.04	μὴ	μὴ	μή	μή	conjunction	-	not
-16.01.051	100.05	ὄκνει	ὄκνει	ὄκνει	ὀκνέω	verb	PAD.2S^IAI.3S	to shrink
-16.01.052	100.06	συμπεριφέρεσθαι	συμπεριφέρεσθαι	συμπεριφέρεσθαι	συμπεριφέρω	verb	PMN	to carry round along with
-16.01.053	100.07	αὐτῷ,	αὐτῷ	αὐτῷ	αὐτός	pronoun	DSN^DSM	unemph. 3rd pers.pronoun; -self; [the] same
-16.01.054	100.08	κἂν	κἂν	κἄν	κἀν	conjunction	-	crasis of καὶ ἐν
-16.01.055	100.09	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	so, in this manner
-16.01.056	100.10	τύχῃ,	τύχῃ	τύχῃ	τυγχάνω	verb	AMS.2S^AAS.3S	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
-16.01.057	100.11	καὶ	καὶ	καί	καί	conjunction	-	and, also
-16.01.058	100.12	συνεπιστενάξαι:	συνεπιστενάξαι	συνεπιστενάξαι	συνεπιστενάζω	verb	AAN^AAO.3S	groan at
-16.01.059	101.01	πρόσεχε	πρόσεχε	πρόσεχε	προσέχω	verb	PAD.2S^IAI.3S	to hold to, offer
-16.01.060	101.02	μέντοι	μέντοι	μέντοι	μέντοι	particle	-	however, nevertheless; of course (answers)
+16.01.050	100.04	μὴ	μὴ	μή	μή	conjunction	-	do not
+16.01.051	100.05	ὄκνει	ὄκνει	ὄκνει	ὀκνέω	verb	PAD.2S	hesitate
+16.01.052	100.06	συμπεριφέρεσθαι	συμπεριφέρεσθαι	συμπεριφέρεσθαι	συμπεριφέρω	verb	PMN	go along with
+16.01.053	100.07	αὐτῷ,	αὐτῷ	αὐτῷ	αὐτός	pronoun	DSY	him
+16.01.054	100.08	κἂν	κἂν	κἄν	κἀν	conjunction	-	and if
+16.01.055	100.09	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	this way
+16.01.056	100.10	τύχῃ,	τύχῃ	τύχῃ	τυγχάνω	verb	AAS.3S	should happen
+16.01.057	100.11	καὶ	καὶ	καί	καί	adverb	-	also
+16.01.058	100.12	συνεπιστενάξαι:	συνεπιστενάξαι	συνεπιστενάξαι	συνεπιστενάζω	verb	AAN	to groan with
+16.01.059	101.01	πρόσεχε	πρόσεχε	πρόσεχε	προσέχω	verb	PAD.2S	hold to
+16.01.060	101.02	μέντοι	μέντοι	μέντοι	μέντοι	particle	-	however
 16.01.061	101.03	μὴ	μὴ	μή	μή	conjunction	-	not
-16.01.062	101.04	καὶ	καὶ	καί	καί	conjunction	-	and, also
+16.01.062	101.04	καὶ	καὶ	καί	καί	adverb	-	also
 16.01.063	101.05	ἔσωθεν	ἔσωθεν	ἔσωθεν	ἔσωθεν	adverb	-	from within
-16.01.064	101.06	στενάξῃς.	στενάξῃς	στενάξῃς	στενάζω	verb	AAS.2S	to sigh often, sigh deeply
+16.01.064	101.06	στενάξῃς.	στενάξῃς	στενάξῃς	στενάζω	verb	AAS.2S	groaning
 17.01.001	102.01	μέμνησο,	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S^YMI.2S	to remind
 17.01.002	102.02	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
 17.01.003	102.03	ὑποκριτὴς	ὑποκριτὴς	ὑποκριτής	ὑποκριτής	noun	NSM	an interpreter, actor

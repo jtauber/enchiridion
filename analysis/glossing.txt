@@ -663,7 +663,7 @@ D. and so in each thing you do;
 04.01.060	026.07	λούσασθαι	λούσασθαι	λούσασθαι	λούω	verb	AMN	to wash
 04.01.061	026.08	γένηται	γένηται	γένηται	γίγνομαι	verb	AMS.3S	arises
 04.01.062	026.09	ἐμποδών,	ἐμποδών	ἐμποδών	ἐμπόδιος	adjective	GPX	hindrance
-04.01.063	026.10	πρόχειρον	πρόχειρον	πρόχειρον	πρόχειρος	adjective	SSN	ready
+04.01.063	026.10	πρόχειρον	πρόχειρον	πρόχειρον	πρόχειρος	adjective	SSN	prepared
 04.01.064	026.11	ἔσται	ἔσται	ἔσται	εἰμί	verb	FMI.3S	will be
 04.01.065	026.12	διότι	διότι	διότι	διότι	conjunction	-	since
 04.01.066	026.13	«ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
@@ -1958,3 +1958,91 @@ A. For, by doing this, Diogenes, Heraclitus and others like them, deservedly bec
 B. For, by thus doing, Diogenes and Heraclitus, and others like them, deservedly became divine, and were so recognized.
 C. For by acting thus Diogenes and Heracleitus and those like them were deservedly divine, and were so. called.
 D. For by so doing Diogenes and Heraclitus and men like them were called divine and deserved the name.
+
+# 099
+
+16.01.001	099.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	whenever
+16.01.002	099.02	κλαίοντα	κλαίοντα	κλαίοντα	κλαίω	verb	PAP.AS-	weeping
+16.01.003	099.03	ἴδῃς	ἴδῃς	ἴδῃς	εἶδον	verb	AAS.2S	you might see
+16.01.004	099.04	τινὰ	τινὰ	τινά	τις	pronoun	ASZ	someone
+16.01.005	099.05	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+16.01.006	099.06	πένθει	πένθει	πένθει	πένθος	noun	DSN	grief
+16.01.007	099.07	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+16.01.008	099.08	ἀποδημοῦντος	ἀποδημοῦντος	ἀποδημοῦντος	ἀποδημέω	verb	PAP.GS-	being away form home
+16.01.009	099.09	τέκνου	τέκνου	τέκνου	τέκνον	noun	GSN	of a child
+16.01.010	099.10	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+16.01.011	099.11	ἀπολωλεκότα	ἀπολωλεκότα	ἀπολωλεκότα	ἀπόλλυμι	verb	XAP.ASZ	[him] losing
+16.01.012	099.12	τὰ	τὰ	τά	ὁ	article	SPN	the [things]
+16.01.013	099.13	ἑαυτοῦ,	ἑαυτοῦ	ἑαυτοῦ	ἑαυτοῦ	pronoun	GSY	of himself
+16.01.014	099.14	πρόσεχε	πρόσεχε	πρόσεχε	προσέχω	verb	PAD.2S	hold to
+16.01.015	099.15	μή	μή	μή	μή	conjunction	-	not
+16.01.016	099.16	σε	σε	σε	σύ	pronoun	AS-2	you
+16.01.017	099.17	ἡ	ἡ	ἡ	ὁ	article	NSF	the
+16.01.018	099.18	φαντασία	φαντασία	φαντασία	φαντασία	noun	NSF	appearance
+16.01.019	099.19	συναρπάσῃ	συναρπάσῃ	συναρπάσῃ	συναρπάζω	verb	AAS.3S	might carry away
+16.01.020	099.20	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+16.01.021	099.21	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+16.01.022	099.22	κακοῖς	κακοῖς	κακοῖς	κακός	adjective	DPY	bad
+16.01.023	099.23	ὄντος	ὄντος	ὄντος	εἰμί	verb	PAP.GS-	being
+16.01.024	099.24	αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός	pronoun	GSY	it
+16.01.025	099.25	τοῖς	τοῖς	τοῖς	ὁ	article	DPY	the
+16.01.026	099.26	ἐκτός,	ἐκτός	ἐκτός	ἐκτός	adverb	-	outside
+16.01.027	099.27	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
+16.01.028	099.28	εὐθὺς	εὐθὺς	εὐθύς	εὐθύς	adverb	-	straight
+16.01.029	099.29	ἔστω	ἔστω	ἔστω	εἰμί	verb	PAD.3S	be
+16.01.030	099.30	πρόχειρον	πρόχειρον	πρόχειρον	πρόχειρος	adjective	ASZ	prepared
+16.01.031	099.31	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
+16.01.032	099.32	«τοῦτον	τοῦτον	τοῦτον	οὗτος	pronoun	ASM	this one
+16.01.033	099.33	θλίβει	θλίβει	θλίβει	θλίβω	verb	PAI.3S	it afflicts
+16.01.034	099.34	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+16.01.035	099.35	τὸ	τὸ	τό	ὁ	article	SSN	the [thing which]
+16.01.036	099.36	συμβεβηκός	συμβεβηκός	συμβεβηκός	συμβαίνω	verb	XAP.SSN	has happened
+16.01.037	099.37	(ἄλλον	ἄλλον	ἄλλον	ἄλλος	adjective	ASM	another
+16.01.038	099.38	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+16.01.039	099.39	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+16.01.040	099.40	θλίβει),	θλίβει	θλίβει	θλίβω	verb	PAI.3S	it afflicts
+16.01.041	099.41	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
+16.01.042	099.42	τὸ	τὸ	τό	ὁ	article	SSN	the
+16.01.043	099.43	δόγμα	δόγμα	δόγμα	δόγμα	noun	SSN	opinion
+16.01.044	099.44	τὸ	τὸ	τό	ὁ	article	SSN	-
+16.01.045	099.45	περὶ	περὶ	περί	περί	preposition	-	about
+16.01.046	099.46	τούτου.»	τούτου	τούτου	οὗτος	pronoun	GSY	this
+
+A. When you see anyone weeping in grief because his son has gone abroad, or is dead, or because he has suffered in his affairs, be careful that the appearance may not misdirect you. Instead, distinguish within your own mind, and be prepared to say, "It's not the accident that distresses this person., because it doesn't distress another person; it is the judgment which he makes about it."
+B. When you see any one weeping for grief, either that his son has gone abroad, or that he has suffered in his affairs, take care not to be overcome by the apparent evil; but discriminate, and be ready to say, "What hurts this man is not this occurrence itself,- for another man might not be hurt by it, - but the view he chooses to take of it."
+C. When you see a person weeping in sorrow either when a. child goes abroad or when he is dead, or when the man has lost his property, take care that the appearance do not hurry you away with it, as if he were suffering in external things. But straightway make a distinction in your own mind, and be in readiness to say, it is not that which has happened that afflicts this man, for it does not afflict another, but it is the opinion about this thing which afflicts the man.
+D. When you see a man shedding tears in sorrow for a child abroad or dead, or for loss of property, beware that you are not carried away by the impression that it is outward ills that make him miserable. Keep this thought by you: 'What distresses him is not the event, for that does not distress another, but his judgement on the event.'
+
+# 100
+
+16.01.047	100.01	μέχρι	μέχρι	μέχρι(ς)	μέχρι	preposition	-	as far as
+16.01.048	100.02	μέντοι	μέντοι	μέντοι	μέντοι	particle	-	however
+16.01.049	100.03	λόγου	λόγου	λόγου	λόγος	noun	GSM	the word
+16.01.050	100.04	μὴ	μὴ	μή	μή	conjunction	-	do not
+16.01.051	100.05	ὄκνει	ὄκνει	ὄκνει	ὀκνέω	verb	PAD.2S	hesitate
+16.01.052	100.06	συμπεριφέρεσθαι	συμπεριφέρεσθαι	συμπεριφέρεσθαι	συμπεριφέρω	verb	PMN	go along with
+16.01.053	100.07	αὐτῷ,	αὐτῷ	αὐτῷ	αὐτός	pronoun	DSY	him
+16.01.054	100.08	κἂν	κἂν	κἄν	κἀν	conjunction	-	and if
+16.01.055	100.09	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	this way
+16.01.056	100.10	τύχῃ,	τύχῃ	τύχῃ	τυγχάνω	verb	AAS.3S	should happen
+16.01.057	100.11	καὶ	καὶ	καί	καί	adverb	-	also
+16.01.058	100.12	συνεπιστενάξαι:	συνεπιστενάξαι	συνεπιστενάξαι	συνεπιστενάζω	verb	AAN	to groan with
+
+A. As far as words go, however, don't reduce yourself to his level, and certainly do not moan with him.
+B. As far as conversation goes, however, do not disdain to accommodate yourself to him, and if need be, to groan with him.
+C. So far as words then do not be unwilling to show him sympathy, and even if it happens so, to lament with him.
+D. Therefore do not hesitate to sympathize with him so far as words go, and if it so chance, even to groan with him;
+
+# 101
+
+16.01.059	101.01	πρόσεχε	πρόσεχε	πρόσεχε	προσέχω	verb	PAD.2S	hold to
+16.01.060	101.02	μέντοι	μέντοι	μέντοι	μέντοι	particle	-	however
+16.01.061	101.03	μὴ	μὴ	μή	μή	conjunction	-	not
+16.01.062	101.04	καὶ	καὶ	καί	καί	adverb	-	also
+16.01.063	101.05	ἔσωθεν	ἔσωθεν	ἔσωθεν	ἔσωθεν	adverb	-	from within
+16.01.064	101.06	στενάξῃς.	στενάξῃς	στενάξῃς	στενάζω	verb	AAS.2S	groaning
+
+A. Do not moan inwardly either.
+B. Take heed, however, not to groan inwardly too.
+C. But take care that you do not. lament internally also.
+D. but take heed that you do not also groan in your inner being.
