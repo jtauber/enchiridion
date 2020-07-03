@@ -1233,51 +1233,51 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 16.01.062	101.04	καὶ	καὶ	καί	καί	adverb	-	also
 16.01.063	101.05	ἔσωθεν	ἔσωθεν	ἔσωθεν	ἔσωθεν	adverb	-	from within
 16.01.064	101.06	στενάξῃς.	στενάξῃς	στενάξῃς	στενάζω	verb	AAS.2S	groaning
-17.01.001	102.01	μέμνησο,	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S^YMI.2S	to remind
-17.01.002	102.02	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
-17.01.003	102.03	ὑποκριτὴς	ὑποκριτὴς	ὑποκριτής	ὑποκριτής	noun	NSM	an interpreter, actor
-17.01.004	102.04	εἶ	εἶ	εἶ	εἶμι	verb	PAI.2S	come, go
-17.01.005	102.05	δράματος,	δράματος	δράματος	δρᾶμα	noun	GSN	a deed, act
-17.01.006	102.06	οἵου	οἵου	οἵου	οἷος	adjective	GSY	(such a kind) as; for οἷός τε see οἷος III.2
-17.01.007	102.07	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
-17.01.008	102.08	θέλῃ	θέλῃ	θέλῃ	ἐθέλω	verb	PMS.2S^PMI.2S^PAS.3S	to will, wish, purpose
+17.01.001	102.01	μέμνησο,	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S	remember
+17.01.002	102.02	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+17.01.003	102.03	ὑποκριτὴς	ὑποκριτὴς	ὑποκριτής	ὑποκριτής	noun	NSM	an actor
+17.01.004	102.04	εἶ	εἶ	εἶ	εἰμί	verb	PAI.2S	you are
+17.01.005	102.05	δράματος,	δράματος	δράματος	δρᾶμα	noun	GSN	in a drama
+17.01.006	102.06	οἵου	οἵου	οἵου	οἷος	adjective	GSY	of such a kind as
+17.01.007	102.07	ἂν	ἂν	ἄν	ἄν	particle	-	-
+17.01.008	102.08	θέλῃ	θέλῃ	θέλῃ	ἐθέλω	verb	PAS.3S	might wish
 17.01.009	102.09	ὁ	ὁ	ὁ	ὁ	article	NSM	the
-17.01.010	102.10	διδάσκαλος:	διδάσκαλος	διδάσκαλος	διδάσκαλος	noun	NSZ	a teacher, master
-17.01.011	103.01	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
-17.01.012	103.02	βραχύ,	βραχύ	βραχύ	βραχύς	adjective	VSM^SSN	short
-17.01.013	103.03	βραχέος:	βραχέος	βραχέος	βραχύς	adjective	GSY	short
-17.01.014	104.01	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
-17.01.015	104.02	μακρόν,	μακρόν	μακρόν	μακρός	adjective	ASM^SSN	long
-17.01.016	104.03	μακροῦ:	μακροῦ	μακροῦ	μακρός	adjective	GSY	long
-17.01.017	105.01	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
-17.01.018	105.02	πτωχὸν	πτωχὸν	πτωχόν	πτωχός	adjective	ASM^SSN^ASZ^SSN	one who crouches
-17.01.019	105.03	ὑποκρίνασθαί	ὑποκρίνασθαί	ὑποκρίνασθαι	ὑποκρίνομαι	verb	AMN	-
-17.01.020	105.04	σε	σε	σε	σύ	pronoun	AS-2	you (personal pronoun)
-17.01.021	105.05	θέλῃ,	θέλῃ	θέλῃ	ἐθέλω	verb	PMS.2S^PMI.2S^PAS.3S	to will, wish, purpose
-17.01.022	105.06	ἵνα	ἵνα	ἵνα	ἵνα	conjunction	-	in order that (conj.); where (rel. adv.)
-17.01.023	105.07	καὶ	καὶ	καί	καί	conjunction	-	and, also
-17.01.024	105.08	τοῦτον	τοῦτον	τοῦτον	οὗτος	pronoun	ASM	this; that
-17.01.025	105.09	εὐφυῶς	εὐφυῶς	εὐφυῶς	εὐφυής	adverb	-	well-grown, shapely, goodly
-17.01.026	105.10	ὑποκρίνῃ	ὑποκρίνῃ	ὑποκρίνῃ	ὑποκρίνομαι	verb	AMS.2S^AAS.3S^PMS.2S^PMI.2S^PAS.3S	-
-17.01.027	105.11	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
-17.01.028	105.12	χωλόν,	χωλόν	χωλόν	χωλός	adjective	ASM^SSN	lame
-17.01.029	105.13	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
-17.01.030	105.14	ἄρχοντα,	ἄρχοντα	ἄρχοντα	ἄρχων	noun	ASM	a ruler, commander, chief, captain
-17.01.031	105.15	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
-17.01.032	105.16	ἰδιώτην.	ἰδιώτην	ἰδιώτην	ἰδιώτης	noun	ASM	a private person, an individual
-17.01.033	106.01	σὸν	σὸν	σόν	σός	adjective	ASM^SSN	your
+17.01.010	102.10	διδάσκαλος:	διδάσκαλος	διδάσκαλος	διδάσκαλος	noun	NSZ	teacher
+17.01.011	103.01	ἂν	ἂν	ἄν	ἄν	particle	-	if
+17.01.012	103.02	βραχύ,	βραχύ	βραχύ	βραχύς	adjective	SSN	short
+17.01.013	103.03	βραχέος:	βραχέος	βραχέος	βραχύς	adjective	GSY	(in a) short (one)
+17.01.014	104.01	ἂν	ἂν	ἄν	ἄν	particle	-	if
+17.01.015	104.02	μακρόν,	μακρόν	μακρόν	μακρός	adjective	SSN	long
+17.01.016	104.03	μακροῦ:	μακροῦ	μακροῦ	μακρός	adjective	GSY	(in a) long (one)
+17.01.017	105.01	ἂν	ἂν	ἄν	ἄν	particle	-	if
+17.01.018	105.02	πτωχὸν	πτωχὸν	πτωχόν	πτωχός	adjective	SSN	one who crouches
+17.01.019	105.03	ὑποκρίνασθαί	ὑποκρίνασθαί	ὑποκρίνασθαι	ὑποκρίνομαι	verb	AMN	to play
+17.01.020	105.04	σε	σε	σε	σύ	pronoun	AS-2	you
+17.01.021	105.05	θέλῃ,	θέλῃ	θέλῃ	ἐθέλω	verb	PAS.3S	he wishes
+17.01.022	105.06	ἵνα	ἵνα	ἵνα	ἵνα	conjunction	-	[see to it] that
+17.01.023	105.07	καὶ	καὶ	καί	καί	conjunction	-	also
+17.01.024	105.08	τοῦτον	τοῦτον	τοῦτον	οὗτος	pronoun	ASM	this
+17.01.025	105.09	εὐφυῶς	εὐφυῶς	εὐφυῶς	εὐφυής	adverb	-	properly
+17.01.026	105.10	ὑποκρίνῃ	ὑποκρίνῃ	ὑποκρίνῃ	ὑποκρίνομαι	verb	PMI.2S	you play
+17.01.027	105.11	ἂν	ἂν	ἄν	ἄν	particle	-	if
+17.01.028	105.12	χωλόν,	χωλόν	χωλόν	χωλός	adjective	ASM	lame
+17.01.029	105.13	ἂν	ἂν	ἄν	ἄν	particle	-	if
+17.01.030	105.14	ἄρχοντα,	ἄρχοντα	ἄρχοντα	ἄρχων	noun	ASM	a ruler
+17.01.031	105.15	ἂν	ἂν	ἄν	ἄν	particle	-	if
+17.01.032	105.16	ἰδιώτην.	ἰδιώτην	ἰδιώτην	ἰδιώτης	noun	ASM	a private individual
+17.01.033	106.01	σὸν	σὸν	σόν	σός	adjective	SSN	your
 17.01.034	106.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
-17.01.035	106.03	τοῦτ’	τοῦτ’	τοῦτο	οὗτος	pronoun	SSN	this; that
-17.01.036	106.04	ἔστι,	ἔστι	ἐστί(ν)	εἰμί	verb	PAI.3S	to be
+17.01.035	106.03	τοῦτ’	τοῦτ’	τοῦτο	οὗτος	pronoun	SSN	this
+17.01.036	106.04	ἔστι,	ἔστι	ἐστί(ν)	εἰμί	verb	PAI.3S	is
 17.01.037	106.05	τὸ	τὸ	τό	ὁ	article	SSN	the
-17.01.038	106.06	δοθὲν	δοθὲν	δοθέν	δίδωμι	verb	APP.SS-	to give
-17.01.039	106.07	ὑποκρίνασθαι	ὑποκρίνασθαι	ὑποκρίνασθαι	ὑποκρίνομαι	verb	AMN	-
-17.01.040	106.08	πρόσωπον	πρόσωπον	πρόσωπον	πρόσωπον	noun	SSN	the face, visage, countenance
-17.01.041	106.09	καλῶς:	καλῶς	καλῶς	καλός	noun	---	beautiful
-17.01.042	107.01	ἐκλέξασθαι	ἐκλέξασθαι	ἐκλέξασθαι	ἐκλέγω	verb	AMN	to pick out; single out
+17.01.038	106.06	δοθὲν	δοθὲν	δοθέν	δίδωμι	verb	APP.SS-	[thing] being given
+17.01.039	106.07	ὑποκρίνασθαι	ὑποκρίνασθαι	ὑποκρίνασθαι	ὑποκρίνομαι	verb	AMN	to act
+17.01.040	106.08	πρόσωπον	πρόσωπον	πρόσωπον	πρόσωπον	noun	SSN	the character
+17.01.041	106.09	καλῶς:	καλῶς	καλῶς	καλός	noun	---	well
+17.01.042	107.01	ἐκλέξασθαι	ἐκλέξασθαι	ἐκλέξασθαι	ἐκλέγω	verb	AMN	to choose
 17.01.043	107.02	δ’	δ’	δέ	δέ	particle	-	but
-17.01.044	107.03	αὐτὸ	αὐτὸ	αὐτό	αὐτός	pronoun	SSN	unemph. 3rd pers.pronoun; -self; [the] same
-17.01.045	107.04	ἄλλου.	ἄλλου	ἄλλου	ἄλλος	adjective	GSN^GSM	other, another
+17.01.044	107.03	αὐτὸ	αὐτὸ	αὐτό	αὐτός	pronoun	SSN	it [is]
+17.01.045	107.04	ἄλλου.	ἄλλου	ἄλλου	ἄλλος	adjective	GSM	of another
 18.01.001	108.01	κόραξ	κόραξ	κόραξ	κόραξ	noun	NSM	carrion-crow
 18.01.002	108.02	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when, whenever
 18.01.003	108.03	μὴ	μὴ	μή	μή	conjunction	-	not

@@ -2046,3 +2046,96 @@ A. Do not moan inwardly either.
 B. Take heed, however, not to groan inwardly too.
 C. But take care that you do not. lament internally also.
 D. but take heed that you do not also groan in your inner being.
+
+# 102
+
+17.01.001	102.01	μέμνησο,	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S	remember
+17.01.002	102.02	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+17.01.003	102.03	ὑποκριτὴς	ὑποκριτὴς	ὑποκριτής	ὑποκριτής	noun	NSM	an actor
+17.01.004	102.04	εἶ	εἶ	εἶ	εἰμί	verb	PAI.2S	you are
+17.01.005	102.05	δράματος,	δράματος	δράματος	δρᾶμα	noun	GSN	in a drama
+17.01.006	102.06	οἵου	οἵου	οἵου	οἷος	adjective	GSY	of such a kind as
+17.01.007	102.07	ἂν	ἂν	ἄν	ἄν	particle	-	-
+17.01.008	102.08	θέλῃ	θέλῃ	θέλῃ	ἐθέλω	verb	PAS.3S	might wish
+17.01.009	102.09	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+17.01.010	102.10	διδάσκαλος:	διδάσκαλος	διδάσκαλος	διδάσκαλος	noun	NSZ	teacher
+
+A. Remember that you are an actor in a drama, of such a kind as the author pleases to make it.
+B. Remember that you are an actor in a drama of such sort as the author chooses, -
+C. Remember that thou art an actor in a play, of such a kind as the teacher (author) may choose;
+D. Remember that you are an actor in a play, and the Playwright chooses the manner of it:
+
+# 103
+
+17.01.011	103.01	ἂν	ἂν	ἄν	ἄν	particle	-	if
+17.01.012	103.02	βραχύ,	βραχύ	βραχύ	βραχύς	adjective	SSN	short
+17.01.013	103.03	βραχέος:	βραχέος	βραχέος	βραχύς	adjective	GSY	(in a) short (one)
+
+A. If short, of a short one;
+B. if short, then in a short one;
+C. if short, of a short one;
+D. if he wants it short, it is short;
+
+# 104
+
+17.01.014	104.01	ἂν	ἂν	ἄν	ἄν	particle	-	if
+17.01.015	104.02	μακρόν,	μακρόν	μακρόν	μακρός	adjective	SSN	long
+17.01.016	104.03	μακροῦ:	μακροῦ	μακροῦ	μακρός	adjective	GSY	(in a) long (one)
+
+A. if long, of a long one.
+B. if long, then in a long one.
+C. if long, of a long one:
+D. if long, it is long.
+
+# 105
+
+17.01.017	105.01	ἂν	ἂν	ἄν	ἄν	particle	-	if
+17.01.018	105.02	πτωχὸν	πτωχὸν	πτωχόν	πτωχός	adjective	SSN	one who crouches
+17.01.019	105.03	ὑποκρίνασθαί	ὑποκρίνασθαί	ὑποκρίνασθαι	ὑποκρίνομαι	verb	AMN	to play
+17.01.020	105.04	σε	σε	σε	σύ	pronoun	AS-2	you
+17.01.021	105.05	θέλῃ,	θέλῃ	θέλῃ	ἐθέλω	verb	PAS.3S	he wishes
+17.01.022	105.06	ἵνα	ἵνα	ἵνα	ἵνα	conjunction	-	[see to it] that
+17.01.023	105.07	καὶ	καὶ	καί	καί	conjunction	-	also
+17.01.024	105.08	τοῦτον	τοῦτον	τοῦτον	οὗτος	pronoun	ASM	this
+17.01.025	105.09	εὐφυῶς	εὐφυῶς	εὐφυῶς	εὐφυής	adverb	-	properly
+17.01.026	105.10	ὑποκρίνῃ	ὑποκρίνῃ	ὑποκρίνῃ	ὑποκρίνομαι	verb	PMI.2S	you play
+17.01.027	105.11	ἂν	ἂν	ἄν	ἄν	particle	-	if
+17.01.028	105.12	χωλόν,	χωλόν	χωλόν	χωλός	adjective	ASM	lame
+17.01.029	105.13	ἂν	ἂν	ἄν	ἄν	particle	-	if
+17.01.030	105.14	ἄρχοντα,	ἄρχοντα	ἄρχοντα	ἄρχων	noun	ASM	a ruler
+17.01.031	105.15	ἂν	ἂν	ἄν	ἄν	particle	-	if
+17.01.032	105.16	ἰδιώτην.	ἰδιώτην	ἰδιώτην	ἰδιώτης	noun	ASM	a private individual
+
+A. If it is his pleasure you should act a poor man, a cripple, a governor, or a private person,
+B. If it be his pleasure that you should enact a poor man, see that you act it well; or a cripple, or a ruler, or a private citizen.
+C. if he wishes you to act the part of a poor man, see that you act the part naturally; if the part of a lame man, of a magistrate, of a private person, (do the same).
+D. If he wants you to act a poor man you must act the part with all your powers; and so if your part be a cripple or a magistrate or a plain man.
+
+# 106
+
+17.01.033	106.01	σὸν	σὸν	σόν	σός	adjective	SSN	your
+17.01.034	106.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+17.01.035	106.03	τοῦτ’	τοῦτ’	τοῦτο	οὗτος	pronoun	SSN	this
+17.01.036	106.04	ἔστι,	ἔστι	ἐστί(ν)	εἰμί	verb	PAI.3S	is
+17.01.037	106.05	τὸ	τὸ	τό	ὁ	article	SSN	the
+17.01.038	106.06	δοθὲν	δοθὲν	δοθέν	δίδωμι	verb	APP.SS-	[thing] being given
+17.01.039	106.07	ὑποκρίνασθαι	ὑποκρίνασθαι	ὑποκρίνασθαι	ὑποκρίνομαι	verb	AMN	to act
+17.01.040	106.08	πρόσωπον	πρόσωπον	πρόσωπον	πρόσωπον	noun	SSN	the character
+17.01.041	106.09	καλῶς:	καλῶς	καλῶς	καλός	noun	---	well
+
+A. see that you act it naturally. For this is your business, to act well the character assigned you;
+B. For this is your business, to act well the given part;
+C. For this is your duty, to act well the part that is given to you;
+D. For your business is to act the character that is given you and act it well;
+
+# 107
+
+17.01.042	107.01	ἐκλέξασθαι	ἐκλέξασθαι	ἐκλέξασθαι	ἐκλέγω	verb	AMN	to choose
+17.01.043	107.02	δ’	δ’	δέ	δέ	particle	-	but
+17.01.044	107.03	αὐτὸ	αὐτὸ	αὐτό	αὐτός	pronoun	SSN	it [is]
+17.01.045	107.04	ἄλλου.	ἄλλου	ἄλλου	ἄλλος	adjective	GSM	of another
+
+A. to choose it is another's.
+B. but to choose it, belongs to another.
+C. but to select the part, belongs to another.
+D. the choice of the cast is Another's.
