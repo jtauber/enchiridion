@@ -1278,67 +1278,67 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 17.01.043	107.02	δ’	δ’	δέ	δέ	particle	-	but
 17.01.044	107.03	αὐτὸ	αὐτὸ	αὐτό	αὐτός	pronoun	SSN	it [is]
 17.01.045	107.04	ἄλλου.	ἄλλου	ἄλλου	ἄλλος	adjective	GSM	of another
-18.01.001	108.01	κόραξ	κόραξ	κόραξ	κόραξ	noun	NSM	carrion-crow
-18.01.002	108.02	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when, whenever
+18.01.001	108.01	κόραξ	κόραξ	κόραξ	κόραξ	noun	NSM	raven
+18.01.002	108.02	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when
 18.01.003	108.03	μὴ	μὴ	μή	μή	conjunction	-	not
-18.01.004	108.04	αἴσιον	αἴσιον	αἴσιον	αἴσιος	adjective	ASM^SSN^ASZ^SSN	boding well, auspicious
-18.01.005	108.05	κεκράγῃ,	κεκράγῃ	κεκράγῃ	κράζω	verb	XAS.3S	to croak
-18.01.006	108.06	μὴ	μὴ	μή	μή	conjunction	-	not
-18.01.007	108.07	συναρπαζέτω	συναρπαζέτω	συναρπαζέτω	συναρπάζω	verb	PAD.3S^PAD.3S	to seize and carry clean away
-18.01.008	108.08	σε	σε	σε	σύ	pronoun	AS-2	you (personal pronoun)
+18.01.004	108.04	αἴσιον	αἴσιον	αἴσιον	αἴσιος	adjective	SSN	auspicious
+18.01.005	108.05	κεκράγῃ,	κεκράγῃ	κεκράγῃ	κράζω	verb	XAS.3S	has croaked,
+18.01.006	108.06	μὴ	μὴ	μή	μή	conjunction	-	do not
+18.01.007	108.07	συναρπαζέτω	συναρπαζέτω	συναρπαζέτω	συναρπάζω	verb	PAD.3S	let carry away
+18.01.008	108.08	σε	σε	σε	σύ	pronoun	AS-2	you
 18.01.009	108.09	ἡ	ἡ	ἡ	ὁ	article	NSF	the
-18.01.010	108.10	φαντασία:	φαντασία	φαντασία	φαντασία	noun	SDF^NSF	imagination, the power by which an object is presented
-18.01.011	109.01	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	otherwise, but
-18.01.012	109.02	εὐθὺς	εὐθὺς	εὐθύς	εὐθύς	adverb	-	straight, direct
-18.01.013	109.03	διαίρει	διαίρει	διαίρει	διαίρω	verb	PMI.2S^PAI.3S	to raise up, lift up
-18.01.014	109.04	παρὰ	παρὰ	παρά	παρά	preposition	-	from the side of, c. gen., beside, alongside of, c. dat., to the side of, motion alongside of, c. acc.
-18.01.015	109.05	σεαυτῷ	σεαυτῷ	σεαυτῷ	σαυτοῦ	pronoun	DSY^DSN^DSM	-
-18.01.016	109.06	καὶ	καὶ	καί	καί	conjunction	-	and, also
-18.01.017	109.07	λέγε	λέγε	λέγε	λέγω	verb	PAD.2S^IAI.3S	to say, tell, speak; epic and arch.: pick, gather
-18.01.018	109.08	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
-18.01.019	109.09	«τούτων	τούτων	τούτων	οὗτος	pronoun	GPX	this; that
-18.01.020	109.10	ἐμοὶ	ἐμοὶ	ἐμοί	ἐγώ	pronoun	DSZ1	I (first person pronoun)
-18.01.021	109.11	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	not one, nobody
-18.01.022	109.12	ἐπισημαίνεται,	ἐπισημαίνεται	ἐπισημαίνεται	ἐπισημαίνω	verb	PMI.3S	to set a mark upon
-18.01.023	109.13	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	otherwise, but
-18.01.024	109.14	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-18.01.025	109.15	τῷ	τῷ	τῷ	ὁ	article	DSY	the
-18.01.026	109.16	σωματίῳ	σωματίῳ	σωματίῳ	σωμάτιον	noun	DSN	a poor body
-18.01.027	109.17	μου	μου	μου	ἐγώ	pronoun	GSZ1	I (first person pronoun)
-18.01.028	109.18	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-18.01.029	109.19	τῷ	τῷ	τῷ	ὁ	article	DSY	the
+18.01.010	108.10	φαντασία:	φαντασία	φαντασία	φαντασία	noun	NSF	appearance
+18.01.011	109.01	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
+18.01.012	109.02	εὐθὺς	εὐθὺς	εὐθύς	εὐθύς	adverb	-	immediately
+18.01.013	109.03	διαίρει	διαίρει	διαίρει	διαίρω	verb	PAD.2S	discriminate
+18.01.014	109.04	παρὰ	παρὰ	παρά	παρά	preposition	-	to
+18.01.015	109.05	σεαυτῷ	σεαυτῷ	σεαυτῷ	σαυτοῦ	pronoun	DSY	yourself
+18.01.016	109.06	καὶ	καὶ	καί	καί	conjunction	-	and
+18.01.017	109.07	λέγε	λέγε	λέγε	λέγω	verb	PAD.2S	say
+18.01.018	109.08	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+18.01.019	109.09	«τούτων	τούτων	τούτων	οὗτος	pronoun	GPX	this
+18.01.020	109.10	ἐμοὶ	ἐμοὶ	ἐμοί	ἐγώ	pronoun	DSZ1	to me
+18.01.021	109.11	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	nothing
+18.01.022	109.12	ἐπισημαίνεται,	ἐπισημαίνεται	ἐπισημαίνεται	ἐπισημαίνω	verb	PMI.3S	is foretold
+18.01.023	109.13	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
+18.01.024	109.14	ἢ	ἢ	ἤ	ἤ	conjunction	-	either
+18.01.025	109.15	τῷ	τῷ	τῷ	ὁ	article	DSY	to the
+18.01.026	109.16	σωματίῳ	σωματίῳ	σωματίῳ	σωμάτιον	noun	DSN	poor body
+18.01.027	109.17	μου	μου	μου	ἐγώ	pronoun	GSZ1	of me
+18.01.028	109.18	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+18.01.029	109.19	τῷ	τῷ	τῷ	ὁ	article	DSY	to the
 18.01.030	109.20	κτησειδίῳ	κτησειδίῳ	κτησειδίῳ	κτησείδιον	noun	DSN	small possession
-18.01.031	109.21	μου	μου	μου	ἐγώ	pronoun	GSZ1	I (first person pronoun)
-18.01.032	109.22	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-18.01.033	109.23	τῷ	τῷ	τῷ	ὁ	article	DSY	the
-18.01.034	109.24	δοξαρίῳ	δοξαρίῳ	δοξαρίῳ	δοξάριον	noun	DSN	-
-18.01.035	109.25	μου	μου	μου	ἐγώ	pronoun	GSZ1	I (first person pronoun)
-18.01.036	109.26	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-18.01.037	109.27	τοῖς	τοῖς	τοῖς	ὁ	article	DPY	the
-18.01.038	109.28	τέκνοις	τέκνοις	τέκνοις	τέκνον	noun	DPN	a child
-18.01.039	109.29	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
+18.01.031	109.21	μου	μου	μου	ἐγώ	pronoun	GSZ1	of me
+18.01.032	109.22	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+18.01.033	109.23	τῷ	τῷ	τῷ	ὁ	article	DSY	to the
+18.01.034	109.24	δοξαρίῳ	δοξαρίῳ	δοξαρίῳ	δοξάριον	noun	DSN	reputation
+18.01.035	109.25	μου	μου	μου	ἐγώ	pronoun	GSZ1	of me
+18.01.036	109.26	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+18.01.037	109.27	τοῖς	τοῖς	τοῖς	ὁ	article	DPY	to the
+18.01.038	109.28	τέκνοις	τέκνοις	τέκνοις	τέκνον	noun	DPN	child
+18.01.039	109.29	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
 18.01.040	109.30	τῇ	τῇ	τῇ	ὁ	article	DSF	the
-18.01.041	109.31	γυναικί.	γυναικί	γυναικί	γυνή	noun	DSF	a woman
-18.01.042	110.01	ἐμοὶ	ἐμοὶ	ἐμοί	ἐγώ	pronoun	DSZ1	I (first person pronoun)
-18.01.043	110.02	δὲ	δὲ	δέ	δέ	particle	-	but
-18.01.044	110.03	πάντα	πάντα	πάντα	πᾶς	adjective	ASM^SPN	all, the whole
-18.01.045	110.04	αἴσια	αἴσια	αἴσια	αἴσιος	adjective	SPN^SPN	boding well, auspicious
-18.01.046	110.05	σημαίνεται,	σημαίνεται	σημαίνεται	σημαίνω	verb	PMI.3S	to shew by a sign, indicate, make known, point out
+18.01.041	109.31	γυναικί.	γυναικί	γυναικί	γυνή	noun	DSF	wife.
+18.01.042	110.01	ἐμοὶ	ἐμοὶ	ἐμοί	ἐγώ	pronoun	DSZ1	to me
+18.01.043	110.02	δὲ	δὲ	δέ	δέ	particle	-	however
+18.01.044	110.03	πάντα	πάντα	πάντα	πᾶς	adjective	SPN	all
+18.01.045	110.04	αἴσια	αἴσια	αἴσια	αἴσιος	adjective	SPN	auspicious
+18.01.046	110.05	σημαίνεται,	σημαίνεται	σημαίνεται	σημαίνω	verb	PMI.3S	is foretold
 18.01.047	110.06	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
-18.01.048	110.07	ἐγὼ	ἐγὼ	ἐγώ	ἐγώ	pronoun	NSZ1	I (first person pronoun)
-18.01.049	110.08	θέλω:	θέλω	θέλω	ἐθέλω	verb	PAS.1S^PAI.1S	to will, wish, purpose
-18.01.050	111.01	ὅ	ὅ	ὁ@	ὅς	pronoun	SSN	who, that, which: relative pronoun
-18.01.051	111.02	τι	τι	τι	τις	pronoun	SSN	any one, any thing, some one, some thing;
+18.01.048	110.07	ἐγὼ	ἐγὼ	ἐγώ	ἐγώ	pronoun	NSZ1	I
+18.01.049	110.08	θέλω:	θέλω	θέλω	ἐθέλω	verb	PAS.1S	will.
+18.01.050	111.01	ὅ	ὅ	ὅ	ὅς	pronoun	SSN	what
+18.01.051	111.02	τι	τι	τι	τις	pronoun	SSN	ever
 18.01.052	111.03	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
-18.01.053	111.04	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
-18.01.054	111.05	τούτων	τούτων	τούτων	οὗτος	pronoun	GPX	this; that
-18.01.055	111.06	ἀποβαίνῃ,	ἀποβαίνῃ	ἀποβαίνῃ	ἀποβαίνω	verb	PMS.2S^PMI.2S^PAS.3S	to step off from
-18.01.056	111.07	ἐπ’	ἐπ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
-18.01.057	111.08	ἐμοί	ἐμοί	ἐμοί	ἐγώ	pronoun	DSZ1	I (first person pronoun)
-18.01.058	111.09	ἐστιν	ἐστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	to be
-18.01.059	111.10	ὠφεληθῆναι	ὠφεληθῆναι	ὠφεληθῆναι	ὠφελέω	verb	APN	to help, aid, assist, to be of use
-18.01.060	111.11	ἀπ’	ἀπ’	ἀπό	ἀπό	preposition	-	from, away from. c. gen.
-18.01.061	111.12	αὐτοῦ.»	αὐτοῦ	αὐτοῦ	αὐτός	pronoun	GSN^GSM	unemph. 3rd pers.pronoun; -self; [the] same
+18.01.053	111.04	ἂν	ἂν	ἄν	ἄν	particle	-	might
+18.01.054	111.05	τούτων	τούτων	τούτων	οὗτος	pronoun	GPX	of these
+18.01.055	111.06	ἀποβαίνῃ,	ἀποβαίνῃ	ἀποβαίνῃ	ἀποβαίνω	verb	PAS.3S	happen
+18.01.056	111.07	ἐπ’	ἐπ’	ἐπί	ἐπί	preposition	-	on
+18.01.057	111.08	ἐμοί	ἐμοί	ἐμοί	ἐγώ	pronoun	DSZ1	me
+18.01.058	111.09	ἐστιν	ἐστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	it is
+18.01.059	111.10	ὠφεληθῆναι	ὠφεληθῆναι	ὠφεληθῆναι	ὠφελέω	verb	APN	to benefit
+18.01.060	111.11	ἀπ’	ἀπ’	ἀπό	ἀπό	preposition	-	from
+18.01.061	111.12	αὐτοῦ.»	αὐτοῦ	αὐτοῦ	αὐτός	pronoun	GSY	it
 19.01.001	112.01	ἀνίκητος	ἀνίκητος	ἀνίκητος	ἀνίκητος	adjective	NSZ	unconquered, unconquerable
 19.01.002	112.02	εἶναι	εἶναι	εἶναι	εἰμί	verb	PAN	to be
 19.01.003	112.03	δύνασαι,	δύνασαι	δύνασαι	δύναμαι	verb	PMI.2S	to be able, capable, strong enough
