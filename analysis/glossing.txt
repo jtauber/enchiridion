@@ -2233,3 +2233,113 @@ A. For whichever of these things happens, it is in my control to derive advantag
 B. For whatsoever happens, it belongs to me to derive advantage therefrom."
 C. For whatever of these things results, it is in my power to derive benefit from it.
 D. for, whatever the issue may be, it is in my power to pt benefit therefrom.'
+
+# 112
+
+19.01.001	112.01	ἀνίκητος	ἀνίκητος	ἀνίκητος	ἀνίκητος	adjective	NSZ	unconquerable
+19.01.002	112.02	εἶναι	εἶναι	εἶναι	εἰμί	verb	PAN	to be
+19.01.003	112.03	δύνασαι,	δύνασαι	δύνασαι	δύναμαι	verb	PMI.2S	you are able
+19.01.004	112.04	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+19.01.005	112.05	εἰς	εἰς	εἰς	εἰς	preposition	-	into
+19.01.006	112.06	μηδένα	μηδένα	μηδένα	μηδείς	pronoun	ASZ^SPN	no
+19.01.007	112.07	ἀγῶνα	ἀγῶνα	ἀγῶνα	ἀγών	noun	ASM	contest
+19.01.008	112.08	καταβαίνῃς,	καταβαίνῃς	καταβαίνῃς	καταβαίνω	verb	PAS.2S	you enter
+19.01.009	112.09	ὃν	ὃν	ὅν	ὅς	pronoun	ASY	which
+19.01.010	112.10	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
+19.01.011	112.11	ἔστιν	ἔστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	it is
+19.01.012	112.12	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on
+19.01.013	112.13	σοὶ	σοὶ	σοί	σύ	pronoun	DS-2^DS-2	you
+19.01.014	112.14	νικῆσαι.	νικῆσαι	νικῆσαι	νικάω	verb	AAN	to conquer
+
+A. You may be unconquerable, if you enter into no combat in which it is not in your own control to conquer.
+B. You can be unconquerable, if you enter into no combat in which it is not in your own power to conquer.
+C. You can be invincible, if you enter into no contest in which it is not in your power to conquer.
+D. You can be invincible, if you never enter on a contest where victory is not in your power.
+
+# 113
+
+19.02.001	113.01	ὅρα	ὅρα	ὅρα	ὁράω	verb	PAD.2S	see to it
+19.02.002	113.02	μήποτε	μήποτε	μήποτε	μήποτε	adverb	-	never
+19.02.003	113.03	ἰδών	ἰδών	ἰδών	εἶδον	verb	AAP.NS-	having seen
+19.02.004	113.04	τινα	τινα	τινα	τις	pronoun	ASZ	someone
+19.02.005	113.05	προτιμώμενον	προτιμώμενον	προτιμώμενον	προτιμάω	verb	PMP.SS-	being honoured
+19.02.006	113.06	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+19.02.007	113.07	μέγα	μέγα	μέγα	μέγας	adjective	SSN	great
+19.02.008	113.08	δυνάμενον	δυνάμενον	δυνάμενον	δύναμαι	verb	PMP.SS-	having power
+19.02.009	113.09	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+19.02.010	113.10	ἄλλως	ἄλλως	ἄλλως	ἄλλως	adverb	-	in another way
+19.02.011	113.11	εὐδοκιμοῦντα	εὐδοκιμοῦντα	εὐδοκιμοῦντα	εὐδοκιμέω	verb	PAP.SP-	being held in high esteem
+19.02.012	113.12	μακαρίσῃς,	μακαρίσῃς	μακαρίσῃς	μακαρίζω	verb	AAS.2S	you might deem happy
+19.02.013	113.13	ὑπὸ	ὑπὸ	ὑπό	ὑπό	preposition	-	by
+19.02.014	113.14	τῆς	τῆς	τῆς	ὁ	article	GSF	the
+19.02.015	113.15	φαντασίας	φαντασίας	φαντασίας	φαντασία	noun	GSF	impression
+19.02.016	113.16	συναρπασθείς.	συναρπασθείς	συναρπασθείς	συναρπάζω	verb	APP.NS-	be carried away
+
+A. When, therefore, you see anyone eminent in honors, or power, or in high esteem on any other account, take heed not to be hurried away with the appearance, and to pronounce him happy;
+B. When, therefore, you see any one eminent in honors or power, or in high esteem on any other account, take heed not to be bewildered by appearances and to pronounce him happy;
+C. Take care then when you observe a man honoured before others or possessed of great power or highly esteemed for any reason, not to suppose him happy, and be not carried away by the appearance.
+D. Beware then that when you see a man raised to honour or great power or high repute you do not let your impression carry you away.
+
+# 114
+
+19.02.017	114.01	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+19.02.018	114.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+19.02.019	114.03	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+19.02.020	114.04	τοῖς	τοῖς	τοῖς	ὁ	article	DPY	the [things]
+19.02.021	114.05	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on
+19.02.022	114.06	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	us
+19.02.023	114.07	ἡ	ἡ	ἡ	ὁ	article	NSF	the
+19.02.024	114.08	οὐσία	οὐσία	οὐσία	οὐσία	adjective	NSF	essence
+19.02.025	114.09	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
+19.02.026	114.10	ἀγαθοῦ	ἀγαθοῦ	ἀγαθοῦ	ἀγαθός	adjective	GSY	good
+19.02.027	114.11	ᾖ,	ᾖ	ᾖ	εἰμί	verb	PAS.3S	might be
+19.02.028	114.12	οὔτε	οὔτε	οὔτε	οὔτε	adverb	-	neither
+19.02.029	114.13	φθόνος	φθόνος	φθόνος	φθόνος	noun	NSM	envy
+19.02.030	114.14	οὔτε	οὔτε	οὔτε	οὔτε	adverb	-	nor
+19.02.031	114.15	ζηλοτυπία	ζηλοτυπία	ζηλοτυπία	ζηλοτυπία	noun	NSF	jealousy
+19.02.032	114.16	χώραν	χώραν	χώραν	χώρα	noun	ASF	space
+19.02.033	114.17	ἔχει:	ἔχει	ἔχει	ἔχω	verb	PAI.3S	has
+
+A. for, if the essence of good consists in things in our own control, there will be no room for envy or emulation.
+B. for if the essence of good consists in things within our own power, there will be no room for envy or emulation.
+C. For if the nature of the good is in our power, neither envy nor jealousy will have a place in us.
+D. For if the reality of good lies in what is in our power, there is no room for envy or jealousy.
+
+# 115
+
+19.02.034	115.01	σύ	σύ	σύ	σύ	pronoun	NS-2	you
+19.02.035	115.02	τε	τε	τε	τε	particle	-	and
+19.02.036	115.03	αὐτὸς	αὐτὸς	αὐτός	αὐτός	pronoun	NSM	youself
+19.02.037	115.04	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+19.02.038	115.05	στρατηγός,	στρατηγός	στρατηγός	στρατηγός	noun	NSM	general
+19.02.039	115.06	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+19.02.040	115.07	πρύτανις	πρύτανις	πρύτανις	πρύτανις	adjective	NSM	senator
+19.02.041	115.08	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+19.02.042	115.09	ὕπατος	ὕπατος	ὕπατος	ὕπατος	adjective	NSM	consul
+19.02.043	115.10	εἶναι	εἶναι	εἶναι	εἰμί	verb	PAN	to be
+19.02.044	115.11	θελήσεις,	θελήσεις	θελήσεις	ἐθέλω	verb	FAI.2S	you will wish
+19.02.045	115.12	ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
+19.02.046	115.13	ἐλεύθερος.	ἐλεύθερος	ἐλεύθερος	ἐλεύθερος	adjective	NSZ	free
+
+A. But, for your part, don't wish to be a general, or a senator, or a consul, but to be free;
+B. But, for your part, do not desire to be a general, or a senator, or a consul, but to be free;
+C. But you yourself will not wish to be a general or senator (πρύτανις) or consul, but a free man:
+D. And you will not wish to be praetor, or prefect or consul, but to be free;
+
+# 116
+
+19.02.047	116.01	μία	μία	μία	εἷς	adjective	NSF	one
+19.02.048	116.02	δὲ	δὲ	δέ	δέ	particle	-	and
+19.02.049	116.03	ὁδὸς	ὁδὸς	ὁδός	ὁδός	noun	NSM	way
+19.02.050	116.04	πρὸς	πρὸς	πρός	πρός	preposition	-	to
+19.02.051	116.05	τοῦτο,	τοῦτο	τοῦτο	οὗτος	pronoun	SSN	this
+19.02.052	116.06	καταφρόνησις	καταφρόνησις	καταφρόνησις	καταφρόνησις	noun	NSF	a contempt
+19.02.053	116.07	τῶν	τῶν	τῶν	ὁ	article	GPZ	of the [things]
+19.02.054	116.08	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
+19.02.055	116.09	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on
+19.02.056	116.10	ἡμῖν.	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	us
+
+A. and the only way to this is a contempt of things not in our own control.
+B. and the only way to this is a disregard of things which lie not within our own power.
+C. and there is only one way to this, to despise (care not for) the things which are not in our power.
+D. and there is but one way to freedom—to despise what is not in our power.
