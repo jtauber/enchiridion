@@ -1409,54 +1409,54 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 19.02.054	116.08	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
 19.02.055	116.09	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on
 19.02.056	116.10	ἡμῖν.	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	us
-20.01.001	117.01	μέμνησο,	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S^YMI.2S	to remind
-20.01.002	117.02	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
+20.01.001	117.01	μέμνησο,	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S	remember
+20.01.002	117.02	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
 20.01.003	117.03	οὐχ	οὐχ	οὐ	οὐ	adverb	-	not
 20.01.004	117.04	ὁ	ὁ	ὁ	ὁ	article	NSM	the
-20.01.005	117.05	λοιδορῶν	λοιδορῶν	λοιδορῶν	λοιδορέω	verb	PAP.NS-	to abuse, revile
-20.01.006	117.06	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
+20.01.005	117.05	λοιδορῶν	λοιδορῶν	λοιδορῶν	λοιδορέω	verb	PAP.NS-	abusing
+20.01.006	117.06	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
 20.01.007	117.07	ὁ	ὁ	ὁ	ὁ	article	NSM	the
-20.01.008	117.08	τύπτων	τύπτων	τύπτων	τύπτω	verb	PAP.NS-	to beat, strike, smite
-20.01.009	117.09	ὑβρίζει,	ὑβρίζει	ὑβρίζει	ὑβρίζω	verb	PMI.2S^PAI.3S	to wax wanton, run riot
-20.01.010	117.10	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	otherwise, but
+20.01.008	117.08	τύπτων	τύπτων	τύπτων	τύπτω	verb	PAP.NS-	striking
+20.01.009	117.09	ὑβρίζει,	ὑβρίζει	ὑβρίζει	ὑβρίζω	verb	PAI.3S	insults
+20.01.010	117.10	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
 20.01.011	117.11	τὸ	τὸ	τό	ὁ	article	SSN	the
-20.01.012	117.12	δόγμα	δόγμα	δόγμα	δόγμα	noun	SSN	that which seems to one, an opinion, dogma
-20.01.013	117.13	τὸ	τὸ	τό	ὁ	article	SSN	the
-20.01.014	117.14	περὶ	περὶ	περί	περί	preposition	-	around, round about with gen., dat., and acc.
-20.01.015	117.15	τούτων	τούτων	τούτων	οὗτος	pronoun	GPX	this; that
-20.01.016	117.16	ὡς	ὡς	ὡς	ὡς	conjunction	-	as, how
-20.01.017	117.17	ὑβριζόντων.	ὑβριζόντων	ὑβριζόντων	ὑβρίζω	verb	PAP.GP-^PAD.3P	to wax wanton, run riot
-20.01.018	118.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when, whenever
-20.01.019	118.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
-20.01.020	118.03	ἐρεθίσῃ	ἐρεθίσῃ	ἐρεθίσῃ	ἐρεθίζω	verb	AMS.2S^AAS.3S^FMI.2S	to rouse to anger, rouse to fight, irritate
-20.01.021	118.04	σέ	σέ	σέ	σύ	pronoun	AS-2^AS-2	you (personal pronoun)
-20.01.022	118.05	τις,	τις	τις	τις	pronoun	NSZ	any one, any thing, some one, some thing;
-20.01.023	118.06	ἴσθι,	ἴσθι	ἴσθι	εἰμί	verb	PAD.2S	to be
-20.01.024	118.07	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
+20.01.012	117.12	δόγμα	δόγμα	δόγμα	δόγμα	noun	SSN	opinion
+20.01.013	117.13	τὸ	τὸ	τό	ὁ	article	SSN	-
+20.01.014	117.14	περὶ	περὶ	περί	περί	preposition	-	about
+20.01.015	117.15	τούτων	τούτων	τούτων	οὗτος	pronoun	GPX	this
+20.01.016	117.16	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+20.01.017	117.17	ὑβριζόντων.	ὑβριζόντων	ὑβριζόντων	ὑβρίζω	verb	PAP.GP	insulting
+20.01.018	118.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when
+20.01.019	118.02	οὖν	οὖν	οὖν	οὖν	particle	-	therefore
+20.01.020	118.03	ἐρεθίσῃ	ἐρεθίσῃ	ἐρεθίσῃ	ἐρεθίζω	verb	AAS.3S	provokes
+20.01.021	118.04	σέ	σέ	σέ	σύ	pronoun	AS-2^AS-2	you
+20.01.022	118.05	τις,	τις	τις	τις	pronoun	NSZ	someone
+20.01.023	118.06	ἴσθι,	ἴσθι	ἴσθι	εἰμί	verb	PAD.2S	be [assured]
+20.01.024	118.07	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
 20.01.025	118.08	ἡ	ἡ	ἡ	ὁ	article	NSF	the
 20.01.026	118.09	σή	σή	σή	σός	adjective	NSF	your
-20.01.027	118.10	σε	σε	σε	σύ	pronoun	AS-2	you (personal pronoun)
-20.01.028	118.11	ὑπόληψις	ὑπόληψις	ὑπόληψις	ὑπόληψις	noun	NSF	taking-up: reply, impression, assumption
-20.01.029	118.12	ἠρέθικε.	ἠρέθικε	ἠρέθικε	ἐρεθίζω	verb	XAD.2S^XAI.3S	to rouse to anger, rouse to fight, irritate
-20.01.030	119.01	τοιγαροῦν	τοιγαροῦν	τοιγαροῦν	τοιγάρ	particle	-	so then, wherefore, therefore, accordingly
-20.01.031	119.02	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
-20.01.032	119.03	πρώτοις	πρώτοις	πρώτοις	πρότερος	adjective	DPY	before, earlier
-20.01.033	119.04	πειρῶ	πειρῶ	πειρῶ	πειράω	verb	PMD.2S^PAS.1S^PAI.1S^PAS.1S^PAI.1S^IMI.2S	to attempt, endeavour, try
-20.01.034	119.05	ὑπὸ	ὑπὸ	ὑπό	ὑπό	preposition	-	from under, by, c. gen. under, c. dat., towards c. acc.
+20.01.027	118.10	σε	σε	σε	σύ	pronoun	AS-2	you
+20.01.028	118.11	ὑπόληψις	ὑπόληψις	ὑπόληψις	ὑπόληψις	noun	NSF	opinion
+20.01.029	118.12	ἠρέθικε.	ἠρέθικε	ἠρέθικε	ἐρεθίζω	verb	XAI.3S	has provoked
+20.01.030	119.01	τοιγαροῦν	τοιγαροῦν	τοιγαροῦν	τοιγάρ	particle	-	therefore
+20.01.031	119.02	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+20.01.032	119.03	πρώτοις	πρώτοις	πρώτοις	πρότερος	adjective	DPY	[the] first place
+20.01.033	119.04	πειρῶ	πειρῶ	πειρῶ	πειράω	verb	PMD.2S	try
+20.01.034	119.05	ὑπὸ	ὑπὸ	ὑπό	ὑπό	preposition	-	by
 20.01.035	119.06	τῆς	τῆς	τῆς	ὁ	article	GSF	the
-20.01.036	119.07	φαντασίας	φαντασίας	φαντασίας	φαντασία	noun	APF^GSF	imagination, the power by which an object is presented
+20.01.036	119.07	φαντασίας	φαντασίας	φαντασίας	φαντασία	noun	GSF	appearance
 20.01.037	119.08	μὴ	μὴ	μή	μή	conjunction	-	not
-20.01.038	119.09	συναρπασθῆναι:	συναρπασθῆναι	συναρπασθῆναι	συναρπάζω	verb	APN^APN	to seize and carry clean away
-20.01.039	120.01	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
+20.01.038	119.09	συναρπασθῆναι:	συναρπασθῆναι	συναρπασθῆναι	συναρπάζω	verb	APN	be carried away
+20.01.039	120.01	ἂν	ἂν	ἄν	ἄν	particle	-	if
 20.01.040	120.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
 20.01.041	120.03	ἅπαξ	ἅπαξ	ἅπαξ	ἅπαξ	adverb	-	once
 20.01.042	120.04	χρόνου	χρόνου	χρόνου	χρόνος	noun	GSM	time
-20.01.043	120.05	καὶ	καὶ	καί	καί	conjunction	-	and, also
-20.01.044	120.06	διατριβῆς	διατριβῆς	διατριβῆς	διατριβή	noun	GSF	a way of spending time
-20.01.045	120.07	τύχῃς,	τύχῃς	τύχῃς	τυγχάνω	verb	AAS.2S	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
-20.01.046	120.08	ῥᾷον	ῥᾷον	ῥᾷον	ῥάιος	adjective	ASM^SSN	-
-20.01.047	120.09	κρατήσεις	κρατήσεις	κρατήσεις	κράτησις	adjective	NPF^SPF	might, power, dominion
-20.01.048	120.10	σεαυτοῦ.	σεαυτοῦ	σεαυτοῦ	σαυτοῦ	pronoun	GSY^GSN^GSM	-
+20.01.043	120.05	καὶ	καὶ	καί	καί	conjunction	-	and
+20.01.044	120.06	διατριβῆς	διατριβῆς	διατριβῆς	διατριβή	noun	GSF	respite
+20.01.045	120.07	τύχῃς,	τύχῃς	τύχῃς	τυγχάνω	verb	AAS.2S	you gain
+20.01.046	120.08	ῥᾷον	ῥᾷον	ῥᾷον	ῥᾷον	adverb	-	more easily
+20.01.047	120.09	κρατήσεις	κρατήσεις	κρατήσεις	κρατέω	verb	FAI.2S	you will control
+20.01.048	120.10	σεαυτοῦ.	σεαυτοῦ	σεαυτοῦ	σαυτοῦ	pronoun	GSY	yourself
 21.01.001	121.01	θάνατος	θάνατος	θάνατος	θάνατος	adjective	NSM	death
 21.01.002	121.02	καὶ	καὶ	καί	καί	conjunction	-	and, also
 21.01.003	121.03	φυγὴ	φυγὴ	φυγή	φυγή	noun	NSF	flight, exile

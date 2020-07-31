@@ -2343,3 +2343,83 @@ A. and the only way to this is a contempt of things not in our own control.
 B. and the only way to this is a disregard of things which lie not within our own power.
 C. and there is only one way to this, to despise (care not for) the things which are not in our power.
 D. and there is but one way to freedom—to despise what is not in our power.
+
+# 117
+
+20.01.001	117.01	μέμνησο,	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S	remember
+20.01.002	117.02	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
+20.01.003	117.03	οὐχ	οὐχ	οὐ	οὐ	adverb	-	not
+20.01.004	117.04	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+20.01.005	117.05	λοιδορῶν	λοιδορῶν	λοιδορῶν	λοιδορέω	verb	PAP.NS-	abusing
+20.01.006	117.06	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+20.01.007	117.07	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+20.01.008	117.08	τύπτων	τύπτων	τύπτων	τύπτω	verb	PAP.NS-	striking
+20.01.009	117.09	ὑβρίζει,	ὑβρίζει	ὑβρίζει	ὑβρίζω	verb	PAI.3S	insults
+20.01.010	117.10	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	but
+20.01.011	117.11	τὸ	τὸ	τό	ὁ	article	SSN	the
+20.01.012	117.12	δόγμα	δόγμα	δόγμα	δόγμα	noun	SSN	opinion
+20.01.013	117.13	τὸ	τὸ	τό	ὁ	article	SSN	-
+20.01.014	117.14	περὶ	περὶ	περί	περί	preposition	-	about
+20.01.015	117.15	τούτων	τούτων	τούτων	οὗτος	pronoun	GPX	this
+20.01.016	117.16	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+20.01.017	117.17	ὑβριζόντων.	ὑβριζόντων	ὑβριζόντων	ὑβρίζω	verb	PAP.GP	insulting
+
+A. Remember, that not he who gives ill language or a blow insults, but the principle which represents these things as insulting.
+B. Remember that it is not he who gives abuse or blows who affronts; but the view we take of these things as insulting.
+C. Remember that it is not he who reviles you or strikes you, who insults you, but it is your opinion about these things as being insulting.
+D. Remember that foul words or blows in themselves are no outrage, but your judgement that they are so.
+
+# 118
+
+20.01.018	118.01	ὅταν	ὅταν	ὅταν	ὅταν	conjunction	-	when
+20.01.019	118.02	οὖν	οὖν	οὖν	οὖν	particle	-	therefore
+20.01.020	118.03	ἐρεθίσῃ	ἐρεθίσῃ	ἐρεθίσῃ	ἐρεθίζω	verb	AAS.3S	provokes
+20.01.021	118.04	σέ	σέ	σέ	σύ	pronoun	AS-2^AS-2	you
+20.01.022	118.05	τις,	τις	τις	τις	pronoun	NSZ	someone
+20.01.023	118.06	ἴσθι,	ἴσθι	ἴσθι	εἰμί	verb	PAD.2S	be [assured]
+20.01.024	118.07	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
+20.01.025	118.08	ἡ	ἡ	ἡ	ὁ	article	NSF	the
+20.01.026	118.09	σή	σή	σή	σός	adjective	NSF	your
+20.01.027	118.10	σε	σε	σε	σύ	pronoun	AS-2	you
+20.01.028	118.11	ὑπόληψις	ὑπόληψις	ὑπόληψις	ὑπόληψις	noun	NSF	opinion
+20.01.029	118.12	ἠρέθικε.	ἠρέθικε	ἠρέθικε	ἐρεθίζω	verb	XAI.3S	has provoked
+
+A. When, therefore, anyone provokes you, be assured that it is your own opinion which provokes you.
+B. When, therefore, any one provokes you, be assured that it is your own opinion which provokes you.
+C. When then a man irritates you, you must know that it is your own opinion which has irritated you.
+D. So when any one makes you angry, know that it is your own thought that has angered you.
+
+# 119
+
+20.01.030	119.01	τοιγαροῦν	τοιγαροῦν	τοιγαροῦν	τοιγάρ	particle	-	therefore
+20.01.031	119.02	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+20.01.032	119.03	πρώτοις	πρώτοις	πρώτοις	πρότερος	adjective	DPY	[the] first place
+20.01.033	119.04	πειρῶ	πειρῶ	πειρῶ	πειράω	verb	PMD.2S	try
+20.01.034	119.05	ὑπὸ	ὑπὸ	ὑπό	ὑπό	preposition	-	by
+20.01.035	119.06	τῆς	τῆς	τῆς	ὁ	article	GSF	the
+20.01.036	119.07	φαντασίας	φαντασίας	φαντασίας	φαντασία	noun	GSF	appearance
+20.01.037	119.08	μὴ	μὴ	μή	μή	conjunction	-	not
+20.01.038	119.09	συναρπασθῆναι:	συναρπασθῆναι	συναρπασθῆναι	συναρπάζω	verb	APN	be carried away
+
+A. Try, therefore, in the first place, not to be hurried away with the appearance.
+B. Try, therefore, in the first place, not to be bewildered by appearances.
+C. Therefore especially try not to be carried away by the appearance.
+D. Wherefore make it your first endeavour not to let your impressions carry you away.
+
+# 120
+
+20.01.039	120.01	ἂν	ἂν	ἄν	ἄν	particle	-	if
+20.01.040	120.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+20.01.041	120.03	ἅπαξ	ἅπαξ	ἅπαξ	ἅπαξ	adverb	-	once
+20.01.042	120.04	χρόνου	χρόνου	χρόνου	χρόνος	noun	GSM	time
+20.01.043	120.05	καὶ	καὶ	καί	καί	conjunction	-	and
+20.01.044	120.06	διατριβῆς	διατριβῆς	διατριβῆς	διατριβή	noun	GSF	respite
+20.01.045	120.07	τύχῃς,	τύχῃς	τύχῃς	τυγχάνω	verb	AAS.2S	you gain
+20.01.046	120.08	ῥᾷον	ῥᾷον	ῥᾷον	ῥᾷον	adverb	-	more easily
+20.01.047	120.09	κρατήσεις	κρατήσεις	κρατήσεις	κρατέω	verb	FAI.2S	you will control
+20.01.048	120.10	σεαυτοῦ.	σεαυτοῦ	σεαυτοῦ	σαυτοῦ	pronoun	GSY	yourself
+
+A. For if you once gain time and respite, you will more easily command yourself.
+B. For if you once gain time and respite, you will more easily command yourself.
+C. For if you once gain time and delay, you will more easily master yourself.
+D. For if once you gain time and delay, you will find it easier to control yourself.
