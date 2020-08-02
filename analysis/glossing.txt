@@ -2423,3 +2423,48 @@ A. For if you once gain time and respite, you will more easily command yourself.
 B. For if you once gain time and respite, you will more easily command yourself.
 C. For if you once gain time and delay, you will more easily master yourself.
 D. For if once you gain time and delay, you will find it easier to control yourself.
+
+# 121
+
+21.01.001	121.01	θάνατος	θάνατος	θάνατος	θάνατος	adjective	NSM	death
+21.01.002	121.02	καὶ	καὶ	καί	καί	conjunction	-	and
+21.01.003	121.03	φυγὴ	φυγὴ	φυγή	φυγή	noun	NSF	exile
+21.01.004	121.04	καὶ	καὶ	καί	καί	conjunction	-	and
+21.01.005	121.05	πάντα	πάντα	πάντα	πᾶς	adjective	SPN	all
+21.01.006	121.06	τὰ	τὰ	τά	ὁ	article	SPN	the
+21.01.007	121.07	δεινὰ	δεινὰ	δεινά	δεινός	adjective	SPN	terrible
+21.01.008	121.08	φαινόμενα	φαινόμενα	φαινόμενα	φαίνω	verb	PMP.SP-	appearing
+21.01.009	121.09	πρὸ	πρὸ	πρό	πρό	preposition	-	before
+21.01.010	121.10	ὀφθαλμῶν	ὀφθαλμῶν	ὀφθαλμῶν	ὀφθαλμός	noun	GPM	eyes
+21.01.011	121.11	ἔστω	ἔστω	ἔστω	εἰμί	verb	PAD.3S	let it be
+21.01.012	121.12	σοι	σοι	σοι	σύ	pronoun	DS-2	to you
+21.01.013	121.13	καθ’	καθ’	κατά	κατά	preposition	-	throughout
+21.01.014	121.14	ἡμέραν,	ἡμέραν	ἡμέραν	ἡμέρα	noun	ASF	day
+21.01.015	121.15	μάλιστα	μάλιστα	μάλιστα	μάλιστα	adverb	-	most
+21.01.016	121.16	δὲ	δὲ	δέ	δέ	particle	-	but
+21.01.017	121.17	πάντων	πάντων	πάντων	πᾶς	adjective	GPY	of all
+21.01.018	121.18	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+21.01.019	121.19	θάνατος:	θάνατος	θάνατος	θάνατος	adjective	NSM	death
+
+A. Let death and exile, and all other things which appear terrible be daily before your eyes, but chiefly death,
+B. Let death and exile, and all other things which appear terrible, be daily before your eyes, but death chiefly;
+C. Let death and exile and every other thing which appears dreadful be daily before your eyes; but most of all death:
+D. Keep before your eyes from day to day death and exile and all things that seem terrible, but death most of all,
+
+# 122
+
+21.01.020	122.01	καὶ	καὶ	καί	καί	conjunction	-	and
+21.01.021	122.02	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	no
+21.01.022	122.03	οὐδέποτε	οὐδέποτε	οὐδέποτε	οὐδέποτε	adverb	-	never
+21.01.023	122.04	οὔτε	οὔτε	οὔτε	οὔτε	adverb	-	neither
+21.01.024	122.05	ταπεινὸν	ταπεινὸν	ταπεινόν	ταπεινός	adjective	SSN	low
+21.01.025	122.06	ἐνθυμηθήσῃ	ἐνθυμηθήσῃ	ἐνθυμηθήσῃ	ἐνθυμέομαι	verb	FPI.2S	will you set your thoughts on
+21.01.026	122.07	οὔτε	οὔτε	οὔτε	οὔτε	adverb	-	nor
+21.01.027	122.08	ἄγαν	ἄγαν	ἄγαν	ἄγαν	adverb	-	too eagerly
+21.01.028	122.09	ἐπιθυμήσεις	ἐπιθυμήσεις	ἐπιθυμήσεις	ἐπιθυμέω	verb	FAI.2S	will you covet
+21.01.029	122.10	τινός.	τινός	τινός	τις	pronoun	GS-	anything
+
+A. and you win never entertain any abject thought, nor too eagerly covet anything.
+B. and you will never entertain any abject thought, nor too eagerly covet anything.
+C. and you will never think of any thing mean nor will you desire any thing extravagantly.
+D. and then you will never set your thoughts on what is low and will never desire anything beyond measure.
