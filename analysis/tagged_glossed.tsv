@@ -1486,76 +1486,76 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 21.01.027	122.08	ἄγαν	ἄγαν	ἄγαν	ἄγαν	adverb	-	too eagerly
 21.01.028	122.09	ἐπιθυμήσεις	ἐπιθυμήσεις	ἐπιθυμήσεις	ἐπιθυμέω	verb	FAI.2S	will you covet
 21.01.029	122.10	τινός.	τινός	τινός	τις	pronoun	GS-	anything
-22.01.001	123.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
-22.01.002	123.02	φιλοσοφίας	φιλοσοφίας	φιλοσοφίας	φιλοσοφία	noun	APF^GSF	love of knowledge and wisdom, pursuit thereof, speculation, study
-22.01.003	123.03	ἐπιθυμεῖς,	ἐπιθυμεῖς	ἐπιθυμεῖς	ἐπιθυμέω	verb	PAI.2S^PAI.2S	to set one's heart upon
-22.01.004	123.04	παρασκευάζου	παρασκευάζου	παρασκευάζου	παρασκευάζω	verb	PMD.2S^PMD.2S^IMI.2S^IMI.2S	to get ready, prepare
-22.01.005	123.05	αὐτόθεν	αὐτόθεν	αὐτόθεν	αὐτόθεν	adverb	-	from the very spot
-22.01.006	123.06	ὡς	ὡς	ὡς	ὡς	conjunction	-	as, how
-22.01.007	123.07	καταγελασθησόμενος,	καταγελασθησόμενος	καταγελασθησόμενος	καταγελάω	verb	FPP.NS-	to laugh at, jeer
-22.01.008	123.08	ὡς	ὡς	ὡς	ὡς	conjunction	-	as, how
-22.01.009	123.09	καταμωκησομένων	καταμωκησομένων	καταμωκησομένων	καταμωκάομαι	verb	FMP.GP-^FMP.GP-^FMP.GP-^FMP.GP-	to mock at
-22.01.010	123.10	σου	σου	σου	σύ	pronoun	GS-2	you (personal pronoun)
-22.01.011	123.11	πολλῶν,	πολλῶν	πολλῶν	πολύς	adjective	GPF^GPY	much, many
-22.01.012	123.12	ὡς	ὡς	ὡς	ὡς	conjunction	-	as, how
-22.01.013	123.13	ἐρούντων	ἐρούντων	ἐρούντων	ἐρέω	verb	PAP.GP-^PAD.3P	Epic: ask, enquire
-22.01.014	123.14	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
-22.01.015	123.15	«ἄφνω	ἄφνω	ἄφνω	ἄφνω	adverb	-	unawares, of a sudden
-22.01.016	123.16	φιλόσοφος	φιλόσοφος	φιλόσοφος	φιλόσοφος	noun	NSM	a lover of wisdom
-22.01.017	123.17	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	I (first person pronoun)
-22.01.018	123.18	ἐπανελήλυθε»	ἐπανελήλυθε	ἐπανελήλυθε	ἐπανέρχομαι	verb	XAD.2S^XAI.3S	to go back, return
-22.01.019	123.19	καὶ	καὶ	καί	καί	conjunction	-	and, also
-22.01.020	123.20	«πόθεν	πόθεν	πόθεν	πόθεν	adverb	-	whence? (i.e., from where?)
-22.01.021	123.21	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	I (first person pronoun)
-22.01.022	123.22	αὕτη	αὕτη	αὕτη	οὗτος	pronoun	NSF	this; that
-22.01.023	123.23	ἡ	ἡ	ἡ	ὁ	article	NSF	the
-22.01.024	123.24	ὀφρύς;»	ὀφρύς	ὀφρύς	ὀφρύς	noun	NSF	the brow, eyebrow
-22.01.025	124.01	σὺ	σὺ	σύ	σύ	pronoun	NS-2	you (personal pronoun)
+22.01.001	123.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+22.01.002	123.02	φιλοσοφίας	φιλοσοφίας	φιλοσοφίας	φιλοσοφία	noun	GSF	philosophy
+22.01.003	123.03	ἐπιθυμεῖς,	ἐπιθυμεῖς	ἐπιθυμεῖς	ἐπιθυμέω	verb	PAI.2S	you are setting your heart on
+22.01.004	123.04	παρασκευάζου	παρασκευάζου	παρασκευάζου	παρασκευάζω	verb	PMD.2S	prepare
+22.01.005	123.05	αὐτόθεν	αὐτόθεν	αὐτόθεν	αὐτόθεν	adverb	-	at once
+22.01.006	123.06	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+22.01.007	123.07	καταγελασθησόμενος,	καταγελασθησόμενος	καταγελασθησόμενος	καταγελάω	verb	FPP.NS-	being laughed at
+22.01.008	123.08	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+22.01.009	123.09	καταμωκησομένων	καταμωκησομένων	καταμωκησομένων	καταμωκάομαι	verb	FMP.GP-	mocking
+22.01.010	123.10	σου	σου	σου	σύ	pronoun	GS-2	you
+22.01.011	123.11	πολλῶν,	πολλῶν	πολλῶν	πολύς	adjective	GPX	many
+22.01.012	123.12	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+22.01.013	123.13	ἐρούντων	ἐρούντων	ἐρούντων	ἐρέω	verb	PAP.GP-	saying
+22.01.014	123.14	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+22.01.015	123.15	«ἄφνω	ἄφνω	ἄφνω	ἄφνω	adverb	-	all of a sudden
+22.01.016	123.16	φιλόσοφος	φιλόσοφος	φιλόσοφος	φιλόσοφος	noun	NSM	a philosopher
+22.01.017	123.17	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	to us
+22.01.018	123.18	ἐπανελήλυθε»	ἐπανελήλυθε	ἐπανελήλυθε	ἐπανέρχομαι	verb	XAI.3S	he has returned
+22.01.019	123.19	καὶ	καὶ	καί	καί	conjunction	-	and
+22.01.020	123.20	«πόθεν	πόθεν	πόθεν	πόθεν	adverb	-	whence
+22.01.021	123.21	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	at us
+22.01.022	123.22	αὕτη	αὕτη	αὕτη	οὗτος	pronoun	NSF	this
+22.01.023	123.23	ἡ	ἡ	ἡ	ὁ	article	NSF	-
+22.01.024	123.24	ὀφρύς;»	ὀφρύς	ὀφρύς	ὀφρύς	noun	NSF	brow?
+22.01.025	124.01	σὺ	σὺ	σύ	σύ	pronoun	NS-2	you
 22.01.026	124.02	δὲ	δὲ	δέ	δέ	particle	-	but
-22.01.027	124.03	ὀφρὺν	ὀφρὺν	ὀφρύν	ὀφρύς	noun	ASF	the brow, eyebrow
-22.01.028	124.04	μὲν	μὲν	μέν	μέν	particle	-	on the one hand, on the other hand
+22.01.027	124.03	ὀφρὺν	ὀφρὺν	ὀφρύν	ὀφρύς	noun	ASF	the brow
+22.01.028	124.04	μὲν	μὲν	μέν	μέν	particle	-	-
 22.01.029	124.05	μὴ	μὴ	μή	μή	conjunction	-	not
-22.01.030	124.06	σχῇς:	σχῇς	σχῇς	ἔχω	verb	AAS.2S	to have
-22.01.031	125.01	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
+22.01.030	124.06	σχῇς:	σχῇς	σχῇς	ἔχω	verb	AAS.2S	you should have
+22.01.031	125.01	τῶν	τῶν	τῶν	ὁ	article	GPX	the
 22.01.032	125.02	δὲ	δὲ	δέ	δέ	particle	-	but
-22.01.033	125.03	βελτίστων	βελτίστων	βελτίστων	βέλτιστος	adjective	GPF^GPY	best
-22.01.034	125.04	σοι	σοι	σοι	σύ	pronoun	DS-2	you (personal pronoun)
-22.01.035	125.05	φαινομένων	φαινομένων	φαινομένων	φαίνω	verb	PMP.GP-^PMP.GP-	to bring to light, make to appear
-22.01.036	125.06	οὕτως	οὕτως	οὕτω(ς)	οὕτως	adverb	-	so, in this manner
-22.01.037	125.07	ἔχου,	ἔχου	ἔχου	ἔχω	verb	PMD.2S^IMI.2S	to have
-22.01.038	125.08	ὡς	ὡς	ὡς	ὡς	conjunction	-	as, how
-22.01.039	125.09	ὑπὸ	ὑπὸ	ὑπό	ὑπό	preposition	-	from under, by, c. gen. under, c. dat., towards c. acc.
-22.01.040	125.10	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
+22.01.033	125.03	βελτίστων	βελτίστων	βελτίστων	βέλτιστος	adjective	GPX	best
+22.01.034	125.04	σοι	σοι	σοι	σύ	pronoun	DS-2	to you
+22.01.035	125.05	φαινομένων	φαινομένων	φαινομένων	φαίνω	verb	PMP.GP	appearing
+22.01.036	125.06	οὕτως	οὕτως	οὕτω(ς)	οὕτως	adverb	-	in this manner
+22.01.037	125.07	ἔχου,	ἔχου	ἔχου	ἔχω	verb	PMD.2S	hold
+22.01.038	125.08	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+22.01.039	125.09	ὑπὸ	ὑπὸ	ὑπό	ὑπό	preposition	-	by
+22.01.040	125.10	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	-
 22.01.041	125.11	θεοῦ	θεοῦ	θεοῦ	θεός	noun	GSM	god
-22.01.042	125.12	τεταγμένος	τεταγμένος	τεταγμένος	τάσσω	verb	XMP.NS-	to arrange, put in order
-22.01.043	125.13	εἰς	εἰς	εἰς	εἰς	preposition	-	into, to c. acc.
-22.01.044	125.14	ταύτην	ταύτην	ταύτην	οὗτος	pronoun	ASF	this; that
-22.01.045	125.15	τὴν	τὴν	τήν	ὁ	article	ASF	the
-22.01.046	125.16	χώραν:	χώραν	χώραν	χώρα	noun	ASF	land
-22.01.047	126.01	μέμνησό	μέμνησό	μέμνησό	μιμνήσκω	verb	XMD.2S^YMI.2S	to remind
+22.01.042	125.12	τεταγμένος	τεταγμένος	τεταγμένος	τάσσω	verb	XMP.NS-	appointed
+22.01.043	125.13	εἰς	εἰς	εἰς	εἰς	preposition	-	to
+22.01.044	125.14	ταύτην	ταύτην	ταύτην	οὗτος	pronoun	ASF	this
+22.01.045	125.15	τὴν	τὴν	τήν	ὁ	article	ASF	-
+22.01.046	125.16	χώραν:	χώραν	χώραν	χώρα	noun	ASF	position
+22.01.047	126.01	μέμνησό	μέμνησό	μέμνησό	μιμνήσκω	verb	XMD.2S	remember
 22.01.048	126.02	τε	τε	τε	τε	particle	-	and
-22.01.049	126.03	διότι,	διότι	διότι	διότι	conjunction	-	for the reason that, since
+22.01.049	126.03	διότι,	διότι	διότι	διότι	conjunction	-	for that reason
 22.01.050	126.04	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
-22.01.051	126.05	μὲν	μὲν	μέν	μέν	particle	-	on the one hand, on the other hand
-22.01.052	126.06	ἐμμείνῃς	ἐμμείνῃς	ἐμμείνῃς	ἐμμένω	verb	AAS.2S	to abide in
-22.01.053	126.07	τοῖς	τοῖς	τοῖς	ὁ	article	DPY	the
-22.01.054	126.08	αὐτοῖς,	αὐτοῖς	αὐτοῖς	αὐτός	pronoun	DPN^DPM	unemph. 3rd pers.pronoun; -self; [the] same
-22.01.055	126.09	οἱ	οἱ	οἱ	ἕ	pronoun	DSZ	-
-22.01.056	126.10	καταγελῶντές	καταγελῶντές	καταγελῶντές	καταγελάω	verb	PAP.NP-^PAP.NP-^FAP.NP-	to laugh at, jeer
-22.01.057	126.11	σου	σου	σου	σύ	pronoun	GS-2	you (personal pronoun)
+22.01.051	126.05	μὲν	μὲν	μέν	μέν	particle	-	-
+22.01.052	126.06	ἐμμείνῃς	ἐμμείνῃς	ἐμμείνῃς	ἐμμένω	verb	AAS.2S	you abide
+22.01.053	126.07	τοῖς	τοῖς	τοῖς	ὁ	article	DPY	to the
+22.01.054	126.08	αὐτοῖς,	αὐτοῖς	αὐτοῖς	αὐτός	pronoun	DPY	same,
+22.01.055	126.09	οἱ	οἱ	οἱ	ὁ	article	NPM	the [ones]
+22.01.056	126.10	καταγελῶντές	καταγελῶντές	καταγελῶντές	καταγελάω	verb	PAP.NP	laughing at
+22.01.057	126.11	σου	σου	σου	σύ	pronoun	GS-2	you
 22.01.058	126.12	τὸ	τὸ	τό	ὁ	article	SSN	the
-22.01.059	126.13	πρότερον	πρότερον	πρότερον	πρότερος	adjective	ASM^SSN	before, earlier
-22.01.060	126.14	οὗτοί	οὗτοί	οὗτοι	οὗτος	pronoun	NPM	this; that
-22.01.061	126.15	σε	σε	σε	σύ	pronoun	AS-2	you (personal pronoun)
-22.01.062	126.16	ὕστερον	ὕστερον	ὕστερον	ὕστερος	adjective	ASM^SSN	latter, last
-22.01.063	126.17	θαυμάσονται,	θαυμάσονται	θαυμάσονται	θαυμάζω	verb	FMI.3P	to wonder, marvel, be astonished
+22.01.059	126.13	πρότερον	πρότερον	πρότερον	πρότερος	adjective	SSN	earlier
+22.01.060	126.14	οὗτοί	οὗτοί	οὗτοι	οὗτος	pronoun	NPM	these
+22.01.061	126.15	σε	σε	σε	σύ	pronoun	AS-2	you
+22.01.062	126.16	ὕστερον	ὕστερον	ὕστερον	ὕστερος	adjective	SSN	later
+22.01.063	126.17	θαυμάσονται,	θαυμάσονται	θαυμάσονται	θαυμάζω	verb	FMI.3P	they will admire,
 22.01.064	126.18	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
 22.01.065	126.19	δὲ	δὲ	δέ	δέ	particle	-	but
-22.01.066	126.20	ἡττηθῇς	ἡττηθῇς	ἡττηθῇς	ἡσσάομαι	verb	AMS.2S	to be less than another, inferior to
-22.01.067	126.21	αὐτῶν,	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPN^GPF^GPM	unemph. 3rd pers.pronoun; -self; [the] same
-22.01.068	126.22	διπλοῦν	διπλοῦν	διπλοῦν	διπλόος	adjective	ASM^SSN	twofold, double
+22.01.066	126.20	ἡττηθῇς	ἡττηθῇς	ἡττηθῇς	ἡσσάομαι	verb	AMS.2S	you are inferior
+22.01.067	126.21	αὐτῶν,	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPX	to them,
+22.01.068	126.22	διπλοῦν	διπλοῦν	διπλοῦν	διπλόος	adjective	SSN	double
 22.01.069	126.23	προσλήψῃ	προσλήψῃ	προσλήψῃ	πρόσληψις	noun	DSF	taking in addition
-22.01.070	126.24	καταγέλωτα.	καταγέλωτα	καταγέλωτα	κατάγελως	noun	ASM	mockery, derision, ridicule
+22.01.070	126.24	καταγέλωτα.	καταγέλωτα	καταγέλωτα	κατάγελως	noun	ASM	laughter
 23.01.001	127.01	ἐάν	ἐάν	ἐάν	ἐάν	conjunction	-	if
 23.01.002	127.02	ποτέ	ποτέ	ποτέ	ποτέ	particle	-	-
 23.01.003	127.03	σοι	σοι	σοι	σύ	pronoun	DS-2	you (personal pronoun)

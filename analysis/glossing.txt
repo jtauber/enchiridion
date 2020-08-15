@@ -2377,7 +2377,7 @@ D. Remember that foul words or blows in themselves are no outrage, but your judg
 20.01.021	118.04	σέ	σέ	σέ	σύ	pronoun	AS-2^AS-2	you
 20.01.022	118.05	τις,	τις	τις	τις	pronoun	NSZ	someone
 20.01.023	118.06	ἴσθι,	ἴσθι	ἴσθι	εἰμί	verb	PAD.2S	be [assured]
-20.01.024	118.07	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
+20.01.024	118.07	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
 20.01.025	118.08	ἡ	ἡ	ἡ	ὁ	article	NSF	the
 20.01.026	118.09	σή	σή	σή	σός	adjective	NSF	your
 20.01.027	118.10	σε	σε	σε	σύ	pronoun	AS-2	you
@@ -2468,3 +2468,105 @@ A. and you win never entertain any abject thought, nor too eagerly covet anythin
 B. and you will never entertain any abject thought, nor too eagerly covet anything.
 C. and you will never think of any thing mean nor will you desire any thing extravagantly.
 D. and then you will never set your thoughts on what is low and will never desire anything beyond measure.
+
+# 123
+
+22.01.001	123.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+22.01.002	123.02	φιλοσοφίας	φιλοσοφίας	φιλοσοφίας	φιλοσοφία	noun	GSF	philosophy
+22.01.003	123.03	ἐπιθυμεῖς,	ἐπιθυμεῖς	ἐπιθυμεῖς	ἐπιθυμέω	verb	PAI.2S	you are setting your heart on
+22.01.004	123.04	παρασκευάζου	παρασκευάζου	παρασκευάζου	παρασκευάζω	verb	PMD.2S	prepare
+22.01.005	123.05	αὐτόθεν	αὐτόθεν	αὐτόθεν	αὐτόθεν	adverb	-	at once
+22.01.006	123.06	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+22.01.007	123.07	καταγελασθησόμενος,	καταγελασθησόμενος	καταγελασθησόμενος	καταγελάω	verb	FPP.NS-	being laughed at
+22.01.008	123.08	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+22.01.009	123.09	καταμωκησομένων	καταμωκησομένων	καταμωκησομένων	καταμωκάομαι	verb	FMP.GP-	mocking
+22.01.010	123.10	σου	σου	σου	σύ	pronoun	GS-2	you
+22.01.011	123.11	πολλῶν,	πολλῶν	πολλῶν	πολύς	adjective	GPX	many
+22.01.012	123.12	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+22.01.013	123.13	ἐρούντων	ἐρούντων	ἐρούντων	ἐρέω	verb	PAP.GP-	saying
+22.01.014	123.14	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+22.01.015	123.15	«ἄφνω	ἄφνω	ἄφνω	ἄφνω	adverb	-	all of a sudden
+22.01.016	123.16	φιλόσοφος	φιλόσοφος	φιλόσοφος	φιλόσοφος	noun	NSM	a philosopher
+22.01.017	123.17	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	to us
+22.01.018	123.18	ἐπανελήλυθε»	ἐπανελήλυθε	ἐπανελήλυθε	ἐπανέρχομαι	verb	XAI.3S	he has returned
+22.01.019	123.19	καὶ	καὶ	καί	καί	conjunction	-	and
+22.01.020	123.20	«πόθεν	πόθεν	πόθεν	πόθεν	adverb	-	whence
+22.01.021	123.21	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	at us
+22.01.022	123.22	αὕτη	αὕτη	αὕτη	οὗτος	pronoun	NSF	this
+22.01.023	123.23	ἡ	ἡ	ἡ	ὁ	article	NSF	-
+22.01.024	123.24	ὀφρύς;»	ὀφρύς	ὀφρύς	ὀφρύς	noun	NSF	brow?
+
+A. If you have an earnest desire of attaining to philosophy, prepare yourself from the very first to be laughed at, to be sneered by the multitude, to hear them say, "He is returned to us a philosopher all at once," and "Whence this supercilious look?"
+B. If you have an earnest desire towards philosophy, prepare yourself from the very first to have the multitude laugh and sneer, and say, "He is returned to us a philosopher all at once;" and "Whence this supercilious look? "
+C. If you desire philosophy, prepare yourself from the beginning to be ridiculed, to expect that many will sneer at you, and say, He has all at once returned to us as a philosopher; and whence does he get this supercilious look for us?
+D. If you set your desire on philosophy you must at once prepare to meet with ridicule and the jeers of many who will say, 'Here he is again, turned philosopher. Where has he got these proud looks?'
+
+# 124
+
+22.01.025	124.01	σὺ	σὺ	σύ	σύ	pronoun	NS-2	you
+22.01.026	124.02	δὲ	δὲ	δέ	δέ	particle	-	but
+22.01.027	124.03	ὀφρὺν	ὀφρὺν	ὀφρύν	ὀφρύς	noun	ASF	the brow
+22.01.028	124.04	μὲν	μὲν	μέν	μέν	particle	-	-
+22.01.029	124.05	μὴ	μὴ	μή	μή	conjunction	-	not
+22.01.030	124.06	σχῇς:	σχῇς	σχῇς	ἔχω	verb	AAS.2S	you should have
+
+A. Now, for your part, don't have a supercilious look indeed;
+B. Now, for your part, do not have a supercilious look indeed;
+C. Do you not show a supercilious look;
+D. Nay, put on no proud looks,
+
+# 125
+
+22.01.031	125.01	τῶν	τῶν	τῶν	ὁ	article	GPX	the
+22.01.032	125.02	δὲ	δὲ	δέ	δέ	particle	-	but
+22.01.033	125.03	βελτίστων	βελτίστων	βελτίστων	βέλτιστος	adjective	GPX	best
+22.01.034	125.04	σοι	σοι	σοι	σύ	pronoun	DS-2	to you
+22.01.035	125.05	φαινομένων	φαινομένων	φαινομένων	φαίνω	verb	PMP.GP	appearing
+22.01.036	125.06	οὕτως	οὕτως	οὕτω(ς)	οὕτως	adverb	-	in this manner
+22.01.037	125.07	ἔχου,	ἔχου	ἔχου	ἔχω	verb	PMD.2S	hold
+22.01.038	125.08	ὡς	ὡς	ὡς	ὡς	conjunction	-	as
+22.01.039	125.09	ὑπὸ	ὑπὸ	ὑπό	ὑπό	preposition	-	by
+22.01.040	125.10	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	-
+22.01.041	125.11	θεοῦ	θεοῦ	θεοῦ	θεός	noun	GSM	god
+22.01.042	125.12	τεταγμένος	τεταγμένος	τεταγμένος	τάσσω	verb	XMP.NS-	appointed
+22.01.043	125.13	εἰς	εἰς	εἰς	εἰς	preposition	-	to
+22.01.044	125.14	ταύτην	ταύτην	ταύτην	οὗτος	pronoun	ASF	this
+22.01.045	125.15	τὴν	τὴν	τήν	ὁ	article	ASF	-
+22.01.046	125.16	χώραν:	χώραν	χώραν	χώρα	noun	ASF	position
+
+A. but keep steadily to those things which appear best to you as one appointed by God to this station.
+B. but keep steadily to those things which appear best to you, as one appointed by God to this particular station.
+C. but hold on to the things which seem to you best as one appointed by God to this station.
+D. but hold fast to what seems best to you, in confidence that God has set you at this post.
+
+# 126
+
+22.01.047	126.01	μέμνησό	μέμνησό	μέμνησό	μιμνήσκω	verb	XMD.2S	remember
+22.01.048	126.02	τε	τε	τε	τε	particle	-	and
+22.01.049	126.03	διότι,	διότι	διότι	διότι	conjunction	-	for that reason
+22.01.050	126.04	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+22.01.051	126.05	μὲν	μὲν	μέν	μέν	particle	-	-
+22.01.052	126.06	ἐμμείνῃς	ἐμμείνῃς	ἐμμείνῃς	ἐμμένω	verb	AAS.2S	you abide
+22.01.053	126.07	τοῖς	τοῖς	τοῖς	ὁ	article	DPY	to the
+22.01.054	126.08	αὐτοῖς,	αὐτοῖς	αὐτοῖς	αὐτός	pronoun	DPY	same,
+22.01.055	126.09	οἱ	οἱ	οἱ	ὁ	article	NPM	the [ones]
+22.01.056	126.10	καταγελῶντές	καταγελῶντές	καταγελῶντές	καταγελάω	verb	PAP.NP	laughing at
+22.01.057	126.11	σου	σου	σου	σύ	pronoun	GS-2	you
+22.01.058	126.12	τὸ	τὸ	τό	ὁ	article	SSN	the
+22.01.059	126.13	πρότερον	πρότερον	πρότερον	πρότερος	adjective	SSN	earlier
+22.01.060	126.14	οὗτοί	οὗτοί	οὗτοι	οὗτος	pronoun	NPM	these
+22.01.061	126.15	σε	σε	σε	σύ	pronoun	AS-2	you
+22.01.062	126.16	ὕστερον	ὕστερον	ὕστερον	ὕστερος	adjective	SSN	later
+22.01.063	126.17	θαυμάσονται,	θαυμάσονται	θαυμάσονται	θαυμάζω	verb	FMI.3P	they will admire,
+22.01.064	126.18	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+22.01.065	126.19	δὲ	δὲ	δέ	δέ	particle	-	but
+22.01.066	126.20	ἡττηθῇς	ἡττηθῇς	ἡττηθῇς	ἡσσάομαι	verb	AMS.2S	you are inferior
+22.01.067	126.21	αὐτῶν,	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPX	to them,
+22.01.068	126.22	διπλοῦν	διπλοῦν	διπλοῦν	διπλόος	adjective	SSN	double
+22.01.069	126.23	προσλήψῃ	προσλήψῃ	προσλήψῃ	πρόσληψις	noun	DSF	taking in addition
+22.01.070	126.24	καταγέλωτα.	καταγέλωτα	καταγέλωτα	κατάγελως	noun	ASM	laughter
+
+A. For remember that, if you adhere to the same point, those very persons who at first ridiculed will afterwards admire you. But if you are conquered by them, you will incur a double ridicule.
+B. For remember that, if you are persistent, those very persons who at first ridiculed will afterwards admire you. But if you are conquered by them, you will incur a double ridicule.
+C. And remember that if you abide in the same principles, these men who first ridiculed will afterwards admire you: but if you shall have been overpowered by them, you will bring on yourself double ridicule.
+D. And remember that if you abide where you are, those who first laugh at you will one day admire you, and that if you give way to them, you will get doubly laughed at.
