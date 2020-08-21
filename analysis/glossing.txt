@@ -2570,3 +2570,52 @@ A. For remember that, if you adhere to the same point, those very persons who at
 B. For remember that, if you are persistent, those very persons who at first ridiculed will afterwards admire you. But if you are conquered by them, you will incur a double ridicule.
 C. And remember that if you abide in the same principles, these men who first ridiculed will afterwards admire you: but if you shall have been overpowered by them, you will bring on yourself double ridicule.
 D. And remember that if you abide where you are, those who first laugh at you will one day admire you, and that if you give way to them, you will get doubly laughed at.
+
+# 127
+
+23.01.001	127.01	ἐάν	ἐάν	ἐάν	ἐάν	conjunction	-	if
+23.01.002	127.02	ποτέ	ποτέ	ποτέ	ποτέ	particle	-	ever
+23.01.003	127.03	σοι	σοι	σοι	σύ	pronoun	DS-2	to you
+23.01.004	127.04	γένηται	γένηται	γένηται	γίγνομαι	verb	AMS.3S	might become
+23.01.005	127.05	ἔξω	ἔξω	ἔξω	ἔξω	adverb	-	outwardly
+23.01.006	127.06	στραφῆναι	στραφῆναι	στραφῆναι	στρέφω	verb	APN	to turn
+23.01.007	127.07	πρὸς	πρὸς	πρός	πρός	preposition	-	to
+23.01.008	127.08	τὸ	τὸ	τό	ὁ	article	SSN	the
+23.01.009	127.09	βούλεσθαι	βούλεσθαι	βούλεσθαι	βούλομαι	verb	PMN	to wish
+23.01.010	127.10	ἀρέσαι	ἀρέσαι	ἀρέσαι	ἀρέσκω	verb	AAN	to please
+23.01.011	127.11	τινί,	τινί	τινί	τις	pronoun	DS-	someone
+23.01.012	127.12	ἴσθι	ἴσθι	ἴσθι	οἶδα	verb	XAD.2S	know
+23.01.013	127.13	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
+23.01.014	127.14	ἀπώλεσας	ἀπώλεσας	ἀπώλεσας	ἀπόλλυμι	verb	AAI.2S	you destroyed
+23.01.015	127.15	τὴν	τὴν	τήν	ὁ	article	ASF	the
+23.01.016	127.16	ἔνστασιν.	ἔνστασιν	ἔνστασιν	ἔνστασις	noun	ASF	way of life
+
+A. If you ever happen to turn your attention to externals, so as to wish to please anyone, be assured that you have ruined your scheme of life.
+B. If you ever happen to turn your attention to externals, for the pleasure of any one, be assured that you have ruined your scheme of life.
+C. If it should ever happen to you to be turned to externals in order to please some person, you must know that you have lost your purpose in life.
+D. If it ever happen to you to be diverted to things outside, so that you desire to please another, know that you have lost your life's plan.
+
+# 128
+
+23.01.017	128.01	ἀρκοῦ	ἀρκοῦ	ἀρκοῦ	ἀρκέω	verb	PMD.2S	ward off
+23.01.018	128.02	οὖν	οὖν	οὖν	οὖν	particle	-	then
+23.01.019	128.03	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+23.01.020	128.04	παντὶ	παντὶ	παντί	πᾶς	adjective	DSY	all [things]
+23.01.021	128.05	τῷ	τῷ	τῷ	ὁ	article	DSY	the
+23.01.022	128.06	εἶναι	εἶναι	εἶναι	εἰμί	verb	PAN	to be
+23.01.023	128.07	φιλόσοφος	φιλόσοφος	φιλόσοφος	φιλόσοφος	noun	NSM	a philsopher
+23.01.024	128.08	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+23.01.025	128.09	δὲ	δὲ	δέ	δέ	particle	-	but
+23.01.026	128.10	καὶ	καὶ	καί	καί	conjunction	-	also
+23.01.027	128.11	δοκεῖν	δοκεῖν	δοκεῖν	δοκέω	verb	PAN	to seem [so]
+23.01.028	128.12	βούλει	βούλει	βούλει	βούλομαι	verb	PMI.2S	you wish
+23.01.029	128.13	σαυτῷ	σαυτῷ	σαυτῷ	σαυτοῦ	pronoun	DSY	to yourself
+23.01.030	128.14	φαίνου	φαίνου	φαίνου	φαίνω	verb	PMD.2S	appear [so]
+23.01.031	128.15	καὶ	καὶ	καί	καί	conjunction	-	and
+23.01.032	128.16	ἱκανὸς	ἱκανὸς	ἱκανός	ἱκανός	adjective	NSM	sufficient
+23.01.033	128.17	ἔσῃ.	ἔσῃ	ἔσῃ	εἰμί	verb	FMI.2S	you will be
+
+A. Be contented, then, in everything with being a philosopher; and, if you wish to be thought so likewise by anyone, appear so to yourself, and it will suffice you.
+B. Be contented, then, in everything, with being a philosopher; and if you wish to seem so likewise to any one, appear so to yourself, and it will suffice you.
+C. Be satisfied then in every thing with being a philosopher; and if you wish to seem also to any person to be a philosopher, appear so to yourself, and you will be able to do this.
+D. Be content then always to be a philosopher; if you wish to be regarded as one too, show yourself that you are one and you will be able to achieve it.

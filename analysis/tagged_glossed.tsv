@@ -1557,40 +1557,38 @@ ref	sent.word	text	word	norm	lemma	pos	analysis	gloss
 22.01.069	126.23	προσλήψῃ	προσλήψῃ	προσλήψῃ	πρόσληψις	noun	DSF	taking in addition
 22.01.070	126.24	καταγέλωτα.	καταγέλωτα	καταγέλωτα	κατάγελως	noun	ASM	laughter
 23.01.001	127.01	ἐάν	ἐάν	ἐάν	ἐάν	conjunction	-	if
-23.01.002	127.02	ποτέ	ποτέ	ποτέ	ποτέ	particle	-	-
-23.01.003	127.03	σοι	σοι	σοι	σύ	pronoun	DS-2	you (personal pronoun)
-23.01.004	127.04	γένηται	γένηται	γένηται	γίγνομαι	verb	AMS.3S	become, be born
-23.01.005	127.05	ἔξω	ἔξω	ἔξω	ἔξω	adverb	-	out
-23.01.006	127.06	στραφῆναι	στραφῆναι	στραφῆναι	στράπτω	verb	APN	to lighten
-23.01.007	127.07	πρὸς	πρὸς	πρός	πρός	preposition	-	(w. gen.) from; (w. dat.) at, near, in addition to; (w. acc.) to, toward, regarding
+23.01.002	127.02	ποτέ	ποτέ	ποτέ	ποτέ	particle	-	ever
+23.01.003	127.03	σοι	σοι	σοι	σύ	pronoun	DS-2	to you
+23.01.004	127.04	γένηται	γένηται	γένηται	γίγνομαι	verb	AMS.3S	might become
+23.01.005	127.05	ἔξω	ἔξω	ἔξω	ἔξω	adverb	-	outwardly
+23.01.006	127.06	στραφῆναι	στραφῆναι	στραφῆναι	στρέφω	verb	APN	to turn
+23.01.007	127.07	πρὸς	πρὸς	πρός	πρός	preposition	-	to
 23.01.008	127.08	τὸ	τὸ	τό	ὁ	article	SSN	the
-23.01.009	127.09	βούλεσθαι	βούλεσθαι	βούλεσθαι	βούλομαι	verb	PMN	to will, wish, be willing
-23.01.010	127.10	ἀρέσαι	ἀρέσαι	ἀρέσαι	ἀρέσκω	verb	AAN^AAO.3S	(to make good, make up), to please
-23.01.011	127.11	τινί,	τινί	τινί	τις	pronoun	DS-	any one, any thing, some one, some thing;
-23.01.012	127.12	ἴσθι	ἴσθι	ἴσθι	εἰμί	verb	PAD.2S	to be
-23.01.013	127.13	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
-23.01.014	127.14	ἀπώλεσας	ἀπώλεσας	ἀπώλεσας	ἀπόλλυμι	verb	AAI.2S	to destroy, kill; to lose
+23.01.009	127.09	βούλεσθαι	βούλεσθαι	βούλεσθαι	βούλομαι	verb	PMN	to wish
+23.01.010	127.10	ἀρέσαι	ἀρέσαι	ἀρέσαι	ἀρέσκω	verb	AAN	to please
+23.01.011	127.11	τινί,	τινί	τινί	τις	pronoun	DS-	someone
+23.01.012	127.12	ἴσθι	ἴσθι	ἴσθι	οἶδα	verb	XAD.2S	know
+23.01.013	127.13	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
+23.01.014	127.14	ἀπώλεσας	ἀπώλεσας	ἀπώλεσας	ἀπόλλυμι	verb	AAI.2S	you destroyed
 23.01.015	127.15	τὴν	τὴν	τήν	ὁ	article	ASF	the
-23.01.016	127.16	ἔνστασιν.	ἔνστασιν	ἔνστασιν	ἔνστασις	noun	ASF	a beginning, plan, management
-23.01.017	128.01	ἀρκοῦ	ἀρκοῦ	ἀρκοῦ	ἀρκέω	verb	IMI.2S^PMD.2S^IMI.2S	to ward off; to be sufficient
-23.01.018	128.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
-23.01.019	128.03	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
-23.01.020	128.04	παντὶ	παντὶ	παντί	πᾶς	adjective	DSY	all, the whole
+23.01.016	127.16	ἔνστασιν.	ἔνστασιν	ἔνστασιν	ἔνστασις	noun	ASF	way of life
+23.01.017	128.01	ἀρκοῦ	ἀρκοῦ	ἀρκοῦ	ἀρκέω	verb	PMD.2S	ward off
+23.01.018	128.02	οὖν	οὖν	οὖν	οὖν	particle	-	then
+23.01.019	128.03	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+23.01.020	128.04	παντὶ	παντὶ	παντί	πᾶς	adjective	DSY	all [things]
 23.01.021	128.05	τῷ	τῷ	τῷ	ὁ	article	DSY	the
 23.01.022	128.06	εἶναι	εἶναι	εἶναι	εἰμί	verb	PAN	to be
-23.01.023	128.07	φιλόσοφος	φιλόσοφος	φιλόσοφος	φιλόσοφος	noun	NSM	a lover of wisdom
-23.01.024	128.08	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
+23.01.023	128.07	φιλόσοφος	φιλόσοφος	φιλόσοφος	φιλόσοφος	noun	NSM	a philsopher
+23.01.024	128.08	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
 23.01.025	128.09	δὲ	δὲ	δέ	δέ	particle	-	but
-23.01.026	128.10	καὶ	καὶ	καί	καί	conjunction	-	and, also
-23.01.027	128.11	δοκεῖν	δοκεῖν	δοκεῖν	δοκέω	verb	PAN	seem, impers. it seems best..
-23.01.028	128.12	βούλει	βούλει	βούλει	βούλομαι	verb	PMI.2S	to will, wish, be willing
-23.01.029	-	τῷ	τῷ	τῷ	-	-	-	-
-23.01.030	-	εἶναι,	εἶναι	εἶναι	-	-	-	-
-23.01.031	128.13	σαυτῷ	σαυτῷ	σαυτῷ	σαυτοῦ	pronoun	DSY^DSN^DSM	-
-23.01.032	128.14	φαίνου	φαίνου	φαίνου	φαίνω	verb	PMD.2S^IMI.2S	to bring to light, make to appear
-23.01.033	128.15	καὶ	καὶ	καί	καί	conjunction	-	and, also
-23.01.034	128.16	ἱκανὸς	ἱκανὸς	ἱκανός	ἱκανός	adjective	NSM	becoming, befitting, sufficing
-23.01.035	128.17	ἔσῃ.	ἔσῃ	ἔσῃ	εἰμί	verb	FMI.2S	to be
+23.01.026	128.10	καὶ	καὶ	καί	καί	conjunction	-	also
+23.01.027	128.11	δοκεῖν	δοκεῖν	δοκεῖν	δοκέω	verb	PAN	to seem [so]
+23.01.028	128.12	βούλει	βούλει	βούλει	βούλομαι	verb	PMI.2S	you wish
+23.01.029	128.13	σαυτῷ	σαυτῷ	σαυτῷ	σαυτοῦ	pronoun	DSY	to yourself
+23.01.030	128.14	φαίνου	φαίνου	φαίνου	φαίνω	verb	PMD.2S	appear [so]
+23.01.031	128.15	καὶ	καὶ	καί	καί	conjunction	-	and
+23.01.032	128.16	ἱκανὸς	ἱκανὸς	ἱκανός	ἱκανός	adjective	NSM	sufficient
+23.01.033	128.17	ἔσῃ.	ἔσῃ	ἔσῃ	εἰμί	verb	FMI.2S	you will be
 24.01.001	129.01	οὗτοί	οὗτοί	οὗτοι	οὗτος	pronoun	NPM	this; that
 24.01.002	129.02	σε	σε	σε	σύ	pronoun	AS-2	you (personal pronoun)
 24.01.003	129.03	οἱ	οἱ	οἱ	ὁ	article	NPM	the
