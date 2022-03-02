@@ -2603,7 +2603,7 @@ D. If it ever happen to you to be diverted to things outside, so that you desire
 23.01.020	128.04	παντὶ	παντὶ	παντί	πᾶς	adjective	DSY	all [things]
 23.01.021	128.05	τῷ	τῷ	τῷ	ὁ	article	DSY	the
 23.01.022	128.06	εἶναι	εἶναι	εἶναι	εἰμί	verb	PAN	to be
-23.01.023	128.07	φιλόσοφος	φιλόσοφος	φιλόσοφος	φιλόσοφος	noun	NSM	a philsopher
+23.01.023	128.07	φιλόσοφος	φιλόσοφος	φιλόσοφος	φιλόσοφος	noun	NSM	a philosopher
 23.01.024	128.08	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
 23.01.025	128.09	δὲ	δὲ	δέ	δέ	particle	-	but
 23.01.026	128.10	καὶ	καὶ	καί	καί	conjunction	-	also
