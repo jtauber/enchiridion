@@ -3145,6 +3145,8 @@ B. But if, by desiring to be useful to that, you lose these, how can you serve y
 C. But if when you wish to be useful to the state, you shall lose these qualities, what profit could you be to it, if you were made shameless and faithless?
 D. But if you are going to lose these qualities in trying to benefit your city, what benefit, I ask, would you have done her when you attain to the perfection of being lost to shame and honour?
 
+# 159
+
 25.01.001	159.01	Προετιμήθη	Προετιμήθη	Προετιμήθη	προτιμάω	verb	API.3S	to honour
 25.01.002	159.02	σού	σού	σού	σύ	pronoun	GS-2	you (personal pronoun)
 25.01.003	159.03	τις	τις	τις	τις	pronoun	NSZ	any one, any thing, some one, some thing;
@@ -3159,6 +3161,9 @@ D. But if you are going to lose these qualities in trying to benefit your city, 
 25.01.012	159.12	παραληφθῆναι	παραληφθῆναι	παραληφθῆναι	παραλαμβάνω	verb	APN	to receive from
 25.01.013	159.13	εἰς	εἰς	εἰς	εἰς	preposition	-	into, to c. acc.
 25.01.014	159.14	συμβουλίαν;	συμβουλίαν	συμβουλίαν	συμβουλία	noun	ASF	advice
+
+# 160
+
 25.01.015	160.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
 25.01.016	160.02	μὲν	μὲν	μέν	μέν	particle	-	on the one hand, on the other hand
 25.01.017	160.03	ἀγαθὰ	ἀγαθὰ	ἀγαθά	ἀγαθός	adjective	SPN^SDF^NSF	good
@@ -3171,6 +3176,9 @@ D. But if you are going to lose these qualities in trying to benefit your city, 
 25.01.024	160.10	ἔτυχεν	ἔτυχεν	ἔτυχεν	τυγχάνω	verb	AAI.3S	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
 25.01.025	160.11	αὐτῶν	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPN^GPF^GPM	unemph. 3rd pers.pronoun; -self; [the] same
 25.01.026	160.12	ἐκεῖνος:	ἐκεῖνος	ἐκεῖνος	ἐκεῖνος	pronoun	NSM	that over there, that
+
+# 161
+
 25.01.027	161.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
 25.01.028	161.02	δὲ	δὲ	δέ	δέ	particle	-	but
 25.01.029	161.03	κακά,	κακά	κακά	κακός	adjective	SPN^SDF^NSF	bad
@@ -3181,6 +3189,9 @@ D. But if you are going to lose these qualities in trying to benefit your city, 
 25.01.034	161.08	αὐτῶν	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPN^GPF^GPM	unemph. 3rd pers.pronoun; -self; [the] same
 25.01.035	161.09	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
 25.01.036	161.10	ἔτυχες:	ἔτυχες	ἔτυχες	τυγχάνω	verb	AAI.2S	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
+
+# 162
+
 25.01.037	162.01	μέμνησο	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S^YMI.2S	to remind
 25.01.038	162.02	δέ,	δέ	δέ	δέ	particle	-	but
 25.01.039	162.03	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
@@ -3199,6 +3210,9 @@ D. But if you are going to lose these qualities in trying to benefit your city, 
 25.01.052	162.16	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
 25.01.053	162.17	ἴσων	ἴσων	ἴσων	ἴσος	adjective	GPF^GPY^GPF^GPY	equal to, the same as; adv. perhaps
 25.01.054	162.18	ἀξιοῦσθαι.	ἀξιοῦσθαι	ἀξιοῦσθαι	ἀξιόω	verb	PMN	to think worthy of; to expect
+
+# 163
+
 25.02.001	163.01	πῶς	πῶς	πῶς	πῶς	adverb	-	how? in what way
 25.02.002	163.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
 25.02.003	163.03	ἴσον	ἴσον	ἴσον	ἴσος	adjective	ASM^SSN	equal to, the same as; adv. perhaps
@@ -3212,11 +3226,17 @@ D. But if you are going to lose these qualities in trying to benefit your city, 
 25.02.011	163.11	τινὸς	τινὸς	τινός	τις	pronoun	GS-	any one, any thing, some one, some thing;
 25.02.012	163.12	τῷ	τῷ	τῷ	ὁ	article	DSY	the
 25.02.013	163.13	φοιτῶντι;	φοιτῶντι	φοιτῶντι	φοιτάω	verb	PAP.DS-^PAI.3P^PAS.3P	to go to and fro, up and down, to stalk
+
+# 164
+
 25.02.014	164.01	ὁ	ὁ	ὁ	ὁ	article	NSM	the
 25.02.015	164.02	μὴ	μὴ	μή	μή	conjunction	-	not
 25.02.016	164.03	παραπέμπων	παραπέμπων	παραπέμπων	παραπέμπω	verb	PAP.NS-	to send past, convey past
 25.02.017	164.04	τῷ	τῷ	τῷ	ὁ	article	DSY	the
 25.02.018	164.05	παραπέμποντι;	παραπέμποντι	παραπέμποντι	παραπέμπω	verb	PAP.DS-^PAI.3P	to send past, convey past
+
+# 165
+
 25.02.019	165.01	ὁ	ὁ	ὁ	ὁ	article	NSM	the
 25.02.020	165.02	μὴ	μὴ	μή	μή	conjunction	-	not
 25.02.021	165.03	ἐπαινῶν	ἐπαινῶν	ἐπαινῶν	ἐπαινός	adjective	GPF	awesome (of Hecate, Persephone)
@@ -3239,14 +3259,23 @@ D. But if you are going to lose these qualities in trying to benefit your city, 
 25.02.038	165.20	αὐτὰ	αὐτὰ	αὐτά	αὐτός	pronoun	SPN^SDF^NSF	unemph. 3rd pers.pronoun; -self; [the] same
 25.02.039	165.21	βουλήσῃ	βουλήσῃ	βουλήσῃ	βούλησις	noun	DSF	a willing
 25.02.040	165.22	λαμβάνειν.	λαμβάνειν	λαμβάνειν	λαμβάνω	verb	PAN	to take, seize, receive
+
+# 166
+
 25.03.001	166.01	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	otherwise, but
 25.03.002	166.02	πόσου	πόσου	πόσου	πόσος	adjective	GSY	how much? how many?
 25.03.003	166.03	πιπράσκονται	πιπράσκονται	πιπράσκονται	πιπράσκω	verb	PMI.3P	to sell
 25.03.004	166.04	θρίδακες;	θρίδακες	θρίδακες	θρίδαξ	noun	NPF	lettuce
+
+# 167
+
 25.03.005	167.01	ὀβολοῦ,	ὀβολοῦ	ὀβολοῦ	ὀβολός	noun	GSM	an obol
 25.03.006	167.02	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
 25.03.007	167.03	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	so, in this manner
 25.03.008	167.04	τύχῃ.	τύχῃ	τύχῃ	τυγχάνω	verb	AMS.2S^AAS.3S	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
+
+# 168
+
 25.03.009	168.01	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
 25.03.010	168.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
 25.03.011	168.03	τις	τις	τις	τις	pronoun	NSZ	any one, any thing, some one, some thing;
@@ -3267,6 +3296,9 @@ D. But if you are going to lose these qualities in trying to benefit your city, 
 25.03.026	168.18	ἔχειν	ἔχειν	ἔχειν	ἔχω	verb	PAN	to have
 25.03.027	168.19	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
 25.03.028	168.20	λαβόντος.	λαβόντος	λαβόντος	λαμβάνω	verb	AAP.GS-	to take, seize, receive
+
+# 169
+
 25.03.029	169.01	ὡς	ὡς	ὡς	ὡς	conjunction	-	as, how
 25.03.030	169.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
 25.03.031	169.03	ἐκεῖνος	ἐκεῖνος	ἐκεῖνος	ἐκεῖνος	pronoun	NSM	that over there, that
@@ -3279,17 +3311,26 @@ D. But if you are going to lose these qualities in trying to benefit your city, 
 25.03.038	169.10	ὃν	ὃν	ὅν	ὅς	pronoun	ASM^ASN	who, that, which: relative pronoun
 25.03.039	169.11	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
 25.03.040	169.12	ἔδωκας.	ἔδωκας	ἔδωκας	δίδωμι	verb	AAI.2S	to give
+
+# 170
+
 25.04.001	170.01	τὸν	τὸν	τόν	ὁ	article	ASM	the
 25.04.002	170.02	αὐτὸν	αὐτὸν	αὐτόν	αὐτός	pronoun	ASM	unemph. 3rd pers.pronoun; -self; [the] same
 25.04.003	170.03	δὴ	δὴ	δή	δή	particle	-	[interactional particle: S&H on same page]
 25.04.004	170.04	τρόπον	τρόπον	τρόπον	τρόπος	noun	ASM	a turn, direction, course, way; character
 25.04.005	170.05	καὶ	καὶ	καί	καί	conjunction	-	and, also
 25.04.006	170.06	ἐνταῦθα.	ἐνταῦθα	ἐνταῦθα	ἐνταῦθα	adverb	-	here, there; at that juncture
+
+# 171
+
 25.04.007	171.01	οὐ	οὐ	οὐ	οὐ	adverb	-	not
 25.04.008	171.02	παρεκλήθης	παρεκλήθης	παρεκλήθης	παρακαλέω	verb	API.2S	to call to
 25.04.009	171.03	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
 25.04.010	171.04	ἑστίασίν	ἑστίασίν	ἑστίασιν	ἑστίασις	noun	ASF	a feasting, banqueting, entertainment
 25.04.011	171.05	τινος;	τινος	τινος	τις	pronoun	GS-	any one, any thing, some one, some thing;
+
+# 172
+
 25.04.012	172.01	οὐ	οὐ	οὐ	οὐ	adverb	-	not
 25.04.013	172.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
 25.04.014	172.03	ἔδωκας	ἔδωκας	ἔδωκας	δίδωμι	verb	AAI.2S	to give
@@ -3299,12 +3340,18 @@ D. But if you are going to lose these qualities in trying to benefit your city, 
 25.04.018	172.07	πωλεῖ	πωλεῖ	πωλεῖ	πωλέομαι	verb	PMI.2S	to go up and down, go to and fro
 25.04.019	172.08	τὸ	τὸ	τό	ὁ	article	SSN	the
 25.04.020	172.09	δεῖπνον.	δεῖπνον	δεῖπνον	δεῖπνον	noun	SSN	the principal meal
+
+# 173
+
 25.04.021	173.01	ἐπαίνου	ἐπαίνου	ἐπαίνου	ἔπαινος	noun	GSM	approval, praise, commendation
 25.04.022	173.02	δ’	δ’	δέ	δέ	particle	-	but
 25.04.023	173.03	αὐτὸ	αὐτὸ	αὐτό	αὐτός	pronoun	SSN	unemph. 3rd pers.pronoun; -self; [the] same
 25.04.024	173.04	πωλεῖ,	πωλεῖ	πωλεῖ	πωλέομαι	verb	PMI.2S	to go up and down, go to and fro
 25.04.025	173.05	θεραπείας	θεραπείας	θεραπείας	θεραπεία	noun	APF^GSF	a waiting on, service
 25.04.026	173.06	πωλεῖ.	πωλεῖ	πωλεῖ	πωλέομαι	verb	PMI.2S	to go up and down, go to and fro
+
+# 174
+
 25.04.027	174.01	δὸς	δὸς	δός	δίδωμι	verb	AAD.2S	to give
 25.04.028	174.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
 25.04.029	174.03	τὸ	τὸ	τό	ὁ	article	SSN	the
@@ -3314,6 +3361,9 @@ D. But if you are going to lose these qualities in trying to benefit your city, 
 25.04.033	174.07	λυσιτελεῖ,	λυσιτελεῖ	λυσιτελεῖ	λυσιτελέω	verb	PMI.2S^PAI.3S	to bring profit, gain
 25.04.034	174.08	ὅσου	ὅσου	ὅσου	ὅσος	adjective	GSY	as much/many as
 25.04.035	174.09	πωλεῖται.	πωλεῖται	πωλεῖται	πωλέομαι	verb	PMI.3S	to go up and down, go to and fro
+
+# 175
+
 25.04.036	175.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
 25.04.037	175.02	δὲ	δὲ	δέ	δέ	particle	-	but
 25.04.038	175.03	κἀκεῖνα	κἀκεῖνα	κἀκεῖνα	ἐκεῖνος	pronoun	SPN	that over there, that
@@ -3327,12 +3377,18 @@ D. But if you are going to lose these qualities in trying to benefit your city, 
 25.04.046	175.11	εἶ	εἶ	εἶ	εἶμι	verb	PAI.2S	come, go
 25.04.047	175.12	καὶ	καὶ	καί	καί	conjunction	-	and, also
 25.04.048	175.13	ἀβέλτερος.	ἀβέλτερος	ἀβέλτερος	ἀβέλτερος	adjective	NSM	good for nothing, silly, stupid, fatuous
+
+# 176
+
 25.05.001	176.01	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	not one, nobody
 25.05.002	176.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
 25.05.003	176.03	ἔχεις	ἔχεις	ἔχεις	ἔχω	verb	PAI.2S	to have
 25.05.004	176.04	ἀντὶ	ἀντὶ	ἀντί	ἀντί	preposition	-	over against, opposite. c. gen.
 25.05.005	176.05	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
 25.05.006	176.06	δείπνου;	δείπνου	δείπνου	δεῖπνον	noun	GSN	the principal meal
+
+# 177
+
 25.05.007	177.01	ἔχεις	ἔχεις	ἔχεις	ἔχω	verb	PAI.2S	to have
 25.05.008	177.02	μὲν	μὲν	μέν	μέν	particle	-	on the one hand, on the other hand
 25.05.009	177.03	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
