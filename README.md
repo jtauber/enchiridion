@@ -13,11 +13,15 @@ This text is being prepared as part of the [Greek Learner Texts Project](https:/
 
 `text/` also contains the English translations manually formatted in the same format as the `enchiridion.txt` file.
 
-`analysis/tagged.tsv` contains a tagged Enchiridion text initially achieved by aligning `text/enchiridion.txt` with the analysis in the Diorisis corpus (with some corrections to the text). It is now being manually corrected and disambiguated in `analysis/glossing.txt`.
+`analysis/tagged.tsv` contains a tagged Enchiridion text initially achieved by aligning `text/enchiridion.txt` with the analysis in the Diorisis corpus (with some corrections to the text).
 
-`analysis/tagged_glossed.tsv` contains the same tagging but with glosses as well (initially from Perseus/Logeion shortdefs). It is also being manually corrected and disambiguated.
+`analysis/tagged_glossed.tsv` contains the same tagging but with glosses as well (initially from Perseus/Logeion shortdefs).
 
-A static website is being generated in `docs/` and served up at <https://jtauber.github.io/enchiridion>.
+This is used to (manually) create `analysis/glossing.txt` (with corrections, disambiguations, and gloss cleanup as well as sentence-level alignment with four different translations.) Corrections here are copy-pasted back in to `analysis/tagged_glossed.tsv`.
+
+`scripts/build-sentences.py` is then run to generate the per-sentence files.
+
+The static website is generated in `docs/` and served up at <https://jtauber.github.io/enchiridion>.
 
 ## Contributors
 
@@ -35,7 +39,7 @@ A static website is being generated in `docs/` and served up at <https://jtauber
 
 The text preparation is complete.
 
-Translation alignment, glossing, and lemma correction has been done up to chapter 23.
+Translation alignment, glossing, and lemma correction has been done up to chapter 24.
 
 ## License
 

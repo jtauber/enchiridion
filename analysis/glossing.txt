@@ -2619,3 +2619,528 @@ A. Be contented, then, in everything with being a philosopher; and, if you wish 
 B. Be contented, then, in everything, with being a philosopher; and if you wish to seem so likewise to any one, appear so to yourself, and it will suffice you.
 C. Be satisfied then in every thing with being a philosopher; and if you wish to seem also to any person to be a philosopher, appear so to yourself, and you will be able to do this.
 D. Be content then always to be a philosopher; if you wish to be regarded as one too, show yourself that you are one and you will be able to achieve it.
+
+# 129
+
+24.01.001	129.01	οὗτοί	οὗτοί	οὗτοι	οὗτος	pronoun	NPM	these
+24.01.002	129.02	σε	σε	σε	σύ	pronoun	AS-2	you
+24.01.003	129.03	οἱ	οἱ	οἱ	ὁ	article	NPM	the
+24.01.004	129.04	διαλογισμοὶ	διαλογισμοὶ	διαλογισμοί	διαλογισμός	noun	NPM	considerations
+24.01.005	129.05	μὴ	μὴ	μή	μή	conjunction	-	not
+24.01.006	129.06	θλιβέτωσαν	θλιβέτωσαν	θλιβέτωσαν	θλίβω	verb	PAD.3P	let distress
+24.01.007	129.07	«ἄτιμος	ἄτιμος	ἄτιμος	ἄτιμος	adjective	NSZ	dishonour
+24.01.008	129.08	ἐγὼ	ἐγὼ	ἐγώ	ἐγώ	pronoun	NSZ1	I
+24.01.009	129.09	βιώσομαι	βιώσομαι	βιώσομαι	βιόω	verb	FMI.1S	will live
+24.01.010	129.10	καὶ	καὶ	καί	καί	conjunction	-	and
+24.01.011	129.11	οὐδεὶς	οὐδεὶς	οὐδείς	οὐδείς	pronoun	NSM	no body
+24.01.012	129.12	οὐδαμοῦ.»	οὐδαμοῦ	οὐδαμοῦ	οὐδαμός	adjective	GSY	not even one
+
+A. Don't allow such considerations as these distress you. "I will live in dishonor, and be nobody anywhere."
+B. Let not such considerations as these distress you: "I shall live in discredit, and be nobody anywhere."
+C. Let not these thoughts afflict you, I shall live unhonoured and be nobody nowhere.
+D. Let not reflections such as these afflict you: 'I shall live without honour, and never be of any account';
+
+# 130
+
+24.01.013	130.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+24.01.014	130.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+24.01.015	130.03	ἡ	ἡ	ἡ	ὁ	article	NSF	the
+24.01.016	130.04	ἀτιμία	ἀτιμία	ἀτιμία	ἀτιμία	noun	NSF	dishonour
+24.01.017	130.05	ἐστὶ	ἐστὶ	ἐστί(ν)	εἰμί	verb	PAI.3S	is
+24.01.018	130.06	κακόν,	κακόν	κακόν	κακός	adjective	SSN	evil
+24.01.019	130.07	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+24.01.020	130.08	δύνασαι	δύνασαι	δύνασαι	δύναμαι	verb	PMI.2S	you can
+24.01.021	130.09	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+24.01.022	130.10	κακῷ	κακῷ	κακῷ	κακός	adjective	DSY	evil
+24.01.023	130.11	εἶναι	εἶναι	εἶναι	εἰμί	verb	PAN	be
+24.01.024	130.12	δι’	δι’	διά	διά	preposition	-	because of
+24.01.025	130.13	ἄλλον,	ἄλλον	ἄλλον	ἄλλος	adjective	ASM	another
+24.01.026	130.14	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+24.01.027	130.15	μᾶλλον	μᾶλλον	μᾶλλον	μᾶλλον	adverb	-	more
+24.01.028	130.16	ἢ	ἢ	ἤ	ἤ	conjunction	-	than
+24.01.029	130.17	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+24.01.030	130.18	αἰσχρῷ:	αἰσχρῷ	αἰσχρῷ	αἰσχρός	adjective	DSY	shameful (things)
+
+A. For, if dishonor is an evil, you can no more be involved in any evil by the means of another, than be engaged in anything base.
+B. For if discredit be an evil, you can no more be involved in evil through another, than in baseness.
+C. For if want of honour (ἀτιμία) is an evil, you cannot be in evil through the means (fault) of another any more than you can be involved in any thing base.
+D. for if lack of honour is an evil, no one but yourself can involve you in evil any more than in shame.
+
+# 131
+
+24.01.031	131.01	μή	μή	μή	μή	conjunction	-	not
+24.01.032	131.02	τι	τι	τι	τις	pronoun	SSN	something
+24.01.033	131.03	οὖν	οὖν	οὖν	οὖν	particle	-	then
+24.01.034	131.04	σόν	σόν	σόν	σός	adjective	ASM	your
+24.01.035	131.05	ἐστιν	ἐστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	it is
+24.01.036	131.06	ἔργον	ἔργον	ἔργον	ἔργον	noun	SSN	business
+24.01.037	131.07	τὸ	τὸ	τό	ὁ	article	SSN	the
+24.01.038	131.08	ἀρχῆς	ἀρχῆς	ἀρχῆς	ἀρχή	noun	GSF	rule
+24.01.039	131.09	τυχεῖν	τυχεῖν	τυχεῖν	τυγχάνω	verb	AAN	to get
+24.01.040	131.10	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+24.01.041	131.11	παραληφθῆναι	παραληφθῆναι	παραληφθῆναι	παραλαμβάνω	verb	APN	to be admitted
+24.01.042	131.12	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	to
+24.01.043	131.13	ἑστίασιν;	ἑστίασιν	ἑστίασιν	ἑστίασις	noun	ASF	an entertainment
+
+A. Is it any business of yours, then, to get power, or to be admitted to an entertainment?
+B. Is it any business of yours, then, to get power, or to be admitted to an entertainment?
+C. Is it then your business to obtain the rank of a magistrate, or to be received at a banquet?
+D. Is it your business to get office or to be invited to an entertainment?
+
+# 132
+
+24.01.044	132.01	οὐδαμῶς.	οὐδαμῶς	οὐδαμῶς	οὐδαμός	adverb	-	not at all
+
+A. By no means.
+B. By no means.
+C. By no means.
+D. Certainly not.
+
+# 133
+
+24.01.045	133.01	πῶς	πῶς	πῶς	πῶς	adverb	-	how
+24.01.046	133.02	οὖν	οὖν	οὖν	οὖν	particle	-	then
+24.01.047	133.03	ἔτι	ἔτι	ἔτι	ἔτι	adverb	-	still
+24.01.048	133.04	τοῦτ’	τοῦτ’	τοῦτο	οὗτος	pronoun	SSN	this
+24.01.049	133.05	ἔστιν	ἔστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	is
+24.01.050	133.06	ἀτιμία;	ἀτιμία	ἀτιμία	ἀτιμία	noun	NSF	a dishonour
+
+A. How, then, after all, is this a dishonor?
+B. How then, after all, is this discredit?
+C. How then can this be want of honor (dishonor)?
+D. Where then is the dishonour you talk of?
+
+# 134
+
+24.01.051	134.01	πῶς	πῶς	πῶς	πῶς	adverb	-	how
+24.01.052	134.02	δὲ	δὲ	δέ	δέ	particle	-	but
+24.01.053	134.03	οὐδεὶς	οὐδεὶς	οὐδείς	οὐδείς	pronoun	NSM	nobody
+24.01.054	134.04	οὐδαμοῦ	οὐδαμοῦ	οὐδαμοῦ	οὐδαμός	adjective	GSY	not even one
+24.01.055	134.05	ἔσῃ,	ἔσῃ	ἔσῃ	εἰμί	verb	FMI.2S	you will be
+24.01.056	134.06	ὃν	ὃν	ὅν	ὅς	pronoun	ASY	who
+24.01.057	134.07	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+24.01.058	134.08	μόνοις	μόνοις	μόνοις	μόνος	adjective	DPY	only these
+24.01.059	134.09	εἶναί	εἶναί	εἶναι	εἰμί	verb	PAN	to be
+24.01.060	134.10	τινα	τινα	τινα	τις	pronoun	ASZ	sombody
+24.01.061	134.11	δεῖ	δεῖ	δεῖ	δεῖ	verb	PAI.3S	must
+24.01.062	134.12	τοῖς	τοῖς	τοῖς	ὁ	article	DPY	the
+24.01.063	134.13	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on
+24.01.064	134.14	σοί,	σοί	σοί	σύ	pronoun	DS-2	you
+24.01.065	134.15	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+24.01.066	134.16	οἷς	οἷς	οἷς	ὅς	pronoun	DPY	which
+24.01.067	134.17	ἔξεστί	ἔξεστί	ἔξεστί	ἔξεστι	verb	PAI.3S	it is possible
+24.01.068	134.18	σοι	σοι	σοι	σύ	pronoun	DS-2	for you
+24.01.069	134.19	εἶναι	εἶναι	εἶναι	εἰμί	verb	PAN	to be
+24.01.070	134.20	πλείστου	πλείστου	πλείστου	πλεῖστος	adjective	GSY	of greatest
+24.01.071	134.21	ἀξίῳ;	ἀξίῳ	ἀξίῳ	ἄξιος	adjective	DSY	consequence
+
+A. And how is it true that you will be nobody anywhere, when you ought to be somebody in those things only which are in your own control, in which you may be of the greatest consequence?
+B. And how is it true that you will be nobody anywhere; when you ought to be somebody in those things only which are within your own power, in which you may be of the greatest consequence?
+C. And how will you be nobody nowhere, when you ought to be somebody in those things only which are in your power, in which indeed it is permitted to you to be a man of the greatest worth?
+D. How can you be 'of no account anywhere', when you ought to count for something in those matters only which are in your power, where you may achieve the highest worth?
+
+# 135
+
+24.02.001	135.01	ἀλλά	ἀλλά	ἀλλά	ἀλλά	adverb	-	but
+24.02.002	135.02	σοι	σοι	σοι	σύ	pronoun	DS-2	to you
+24.02.003	135.03	οἱ	οἱ	οἱ	ὁ	article	NPM	the
+24.02.004	135.04	φίλοι	φίλοι	φίλοι	φίλος	adjective	NPM	friends
+24.02.005	135.05	ἀβοήθητοι	ἀβοήθητοι	ἀβοήθητοι	ἀβοήθητος	adjective	NPZ	helpless
+24.02.006	135.06	ἔσονται.	ἔσονται	ἔσονται	εἰμί	verb	FMI.3P	will be
+
+A. "But my friends will be unassisted."
+B. "But my friends will be unassisted."
+C. But your friends will be without assistance!
+D. 'But my friends,' you say, 'will lack assistance.'
+
+# 136
+
+24.02.007	136.01	τί	τί	τί	τίς	pronoun	SSN	what
+24.02.008	136.02	λέγεις	λέγεις	λέγεις	λέγω	verb	PAI.2S	are you saying
+24.02.009	136.03	τὸ	τὸ	τό	ὁ	article	SSN	the
+24.02.010	136.04	ἀβοήθητοι;	ἀβοήθητοι	ἀβοήθητοι	ἀβοήθητος	adjective	NPZ	helpless
+
+A. What do you mean by unassisted?
+B. What do you mean by unassisted?
+C. What do you mean by being without assistance?
+D. What do you mean by 'lack assistance'?
+
+# 137
+
+24.02.011	137.01	οὐχ	οὐχ	οὐ	οὐ	adverb	-	not
+24.02.012	137.02	ἕξουσι	ἕξουσι	ἕξουσι	ἔχω	verb	FAI.3P	they will have
+24.02.013	137.03	παρὰ	παρὰ	παρά	παρά	preposition	-	from
+24.02.014	137.04	σοῦ	σοῦ	σοῦ	σύ	pronoun	GS-2	you
+24.02.015	137.05	κερμάτιον:	κερμάτιον	κερμάτιον	κερμάτιον	noun	SSN	money
+
+A. They will not have money from you,
+B. They will not have money from you;
+C. They will not receive money from you,
+D. They will not have cash from you
+
+# 138
+
+24.02.016	138.01	οὐδὲ	οὐδὲ	οὐδέ	οὐδέ	particle	-	nor
+24.02.017	138.02	πολίτας	πολίτας	πολίτας	πολίτης	noun	APM	citizens
+24.02.018	138.03	Ῥωμαίων	Ῥωμαίων	Ῥωμαίων	Ῥωμαῖος	adjective	GPX	of Rome
+24.02.019	138.04	αὐτοὺς	αὐτοὺς	αὐτούς	αὐτός	pronoun	APM	them
+24.02.020	138.05	ποιήσεις.	ποιήσεις	ποιήσεις	ποιέω	verb	FAI.2S	you will make
+
+A. nor will you make them Roman citizens.
+B. nor will you make them Roman citizens.
+C. nor will you make them Roman citizens.
+D. and you will not make them Roman citizens.
+
+# 139
+
+24.02.021	139.01	τίς	τίς	τίς	τίς	pronoun	NSZ	who
+24.02.022	139.02	οὖν	οὖν	οὖν	οὖν	particle	-	then
+24.02.023	139.03	σοι	σοι	σοι	σύ	pronoun	DS-2	to you
+24.02.024	139.04	εἶπεν,	εἶπεν	εἶπεν	εἶπον	verb	AAI.3S	said
+24.02.025	139.05	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+24.02.026	139.06	ταῦτα	ταῦτα	ταῦτα	οὗτος	pronoun	SPN	these
+24.02.027	139.07	τῶν	τῶν	τῶν	ὁ	article	GPX	of the
+24.02.028	139.08	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on
+24.02.029	139.09	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	us
+24.02.030	139.10	ἐστιν,	ἐστιν	ἐστί(ν)	εἰμί	verb	PAI.3S	are
+24.02.031	139.11	οὐχὶ	οὐχὶ	οὐχί	οὐ	adverb	-	not
+24.02.032	139.12	δὲ	δὲ	δέ	δέ	particle	-	and
+24.02.033	139.13	ἀλλότρια	ἀλλότρια	ἀλλότρια	ἀλλότριος	adjective	SPN	of others
+24.02.034	139.14	ἔργα;	ἔργα	ἔργα	ἔργον	noun	SPN	affairs
+
+A. Who told you, then, that these are among the things in our own control, and not the affair of others?
+B. Who told you, then, that these are among the things within our own power, and not rather the affairs of others?
+C. Who then told you that these are among the things which are in our power, and not in the power of others?
+D. Who told you that to do these things is in our power, and not dependent upon others?
+
+# 140
+
+24.02.035	140.01	τίς	τίς	τίς	τίς	pronoun	NSZ	whose
+24.02.036	140.02	δὲ	δὲ	δέ	δέ	particle	-	and
+24.02.037	140.03	δοῦναι	δοῦναι	δοῦναι	δίδωμι	verb	AAN	to give
+24.02.038	140.04	δύναται	δύναται	δύναται	δύναμαι	verb	PMI.3S	is able
+24.02.039	140.05	ἑτέρῳ,	ἑτέρῳ	ἑτέρῳ	ἕτερος	adjective	DSY	to another
+24.02.040	140.06	ἃ	ἃ	ἅ	ὅς	pronoun	SPN	those things which
+24.02.041	140.07	μὴ	μὴ	μή	μή	conjunction	-	not
+24.02.042	140.08	ἔχει	ἔχει	ἔχει	ἔχω	verb	PAI.3S	has
+24.02.043	140.09	αὐτός;	αὐτός	αὐτός	αὐτός	pronoun	NSM	himself
+
+A. And who can give to another the things which he has not himself?
+B. And who can give to another the things which he himself has not?
+C. And who can give to another what he has not himself?
+D. Who can give to another what is not his to give?
+
+# 141
+
+24.02.044	141.01	«κτῆσαι	κτῆσαι	κτῆσαι	κτάομαι	verb	AMD.2S	gain them
+24.02.045	141.02	οὖν,»	οὖν	οὖν	οὖν	particle	-	then
+24.02.046	141.03	φησίν,	φησίν	φησίν	φημί	verb	PAI.3S	he says
+24.02.047	141.04	«ἵνα	ἵνα	ἵνα	ἵνα	conjunction	-	in order that
+24.02.048	141.05	ἡμεῖς	ἡμεῖς	ἡμεῖς	ἐγώ	pronoun	NPZ1	we
+24.02.049	141.06	ἔχωμεν.»	ἔχωμεν	ἔχωμεν	ἔχω	verb	PAS.1P	may have [them]
+
+A. "Well, but get them, then, that we too may have a share."
+B. "Well, but get them, then, that we too may have a share."
+C. Acquire money then, your friends say, that we also may have something.
+D. 'Get them then,' says he, 'that we may have them.'
+
+# 142
+
+24.03.001	142.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+24.03.002	142.02	δύναμαι	δύναμαι	δύναμαι	δύναμαι	verb	PMI.1S	I can
+24.03.003	142.03	κτήσασθαι	κτήσασθαι	κτήσασθαι	κτάομαι	verb	AMN	acquire [them]
+24.03.004	142.04	τηρῶν	τηρῶν	τηρῶν	τηρέω	verb	PAP.NS-	protecting
+24.03.005	142.05	ἐμαυτὸν	ἐμαυτὸν	ἐμαυτόν	ἐμαυτοῦ	pronoun	ASY	my
+24.03.006	142.06	αἰδήμονα	αἰδήμονα	αἰδήμονα	αἰδήμων	adjective	ASZ	modesty
+24.03.007	142.07	καὶ	καὶ	καί	καί	conjunction	-	and
+24.03.008	142.08	πιστὸν	πιστὸν	πιστόν	πιστός	adjective	ASM	faithfulness
+24.03.009	142.09	καὶ	καὶ	καί	καί	conjunction	-	and
+24.03.010	142.10	μεγαλόφρονα,	μεγαλόφρονα	μεγαλόφρονα	μεγαλόφρων	noun	ASZ	generosity
+24.03.011	142.11	δείκνυε	δείκνυε	δείκνυε	δείκνυμι	verb	PAD.2S	show [me]
+24.03.012	142.12	τὴν	τὴν	τήν	ὁ	article	ASF	the
+24.03.013	142.13	ὁδὸν	ὁδὸν	ὁδόν	ὁδός	adjective	ASM	way
+24.03.014	142.14	καὶ	καὶ	καί	καί	conjunction	-	and
+24.03.015	142.15	κτήσομαι.	κτήσομαι	κτήσομαι	κτάομαι	verb	FMI.1S	I will acquire [them]
+
+A. If I can get them with the preservation of my own honor and fidelity and greatness of mind, show me the way and I will get them;
+B. If I can get them with the preservation of my own honor and fidelity and self-respect, show me the way, and I will get them;
+C. If I can acquire money and also keep myself modest, and faithful and magnanimous, point out the way, and I will acquire it.
+D. If I can get them and keep my self-respect, honour, magnanimity, show the way and I will get them.
+
+# 143
+
+24.03.016	143.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+24.03.017	143.02	δ’	δ’	δέ	δέ	particle	-	but
+24.03.018	143.03	ἐμὲ	ἐμὲ	ἐμέ	ἐγώ	pronoun	ASZ1	me
+24.03.019	143.04	ἀξιοῦτε	ἀξιοῦτε	ἀξιοῦτε	ἀξιόω	verb	PAI.2P	you require
+24.03.020	143.05	τὰ	τὰ	τά	ὁ	article	SPN	the
+24.03.021	143.06	ἀγαθὰ	ἀγαθὰ	ἀγαθά	ἀγαθός	adjective	SPN	good
+24.03.022	143.07	τὰ	τὰ	τά	ὁ	article	SPN	the
+24.03.023	143.08	ἐμαυτοῦ	ἐμαυτοῦ	ἐμαυτοῦ	ἐμαυτοῦ	pronoun	GSY	of myself
+24.03.024	143.09	ἀπολέσαι,	ἀπολέσαι	ἀπολέσαι	ἀπόλλυμι	verb	AAN	to lose
+24.03.025	143.10	ἵνα	ἵνα	ἵνα	ἵνα	conjunction	-	in order that
+24.03.026	143.11	ὑμεῖς	ὑμεῖς	ὑμεῖς	σύ	pronoun	NP-2	you
+24.03.027	143.12	τὰ	τὰ	τά	ὁ	article	SPN	the
+24.03.028	143.13	μὴ	μὴ	μή	μή	conjunction	-	not
+24.03.029	143.14	ἀγαθὰ	ἀγαθὰ	ἀγαθά	ἀγαθός	adjective	SPN	good
+24.03.030	143.15	περιποιήσησθε,	περιποιήσησθε	περιποιήσησθε	περιποιέω	verb	AMS.2P	procure
+24.03.031	143.16	ὁρᾶτε	ὁρᾶτε	ὁρᾶτε	ὁράω	verb	PAD.2P	consider
+24.03.032	143.17	ὑμεῖς,	ὑμεῖς	ὑμεῖς	σύ	pronoun	NP-2	you
+24.03.033	143.18	πῶς	πῶς	πῶς	πῶς	adverb	-	how
+24.03.034	143.19	ἄνισοί	ἄνισοί	ἄνισοί	ἄνισος	adverb@case	NPZ	inequitable
+24.03.035	143.20	ἐστε	ἐστε	ἐστε	εἰμί	verb	PAI.2P	you are
+24.03.036	143.21	καὶ	καὶ	καί	καί	conjunction	-	and
+24.03.037	143.22	ἀγνώμονες.	ἀγνώμονες	ἀγνώμονες	ἀγνώμων	adjective	NPZ	foolish
+
+A. but if you require me to lose my own proper good that you may gain what is not good, consider how inequitable and foolish you are.
+B. but if you require me to lose my own proper good, that you may gain what is no good, consider how unreasonable and foolish you are.
+C. But if you ask me to lose the things which are good and my own, in order that you may gain the things which are not good, see how unfair and silly you are.
+D. But if you call on me to lose the good things that are mine, in order that you may win things that are not good, look how unfair and thoughtless you are.
+
+# 144
+
+24.03.038	144.01	τί	τί	τί	τίς	pronoun	SSN	which
+24.03.039	144.02	δὲ	δὲ	δέ	δέ	particle	-	but
+24.03.040	144.03	καὶ	καὶ	καί	καί	conjunction	-	and
+24.03.041	144.04	βούλεσθε	βούλεσθε	βούλεσθε	βούλομαι	verb	PMI.2P	you wish
+24.03.042	144.05	μᾶλλον;	μᾶλλον	μᾶλλον	μᾶλλον	adverb	-	more
+
+A. Besides, which would you rather have,
+B. Besides, which would you rather have,
+C. Besides, which would you rather have,
+D. And which do you really prefer?
+
+# 145
+
+24.03.043	145.01	ἀργύριον	ἀργύριον	ἀργύριον	ἀργύριον	adjective	SSN	a silver coin
+24.03.044	145.02	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+24.03.045	145.03	φίλον	φίλον	φίλον	φίλος	adjective	ASM	friend
+24.03.046	145.04	πιστὸν	πιστὸν	πιστόν	πιστός	adjective	ASM	faithful
+24.03.047	145.05	καὶ	καὶ	καί	καί	conjunction	-	and
+24.03.048	145.06	αἰδήμονα;	αἰδήμονα	αἰδήμονα	αἰδήμων	adjective	ASZ	modest
+
+A. a sum of money, or a friend of fidelity and honor?
+B. a sum of money, or a faithful and honorable friend?
+C. money or a faithful and modest friend?
+D. Money, or a faithful, modest friend?
+
+# 146
+
+24.03.049	146.01	εἰς	εἰς	εἰς	εἰς	preposition	-	to
+24.03.050	146.02	τοῦτο	τοῦτο	τοῦτο	οὗτος	pronoun	SSN	this
+24.03.051	146.03	οὖν	οὖν	οὖν	οὖν	particle	-	then
+24.03.052	146.04	μοι	μοι	μοι	ἐγώ	pronoun	DSZ1	to me
+24.03.053	146.05	μᾶλλον	μᾶλλον	μᾶλλον	μᾶλλον	adverb	-	more
+24.03.054	146.06	συλλαμβάνετε	συλλαμβάνετε	συλλαμβάνετε	συλλαμβάνω	verb	PAD.2P	gather together
+24.03.055	146.07	καὶ	καὶ	καί	καί	conjunction	-	and
+24.03.056	146.08	μή,	μή	μή	μή	conjunction	-	not
+24.03.057	146.09	δι’	δι’	διά	διά	preposition	-	through
+24.03.058	146.10	ὧν	ὧν	ὧν	ὅς	pronoun	GPX	those [things]
+24.03.059	146.11	ἀποβαλῶ	ἀποβαλῶ	ἀποβαλῶ	ἀποβάλλω	verb	FAI.1S	I will throw off
+24.03.060	146.12	αὐτὰ	αὐτὰ	αὐτά	αὐτός	pronoun	SPN	them
+24.03.061	146.13	ταῦτα,	ταῦτα	ταῦτα	οὗτος	pronoun	SPN	this
+24.03.062	146.14	ἐκεῖνά	ἐκεῖνά	ἐκεῖνά	ἐκεῖνος	pronoun	SPN	that over there, that
+24.03.063	146.15	με	με	με	ἐγώ	pronoun	ASZ1	me
+24.03.064	146.16	πράσσειν	πράσσειν	πράσσειν	πράσσω	verb	PAN	to do
+24.03.065	146.17	ἀξιοῦτε.	ἀξιοῦτε	ἀξιοῦτε	ἀξιόω	verb	PAD.2P	expect
+
+A. Rather assist me, then, to gain this character than require me to do those things by which I may lose it.
+B. Rather assist me, then, to gain this character, than require me to do those things by which I may lose it.
+C. For this end then rather help me to be such a man, and do not ask me to do this by which I shall lose that character.
+D. Therefore help me rather to keep these qualities, and do not expect from me actions which will make me lose them.
+
+# 147
+
+24.04.001	147.01	«ἀλλ’	ἀλλ’	ἀλλά	ἀλλά	adverb	-	but
+24.04.002	147.02	ἡ	ἡ	ἡ	ὁ	article	NSF	the
+24.04.003	147.03	πατρίς,	πατρίς	πατρίς	πατρίς	adjective	NSF	homeland
+24.04.004	147.04	ὅσον	ὅσον	ὅσον	ὅσος	adjective	ASM	as much as [it is]
+24.04.005	147.05	ἐπ’	ἐπ’	ἐπί	ἐπί	preposition	-	on
+24.04.006	147.06	ἐμοί,»	ἐμοί	ἐμοί	ἐγώ	pronoun	DSZ1	me
+24.04.007	147.07	φησίν,	φησίν	φησίν	φημί	verb	PAI.3S	one says
+24.04.008	147.08	«ἀβοήθητος	ἀβοήθητος	ἀβοήθητος	ἀβοήθητος	adjective	NSZ	helpless
+24.04.009	147.09	ἔσται.»	ἔσται	ἔσται	εἰμί	verb	FMI.3S	it will be
+
+A. Well, but my country, say you, as far as depends on me, will be unassisted.
+B. Well, but my country, say you, as far as depends upon me, will be unassisted.
+C. But my country, you say, as far as it depends on me, will be without my help.
+D. 'But my country,' says he, 'will lack assistance, so far as lies in me.'
+
+# 148
+
+24.04.010	148.01	πάλιν,	πάλιν	πάλιν	πάλιν	adverb	-	again
+24.04.011	148.02	ποίαν	ποίαν	ποίαν	ποῖος	adjective	ASF	of what sort
+24.04.012	148.03	καὶ	καὶ	καί	καί	conjunction	-	and
+24.04.013	148.04	ταύτην	ταύτην	ταύτην	οὗτος	pronoun	ASF	this
+24.04.014	148.05	βοήθειαν;	βοήθειαν	βοήθειαν	βοήθεια	noun	ASF	help
+
+A. Here again, what assistance is this you mean?
+B. Here, again, what assistance is this you mean?
+C. I ask again, what help do you mean?
+D. Once more I ask, What assistance do you mean?
+
+# 149
+
+24.04.015	149.01	στοὰς	στοὰς	στοάς	στοά	noun	APF	a colonnade
+24.04.016	149.02	οὐχ	οὐχ	οὐ	οὐ	adverb	-	not
+24.04.017	149.03	ἕξει	ἕξει	ἕξει	ἔχω	verb	FAI.3S	it will have
+24.04.018	149.04	διὰ	διὰ	διά	διά	preposition	-	because of
+24.04.019	149.05	σὲ	σὲ	σέ	σύ	pronoun	AS-2^AS-2	you
+24.04.020	149.06	οὔτε	οὔτε	οὔτε	οὔτε	adverb	-	nor
+24.04.021	149.07	βαλανεῖα.	βαλανεῖα	βαλανεῖα	βαλανεῖον	noun	SPN	baths
+
+A. "It will not have porticoes nor baths of your providing."
+B. It will not have porticos nor baths of your providing?
+C. It will not have porticoes or baths through you.
+D. It will not owe colonnades or baths to you.
+
+# 150
+
+24.04.022	150.01	καὶ	καὶ	καί	καί	conjunction	-	and
+24.04.023	150.02	τί	τί	τί	τίς	pronoun	SSN	what [of]
+24.04.024	150.03	τοῦτο;	τοῦτο	τοῦτο	οὗτος	pronoun	SSN	this
+
+A. And what signifies that?
+B. And what signifies that?
+C. And what does this mean?
+D. What of that?
+
+# 151
+
+24.04.025	151.01	οὐδὲ	οὐδὲ	οὐδέ	οὐδέ	particle	-	neither
+24.04.026	151.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+24.04.027	151.03	ὑποδήματα	ὑποδήματα	ὑποδήματα	ὑπόδημα	noun	SPN	sandal
+24.04.028	151.04	ἔχει	ἔχει	ἔχει	ἔχω	verb	PAI.3S	has
+24.04.029	151.05	διὰ	διὰ	διά	διά	preposition	-	by means of
+24.04.030	151.06	τὸν	τὸν	τόν	ὁ	article	ASM	the
+24.04.031	151.07	χαλκέα	χαλκέα	χαλκέα	χάλκεος	adjective	SPN	copper [worker]
+24.04.032	151.08	οὐδ’	οὐδ’	οὐδέ	οὐδέ	particle	-	nor
+24.04.033	151.09	ὅπλα	ὅπλα	ὅπλα	ὅπλον	noun	SPN	arms
+24.04.034	151.10	διὰ	διὰ	διά	διά	preposition	-	by means of
+24.04.035	151.11	τὸν	τὸν	τόν	ὁ	article	ASM	the
+24.04.036	151.12	σκυτέα:	σκυτέα	σκυτέα	σκυτεύς	noun	ASM	leather worker
+
+A. Why, neither does a smith provide it with shoes, or a shoemaker with arms.
+B. Why, neither does a smith provide it with shoes, nor a shoemaker with arms.
+C. For it is not furnished with shoes by means of a smith, nor with arms by means of a shoemaker.
+D. It does not owe shoes to the blacksmith or arms to the shoemaker;
+
+# 152
+
+24.04.037	152.01	ἱκανὸν	ἱκανὸν	ἱκανόν	ἱκανός	adjective	SSN	[it is] sufficient
+24.04.038	152.02	δέ,	δέ	δέ	δέ	particle	-	but
+24.04.039	152.03	ἐὰν	ἐὰν	ἐάν	ἐάν	conjunction	-	if
+24.04.040	152.04	ἕκαστος	ἕκαστος	ἕκαστος	ἕκαστος	adjective	NSM	everyone
+24.04.041	152.05	ἐκπληρώσῃ	ἐκπληρώσῃ	ἐκπληρώσῃ	ἐκπληρόω	verb	AAS.3S	fulfills
+24.04.042	152.06	τὸ	τὸ	τό	ὁ	article	SSN	the
+24.04.043	152.07	ἑαυτοῦ	ἑαυτοῦ	ἑαυτοῦ	ἑαυτοῦ	pronoun	GSM	of himself
+24.04.044	152.08	ἔργον.	ἔργον	ἔργον	ἔργον	noun	SSN	work
+
+A. It is enough if everyone fully performs his own proper business.
+B. It is enough if every one fully performs his own proper business.
+C. But it is enough if every man fully discharges the work that is his own:
+D. it is sufficient if each man fulfils his own function.
+
+# 153
+
+24.04.045	153.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+24.04.046	153.02	δὲ	δὲ	δέ	δέ	particle	-	but
+24.04.047	153.03	ἄλλον	ἄλλον	ἄλλον	ἄλλος	adjective	ASM	another
+24.04.048	153.04	τινὰ	τινὰ	τινά	τις	pronoun	ASZ	something
+24.04.049	153.05	αὐτῇ	αὐτῇ	αὐτῇ	αὐτός	pronoun	DSF	to her?
+24.04.050	153.06	κατεσκεύαζες	κατεσκεύαζες	κατεσκεύαζες	κατασκευάζω	verb	IAI.2S	you were providing
+24.04.051	153.07	πολίτην	πολίτην	πολίτην	πολίτης	noun	ASM	(fellow) citizen
+24.04.052	153.08	πιστὸν	πιστὸν	πιστόν	πιστός	adjective	ASM	faithful
+24.04.053	153.09	καὶ	καὶ	καί	καί	conjunction	-	and
+24.04.054	153.10	αἰδήμονα,	αἰδήμονα	αἰδήμονα	αἰδήμων	adjective	ASZ	modest
+24.04.055	153.11	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	noone
+24.04.056	153.12	ἂν	ἂν	ἄν	ἄν	particle	-	would
+24.04.057	153.13	αὐτὴν	αὐτὴν	αὐτήν	αὐτός	pronoun	ASF	her
+24.04.058	153.14	ὠφέλεις;	ὠφέλεις	ὠφέλεις	ὠφελέω	verb	IAI.2S	you were helping
+
+A. And were you to supply it with another citizen of honor and fidelity, would not he be of use to it?
+B. And were you to supply it with another faithful and honorable citizen, would not he be of use to it?
+C. and if you provided it with another citizen faithful and modest, would you not be useful to it?
+D. Would you do it no good if you secured to it another faithful and modest citizen?
+
+# 154
+
+24.04.059	154.01	«ναί.»	ναί	ναί	ναί	adverb	-	yes
+
+A. Yes.
+B. Yes.
+C. Yes.
+D. 'Yes.'
+
+# 155
+
+24.04.060	155.01	οὐκοῦν	οὐκοῦν	οὐκοῦν	οὐκοῦν	adverb	-	then
+24.04.061	155.02	οὐδὲ	οὐδὲ	οὐδέ	οὐδέ	particle	-	not
+24.04.062	155.03	σὺ	σὺ	σύ	σύ	pronoun	NS-2	you
+24.04.063	155.04	αὐτὸς	αὐτὸς	αὐτός	αὐτός	pronoun	NSM	yourself
+24.04.064	155.05	ἀνωφελὴς	ἀνωφελὴς	ἀνωφελής	ἀνωφελής	adverb@case	NSZ	useless
+24.04.065	155.06	ἂν	ἂν	ἄν	ἄν	particle	-	-
+24.04.066	155.07	εἴης	εἴης	εἴης	εἰμί	verb	PAO.2S	would be
+24.04.067	155.08	αὐτῇ.	αὐτῇ	αὐτῇ	αὐτός	pronoun	DSF	to it
+
+A. Therefore neither are you yourself useless to it.
+B. Therefore neither are you yourself useless to it.
+C. Then you also cannot be useless to it.
+D. Well, then, you would not be useless to it.
+
+# 156
+
+24.04.068	156.01	«τίνα	τίνα	τίνα	τίς	pronoun	ASZ	what
+24.04.069	156.02	οὖν	οὖν	οὖν	οὖν	particle	-	then
+24.04.070	156.03	ἕξω,»	ἕξω	ἕξω	ἔχω	verb	FAI.1S	shall I have
+24.04.071	156.04	φησί,	φησί	φησί	φημί	verb	PAI.3S	he says
+24.04.072	156.05	«χώραν	χώραν	χώραν	χώρα	noun	ASF	place
+24.04.073	156.06	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+24.04.074	156.07	τῇ	τῇ	τῇ	ὁ	article	DSF	the
+24.04.075	156.08	πόλει;»	πόλει	πόλει	πόλις	adjective	DSF	city
+
+A. "What place, then, say you, will I hold in the state?"
+B. "What place, then," say you, "shall I hold in the state?"
+C. What place then, you say, shall I hold in the city?
+D. 'What place then shall I have in the city?'
+
+# 157
+
+24.04.076	157.01	ἣν	ἣν	ἥν	ὅς	pronoun	ASF	what
+24.04.077	157.02	ἂν	ἂν	ἄν	ἄν	particle	-	-
+24.04.078	157.03	δύνῃ	δύνῃ	δύνῃ	δύναμαι	verb	PMS.2S	you can
+24.04.079	157.04	φυλάττων	φυλάττων	φυλάττων	φυλάσσω	verb	PAP.NS-	[while] guarding
+24.04.080	157.05	ἅμα	ἅμα	ἅμα	ἅμα	adverb	-	at the same time
+24.04.081	157.06	τὸν	τὸν	τόν	ὁ	article	ASM	the
+24.04.082	157.07	πιστὸν	πιστὸν	πιστόν	πιστός	adjective	ASM	fidelity
+24.04.083	157.08	καὶ	καὶ	καί	καί	conjunction	-	and
+24.04.084	157.09	αἰδήμονα.	αἰδήμονα	αἰδήμονα	αἰδήμων	adjective	ASZ	modesty
+
+A. Whatever you can hold with the preservation of your fidelity and honor.
+B. Whatever you can hold with the preservation of your fidelity and honor.
+C. Whatever you can, if you maintain at the same time your fidelity and modesty.
+D. Whatever place you can hold while you keep your character for honour and self-respect.
+
+# 158
+
+24.05.001	158.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+24.05.002	158.02	δὲ	δὲ	δέ	δέ	particle	-	but
+24.05.003	158.03	ἐκείνην	ἐκείνην	ἐκείνην	ἐκεῖνος	pronoun	ASF	that
+24.05.004	158.04	ὠφελεῖν	ὠφελεῖν	ὠφελεῖν	ὠφελέω	verb	PAN	to be useful
+24.05.005	158.05	βουλόμενος	βουλόμενος	βουλόμενος	βούλομαι	verb	PMP.NS-	wishing
+24.05.006	158.06	ἀποβαλεῖς	ἀποβαλεῖς	ἀποβαλεῖς	ἀποβάλλω	verb	FAI.2S	you will lose
+24.05.007	158.07	ταῦτα,	ταῦτα	ταῦτα	οὗτος	pronoun	SPN	these
+24.05.008	158.08	τί	τί	τί	τίς	pronoun	SSN	what
+24.05.009	158.09	ὄφελος	ὄφελος	ὄφελος	ὄφελος	noun	SSN	benefit
+24.05.010	158.10	ἂν	ἂν	ἄν	ἄν	particle	-	-
+24.05.011	158.11	αὐτῇ	αὐτῇ	αὐτῇ	αὐτός	pronoun	DSF	to it
+24.05.012	158.12	γένοιο	γένοιο	γένοιο	γίγνομαι	verb	AMO.2S	could you be
+24.05.013	158.13	ἀναιδὴς	ἀναιδὴς	ἀναιδής	ἀναιδής	adjective	NSZ	shameless
+24.05.014	158.14	καὶ	καὶ	καί	καί	conjunction	-	and
+24.05.015	158.15	ἄπιστος	ἄπιστος	ἄπιστος	ἄπιστος	adjective	NSZ	not to be trusted
+24.05.016	158.16	ἀποτελεσθείς;	ἀποτελεσθείς	ἀποτελεσθείς	ἀποτελέω	verb	APP.NS-	ending up
+
+A. But if, by desiring to be useful to that, you lose these, of what use can you be to your country when you are become faithless and void of shame.
+B. But if, by desiring to be useful to that, you lose these, how can you serve your country, when you have become faithless and shameless?
+C. But if when you wish to be useful to the state, you shall lose these qualities, what profit could you be to it, if you were made shameless and faithless?
+D. But if you are going to lose these qualities in trying to benefit your city, what benefit, I ask, would you have done her when you attain to the perfection of being lost to shame and honour?
