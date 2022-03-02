@@ -3144,3 +3144,210 @@ A. But if, by desiring to be useful to that, you lose these, of what use can you
 B. But if, by desiring to be useful to that, you lose these, how can you serve your country, when you have become faithless and shameless?
 C. But if when you wish to be useful to the state, you shall lose these qualities, what profit could you be to it, if you were made shameless and faithless?
 D. But if you are going to lose these qualities in trying to benefit your city, what benefit, I ask, would you have done her when you attain to the perfection of being lost to shame and honour?
+
+25.01.001	159.01	Προετιμήθη	Προετιμήθη	Προετιμήθη	προτιμάω	verb	API.3S	to honour
+25.01.002	159.02	σού	σού	σού	σύ	pronoun	GS-2	you (personal pronoun)
+25.01.003	159.03	τις	τις	τις	τις	pronoun	NSZ	any one, any thing, some one, some thing;
+25.01.004	159.04	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
+25.01.005	159.05	ἑστιάσει	ἑστιάσει	ἑστιάσει	ἑστίασις	noun	SDF^DSF^DSF	a feasting, banqueting, entertainment
+25.01.006	159.06	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
+25.01.007	159.07	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
+25.01.008	159.08	προσαγορεύσει	προσαγορεύσει	προσαγορεύσει	προσαγόρευσις	noun	SDF^DSF^DSF	address, greeting
+25.01.009	159.09	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
+25.01.010	159.10	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
+25.01.011	159.11	τῷ	τῷ	τῷ	ὁ	article	DSY	the
+25.01.012	159.12	παραληφθῆναι	παραληφθῆναι	παραληφθῆναι	παραλαμβάνω	verb	APN	to receive from
+25.01.013	159.13	εἰς	εἰς	εἰς	εἰς	preposition	-	into, to c. acc.
+25.01.014	159.14	συμβουλίαν;	συμβουλίαν	συμβουλίαν	συμβουλία	noun	ASF	advice
+25.01.015	160.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
+25.01.016	160.02	μὲν	μὲν	μέν	μέν	particle	-	on the one hand, on the other hand
+25.01.017	160.03	ἀγαθὰ	ἀγαθὰ	ἀγαθά	ἀγαθός	adjective	SPN^SDF^NSF	good
+25.01.018	160.04	ταῦτά	ταῦτά	ταῦτά	οὗτος	pronoun	SPN	this; that
+25.01.019	160.05	ἐστι,	ἐστι	ἐστί(ν)	εἰμί	verb	PAI.3S	to be
+25.01.020	160.06	χαίρειν	χαίρειν	χαίρειν	χαίρω	verb	PAN	to rejoice, be glad, be delighted
+25.01.021	160.07	σε	σε	σε	σύ	pronoun	AS-2	you (personal pronoun)
+25.01.022	160.08	δεῖ,	δεῖ	δεῖ	δέομαι	verb	PMI.2S	lack
+25.01.023	160.09	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
+25.01.024	160.10	ἔτυχεν	ἔτυχεν	ἔτυχεν	τυγχάνω	verb	AAI.3S	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
+25.01.025	160.11	αὐτῶν	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPN^GPF^GPM	unemph. 3rd pers.pronoun; -self; [the] same
+25.01.026	160.12	ἐκεῖνος:	ἐκεῖνος	ἐκεῖνος	ἐκεῖνος	pronoun	NSM	that over there, that
+25.01.027	161.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
+25.01.028	161.02	δὲ	δὲ	δέ	δέ	particle	-	but
+25.01.029	161.03	κακά,	κακά	κακά	κακός	adjective	SPN^SDF^NSF	bad
+25.01.030	161.04	μὴ	μὴ	μή	μή	conjunction	-	not
+25.01.031	161.05	ἄχθου,	ἄχθου	ἄχθου	ἄχθομαι	verb	IMI.2S^PMD.2S^IMI.2S	to be loaded; to be annoyed
+25.01.032	161.06	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
+25.01.033	161.07	σὺ	σὺ	σύ	σύ	pronoun	NS-2	you (personal pronoun)
+25.01.034	161.08	αὐτῶν	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPN^GPF^GPM	unemph. 3rd pers.pronoun; -self; [the] same
+25.01.035	161.09	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
+25.01.036	161.10	ἔτυχες:	ἔτυχες	ἔτυχες	τυγχάνω	verb	AAI.2S	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
+25.01.037	162.01	μέμνησο	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S^YMI.2S	to remind
+25.01.038	162.02	δέ,	δέ	δέ	δέ	particle	-	but
+25.01.039	162.03	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
+25.01.040	162.04	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+25.01.041	162.05	δύνασαι	δύνασαι	δύνασαι	δύναμαι	verb	PMI.2S	to be able, capable, strong enough
+25.01.042	162.06	μὴ	μὴ	μή	μή	conjunction	-	not
+25.01.043	162.07	ταὐτὰ	ταὐτὰ	ταὐτά	ταυτός	adjective	SPN^SDF^NSF	-
+25.01.044	162.08	ποιῶν	ποιῶν	ποιῶν	ποιέω	verb	PAP.NS-	to make, to do
+25.01.045	162.09	πρὸς	πρὸς	πρός	πρός	preposition	-	(w. gen.) from; (w. dat.) at, near, in addition to; (w. acc.) to, toward, regarding
+25.01.046	162.10	τὸ	τὸ	τό	ὁ	article	SSN	the
+25.01.047	162.11	τυγχάνειν	τυγχάνειν	τυγχάνειν	τυγχάνω	verb	PAN	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
+25.01.048	162.12	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
+25.01.049	162.13	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
+25.01.050	162.14	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
+25.01.051	162.15	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	I (first person pronoun)
+25.01.052	162.16	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
+25.01.053	162.17	ἴσων	ἴσων	ἴσων	ἴσος	adjective	GPF^GPY^GPF^GPY	equal to, the same as; adv. perhaps
+25.01.054	162.18	ἀξιοῦσθαι.	ἀξιοῦσθαι	ἀξιοῦσθαι	ἀξιόω	verb	PMN	to think worthy of; to expect
+25.02.001	163.01	πῶς	πῶς	πῶς	πῶς	adverb	-	how? in what way
+25.02.002	163.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+25.02.003	163.03	ἴσον	ἴσον	ἴσον	ἴσος	adjective	ASM^SSN	equal to, the same as; adv. perhaps
+25.02.004	163.04	ἔχειν	ἔχειν	ἔχειν	ἔχω	verb	PAN	to have
+25.02.005	163.05	δύναται	δύναται	δύναται	δύναμαι	verb	PMI.3S	to be able, capable, strong enough
+25.02.006	163.06	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+25.02.007	163.07	μὴ	μὴ	μή	μή	conjunction	-	not
+25.02.008	163.08	φοιτῶν	φοιτῶν	φοιτῶν	φοιτάω	verb	PAP.VS-^PAP.SS-^PAP.NS-^PAP.NS-	to go to and fro, up and down, to stalk
+25.02.009	163.09	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
+25.02.010	163.10	θύρας	θύρας	θύρας	θύρα	noun	APF^GSF	a door
+25.02.011	163.11	τινὸς	τινὸς	τινός	τις	pronoun	GS-	any one, any thing, some one, some thing;
+25.02.012	163.12	τῷ	τῷ	τῷ	ὁ	article	DSY	the
+25.02.013	163.13	φοιτῶντι;	φοιτῶντι	φοιτῶντι	φοιτάω	verb	PAP.DS-^PAI.3P^PAS.3P	to go to and fro, up and down, to stalk
+25.02.014	164.01	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+25.02.015	164.02	μὴ	μὴ	μή	μή	conjunction	-	not
+25.02.016	164.03	παραπέμπων	παραπέμπων	παραπέμπων	παραπέμπω	verb	PAP.NS-	to send past, convey past
+25.02.017	164.04	τῷ	τῷ	τῷ	ὁ	article	DSY	the
+25.02.018	164.05	παραπέμποντι;	παραπέμποντι	παραπέμποντι	παραπέμπω	verb	PAP.DS-^PAI.3P	to send past, convey past
+25.02.019	165.01	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+25.02.020	165.02	μὴ	μὴ	μή	μή	conjunction	-	not
+25.02.021	165.03	ἐπαινῶν	ἐπαινῶν	ἐπαινῶν	ἐπαινός	adjective	GPF	awesome (of Hecate, Persephone)
+25.02.022	165.04	τῷ	τῷ	τῷ	ὁ	article	DSY	the
+25.02.023	165.05	ἐπαινοῦντι,	ἐπαινοῦντι	ἐπαινοῦντι	ἐπαινέω	verb	PAP.DS-^PAI.3P^PAP.DS-^PAI.3P	to approve, applaud, commend
+25.02.024	165.06	ἄδικος	ἄδικος	ἄδικος	ἄδικος	adjective	NSZ	wrong-doing, unrighteous, unjust
+25.02.025	165.07	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
+25.02.026	165.08	ἔσῃ	ἔσῃ	ἔσῃ	εἰμί	verb	FMI.2S	to be
+25.02.027	165.09	καὶ	καὶ	καί	καί	conjunction	-	and, also
+25.02.028	165.10	ἄπληστος,	ἄπληστος	ἄπληστος	ἄπληστος	adjective	NSZ	not to be filled, insatiate
+25.02.029	165.11	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
+25.02.030	165.12	μὴ	μὴ	μή	μή	conjunction	-	not
+25.02.031	165.13	προϊέμενος	προϊέμενος	προϊέμενος	προίημι	verb	PMP.NS-	-
+25.02.032	165.14	ταῦτα,	ταῦτα	ταῦτα	οὗτος	pronoun	SPN	this; that
+25.02.033	165.15	ἀνθ’	ἀνθ’	ἀντί	ἀντί	preposition	-	over against, opposite. c. gen.
+25.02.034	165.16	ὧν	ὧν	ὧν	ὅς	pronoun	GPF^GPY	who, that, which: relative pronoun
+25.02.035	165.17	ἐκεῖνα	ἐκεῖνα	ἐκεῖνα	ἐκεῖνος	pronoun	SPN	that over there, that
+25.02.036	165.18	πιπράσκεται,	πιπράσκεται	πιπράσκεται	πιπράσκω	verb	PMI.3S	to sell
+25.02.037	165.19	προῖκα	προῖκα	προῖκα	προίξ	adjective	ASF	dowry, gift; adv. freely, unbribed
+25.02.038	165.20	αὐτὰ	αὐτὰ	αὐτά	αὐτός	pronoun	SPN^SDF^NSF	unemph. 3rd pers.pronoun; -self; [the] same
+25.02.039	165.21	βουλήσῃ	βουλήσῃ	βουλήσῃ	βούλησις	noun	DSF	a willing
+25.02.040	165.22	λαμβάνειν.	λαμβάνειν	λαμβάνειν	λαμβάνω	verb	PAN	to take, seize, receive
+25.03.001	166.01	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	otherwise, but
+25.03.002	166.02	πόσου	πόσου	πόσου	πόσος	adjective	GSY	how much? how many?
+25.03.003	166.03	πιπράσκονται	πιπράσκονται	πιπράσκονται	πιπράσκω	verb	PMI.3P	to sell
+25.03.004	166.04	θρίδακες;	θρίδακες	θρίδακες	θρίδαξ	noun	NPF	lettuce
+25.03.005	167.01	ὀβολοῦ,	ὀβολοῦ	ὀβολοῦ	ὀβολός	noun	GSM	an obol
+25.03.006	167.02	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
+25.03.007	167.03	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	so, in this manner
+25.03.008	167.04	τύχῃ.	τύχῃ	τύχῃ	τυγχάνω	verb	AMS.2S^AAS.3S	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
+25.03.009	168.01	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
+25.03.010	168.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
+25.03.011	168.03	τις	τις	τις	τις	pronoun	NSZ	any one, any thing, some one, some thing;
+25.03.012	168.04	προέμενος	προέμενος	προέμενος	προίημι	verb	AMP.NS-	-
+25.03.013	168.05	τὸν	τὸν	τόν	ὁ	article	ASM	the
+25.03.014	168.06	ὀβολὸν	ὀβολὸν	ὀβολόν	ὀβολός	noun	ASM	an obol
+25.03.015	168.07	λάβῃ	λάβῃ	λάβῃ	λαμβάνω	verb	AMS.2S^AAS.3S	to take, seize, receive
+25.03.016	168.08	θρίδακας,	θρίδακας	θρίδακας	θρίδαξ	noun	APF	lettuce
+25.03.017	168.09	σὺ	σὺ	σύ	σύ	pronoun	NS-2	you (personal pronoun)
+25.03.018	168.10	δὲ	δὲ	δέ	δέ	particle	-	but
+25.03.019	168.11	μὴ	μὴ	μή	μή	conjunction	-	not
+25.03.020	168.12	προέμενος	προέμενος	προέμενος	προίημι	verb	AMP.NS-	-
+25.03.021	168.13	μὴ	μὴ	μή	μή	conjunction	-	not
+25.03.022	168.14	λάβῃς,	λάβῃς	λάβῃς	λαμβάνω	verb	AAS.2S	to take, seize, receive
+25.03.023	168.15	μὴ	μὴ	μή	μή	conjunction	-	not
+25.03.024	168.16	οἴου	οἴου	οἴου	οἶος	adjective	GSY	alone, lone, lonely
+25.03.025	168.17	ἔλαττον	ἔλαττον	ἔλαττον	ἐλάσσων	adjective	VSZC^SSNC	smaller, less
+25.03.026	168.18	ἔχειν	ἔχειν	ἔχειν	ἔχω	verb	PAN	to have
+25.03.027	168.19	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
+25.03.028	168.20	λαβόντος.	λαβόντος	λαβόντος	λαμβάνω	verb	AAP.GS-	to take, seize, receive
+25.03.029	169.01	ὡς	ὡς	ὡς	ὡς	conjunction	-	as, how
+25.03.030	169.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+25.03.031	169.03	ἐκεῖνος	ἐκεῖνος	ἐκεῖνος	ἐκεῖνος	pronoun	NSM	that over there, that
+25.03.032	169.04	ἔχει	ἔχει	ἔχει	ἔχω	verb	PMI.2S^PAI.3S	to have
+25.03.033	169.05	θρίδακας,	θρίδακας	θρίδακας	θρίδαξ	noun	APF	lettuce
+25.03.034	169.06	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	so, in this manner
+25.03.035	169.07	σὺ	σὺ	σύ	σύ	pronoun	NS-2	you (personal pronoun)
+25.03.036	169.08	τὸν	τὸν	τόν	ὁ	article	ASM	the
+25.03.037	169.09	ὀβολόν,	ὀβολόν	ὀβολόν	ὀβολός	noun	ASM	an obol
+25.03.038	169.10	ὃν	ὃν	ὅν	ὅς	pronoun	ASM^ASN	who, that, which: relative pronoun
+25.03.039	169.11	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
+25.03.040	169.12	ἔδωκας.	ἔδωκας	ἔδωκας	δίδωμι	verb	AAI.2S	to give
+25.04.001	170.01	τὸν	τὸν	τόν	ὁ	article	ASM	the
+25.04.002	170.02	αὐτὸν	αὐτὸν	αὐτόν	αὐτός	pronoun	ASM	unemph. 3rd pers.pronoun; -self; [the] same
+25.04.003	170.03	δὴ	δὴ	δή	δή	particle	-	[interactional particle: S&H on same page]
+25.04.004	170.04	τρόπον	τρόπον	τρόπον	τρόπος	noun	ASM	a turn, direction, course, way; character
+25.04.005	170.05	καὶ	καὶ	καί	καί	conjunction	-	and, also
+25.04.006	170.06	ἐνταῦθα.	ἐνταῦθα	ἐνταῦθα	ἐνταῦθα	adverb	-	here, there; at that juncture
+25.04.007	171.01	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+25.04.008	171.02	παρεκλήθης	παρεκλήθης	παρεκλήθης	παρακαλέω	verb	API.2S	to call to
+25.04.009	171.03	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
+25.04.010	171.04	ἑστίασίν	ἑστίασίν	ἑστίασιν	ἑστίασις	noun	ASF	a feasting, banqueting, entertainment
+25.04.011	171.05	τινος;	τινος	τινος	τις	pronoun	GS-	any one, any thing, some one, some thing;
+25.04.012	172.01	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+25.04.013	172.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+25.04.014	172.03	ἔδωκας	ἔδωκας	ἔδωκας	δίδωμι	verb	AAI.2S	to give
+25.04.015	172.04	τῷ	τῷ	τῷ	ὁ	article	DSY	the
+25.04.016	172.05	καλοῦντι,	καλοῦντι	καλοῦντι	καλέω	verb	FAP.DS-^FAI.3P^PAP.DS-^PAI.3P	to call, summon
+25.04.017	172.06	ὅσου	ὅσου	ὅσου	ὅσος	adjective	GSY	as much/many as
+25.04.018	172.07	πωλεῖ	πωλεῖ	πωλεῖ	πωλέομαι	verb	PMI.2S	to go up and down, go to and fro
+25.04.019	172.08	τὸ	τὸ	τό	ὁ	article	SSN	the
+25.04.020	172.09	δεῖπνον.	δεῖπνον	δεῖπνον	δεῖπνον	noun	SSN	the principal meal
+25.04.021	173.01	ἐπαίνου	ἐπαίνου	ἐπαίνου	ἔπαινος	noun	GSM	approval, praise, commendation
+25.04.022	173.02	δ’	δ’	δέ	δέ	particle	-	but
+25.04.023	173.03	αὐτὸ	αὐτὸ	αὐτό	αὐτός	pronoun	SSN	unemph. 3rd pers.pronoun; -self; [the] same
+25.04.024	173.04	πωλεῖ,	πωλεῖ	πωλεῖ	πωλέομαι	verb	PMI.2S	to go up and down, go to and fro
+25.04.025	173.05	θεραπείας	θεραπείας	θεραπείας	θεραπεία	noun	APF^GSF	a waiting on, service
+25.04.026	173.06	πωλεῖ.	πωλεῖ	πωλεῖ	πωλέομαι	verb	PMI.2S	to go up and down, go to and fro
+25.04.027	174.01	δὸς	δὸς	δός	δίδωμι	verb	AAD.2S	to give
+25.04.028	174.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
+25.04.029	174.03	τὸ	τὸ	τό	ὁ	article	SSN	the
+25.04.030	174.04	διάφορον,	διάφορον	διάφορον	διάφορος	adjective	ASZ^SSN	different, unlike
+25.04.031	174.05	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
+25.04.032	174.06	σοι	σοι	σοι	σύ	pronoun	DS-2	you (personal pronoun)
+25.04.033	174.07	λυσιτελεῖ,	λυσιτελεῖ	λυσιτελεῖ	λυσιτελέω	verb	PMI.2S^PAI.3S	to bring profit, gain
+25.04.034	174.08	ὅσου	ὅσου	ὅσου	ὅσος	adjective	GSY	as much/many as
+25.04.035	174.09	πωλεῖται.	πωλεῖται	πωλεῖται	πωλέομαι	verb	PMI.3S	to go up and down, go to and fro
+25.04.036	175.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
+25.04.037	175.02	δὲ	δὲ	δέ	δέ	particle	-	but
+25.04.038	175.03	κἀκεῖνα	κἀκεῖνα	κἀκεῖνα	ἐκεῖνος	pronoun	SPN	that over there, that
+25.04.039	175.04	θέλεις	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	to will, wish, purpose
+25.04.040	175.05	μὴ	μὴ	μή	μή	conjunction	-	not
+25.04.041	175.06	προΐεσθαι	προΐεσθαι	προΐεσθαι	προίημι	verb	PMN	-
+25.04.042	175.07	καὶ	καὶ	καί	καί	conjunction	-	and, also
+25.04.043	175.08	ταῦτα	ταῦτα	ταῦτα	οὗτος	pronoun	SPN	this; that
+25.04.044	175.09	λαμβάνειν,	λαμβάνειν	λαμβάνειν	λαμβάνω	verb	PAN	to take, seize, receive
+25.04.045	175.10	ἄπληστος	ἄπληστος	ἄπληστος	ἄπληστος	adjective	NSZ	not to be filled, insatiate
+25.04.046	175.11	εἶ	εἶ	εἶ	εἶμι	verb	PAI.2S	come, go
+25.04.047	175.12	καὶ	καὶ	καί	καί	conjunction	-	and, also
+25.04.048	175.13	ἀβέλτερος.	ἀβέλτερος	ἀβέλτερος	ἀβέλτερος	adjective	NSM	good for nothing, silly, stupid, fatuous
+25.05.001	176.01	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	not one, nobody
+25.05.002	176.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
+25.05.003	176.03	ἔχεις	ἔχεις	ἔχεις	ἔχω	verb	PAI.2S	to have
+25.05.004	176.04	ἀντὶ	ἀντὶ	ἀντί	ἀντί	preposition	-	over against, opposite. c. gen.
+25.05.005	176.05	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
+25.05.006	176.06	δείπνου;	δείπνου	δείπνου	δεῖπνον	noun	GSN	the principal meal
+25.05.007	177.01	ἔχεις	ἔχεις	ἔχεις	ἔχω	verb	PAI.2S	to have
+25.05.008	177.02	μὲν	μὲν	μέν	μέν	particle	-	on the one hand, on the other hand
+25.05.009	177.03	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
+25.05.010	177.04	τὸ	τὸ	τό	ὁ	article	SSN	the
+25.05.011	177.05	μὴ	μὴ	μή	μή	conjunction	-	not
+25.05.012	177.06	ἐπαινέσαι	ἐπαινέσαι	ἐπαινέσαι	ἐπαινέω	verb	AAN^AAO.3S	to approve, applaud, commend
+25.05.013	177.07	τοῦτον,	τοῦτον	τοῦτον	οὗτος	pronoun	ASM	this; that
+25.05.014	177.08	ὃν	ὃν	ὅν	ὅς	pronoun	ASM^ASN	who, that, which: relative pronoun
+25.05.015	177.09	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
+25.05.016	177.10	ἤθελες,	ἤθελες	ἤθελες	ἐθέλω	verb	IAI.2S	to will, wish, purpose
+25.05.017	177.11	τὸ	τὸ	τό	ὁ	article	SSN	the
+25.05.018	177.12	μὴ	μὴ	μή	μή	conjunction	-	not
+25.05.019	177.13	ἀνασχέσθαι	ἀνασχέσθαι	ἀνασχέσθαι	ἀνέχω	verb	AMN	to hold up; (mid.) endure, put up with
+25.05.020	177.14	αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός	pronoun	GSN^GSM	unemph. 3rd pers.pronoun; -self; [the] same
+25.05.021	177.15	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
+25.05.022	177.16	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
+25.05.023	177.17	τῆς	τῆς	τῆς	ὁ	article	GSF	the
+25.05.024	177.18	εἰσόδου.	εἰσόδου	εἰσόδου	εἴσοδος	noun	GSF	a way in, entrance
