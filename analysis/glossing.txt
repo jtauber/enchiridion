@@ -1991,7 +1991,7 @@ D. For by so doing Diogenes and Heraclitus and men like them were called divine 
 16.01.028	099.28	εὐθὺς	εὐθὺς	εὐθύς	εὐθύς	adverb	-	straight
 16.01.029	099.29	ἔστω	ἔστω	ἔστω	εἰμί	verb	PAD.3S	be
 16.01.030	099.30	πρόχειρον	πρόχειρον	πρόχειρον	πρόχειρος	adjective	ASZ	prepared
-16.01.031	099.31	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
+16.01.031	099.31	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
 16.01.032	099.32	«τοῦτον	τοῦτον	τοῦτον	οὗτος	pronoun	ASM	this one
 16.01.033	099.33	θλίβει	θλίβει	θλίβει	θλίβω	verb	PAI.3S	it afflicts
 16.01.034	099.34	οὐ	οὐ	οὐ	οὐ	adverb	-	not
@@ -2347,7 +2347,7 @@ D. and there is but one way to freedom—to despise what is not in our power.
 # 117
 
 20.01.001	117.01	μέμνησο,	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S	remember
-20.01.002	117.02	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
+20.01.002	117.02	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
 20.01.003	117.03	οὐχ	οὐχ	οὐ	οὐ	adverb	-	not
 20.01.004	117.04	ὁ	ὁ	ὁ	ὁ	article	NSM	the
 20.01.005	117.05	λοιδορῶν	λοιδορῶν	λοιδορῶν	λοιδορέω	verb	PAP.NS-	abusing
@@ -2585,7 +2585,7 @@ D. And remember that if you abide where you are, those who first laugh at you wi
 23.01.010	127.10	ἀρέσαι	ἀρέσαι	ἀρέσαι	ἀρέσκω	verb	AAN	to please
 23.01.011	127.11	τινί,	τινί	τινί	τις	pronoun	DS-	someone
 23.01.012	127.12	ἴσθι	ἴσθι	ἴσθι	οἶδα	verb	XAD.2S	know
-23.01.013	127.13	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
+23.01.013	127.13	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
 23.01.014	127.14	ἀπώλεσας	ἀπώλεσας	ἀπώλεσας	ἀπόλλυμι	verb	AAI.2S	you destroyed
 23.01.015	127.15	τὴν	τὴν	τήν	ὁ	article	ASF	the
 23.01.016	127.16	ἔνστασιν.	ἔνστασιν	ἔνστασιν	ἔνστασις	noun	ASF	way of life
@@ -3169,21 +3169,21 @@ D. Has some one had precedence of you at an entertainment or a levée or been ca
 
 # 160
 
-25.01.015	160.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
-25.01.016	160.02	μὲν	μὲν	μέν	μέν	particle	-	on the one hand, on the other hand
-25.01.017	160.03	ἀγαθὰ	ἀγαθὰ	ἀγαθά	ἀγαθός	adjective	SPN^SDF^NSF	good
-25.01.018	160.04	ταῦτά	ταῦτά	ταῦτά	οὗτος	pronoun	SPN	this; that
-25.01.019	160.05	ἐστι,	ἐστι	ἐστί(ν)	εἰμί	verb	PAI.3S	to be
-25.01.020	160.06	χαίρειν	χαίρειν	χαίρειν	χαίρω	verb	PAN	to rejoice, be glad, be delighted
-25.01.021	160.07	σε	σε	σε	σύ	pronoun	AS-2	you (personal pronoun)
-25.01.022	160.08	δεῖ,	δεῖ	δεῖ	δέομαι	verb	PMI.2S	lack
-25.01.023	160.09	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
-25.01.024	160.10	ἔτυχεν	ἔτυχεν	ἔτυχεν	τυγχάνω	verb	AAI.3S	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
-25.01.025	160.11	αὐτῶν	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPN^GPF^GPM	unemph. 3rd pers.pronoun; -self; [the] same
-25.01.026	160.12	ἐκεῖνος:	ἐκεῖνος	ἐκεῖνος	ἐκεῖνος	pronoun	NSM	that over there, that
+25.01.015	160.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+25.01.016	160.02	μὲν	μὲν	μέν	μέν	particle	-
+25.01.017	160.03	ἀγαθὰ	ἀγαθὰ	ἀγαθά	ἀγαθός	adjective	SPN	good
+25.01.018	160.04	ταῦτά	ταῦτά	ταῦτά	οὗτος	pronoun	SPN	these things
+25.01.019	160.05	ἐστι,	ἐστι	ἐστί(ν)	εἰμί	verb	PAI.3S	are
+25.01.020	160.06	χαίρειν	χαίρειν	χαίρειν	χαίρω	verb	PAN	to rejoice
+25.01.021	160.07	σε	σε	σε	σύ	pronoun	AS-2	you
+25.01.022	160.08	δεῖ,	δεῖ	δεῖ	δεῖ	verb	PAI.3S	must
+25.01.023	160.09	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+25.01.024	160.10	ἔτυχεν	ἔτυχεν	ἔτυχεν	τυγχάνω	verb	AAI.3S	got
+25.01.025	160.11	αὐτῶν	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPX	them
+25.01.026	160.12	ἐκεῖνος:	ἐκεῖνος	ἐκεῖνος	ἐκεῖνος	pronoun	NSM	that
 
 A. If these things are good, you ought to be glad that he has gotten them;
-B. If these things are good, you ought to rejoice that he. has them;
+B. If these things are good, you ought to rejoice that he has them;
 C. If these things are good, you ought to rejoice that he has obtained them:
 D. If these things are good you ought to be glad that he got them;
 
