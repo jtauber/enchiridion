@@ -3464,6 +3464,11 @@ D. But if you wish to get the one and yet not give up the other, nothing can sat
 25.05.005	176.05	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
 25.05.006	176.06	δείπνου;	δείπνου	δείπνου	δεῖπνον	noun	GSN	the principal meal
 
+A. Have you nothing, then, instead of the supper?
+B. Have you nothing, then, in place of the supper?
+C. Have you nothing then in place of the supper?
+D. What! you say, you have nothing instead of the dinner?
+
 # 177
 
 25.05.007	177.01	ἔχεις	ἔχεις	ἔχεις	ἔχω	verb	PAI.2S	to have
@@ -3486,15 +3491,12 @@ D. But if you wish to get the one and yet not give up the other, nothing can sat
 25.05.024	177.18	εἰσόδου.	εἰσόδου	εἰσόδου	εἴσοδος	noun	GSF	a way in, entrance
 
 
-
-25.2 Have you nothing, then, instead of the supper?
 25.3 Yes, indeed, you have: the not praising him, whom you don't like to praise; the not bearing with his behavior at coming in.
 
-25.2 Have you nothing, then, in place of the supper?
 25.3 Yes, indeed you have: not to praise him whom you do not like to praise; not to bear the insolence of his lackeys.
 
-25.2 Have you nothing then in place of the supper?
+
 25.3 You have indeed, you have the not flattering of him, whom you did not choose to flatter; you have the not enduring of the man when he enters the room.
 
-25.2 What! you say, you have nothing instead of the dinner?
+
 25.3 Nay, you have this, you have not praised the man you did not want to praise, you have not had to bear with the insults of his doorstep.
