@@ -3147,20 +3147,20 @@ D. But if you are going to lose these qualities in trying to benefit your city, 
 
 # 159
 
-25.01.001	159.01	Προετιμήθη	Προετιμήθη	Προετιμήθη	προτιμάω	verb	API.3S	to honour
-25.01.002	159.02	σού	σού	σού	σύ	pronoun	GS-2	you (personal pronoun)
-25.01.003	159.03	τις	τις	τις	τις	pronoun	NSZ	any one, any thing, some one, some thing;
-25.01.004	159.04	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
-25.01.005	159.05	ἑστιάσει	ἑστιάσει	ἑστιάσει	ἑστίασις	noun	SDF^DSF^DSF	a feasting, banqueting, entertainment
-25.01.006	159.06	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-25.01.007	159.07	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
-25.01.008	159.08	προσαγορεύσει	προσαγορεύσει	προσαγορεύσει	προσαγόρευσις	noun	SDF^DSF^DSF	address, greeting
-25.01.009	159.09	ἢ	ἢ	ἤ	ἠέ	conjunction	-	ah!
-25.01.010	159.10	ἐν	ἐν	ἐν	ἐν	preposition	-	in, among. c. dat.
-25.01.011	159.11	τῷ	τῷ	τῷ	ὁ	article	DSY	the
-25.01.012	159.12	παραληφθῆναι	παραληφθῆναι	παραληφθῆναι	παραλαμβάνω	verb	APN	to receive from
-25.01.013	159.13	εἰς	εἰς	εἰς	εἰς	preposition	-	into, to c. acc.
-25.01.014	159.14	συμβουλίαν;	συμβουλίαν	συμβουλίαν	συμβουλία	noun	ASF	advice
+25.01.001	159.01	Προετιμήθη	Προετιμήθη	Προετιμήθη	προτιμάω	verb	API.3S	has preferred
+25.01.002	159.02	σού	σού	σού	σύ	pronoun	GS-2	you
+25.01.003	159.03	τις	τις	τις	τις	pronoun	NSZ	someone
+25.01.004	159.04	ἐν	ἐν	ἐν	ἐν	preposition	-	at
+25.01.005	159.05	ἑστιάσει	ἑστιάσει	ἑστιάσει	ἑστίασις	noun	DSF	 a banquet
+25.01.006	159.06	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+25.01.007	159.07	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+25.01.008	159.08	προσαγορεύσει	προσαγορεύσει	προσαγορεύσει	προσαγόρευσις	noun	DSF	a greeting
+25.01.009	159.09	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+25.01.010	159.10	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+25.01.011	159.11	τῷ	τῷ	τῷ	ὁ	article	DSY	-
+25.01.012	159.12	παραληφθῆναι	παραληφθῆναι	παραληφθῆναι	παραλαμβάνω	verb	APN	receiving [you]
+25.01.013	159.13	εἰς	εἰς	εἰς	εἰς	preposition	-	into
+25.01.014	159.14	συμβουλίαν;	συμβουλίαν	συμβουλίαν	συμβουλία	noun	ASF	consultation
 
 A. Is anyone preferred before you at an entertainment, or in a compliment, or in being admitted to a consultation?
 B. Is any one preferred before you at an entertainment, or in courtesies, or in confidential intercourse?
