@@ -3189,16 +3189,16 @@ D. If these things are good you ought to be glad that he got them;
 
 # 161
 
-25.01.027	161.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
+25.01.027	161.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
 25.01.028	161.02	δὲ	δὲ	δέ	δέ	particle	-	but
-25.01.029	161.03	κακά,	κακά	κακά	κακός	adjective	SPN^SDF^NSF	bad
+25.01.029	161.03	κακά,	κακά	κακά	κακός	adjective	SPN	bad
 25.01.030	161.04	μὴ	μὴ	μή	μή	conjunction	-	not
-25.01.031	161.05	ἄχθου,	ἄχθου	ἄχθου	ἄχθομαι	verb	IMI.2S^PMD.2S^IMI.2S	to be loaded; to be annoyed
-25.01.032	161.06	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
-25.01.033	161.07	σὺ	σὺ	σύ	σύ	pronoun	NS-2	you (personal pronoun)
-25.01.034	161.08	αὐτῶν	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPN^GPF^GPM	unemph. 3rd pers.pronoun; -self; [the] same
+25.01.031	161.05	ἄχθου,	ἄχθου	ἄχθου	ἄχθομαι	verb	PMD.2S	you be angry
+25.01.032	161.06	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+25.01.033	161.07	σὺ	σὺ	σύ	σύ	pronoun	NS-2	you
+25.01.034	161.08	αὐτῶν	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPX	them
 25.01.035	161.09	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
-25.01.036	161.10	ἔτυχες:	ἔτυχες	ἔτυχες	τυγχάνω	verb	AAI.2S	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
+25.01.036	161.10	ἔτυχες:	ἔτυχες	ἔτυχες	τυγχάνω	verb	AAI.2S	got
 
 A. and if they are evil, don't be grieved that you have not gotten them.
 B. and if they are evil, do not be grieved that you have them not.
