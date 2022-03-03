@@ -3450,6 +3450,11 @@ D. Pay him the price then, if it is to your profit.
 25.04.047	175.12	καὶ	καὶ	καί	καί	conjunction	-	and, also
 25.04.048	175.13	ἀβέλτερος.	ἀβέλτερος	ἀβέλτερος	ἀβέλτερος	adjective	NSM	good for nothing, silly, stupid, fatuous
 
+A. But if you would, at the same time, not pay the one and yet receive the other, you are insatiable, and a blockhead.
+B. But if you would at the same time not pay the one, and yet receive the other, you are unreasonable and foolish.
+C. But if you wish both not to give the price and to obtain the things, you are insatiable and silly.
+D. But if you wish to get the one and yet not give up the other, nothing can satisfy you in your folly.
+
 # 176
 
 25.05.001	176.01	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	not one, nobody
@@ -3481,18 +3486,15 @@ D. Pay him the price then, if it is to your profit.
 25.05.024	177.18	εἰσόδου.	εἰσόδου	εἰσόδου	εἴσοδος	noun	GSF	a way in, entrance
 
 
-But if you would, at the same time, not pay the one and yet receive the other, you are insatiable, and a blockhead.
+
 25.2 Have you nothing, then, instead of the supper?
 25.3 Yes, indeed, you have: the not praising him, whom you don't like to praise; the not bearing with his behavior at coming in.
 
-But if you would at the same time not pay the one, and yet receive the other, you are unreasonable and foolish.
 25.2 Have you nothing, then, in place of the supper?
 25.3 Yes, indeed you have: not to praise him whom you do not like to praise; not to bear the insolence of his lackeys.
 
-But if you wish both not to give the price and to obtain the things, you are insatiable and silly.
 25.2 Have you nothing then in place of the supper?
 25.3 You have indeed, you have the not flattering of him, whom you did not choose to flatter; you have the not enduring of the man when he enters the room.
 
-But if you wish to get the one and yet not give up the other, nothing can satisfy you in your folly.
 25.2 What! you say, you have nothing instead of the dinner?
 25.3 Nay, you have this, you have not praised the man you did not want to praise, you have not had to bear with the insults of his doorstep.
