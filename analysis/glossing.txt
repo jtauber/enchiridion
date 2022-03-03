@@ -3490,13 +3490,7 @@ D. What! you say, you have nothing instead of the dinner?
 25.05.023	177.17	τῆς	τῆς	τῆς	ὁ	article	GSF	the
 25.05.024	177.18	εἰσόδου.	εἰσόδου	εἰσόδου	εἴσοδος	noun	GSF	a way in, entrance
 
-
-25.3 Yes, indeed, you have: the not praising him, whom you don't like to praise; the not bearing with his behavior at coming in.
-
-25.3 Yes, indeed you have: not to praise him whom you do not like to praise; not to bear the insolence of his lackeys.
-
-
-25.3 You have indeed, you have the not flattering of him, whom you did not choose to flatter; you have the not enduring of the man when he enters the room.
-
-
-25.3 Nay, you have this, you have not praised the man you did not want to praise, you have not had to bear with the insults of his doorstep.
+A. Yes, indeed, you have: the not praising him, whom you don't like to praise; the not bearing with his behavior at coming in.
+B. Yes, indeed you have: not to praise him whom you do not like to praise; not to bear the insolence of his lackeys.
+C. You have indeed, you have the not flattering of him, whom you did not choose to flatter; you have the not enduring of the man when he enters the room.
+D. Nay, you have this, you have not praised the man you did not want to praise, you have not had to bear with the insults of his doorstep.
