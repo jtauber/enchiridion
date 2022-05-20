@@ -71,22 +71,22 @@ for prev, sentence_id, next in trigrams(sentence_ids):
 
     dest = f"docs/sentences/{sentence_id}.html"
 
-    title = f"Echiridion"
+    title = f"Enchiridion"
     subtitle = f"Sentence {sentence_id}"
     HEADER = f"""\
 <!DOCTYPE html>
 <html">
 <head>
 <title>{title} [{subtitle}]</title>
-<meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700&amp;subset=greek,greek-ext" rel="stylesheet">
-<link href="../style.css" rel="stylesheet">
+<meta charset="utf-8" />
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,400i,700&amp;subset=greek,greek-ext" rel="stylesheet" />
+<link href="../style.css" rel="stylesheet" />
 </head>
 <body>
   <div class="wide-container">
     <nav>&#x2191; <a href="../">Open Epictetus</a></nav>
     <h1 class="title" lang="en">{title}</h1>
-    <h2 class="subtitle" lang="en">{subtitle}</h1>
+    <h2 class="subtitle" lang="en">{subtitle}</h2>
 """
 
     FOOTER = """\
