@@ -9,15 +9,15 @@ def output(src, dest, title, subtitle, lang):
 <html lang="{lang}">
 <head>
 <title>{title}</title>
-<meta charset="utf-8">
-<link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700&amp;subset=greek,greek-ext" rel="stylesheet">
-<link href="style.css" rel="stylesheet">
+<meta charset="utf-8" />
+<link href="https://fonts.googleapis.com/css?family=Noto+Serif:400,700&amp;subset=greek,greek-ext" rel="stylesheet" />
+<link href="style.css" rel="stylesheet" />
 </head>
 <body>
   <div class="container">
     <nav>&#x2191; <a href="./">Open Epictetus</a></nav>
     <h1 class="title" lang="en">{title}</h1>
-    <h2 class="subtitle" lang="en">{subtitle}</h1>
+    <h2 class="subtitle" lang="en">{subtitle}</h2>
 """
 
     FOOTER = """\
