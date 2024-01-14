@@ -71,7 +71,7 @@ for prev, sentence_id, next in trigrams(sentence_ids):
 
     dest = f"docs/sentences/{sentence_id}.html"
 
-    title = f"Echiridion"
+    title = f"Enchiridion"
     subtitle = f"Sentence {sentence_id}"
     HEADER = f"""\
 <!DOCTYPE html>
