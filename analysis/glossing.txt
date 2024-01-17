@@ -1991,7 +1991,7 @@ D. For by so doing Diogenes and Heraclitus and men like them were called divine 
 16.01.028	099.28	εὐθὺς	εὐθὺς	εὐθύς	εὐθύς	adverb	-	straight
 16.01.029	099.29	ἔστω	ἔστω	ἔστω	εἰμί	verb	PAD.3S	be
 16.01.030	099.30	πρόχειρον	πρόχειρον	πρόχειρον	πρόχειρος	adjective	ASZ	prepared
-16.01.031	099.31	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
+16.01.031	099.31	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
 16.01.032	099.32	«τοῦτον	τοῦτον	τοῦτον	οὗτος	pronoun	ASM	this one
 16.01.033	099.33	θλίβει	θλίβει	θλίβει	θλίβω	verb	PAI.3S	it afflicts
 16.01.034	099.34	οὐ	οὐ	οὐ	οὐ	adverb	-	not
@@ -2347,7 +2347,7 @@ D. and there is but one way to freedom—to despise what is not in our power.
 # 117
 
 20.01.001	117.01	μέμνησο,	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S	remember
-20.01.002	117.02	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
+20.01.002	117.02	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
 20.01.003	117.03	οὐχ	οὐχ	οὐ	οὐ	adverb	-	not
 20.01.004	117.04	ὁ	ὁ	ὁ	ὁ	article	NSM	the
 20.01.005	117.05	λοιδορῶν	λοιδορῶν	λοιδορῶν	λοιδορέω	verb	PAP.NS-	abusing
@@ -2585,7 +2585,7 @@ D. And remember that if you abide where you are, those who first laugh at you wi
 23.01.010	127.10	ἀρέσαι	ἀρέσαι	ἀρέσαι	ἀρέσκω	verb	AAN	to please
 23.01.011	127.11	τινί,	τινί	τινί	τις	pronoun	DS-	someone
 23.01.012	127.12	ἴσθι	ἴσθι	ἴσθι	οἶδα	verb	XAD.2S	know
-23.01.013	127.13	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	that
+23.01.013	127.13	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
 23.01.014	127.14	ἀπώλεσας	ἀπώλεσας	ἀπώλεσας	ἀπόλλυμι	verb	AAI.2S	you destroyed
 23.01.015	127.15	τὴν	τὴν	τήν	ὁ	article	ASF	the
 23.01.016	127.16	ἔνστασιν.	ἔνστασιν	ἔνστασιν	ἔνστασις	noun	ASF	way of life
@@ -3144,3 +3144,353 @@ A. But if, by desiring to be useful to that, you lose these, of what use can you
 B. But if, by desiring to be useful to that, you lose these, how can you serve your country, when you have become faithless and shameless?
 C. But if when you wish to be useful to the state, you shall lose these qualities, what profit could you be to it, if you were made shameless and faithless?
 D. But if you are going to lose these qualities in trying to benefit your city, what benefit, I ask, would you have done her when you attain to the perfection of being lost to shame and honour?
+
+# 159
+
+25.01.001	159.01	Προετιμήθη	Προετιμήθη	Προετιμήθη	προτιμάω	verb	API.3S	has preferred
+25.01.002	159.02	σού	σού	σού	σύ	pronoun	GS-2	you
+25.01.003	159.03	τις	τις	τις	τις	pronoun	NSZ	someone
+25.01.004	159.04	ἐν	ἐν	ἐν	ἐν	preposition	-	at
+25.01.005	159.05	ἑστιάσει	ἑστιάσει	ἑστιάσει	ἑστίασις	noun	DSF	 a banquet
+25.01.006	159.06	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+25.01.007	159.07	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+25.01.008	159.08	προσαγορεύσει	προσαγορεύσει	προσαγορεύσει	προσαγόρευσις	noun	DSF	a greeting
+25.01.009	159.09	ἢ	ἢ	ἤ	ἤ	conjunction	-	or
+25.01.010	159.10	ἐν	ἐν	ἐν	ἐν	preposition	-	in
+25.01.011	159.11	τῷ	τῷ	τῷ	ὁ	article	DSY	-
+25.01.012	159.12	παραληφθῆναι	παραληφθῆναι	παραληφθῆναι	παραλαμβάνω	verb	APN	receiving [you]
+25.01.013	159.13	εἰς	εἰς	εἰς	εἰς	preposition	-	into
+25.01.014	159.14	συμβουλίαν;	συμβουλίαν	συμβουλίαν	συμβουλία	noun	ASF	consultation
+
+A. Is anyone preferred before you at an entertainment, or in a compliment, or in being admitted to a consultation?
+B. Is any one preferred before you at an entertainment, or in courtesies, or in confidential intercourse?
+C. Has any man been preferred before you at a banquet, or in being saluted, or in being invited to a consultation?
+D. Has some one had precedence of you at an entertainment or a levée or been called in before you to give advice?
+
+# 160
+
+25.01.015	160.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+25.01.016	160.02	μὲν	μὲν	μέν	μέν	particle	-
+25.01.017	160.03	ἀγαθὰ	ἀγαθὰ	ἀγαθά	ἀγαθός	adjective	SPN	good
+25.01.018	160.04	ταῦτά	ταῦτά	ταῦτά	οὗτος	pronoun	SPN	these things
+25.01.019	160.05	ἐστι,	ἐστι	ἐστί(ν)	εἰμί	verb	PAI.3S	are
+25.01.020	160.06	χαίρειν	χαίρειν	χαίρειν	χαίρω	verb	PAN	to rejoice
+25.01.021	160.07	σε	σε	σε	σύ	pronoun	AS-2	you
+25.01.022	160.08	δεῖ,	δεῖ	δεῖ	δεῖ	verb	PAI.3S	must
+25.01.023	160.09	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+25.01.024	160.10	ἔτυχεν	ἔτυχεν	ἔτυχεν	τυγχάνω	verb	AAI.3S	got
+25.01.025	160.11	αὐτῶν	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPX	them
+25.01.026	160.12	ἐκεῖνος:	ἐκεῖνος	ἐκεῖνος	ἐκεῖνος	pronoun	NSM	that
+
+A. If these things are good, you ought to be glad that he has gotten them;
+B. If these things are good, you ought to rejoice that he has them;
+C. If these things are good, you ought to rejoice that he has obtained them:
+D. If these things are good you ought to be glad that he got them;
+
+# 161
+
+25.01.027	161.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	if
+25.01.028	161.02	δὲ	δὲ	δέ	δέ	particle	-	but
+25.01.029	161.03	κακά,	κακά	κακά	κακός	adjective	SPN	bad
+25.01.030	161.04	μὴ	μὴ	μή	μή	conjunction	-	not
+25.01.031	161.05	ἄχθου,	ἄχθου	ἄχθου	ἄχθομαι	verb	PMD.2S	you be angry
+25.01.032	161.06	ὅτι	ὅτι	ὅτι	ὅτι	conjunction	-	that
+25.01.033	161.07	σὺ	σὺ	σύ	σύ	pronoun	NS-2	you
+25.01.034	161.08	αὐτῶν	αὐτῶν	αὐτῶν	αὐτός	pronoun	GPX	them
+25.01.035	161.09	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
+25.01.036	161.10	ἔτυχες:	ἔτυχες	ἔτυχες	τυγχάνω	verb	AAI.2S	got
+
+A. and if they are evil, don't be grieved that you have not gotten them.
+B. and if they are evil, do not be grieved that you have them not.
+C. but if bad, be not grieved because you have not obtained them;
+D. if they are evil, do not be angry that you did not get them yourself.
+
+# 162
+
+25.01.037	162.01	μέμνησο	μέμνησο	μέμνησο	μιμνήσκω	verb	XMD.2S^YMI.2S	to remind
+25.01.038	162.02	δέ,	δέ	δέ	δέ	particle	-	but
+25.01.039	162.03	ὅτι	ὅτι	ὅτι	ὅστις	pronoun	SSN	indef. relative or indirect interrogative
+25.01.040	162.04	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+25.01.041	162.05	δύνασαι	δύνασαι	δύνασαι	δύναμαι	verb	PMI.2S	to be able, capable, strong enough
+25.01.042	162.06	μὴ	μὴ	μή	μή	conjunction	-	not
+25.01.043	162.07	ταὐτὰ	ταὐτὰ	ταὐτά	ταυτός	adjective	SPN^SDF^NSF	-
+25.01.044	162.08	ποιῶν	ποιῶν	ποιῶν	ποιέω	verb	PAP.NS-	to make, to do
+25.01.045	162.09	πρὸς	πρὸς	πρός	πρός	preposition	-	(w. gen.) from; (w. dat.) at, near, in addition to; (w. acc.) to, toward, regarding
+25.01.046	162.10	τὸ	τὸ	τό	ὁ	article	SSN	the
+25.01.047	162.11	τυγχάνειν	τυγχάνειν	τυγχάνειν	τυγχάνω	verb	PAN	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
+25.01.048	162.12	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
+25.01.049	162.13	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
+25.01.050	162.14	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
+25.01.051	162.15	ἡμῖν	ἡμῖν	ἡμῖν	ἐγώ	pronoun	DPZ1	I (first person pronoun)
+25.01.052	162.16	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
+25.01.053	162.17	ἴσων	ἴσων	ἴσων	ἴσος	adjective	GPF^GPY^GPF^GPY	equal to, the same as; adv. perhaps
+25.01.054	162.18	ἀξιοῦσθαι.	ἀξιοῦσθαι	ἀξιοῦσθαι	ἀξιόω	verb	PMN	to think worthy of; to expect
+
+A. And remember that you cannot, without using the same means [which others do] to acquire things not in our own control, expect to be thought worthy of an equal share of them.
+B. And remember that you cannot be permitted to rival others in externals, without using the same means to obtain them.
+C. and remember that you cannot, if you do not the same things in order to obtain what is not in our own power, be considered worthy of the same (equal) things.
+D. Remember that if you want to get what is not in your power, you cannot earn the same reward as others unless you act as they do.
+
+# 163
+
+25.02.001	163.01	πῶς	πῶς	πῶς	πῶς	adverb	-	how? in what way
+25.02.002	163.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+25.02.003	163.03	ἴσον	ἴσον	ἴσον	ἴσος	adjective	ASM^SSN	equal to, the same as; adv. perhaps
+25.02.004	163.04	ἔχειν	ἔχειν	ἔχειν	ἔχω	verb	PAN	to have
+25.02.005	163.05	δύναται	δύναται	δύναται	δύναμαι	verb	PMI.3S	to be able, capable, strong enough
+25.02.006	163.06	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+25.02.007	163.07	μὴ	μὴ	μή	μή	conjunction	-	not
+25.02.008	163.08	φοιτῶν	φοιτῶν	φοιτῶν	φοιτάω	verb	PAP.VS-^PAP.SS-^PAP.NS-^PAP.NS-	to go to and fro, up and down, to stalk
+25.02.009	163.09	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
+25.02.010	163.10	θύρας	θύρας	θύρας	θύρα	noun	APF^GSF	a door
+25.02.011	163.11	τινὸς	τινὸς	τινός	τις	pronoun	GS-	any one, any thing, some one, some thing;
+25.02.012	163.12	τῷ	τῷ	τῷ	ὁ	article	DSY	the
+25.02.013	163.13	φοιτῶντι;	φοιτῶντι	φοιτῶντι	φοιτάω	verb	PAP.DS-^PAI.3P^PAS.3P	to go to and fro, up and down, to stalk
+25.02.014	163.14	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+25.02.015	163.15	μὴ	μὴ	μή	μή	conjunction	-	not
+25.02.016	163.16	παραπέμπων	παραπέμπων	παραπέμπων	παραπέμπω	verb	PAP.NS-	to send past, convey past
+25.02.017	163.17	τῷ	τῷ	τῷ	ὁ	article	DSY	the
+25.02.018	163.18	παραπέμποντι;	παραπέμποντι	παραπέμποντι	παραπέμπω	verb	PAP.DS-^PAI.3P	to send past, convey past
+25.02.019	163.19	ὁ	ὁ	ὁ	ὁ	article	NSM	the
+25.02.020	163.20	μὴ	μὴ	μή	μή	conjunction	-	not
+25.02.021	163.21	ἐπαινῶν	ἐπαινῶν	ἐπαινῶν	ἐπαινός	adjective	GPF	awesome (of Hecate, Persephone)
+25.02.022	163.22	τῷ	τῷ	τῷ	ὁ	article	DSY	the
+25.02.023	163.23	ἐπαινοῦντι,	ἐπαινοῦντι	ἐπαινοῦντι	ἐπαινέω	verb	PAP.DS-^PAI.3P^PAP.DS-^PAI.3P	to approve, applaud, commend
+
+A. For how can he who does not frequent the door of any [great] man, does not attend him, does not praise him, have an equal share with him who does?
+B. For how can he who will not haunt the door of any man, will not attend him, will not praise him, have an equal share with him who does these things?
+C. For how can a man obtain an equal share with another when he does not visit a man's doors as that other man does, when he does not attend him when he goes abroad, as the other man does; when he does not praise (flatter) him as another does?
+D. How is it possible for one who does not haunt the great man's door to have equal shares with one who does, or one who does not go in his train equality with one who does; or one who does not praise him with one who does?
+
+# 165
+
+25.02.024	165.01	ἄδικος	ἄδικος	ἄδικος	ἄδικος	adjective	NSZ	wrong-doing, unrighteous, unjust
+25.02.025	165.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
+25.02.026	165.03	ἔσῃ	ἔσῃ	ἔσῃ	εἰμί	verb	FMI.2S	to be
+25.02.027	165.04	καὶ	καὶ	καί	καί	conjunction	-	and, also
+25.02.028	165.05	ἄπληστος,	ἄπληστος	ἄπληστος	ἄπληστος	adjective	NSZ	not to be filled, insatiate
+25.02.029	165.06	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
+25.02.030	165.07	μὴ	μὴ	μή	μή	conjunction	-	not
+25.02.031	165.08	προϊέμενος	προϊέμενος	προϊέμενος	προίημι	verb	PMP.NS-	-
+25.02.032	165.09	ταῦτα,	ταῦτα	ταῦτα	οὗτος	pronoun	SPN	this; that
+25.02.033	165.10	ἀνθ’	ἀνθ’	ἀντί	ἀντί	preposition	-	over against, opposite. c. gen.
+25.02.034	165.11	ὧν	ὧν	ὧν	ὅς	pronoun	GPF^GPY	who, that, which: relative pronoun
+25.02.035	165.12	ἐκεῖνα	ἐκεῖνα	ἐκεῖνα	ἐκεῖνος	pronoun	SPN	that over there, that
+25.02.036	165.13	πιπράσκεται,	πιπράσκεται	πιπράσκεται	πιπράσκω	verb	PMI.3S	to sell
+25.02.037	165.14	προῖκα	προῖκα	προῖκα	προίξ	adjective	ASF	dowry, gift; adv. freely, unbribed
+25.02.038	165.15	αὐτὰ	αὐτὰ	αὐτά	αὐτός	pronoun	SPN^SDF^NSF	unemph. 3rd pers.pronoun; -self; [the] same
+25.02.039	165.16	βουλήσῃ	βουλήσῃ	βουλήσῃ	βούλησις	noun	DSF	a willing
+25.02.040	165.17	λαμβάνειν.	λαμβάνειν	λαμβάνειν	λαμβάνω	verb	PAN	to take, seize, receive
+
+A. You are unjust, then, and insatiable, if you are unwilling to pay the price for which these things are sold, and would have them for nothing.
+B. You are unjust, then, and unreasonable, if you are unwilling to pay the price for which these things are sold, and would have them for nothing.
+C. You will be unjust then and insatiable, if you do not part with the price, in return for which those things are sold, and if you wish to obtain them for nothing.
+D. You will be unjust then and insatiable if you wish to get these privileges for nothing, without paying their price.
+
+# 166
+
+25.03.001	166.01	ἀλλὰ	ἀλλὰ	ἀλλά	ἀλλά	adverb	-	otherwise, but
+25.03.002	166.02	πόσου	πόσου	πόσου	πόσος	adjective	GSY	how much? how many?
+25.03.003	166.03	πιπράσκονται	πιπράσκονται	πιπράσκονται	πιπράσκω	verb	PMI.3P	to sell
+25.03.004	166.04	θρίδακες;	θρίδακες	θρίδακες	θρίδαξ	noun	NPF	lettuce
+
+A. For how much is lettuce sold?
+B. For how much are lettuces sold?
+C. Well, what is the price of lettuces?
+D. What is the price of a lettuce?
+
+# 167
+
+25.03.005	167.01	ὀβολοῦ,	ὀβολοῦ	ὀβολοῦ	ὀβολός	noun	GSM	an obol
+25.03.006	167.02	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
+25.03.007	167.03	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	so, in this manner
+25.03.008	167.04	τύχῃ.	τύχῃ	τύχῃ	τυγχάνω	verb	AMS.2S^AAS.3S	(with gen.) to hit the mark, to get; (with pple) to happen to, to actually
+
+A. Fifty cents, for instance.
+B. An obolus, for instance.
+C. An obolus perhaps.
+D. An obol perhaps.
+
+# 168
+
+25.03.009	168.01	ἂν	ἂν	ἄν	ἄν	particle	-	modal particle
+25.03.010	168.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
+25.03.011	168.03	τις	τις	τις	τις	pronoun	NSZ	any one, any thing, some one, some thing;
+25.03.012	168.04	προέμενος	προέμενος	προέμενος	προίημι	verb	AMP.NS-	-
+25.03.013	168.05	τὸν	τὸν	τόν	ὁ	article	ASM	the
+25.03.014	168.06	ὀβολὸν	ὀβολὸν	ὀβολόν	ὀβολός	noun	ASM	an obol
+25.03.015	168.07	λάβῃ	λάβῃ	λάβῃ	λαμβάνω	verb	AMS.2S^AAS.3S	to take, seize, receive
+25.03.016	168.08	θρίδακας,	θρίδακας	θρίδακας	θρίδαξ	noun	APF	lettuce
+25.03.017	168.09	σὺ	σὺ	σύ	σύ	pronoun	NS-2	you (personal pronoun)
+25.03.018	168.10	δὲ	δὲ	δέ	δέ	particle	-	but
+25.03.019	168.11	μὴ	μὴ	μή	μή	conjunction	-	not
+25.03.020	168.12	προέμενος	προέμενος	προέμενος	προίημι	verb	AMP.NS-	-
+25.03.021	168.13	μὴ	μὴ	μή	μή	conjunction	-	not
+25.03.022	168.14	λάβῃς,	λάβῃς	λάβῃς	λαμβάνω	verb	AAS.2S	to take, seize, receive
+25.03.023	168.15	μὴ	μὴ	μή	μή	conjunction	-	not
+25.03.024	168.16	οἴου	οἴου	οἴου	οἶος	adjective	GSY	alone, lone, lonely
+25.03.025	168.17	ἔλαττον	ἔλαττον	ἔλαττον	ἐλάσσων	adjective	VSZC^SSNC	smaller, less
+25.03.026	168.18	ἔχειν	ἔχειν	ἔχειν	ἔχω	verb	PAN	to have
+25.03.027	168.19	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
+25.03.028	168.20	λαβόντος.	λαβόντος	λαβόντος	λαμβάνω	verb	AAP.GS-	to take, seize, receive
+
+A. If another, then, paying fifty cents, takes the lettuce, and you, not paying it, go without them, don't imagine that he has gained any advantage over you.
+B. If another, then, paying an obolus, takes the lettuces, and you, not paying it, go without them, do not imagine that he has gained any advantage over you.
+C. If then a man gives up the obolus, and receives the lettuces, and if you do not give up the obolus and do not obtain the lettuces, do not suppose that you receive less than he who has got the lettuces;
+D. If then a man pays his obol and gets his lettuces, and you do not pay and do not get them, do not think you are defrauded.
+
+# 169
+
+25.03.029	169.01	ὡς	ὡς	ὡς	ὡς	conjunction	-	as, how
+25.03.030	169.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+25.03.031	169.03	ἐκεῖνος	ἐκεῖνος	ἐκεῖνος	ἐκεῖνος	pronoun	NSM	that over there, that
+25.03.032	169.04	ἔχει	ἔχει	ἔχει	ἔχω	verb	PMI.2S^PAI.3S	to have
+25.03.033	169.05	θρίδακας,	θρίδακας	θρίδακας	θρίδαξ	noun	APF	lettuce
+25.03.034	169.06	οὕτω	οὕτω	οὕτω(ς)	οὕτως	adverb	-	so, in this manner
+25.03.035	169.07	σὺ	σὺ	σύ	σύ	pronoun	NS-2	you (personal pronoun)
+25.03.036	169.08	τὸν	τὸν	τόν	ὁ	article	ASM	the
+25.03.037	169.09	ὀβολόν,	ὀβολόν	ὀβολόν	ὀβολός	noun	ASM	an obol
+25.03.038	169.10	ὃν	ὃν	ὅν	ὅς	pronoun	ASM^ASN	who, that, which: relative pronoun
+25.03.039	169.11	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
+25.03.040	169.12	ἔδωκας.	ἔδωκας	ἔδωκας	δίδωμι	verb	AAI.2S	to give
+
+A. For as he has the lettuce, so you have the fifty cents which you did not give.
+B. For as he has the lettuces, so you have the obolus which you did not give.
+C. for as he has the lettuces, so you have the obolus which you did not give.
+D. For as he has the lettuces so you have the obol you did not give.
+
+# 170
+
+25.04.001	170.01	τὸν	τὸν	τόν	ὁ	article	ASM	the
+25.04.002	170.02	αὐτὸν	αὐτὸν	αὐτόν	αὐτός	pronoun	ASM	unemph. 3rd pers.pronoun; -self; [the] same
+25.04.003	170.03	δὴ	δὴ	δή	δή	particle	-	[interactional particle: S&H on same page]
+25.04.004	170.04	τρόπον	τρόπον	τρόπον	τρόπος	noun	ASM	a turn, direction, course, way; character
+25.04.005	170.05	καὶ	καὶ	καί	καί	conjunction	-	and, also
+25.04.006	170.06	ἐνταῦθα.	ἐνταῦθα	ἐνταῦθα	ἐνταῦθα	adverb	-	here, there; at that juncture
+
+A. So, in the present case,
+B. So, in the present case,
+C. In the same way then in the other matter also
+D. The same principle holds good too in conduct.
+
+# 171
+
+25.04.007	171.01	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+25.04.008	171.02	παρεκλήθης	παρεκλήθης	παρεκλήθης	παρακαλέω	verb	API.2S	to call to
+25.04.009	171.03	ἐφ’	ἐφ’	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
+25.04.010	171.04	ἑστίασίν	ἑστίασίν	ἑστίασιν	ἑστίασις	noun	ASF	a feasting, banqueting, entertainment
+25.04.011	171.05	τινος;	τινος	τινος	τις	pronoun	GS-	any one, any thing, some one, some thing;
+
+A. you have not been invited to such a person's entertainment,
+B. you have not been invited to such a person's entertainment,
+C. you have not been invited to a man's feast,
+D. You were not invited to some one's entertainment?
+
+# 172
+
+25.04.012	172.01	οὐ	οὐ	οὐ	οὐ	adverb	-	not
+25.04.013	172.02	γὰρ	γὰρ	γάρ	γάρ	particle	-	for
+25.04.014	172.03	ἔδωκας	ἔδωκας	ἔδωκας	δίδωμι	verb	AAI.2S	to give
+25.04.015	172.04	τῷ	τῷ	τῷ	ὁ	article	DSY	the
+25.04.016	172.05	καλοῦντι,	καλοῦντι	καλοῦντι	καλέω	verb	FAP.DS-^FAI.3P^PAP.DS-^PAI.3P	to call, summon
+25.04.017	172.06	ὅσου	ὅσου	ὅσου	ὅσος	adjective	GSY	as much/many as
+25.04.018	172.07	πωλεῖ	πωλεῖ	πωλεῖ	πωλέομαι	verb	PMI.2S	to go up and down, go to and fro
+25.04.019	172.08	τὸ	τὸ	τό	ὁ	article	SSN	the
+25.04.020	172.09	δεῖπνον.	δεῖπνον	δεῖπνον	δεῖπνον	noun	SSN	the principal meal
+
+A. because you have not paid him the price for which a supper is sold.
+B. because you have not paid him the price for which a supper is sold.
+C. for you did not give to the host the price at which the supper is sold;
+D. Because you did not give the host the price for which he sells his dinner.
+
+# 173
+
+25.04.021	173.01	ἐπαίνου	ἐπαίνου	ἐπαίνου	ἔπαινος	noun	GSM	approval, praise, commendation
+25.04.022	173.02	δ’	δ’	δέ	δέ	particle	-	but
+25.04.023	173.03	αὐτὸ	αὐτὸ	αὐτό	αὐτός	pronoun	SSN	unemph. 3rd pers.pronoun; -self; [the] same
+25.04.024	173.04	πωλεῖ,	πωλεῖ	πωλεῖ	πωλέομαι	verb	PMI.2S	to go up and down, go to and fro
+25.04.025	173.05	θεραπείας	θεραπείας	θεραπείας	θεραπεία	noun	APF^GSF	a waiting on, service
+25.04.026	173.06	πωλεῖ.	πωλεῖ	πωλεῖ	πωλέομαι	verb	PMI.2S	to go up and down, go to and fro
+
+A. It is sold for praise; it is sold for attendance.
+B. It is sold for praise; it is sold for attendance.
+C. but he sells it for praise (flattery), he sells it for personal attention.
+D. He sells it for compliments, he sells it for attentions.
+
+# 174
+
+25.04.027	174.01	δὸς	δὸς	δός	δίδωμι	verb	AAD.2S	to give
+25.04.028	174.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
+25.04.029	174.03	τὸ	τὸ	τό	ὁ	article	SSN	the
+25.04.030	174.04	διάφορον,	διάφορον	διάφορον	διάφορος	adjective	ASZ^SSN	different, unlike
+25.04.031	174.05	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
+25.04.032	174.06	σοι	σοι	σοι	σύ	pronoun	DS-2	you (personal pronoun)
+25.04.033	174.07	λυσιτελεῖ,	λυσιτελεῖ	λυσιτελεῖ	λυσιτελέω	verb	PMI.2S^PAI.3S	to bring profit, gain
+25.04.034	174.08	ὅσου	ὅσου	ὅσου	ὅσος	adjective	GSY	as much/many as
+25.04.035	174.09	πωλεῖται.	πωλεῖται	πωλεῖται	πωλέομαι	verb	PMI.3S	to go up and down, go to and fro
+
+A. Give him then the value, if it is for your advantage.
+B. Give him, then, the value, if it be for your advantage.
+C. Give then the price, if it is for your interest, for which it is sold.
+D. Pay him the price then, if it is to your profit.
+
+# 175
+
+25.04.036	175.01	εἰ	εἰ	εἰ	εἰ	conjunction	-	conj. if, whether; part. w/wishes, adv. w/imperatives
+25.04.037	175.02	δὲ	δὲ	δέ	δέ	particle	-	but
+25.04.038	175.03	κἀκεῖνα	κἀκεῖνα	κἀκεῖνα	ἐκεῖνος	pronoun	SPN	that over there, that
+25.04.039	175.04	θέλεις	θέλεις	θέλεις	ἐθέλω	verb	PAI.2S	to will, wish, purpose
+25.04.040	175.05	μὴ	μὴ	μή	μή	conjunction	-	not
+25.04.041	175.06	προΐεσθαι	προΐεσθαι	προΐεσθαι	προίημι	verb	PMN	-
+25.04.042	175.07	καὶ	καὶ	καί	καί	conjunction	-	and, also
+25.04.043	175.08	ταῦτα	ταῦτα	ταῦτα	οὗτος	pronoun	SPN	this; that
+25.04.044	175.09	λαμβάνειν,	λαμβάνειν	λαμβάνειν	λαμβάνω	verb	PAN	to take, seize, receive
+25.04.045	175.10	ἄπληστος	ἄπληστος	ἄπληστος	ἄπληστος	adjective	NSZ	not to be filled, insatiate
+25.04.046	175.11	εἶ	εἶ	εἶ	εἶμι	verb	PAI.2S	come, go
+25.04.047	175.12	καὶ	καὶ	καί	καί	conjunction	-	and, also
+25.04.048	175.13	ἀβέλτερος.	ἀβέλτερος	ἀβέλτερος	ἀβέλτερος	adjective	NSM	good for nothing, silly, stupid, fatuous
+
+A. But if you would, at the same time, not pay the one and yet receive the other, you are insatiable, and a blockhead.
+B. But if you would at the same time not pay the one, and yet receive the other, you are unreasonable and foolish.
+C. But if you wish both not to give the price and to obtain the things, you are insatiable and silly.
+D. But if you wish to get the one and yet not give up the other, nothing can satisfy you in your folly.
+
+# 176
+
+25.05.001	176.01	οὐδὲν	οὐδὲν	οὐδέν	οὐδείς	pronoun	SSN	not one, nobody
+25.05.002	176.02	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
+25.05.003	176.03	ἔχεις	ἔχεις	ἔχεις	ἔχω	verb	PAI.2S	to have
+25.05.004	176.04	ἀντὶ	ἀντὶ	ἀντί	ἀντί	preposition	-	over against, opposite. c. gen.
+25.05.005	176.05	τοῦ	τοῦ	τοῦ	ὁ	article	GSY	the
+25.05.006	176.06	δείπνου;	δείπνου	δείπνου	δεῖπνον	noun	GSN	the principal meal
+
+A. Have you nothing, then, instead of the supper?
+B. Have you nothing, then, in place of the supper?
+C. Have you nothing then in place of the supper?
+D. What! you say, you have nothing instead of the dinner?
+
+# 177
+
+25.05.007	177.01	ἔχεις	ἔχεις	ἔχεις	ἔχω	verb	PAI.2S	to have
+25.05.008	177.02	μὲν	μὲν	μέν	μέν	particle	-	on the one hand, on the other hand
+25.05.009	177.03	οὖν	οὖν	οὖν	οὖν	particle	-	so, then, therefore
+25.05.010	177.04	τὸ	τὸ	τό	ὁ	article	SSN	the
+25.05.011	177.05	μὴ	μὴ	μή	μή	conjunction	-	not
+25.05.012	177.06	ἐπαινέσαι	ἐπαινέσαι	ἐπαινέσαι	ἐπαινέω	verb	AAN^AAO.3S	to approve, applaud, commend
+25.05.013	177.07	τοῦτον,	τοῦτον	τοῦτον	οὗτος	pronoun	ASM	this; that
+25.05.014	177.08	ὃν	ὃν	ὅν	ὅς	pronoun	ASM^ASN	who, that, which: relative pronoun
+25.05.015	177.09	οὐκ	οὐκ	οὐ	οὐ	adverb	-	not
+25.05.016	177.10	ἤθελες,	ἤθελες	ἤθελες	ἐθέλω	verb	IAI.2S	to will, wish, purpose
+25.05.017	177.11	τὸ	τὸ	τό	ὁ	article	SSN	the
+25.05.018	177.12	μὴ	μὴ	μή	μή	conjunction	-	not
+25.05.019	177.13	ἀνασχέσθαι	ἀνασχέσθαι	ἀνασχέσθαι	ἀνέχω	verb	AMN	to hold up; (mid.) endure, put up with
+25.05.020	177.14	αὐτοῦ	αὐτοῦ	αὐτοῦ	αὐτός	pronoun	GSN^GSM	unemph. 3rd pers.pronoun; -self; [the] same
+25.05.021	177.15	τῶν	τῶν	τῶν	ὁ	article	GPF^GPY	the
+25.05.022	177.16	ἐπὶ	ἐπὶ	ἐπί	ἐπί	preposition	-	on, upon with gen., dat., and acc.
+25.05.023	177.17	τῆς	τῆς	τῆς	ὁ	article	GSF	the
+25.05.024	177.18	εἰσόδου.	εἰσόδου	εἰσόδου	εἴσοδος	noun	GSF	a way in, entrance
+
+A. Yes, indeed, you have: the not praising him, whom you don't like to praise; the not bearing with his behavior at coming in.
+B. Yes, indeed you have: not to praise him whom you do not like to praise; not to bear the insolence of his lackeys.
+C. You have indeed, you have the not flattering of him, whom you did not choose to flatter; you have the not enduring of the man when he enters the room.
+D. Nay, you have this, you have not praised the man you did not want to praise, you have not had to bear with the insults of his doorstep.
